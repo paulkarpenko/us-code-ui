@@ -252,7 +252,7 @@ Section 50g, act Aug. 2, 1956, ch. 883, § 1, 70 Stat. 939, related to facilitie
 
 Section 50h, act Aug. 2, 1956, ch. 883, § 2, 70 Stat. 939, required site selected under [section 50g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section50g&num=0&edition=prelim) to consist of lands owned or controlled by the United States.
 
-Section 50i, act Aug. 2, 1956, ch. 883, § 3, 7 Stat. 939, provided for arrangements for use of sites and facilities.
+Section 50i, act Aug. 2, 1956, ch. 883, § 3, 70 Stat. 939, provided for arrangements for use of sites and facilities.
 
 Section 50j, act Aug. 2, 1956, ch. 883, § 4, 70 Stat. 940, authorized appropriations for purposes of sections 50g to 50j of this title.
 
@@ -349,7 +349,7 @@ Sections 73 and 73a, relating to Territory of Alaska, were omitted in view of ad
 
 Section 73, acts Aug. 24, 1912, ch. 387, § 5, 37 Stat. 513; Mar. 3, 1927, ch. 363, § 1, 44 Stat. 1392; Mar. 26, 1934, ch. 86, § 1, 48 Stat. 465, specified time of election of members of the legislature.
 
-Section 73a, act Mar. 26, 1934, ch. 86, § 4, 43 Stat. 466, empowered legislature to change date of elections.
+Section 73a, act Mar. 26, 1934, ch. 86, § 4, 48 Stat. 466, empowered legislature to change date of elections.
 
 
 <a id="section-74-75"></a>
@@ -633,9 +633,9 @@ Section 201, acts Jan. 13, 1925, ch. 75, § 13, 43 Stat. 746; Feb. 14, 1931, ch.
 
 Section 202, acts Jan. 13, 1925, ch. 75, § 15, 43 Stat. 747; Feb. 14, 1931, ch. 185, § 13, 46 Stat. 1114; June 25, 1938, ch. 686, § 6, 52 Stat. 1172; July 1, 1943, ch. 183, 57 Stat. 311, prescribed penalties for violations of sections 192, 193, and 195 to 211 of this title, required guides to report violations, and prescribed penalty for violation thereof.
 
-Section 202a, acts Jan. 13, 1925, ch. 75, § 16, 43 Stat. 747; Feb. 14, 1931, ch. 185, § 14, 46 Stat. 1114; July 1, 1943, ch. 183, 57 Stat. 310, related to administration of oaths for purposes of prosecution.
+Section 202a, acts Jan. 13, 1925, ch. 75, § 16, 43 Stat. 747; Feb. 14, 1931, ch. 185, § 14, 46 Stat. 1114; July 1, 1943, ch. 183, 57 Stat. 312, related to administration of oaths for purposes of prosecution.
 
-Section 202b, act Jan. 13, 1925, ch. 75, § 12, 43 Stat. 746; July 1, 1943, ch. 183, 57 Stat. 312, related to burden of proof in prosecutions under sections 192, 193, and 195 to 211 of this title.
+Section 202b, act Jan. 13, 1925, ch. 75, § 12, 43 Stat. 746; July 1, 1943, ch. 183, 57 Stat. 310, related to burden of proof in prosecutions under sections 192, 193, and 195 to 211 of this title.
 
 Section 203, act Jan. 13, 1925, ch. 75, § 19, as added July 1, 1943, ch. 183, 57 Stat. 312, stated that sections 192, 193, and 195 to 211 of this title shall not apply to Mount McKinley National Park.
 
@@ -758,7 +758,7 @@ Section 244, act June 14, 1906, ch. 3299, § 2, 34 Stat. 264, prescribed penalti
 
 Section 245, act June 14, 1906, ch. 3299, § 3, 34 Stat. 264, provided for jurisdiction of prosecutions under sections 243 to 247 of this title.
 
-Section 246, acts June 14, 1906, ch. 3299, § 4, 34 Stat. 264; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 4, 1949, ch. 393, §§ 1, 20, 63 Stat. 495, 501, authorized searches and seizures of vessels.
+Section 246, acts June 14, 1906, ch. 3299, § 4, 34 Stat. 264; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 4, 1949, ch. 393, §§ 1, 20, 63 Stat. 495, 561, authorized searches and seizures of vessels.
 
 Section 247, acts June 14, 1906, ch. 3299, § 5, 34 Stat. 264; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Aug. 4, 1949, ch. 393, §§ 1, 20, 63 Stat. 495, 561, empowered Secretary to promulgate rules and regulations to carry into effect provisions of sections 243 to 246 of this title.
 
@@ -931,7 +931,7 @@ Section 305, act Mar. 12, 1914, ch. 37, § 1, 38 Stat. 505, which required paten
 
 Section 306, act Mar. 12, 1914, ch. 37, § 3, 38 Stat. 307, which provided for disposition of proceeds of lease or sale of public lands, was transferred to [section 975e of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975e&num=0&edition=prelim).
 
-Section 307, act Mar. 12, 1914, ch. § 1, 38 Stat. 305, which authorized and empowered the President to carry out the provisions dealing with the establishment of public utilities, was transferred to [section 975f of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975f&num=0&edition=prelim).
+Section 307, act Mar. 12, 1914, ch. 37, § 1, 38 Stat. 305, which authorized and empowered the President to carry out the provisions dealing with the establishment of public utilities, was transferred to [section 975f of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975f&num=0&edition=prelim).
 
 Section 308, act Mar. 12, 1914, ch. 37, § 4, 38 Stat. 307, which made mandatory certain annual reports to the President by officers, agents, or agencies covering their activities in connection with the construction and development of public utilities, was transferred to [section 975g of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975g&num=0&edition=prelim).
 
@@ -1086,9 +1086,9 @@ Section 337, act Apr. 27, 1904, ch. 1629, 33 Stat. 393, related to compensation 
 #### Codification
 Sections 338 to 338g, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
 
-Section 338, acts Aug. 1956, ch. 840, § 1, 70 Stat. 888; Apr. 20, 1957, Pub. L. 85–16, 71 Stat. 14; July 6, 1959, Pub. L. 86–78, § 1(1), 73 Stat. 161, established Alaska International Rail and Highway Commission, set out its size and structure, appointment of its members, and selection of chairman and vice chairman, and authorized appointment of an Army officer to Commission.
+Section 338, acts Aug. 1, 1956, ch. 840, § 1, 70 Stat. 888; Apr. 20, 1957, Pub. L. 85–16, 71 Stat. 14; July 6, 1959, Pub. L. 86–78, § 1(1), 73 Stat. 161, established Alaska International Rail and Highway Commission, set out its size and structure, appointment of its members, and selection of chairman and vice chairman, and authorized appointment of an Army officer to Commission.
 
-Section 338a, act Aug. 1, 1956, ch. 840, § 2, 70 Stat. 8888, set out duties of Commission.
+Section 338a, act Aug. 1, 1956, ch. 840, § 2, 70 Stat. 888, set out duties of Commission.
 
 Section 338b, acts Aug. 1, 1956, ch. 840, § 3, 70 Stat. 888; Aug. 8, 1958, Pub. L. 85–601, § 1(a), 72 Stat. 524, authorized Commission to cooperate with Canada in carrying out its functions.
 
@@ -1161,13 +1161,13 @@ Section 357, acts May 17, 1906, ch. 2469, 34 Stat. 197; Aug. 2, 1956, ch. 891, �
 
 Section 357a, act May 17, 1906, ch. 2469, § 2, as added Aug. 2, 1956, ch. 891, § 1(e), 70 Stat. 954, which permitted allotments of land in national forests if the land was certified as chiefly valuable for agricultural or grazing uses, was transferred to [section 270–2 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–2&num=0&edition=prelim), and was subsequently repealed by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
-Section 357b, act May 27, 1906, ch. 2469, § 2, as added Aug. 2, 1956, ch. 891, § 1(e), 70 Stat. 954, which prohibited the making of an allotment unless the person made satisfactory proof of substantially continuous use and occupancy of the land for five years, was transferred to [section 270–3 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–3&num=0&edition=prelim), and was subsequently repealed by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
+Section 357b, act May 27, 1906, ch. 2469, § 3, as added Aug. 2, 1956, ch. 891, § 1(e), 70 Stat. 954, which prohibited the making of an allotment unless the person made satisfactory proof of substantially continuous use and occupancy of the land for five years, was transferred to [section 270–3 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–3&num=0&edition=prelim), and was subsequently repealed by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
 Section 358, act Mar. 3, 1891, ch. 561, § 15, 26 Stat. 1101, which reserved the Annette Islands for the Metlakahtla Indians, was transferred to [section 495 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section495&num=0&edition=prelim), Indians, prior to omission from the Code as being of special and not general application.
 
 Section 358a, act May 1, 1936, ch. 254, § 2, 49 Stat. 1250, which authorized the designation of land for the use of Indians or Eskimos, was transferred to [section 496 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section496&num=0&edition=prelim), and was subsequently repealed by Pub. L. 94–579, § 704(a), Oct. 21, 1976, 90 Stat. 2792.
 
-Section 359, acts May 14, 1898, ch. 299, § 10, 30 Stat. 413; Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which set out the requirements of filing, publishing, and posting of proofs needed for proving claims, as well as the form and use of the affidavits, was transferred to [section 270–4 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–4&num=0&edition=prelim), Public Lands, and was subsequently repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787.
+Section 359, acts May 14, 1898, ch. 299, § 10, 30 Stat. 413; Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which set out the requirements of filing, publishing, and posting of proofs needed for proving claims, as well as the form and use of the affidavits, was transferred to [section 270–4 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–4&num=0&edition=prelim), Public Lands, and was subsequently repealed by Pub. L. 94–579, title VII, § 703(b), Oct. 21, 1976, 90 Stat. 2789.
 
 Section 360, act July 3, 1926, ch. 745, § 1, 44 Stat. 821, which authorized the leasing of land for the purpose of fur farming, was transferred to [section 687c of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section687c&num=0&edition=prelim).
 
@@ -1300,7 +1300,7 @@ Section 382, act June 6, 1900, ch. 786, § 15, 31 Stat. 327, which required reco
 
 Section 383, act June 6, 1900, ch. 786, § 16, 31 Stat. 328, which authorized regulations for recording notices of location of mining claims, and legalized certain records, was transferred to [section 49d of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section49d&num=0&edition=prelim).
 
-Section 384, act Mar. 2, 1907, ch. 2559, § 1, 34 Stat. 1343, which required annual labor or improvements on mining claims, was transferred to [section 49e of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section49e&num=0&edition=prelim).
+Section 384, act Mar. 2, 1907, ch. 2559, § 1, 34 Stat. 1243, which required annual labor or improvements on mining claims, was transferred to [section 49e of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section49e&num=0&edition=prelim).
 
 Section 385, act Mar. 2, 1907, ch. 2559, § 2, 34 Stat. 1243, which prescribed the fees for filing proofs of work and improvements, was transferred to [section 49f of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section49f&num=0&edition=prelim).
 
@@ -1681,7 +1681,7 @@ Section, act Apr. 23, 1949, ch. 89, § 2(b), 63 Stat. 58, related to real-estate
 #### Codification
 Sections 485 to 486, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
 
-Section 485, acts May 28, 1948, ch. 354, § 1, 62 Stat. 227; Aug. 23, 1958, Pub. L. 85–726, title XIV, § 1402(d)(1), 72 Stat. 807, authorized Administrator of Civil Aeronautics to construct, protect, operate, improve, and maintain within Territory of Alaska a public airport at or near Anchorage and a public airport at or near Fairbanks.
+Section 485, acts May 28, 1948, ch. 354, § 1, 62 Stat. 277; Aug. 23, 1958, Pub. L. 85–726, title XIV, § 1402(d)(1), 72 Stat. 807, authorized Administrator of Civil Aeronautics to construct, protect, operate, improve, and maintain within Territory of Alaska a public airport at or near Anchorage and a public airport at or near Fairbanks.
 
 Section 485a, act May 28, 1948, ch. 354, § 2, 62 Stat. 278, authorized Administrator of Civil Aeronautics to acquire by purchase, lease, condemnation or otherwise such lands and appurtenances necessary for construction, protection, maintenance, improvement, and operation of said airports.
 
@@ -1717,7 +1717,7 @@ Section 486g, act Aug. 24, 1949, ch. 504, § 9, 63 Stat. 629, directed that all 
 
 Section 486h, act Aug. 24, 1949, ch. 504, § 10, 63 Stat. 629, authorized Secretary to utilize and act through other Federal agencies.
 
-Section 486i, act Aug. 24, 1949, ch. 504, § 11, 63 Stat. 624, provided for appropriations to carry out purposes of sections 486 to 486j.
+Section 486i, act Aug. 24, 1949, ch. 504, § 11, 63 Stat. 629, provided for appropriations to carry out purposes of sections 486 to 486j.
 
 Section 486j, acts Aug. 24, 1949, ch. 504, § 12, 63 Stat. 629; July 15, 1954, ch. 510, 68 Stat. 483, directed that authority of Secretary under sections 486 to 486j of this title shall terminate on June 30, 1959.
 

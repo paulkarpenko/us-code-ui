@@ -728,7 +728,7 @@ Subsec. (d). Pub. L. 114–328, § 1662(a)(1), added subsec. (d).
 #### Amendments
 2016—Pub. L. 114–328, § 1101(b)(1), amended section catchline generally, substituting “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints”.
 
-Subsec. (a). Pub. L. 114–328, § 1101(a)(1), in first sentence, struck out “solely” before “on the basis”, in second sentence, substituted “Any” for “The management of such personnel in any fiscal year shall not be subject to any” and inserted “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “employees”, and in third sentence, substituted “except in accordance with the requirements of this section and [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).” for “unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.”.
+Subsec. (a). Pub. L. 114–328, § 1101(a)(1), in first sentence, struck out “solely” before “on the basis”, in second sentence, substituted “Any” for “The management of such personnel in any fiscal year shall not be subject to any” and inserted “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “employees”, and in third sentence, substituted “except in accordance with the requirements of this section and [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).” for “unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.”
 
 Subsec. (b). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
 
@@ -1205,7 +1205,7 @@ Confidential business information and other sensitive but unclassified homeland 
 ### Statutory Notes
 
 #### Amendments
-2016—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Text of subsec. (b) read as follows: “Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.”
+2016—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.”
 
 2015—Pub. L. 114–92 substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in section catchline.
 
@@ -1304,11 +1304,11 @@ The Secretary of Defense shall develop, prepare, and coordinate; make ready all 
 
 Subsec. (c). Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
 
-Subsec. (d). Pub. L. 114–328, § 1682(a)(1)(A), (B), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–328, § 1682(a)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
 
-Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended subsec. (e) generally. Text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
+Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
 
 
 <a id="section-130i"></a>

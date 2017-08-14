@@ -195,7 +195,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 |  | [5 U.S.C. 456c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section456c&num=0&edition=prelim). | Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 61 Stat. 880; Oct. 18, 1951, ch. 513, 65 Stat. 450. |
 
 #### References in Text
-[Section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133), referrd to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
+[Section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133), referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
 
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328, § 502(aa)(1), struck out “not below the grade of rear admiral (lower half)” after “officer of the Dental Corps”.

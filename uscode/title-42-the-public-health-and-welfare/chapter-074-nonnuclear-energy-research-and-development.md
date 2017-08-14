@@ -212,9 +212,9 @@ Pub. L. 95–599, title I, § 170, Nov. 6, 1978, 92 Stat. 2724, as amended by Pu
 
 **(b)**
 
-(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
+(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a), the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
 
-(2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section. In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
+(2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3). In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
 
 (3) The Secretary shall assign program elements and activities in specific nonnuclear energy technologies, to the short-term, middle-term, and long-term time intervals, and shall present full and complete justification for these assignments and the degree of emphasis for each. These program elements and activities shall include, but not be limited to, research, development, and demonstrations designed—
 
@@ -264,7 +264,7 @@ Pub. L. 95–599, title I, § 170, Nov. 6, 1978, 92 Stat. 2724, as amended by Pu
 
   (S) to implement titles XX through XXIII of the Energy Policy Act of 1992 [[42 U.S.C. 13401](./chapter-134-energy-policy.md#section-13401) et seq., 13451 et seq., 13501 et seq., 13521 et seq.].
 
-**(c)** Based upon the comprehensive plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
+**(c)** Based upon the comprehensive plan developed under subsection (a), the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [[42 U.S.C. 13522](./chapter-134-energy-policy.md#section-13522)], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
 
 ### Statutory Notes
 
@@ -300,7 +300,7 @@ Subsec. (b)(1). Pub. L. 102–486, § 2303(a)(2)(B), inserted at end “Such pro
 
 Pub. L. 102–486, § 2303(a)(2)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
-Subsec. (b)(2). Pub. L. 102–486, § 2303(a)(2)(C), substituted “, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section” for “(to the early 1980’s), middle-term (the early 1980’s to 2000), and long-term (beyond 2000) time intervals”.
+Subsec. (b)(2). Pub. L. 102–486, § 2303(a)(2)(C), substituted “, middle-term, and long-term time intervals described in subsection (a)(1) through (3)” for “(to the early 1980’s), middle-term (the early 1980’s to 2000), and long-term (beyond 2000) time intervals”.
 
 Pub. L. 102–486, § 2303(a)(2)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
@@ -584,7 +584,7 @@ title to such invention shall vest in the United States, and if patents on such 
 
 (11) in the case of a nonprofit educational institution, the extent to which such institution has a technology transfer capability and program, approved by the Secretary as being consistent with the applicable policies of this section.
 
-**(e) Considerations applicable to identified invention for waiver determination by Secretary** In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection (d) of this section as applied to the invention and—
+**(e) Considerations applicable to identified invention for waiver determination by Secretary** In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection (d) as applied to the invention and—
 
 (1) the extent to which such waiver is a reasonable and necessary incentive to call forth private risk capital for the development and commercialization of the invention; and
 
@@ -594,7 +594,7 @@ title to such invention shall vest in the United States, and if patents on such 
 
 (1) a revocable or irrevocable nonexclusive, paid-up license for the practice of the invention throughout the world; and
 
-(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: Provided, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
+(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h): Provided, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
 **(g) to (i) Repealed. Pub. L. 96–517, § 7(c), Dec. 12, 1980, 94 Stat. 3027**
 
@@ -704,7 +704,7 @@ Section, Pub. L. 93–577, § 11, Dec. 31, 1974, 88 Stat. 1892; Pub. L. 95–91,
 
 (2) such supplies cannot reasonably be obtained without exercising the authority granted by this section.
 
-**(b)** A rule or order under subsection (a) of this section shall be considered to be a major rule subject to chapter 8 of title 5.
+**(b)** A rule or order under subsection (a) shall be considered to be a major rule subject to chapter 8 of title 5.
 
 ### Statutory Notes
 
@@ -734,7 +734,7 @@ Section, Pub. L. 93–577, § 11, Dec. 31, 1974, 88 Stat. 1892; Pub. L. 95–91,
 
 **(c) Assessment by Water Resources Council of availability of adequate water resources as precondition for Federal assistance for commercial application of nonnuclear energy technologies** For any proposed Federal assistance for commercial application of energy technologies pursuant to this chapter, the Water Resource 11 So in original. Probably should be “Resources”. Council shall, as a precondition of such Federal assistance, provide to the Secretary an assessment of the availability of adequate water resources for such commercial application and an evaluation of the environmental, social, and economic impacts of the dedication of water to such uses.
 
-**(d) Publication of reports of assessments and evaluations by Water Resources Council in Federal Register; public review and comments** Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) of this section shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
+**(d) Publication of reports of assessments and evaluations by Water Resources Council in Federal Register; public review and comments** Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
 
 **(e) Inclusion of survey and analysis of regional and national water resource availability in biennial assessment by Water Resources Council** The Council shall include a broad survey and analysis of regional and national water resource availability for energy development in the biennial assessment required by [section 1962a–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962a–1/a&num=0&edition=prelim).
 

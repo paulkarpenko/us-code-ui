@@ -41,7 +41,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 Pub. L. 93–288, title VI, § 605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178), prior to repeal by Pub. L. 100–707, title I, § 108(b), Nov. 23, 1988, 102 Stat. 4708.
 
 #### Short Title of 2016 Amendment
-Pub. L. 114–326, § 1, Dec. 16, 2016, 130 Stat. 1968, provided that: “This Act [enacting [section 5165f of this title](./chapter-068-disaster-relief.md#section-5165f), amending sections 8101 of Title 5, Government Organization and Employees, and [section 4303 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303&num=0&edition=prelim), Veterans’ Benefits, and enacting and amending provisions set out as notes under [section 3791 of this title](./chapter-046-justice-system-improvement.md#section-3791)] may be cited as the ‘National Urban Search and Rescue Response System Act of 2016’.”
+Pub. L. 114–326, § 1, Dec. 16, 2016, 130 Stat. 1968, provided that: “This Act [enacting [section 5165f of this title](./chapter-068-disaster-relief.md#section-5165f), amending [section 8101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), Government Organization and Employees, and [section 4303 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303&num=0&edition=prelim), Veterans’ Benefits, and enacting and amending provisions set out as notes under [section 3791 of this title](./chapter-046-justice-system-improvement.md#section-3791)] may be cited as the ‘National Urban Search and Rescue Response System Act of 2016’.”
 
 Pub. L. 114–132, § 1, Feb. 29, 2016, 130 Stat. 293, provided that: “This Act [enacting [section 5165e of this title](./chapter-068-disaster-relief.md#section-5165e) and provisions set out as notes under [section 5165e of this title](./chapter-068-disaster-relief.md#section-5165e)] may be cited as the ‘Directing Dollars to Disaster Relief Act of 2015’.”
 
@@ -126,7 +126,7 @@ Sec. 3. The Secretary of Agriculture is designated and empowered to exercise, wi
 [References to a “coupon” provided under the Food and Nutrition Act of 2008 considered to refer to a “benefit” under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under [section 2012 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim), Agriculture.]
 
 #### Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
-For provisions relating to seismic safety requirements for new construction or total replacement of a building under this chapter after a presidentially declared major disaster or emergency, see Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, set out as a note under [section 7704 of this title](./chapter-086-earthquake-hazards-reduction.md#section-7704).
+For provisions relating to seismic safety requirements for new construction or total replacement of a building under this chapter after a presidentially declared major disaster or emergency, see Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, set out as a note under [section 7704 of this title](./chapter-086-earthquake-hazards-reduction.md#section-7704).
 
 
 <a id="section-5122"></a>
@@ -300,7 +300,7 @@ Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluat
 
 **(b) Establishment of program** The President may establish a program to provide technical and financial assistance to States and local governments to assist in the implementation of predisaster hazard mitigation measures that are cost-effective and are designed to reduce injuries, loss of life, and damage and destruction of property, including damage to critical services and facilities under the jurisdiction of the States or local governments.
 
-**(c) Approval by President** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
+**(c) Approval by President** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
 
 **(d) State recommendations**
 
@@ -310,7 +310,7 @@ Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluat
 
   (B) *Deadline for submission* — The recommendations under subparagraph (A) shall be submitted to the President not later than October 1, 2001, and each October 1st thereafter or such later date in the year as the President may establish.
 
-  (C) *Criteria* — In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g) of this section.
+  (C) *Criteria* — In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g).
 
 (2) **Use**
 
@@ -318,7 +318,7 @@ Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluat
 
   (B) *Extraordinary circumstances* — In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
 
-(3) **Effect of failure to nominate** — If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g) of this section, any local governments of the State to receive assistance under this section.
+(3) **Effect of failure to nominate** — If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g), any local governments of the State to receive assistance under this section.
 
 **(e) Uses of technical and financial assistance**
 
@@ -428,7 +428,7 @@ Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluat
 
     (i) informing the general public about the risks of natural hazards in the areas described in paragraph (2);
 
-    (ii) supporting the activities described in subsection (e) of this section; and
+    (ii) supporting the activities described in subsection (e); and
 
     (iii) other public uses.
 
@@ -770,7 +770,7 @@ A prior section 310 of Pub. L. 93–288 was renumbered section 307 by Pub. L. 10
 
 **(b) Maintenance of insurance** No applicant for assistance under [section 5172 of this title](./chapter-068-disaster-relief.md#section-5172) (relating to repair, restoration, and replacement of damaged facilities), [section 5189 of this title](./chapter-068-disaster-relief.md#section-5189) (relating to simplified procedure), or [section 3149(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3149/c/2&num=0&edition=prelim) may receive such assistance for any property or part thereof for which the applicant has previously received assistance under this chapter unless all insurance required pursuant to this section has been obtained and maintained with respect to such property. The requirements of this subsection may not be waived under [section 5141 of this title](./chapter-068-disaster-relief.md#section-5141).
 
-**(c) State acting as self-insurer** A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or [section 3149(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3149/c/2&num=0&edition=prelim) or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a) of this section. No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
+**(c) State acting as self-insurer** A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or [section 3149(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3149/c/2&num=0&edition=prelim) or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a). No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
 
 ### Statutory Notes
 
@@ -1008,7 +1008,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-5165"></a>
 ## § 5165. Mitigation planning
-**(a) Requirement of mitigation plan** As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e) of this section, a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
+**(a) Requirement of mitigation plan** As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e), a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
 
 **(b) Local and tribal plans** Each mitigation plan developed by a local or tribal government shall—
 
@@ -1069,7 +1069,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(b) Establishment of management cost rates** Notwithstanding any other provision of law (including any administrative rule or guidance), the President shall by regulation establish management cost rates, for grantees and subgrantees, that shall be used to determine contributions under this chapter for management costs.
 
-**(c) Review** The President shall review the management cost rates established under subsection (b) of this section not later than 3 years after the date of establishment of the rates and periodically thereafter.
+**(c) Review** The President shall review the management cost rates established under subsection (b) not later than 3 years after the date of establishment of the rates and periodically thereafter.
 
 ### Statutory Notes
 
@@ -1199,7 +1199,7 @@ Pub. L. 114–132, § 2, Feb. 29, 2016, 130 Stat. 293, provided that: “In this
 
 (9) **Task force** — The term “task force” means an urban search and rescue team designated by the Administrator to participate in the System.
 
-**(b) General authoritySubject to the requirements of this section, the Administrator shall continue to administer the emergency response system known as the National Urban Search and Rescue Response System.**
+**(b) General authority** Subject to the requirements of this section, the Administrator shall continue to administer the emergency response system known as the National Urban Search and Rescue Response System.
 
 **(c) Functions** In administering the System, the Administrator shall provide for a national network of standardized search and rescue resources to assist States and local governments in responding to hazards.
 
@@ -1261,7 +1261,7 @@ Pub. L. 114–132, § 2, Feb. 29, 2016, 130 Stat. 293, provided that: “In this
 
 (3) **Reimbursement for State or local benefits** — Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
 
-(4) **Public safety officer claims** — Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b](./chapter-046-justice-system-improvement.md#section-3796b)), for any benefits authorized under part L of title I of that Act ([42 U.S.C. 3796](./chapter-046-justice-system-improvement.md#section-3796) et seq.).
+(4) **Public safety officer claims** — Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim)], for any benefits authorized under part L of title I of that Act ([42 U.S.C. 3796](./chapter-046-justice-system-improvement.md#section-3796) et seq.).11 See References in Text note below.
 
 **(i) Liability** A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under [section 1346(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/b&num=0&edition=prelim) and chapter 171 of that title, relating to tort claims procedure.
 
@@ -1292,7 +1292,7 @@ Pub. L. 114–132, § 2, Feb. 29, 2016, 130 Stat. 293, provided that: “In this
 #### References in Text
 This chapter, referred to in subsec. (f)(3), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title](./chapter-046-justice-system-improvement.md#section-3711) and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act was classified generally to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of this title, prior to editorial reclassication and renumbering as subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-5170"></a>
@@ -1478,7 +1478,7 @@ Subsec. (a)(3)(J). Pub. L. 109–295, § 689(b)(2)(B)–(D), and Pub. L. 109–3
 
 (2) **Terms and conditions** — An acquisition or relocation project shall be eligible to receive assistance pursuant to paragraph (1) only if—
 
-  (A) the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a) of this section; and
+  (A) the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a); and
 
   (B) on or after December 3, 1993, the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
 
@@ -1645,7 +1645,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 
 (1) **For public facilities**
 
-  (A) *In general* — In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+  (A) *In general* — In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
   (B) *Use of funds* — Funds contributed to a State or local government under this paragraph may be used—
 
@@ -1663,7 +1663,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 
 (2) **For private nonprofit facilities**
 
-  (A) *In general* — In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B) of this section, a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+  (A) *In general* — In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
   (B) *Use of funds* — Funds contributed to a person under this paragraph may be used—
 
@@ -1840,7 +1840,7 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
 (1) **Provision of assistance** — In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.
 
-(2) **Relationship to other assistance** — Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) of this section solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
+(2) **Relationship to other assistance** — Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
 
 **(b) Housing assistance**
 
@@ -1848,7 +1848,7 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
 (2) **Determination of appropriate types of assistance**
 
-  (A) *In general* — The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) of this section based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+  (A) *In general* — The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
 
   (B) *Multiple types of assistance* — One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
 
@@ -1954,9 +1954,9 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
 (1) **Financial assistance to address other needs**
 
-  (A) *Grant to State* — Subject to subsection (g) of this section, a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e) of this section.
+  (A) *Grant to State* — Subject to subsection (g), a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e).
 
-  (B) *Administrative costs* — A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e) of this section.
+  (B) *Administrative costs* — A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e).
 
 (2) **Access to records** — In providing assistance to individuals and households under this section, the President shall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
 
@@ -1964,7 +1964,7 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
 (1) **Federal share** — Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
 
-(2) **Financial assistance to address other needs** — In the case of financial assistance provided under subsection (e) of this section—
+(2) **Financial assistance to address other needs** — In the case of financial assistance provided under subsection (e)—
 
   (A) the Federal share shall be 75 percent; and
 
@@ -2347,7 +2347,7 @@ Subsec. (b). Pub. L. 113–2, § 1107(4), added subsec. (b).
 ## § 5189a. Appeals of assistance decisions
 **(a) Right of appeal** Any decision regarding eligibility for, from, or amount of assistance under this subchapter may be appealed within 60 days after the date on which the applicant for such assistance is notified of the award or denial of award of such assistance.
 
-**(b) Period for decision** A decision regarding an appeal under subsection (a) of this section shall be rendered within 90 days after the date on which the Federal official designated to administer such appeals receives notice of such appeal.
+**(b) Period for decision** A decision regarding an appeal under subsection (a) shall be rendered within 90 days after the date on which the Federal official designated to administer such appeals receives notice of such appeal.
 
 **(c) Rules** The President shall issue rules which provide for the fair and impartial consideration of appeals under this section.
 
@@ -2530,7 +2530,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (g), is act June 25
 ## § 5191. Procedure for declaration
 **(a) Request and declaration** All requests for a declaration by the President that an emergency exists shall be made by the Governor of the affected State. Such a request shall be based on a finding that the situation is of such severity and magnitude that effective response is beyond the capabilities of the State and the affected local governments and that Federal assistance is necessary. As a part of such request, and as a prerequisite to emergency assistance under this chapter, the Governor shall take appropriate action under State law and direct execution of the State’s emergency plan. The Governor shall furnish information describing the State and local efforts and resources which have been or will be used to alleviate the emergency, and will define the type and extent of Federal aid required. Based upon such Governor’s request, the President may declare that an emergency exists.
 
-**(b) Certain emergencies involving Federal primary responsibility** The President may exercise any authority vested in him by [section 5192 of this title](./chapter-068-disaster-relief.md#section-5192) or [section 5193 of this title](./chapter-068-disaster-relief.md#section-5193) with respect to an emergency when he determines that an emergency exists for which the primary responsibility for response rests with the United States because the emergency involves a subject area for which, under the Constitution or laws of the United States, the United States exercises exclusive or preeminent responsibility and authority. In determining whether or not such an emergency exists, the President shall consult the Governor of any affected State, if practicable. The President’s determination may be made without regard to subsection (a) of this section.
+**(b) Certain emergencies involving Federal primary responsibility** The President may exercise any authority vested in him by [section 5192 of this title](./chapter-068-disaster-relief.md#section-5192) or [section 5193 of this title](./chapter-068-disaster-relief.md#section-5193) with respect to an emergency when he determines that an emergency exists for which the primary responsibility for response rests with the United States because the emergency involves a subject area for which, under the Constitution or laws of the United States, the United States exercises exclusive or preeminent responsibility and authority. In determining whether or not such an emergency exists, the President shall consult the Governor of any affected State, if practicable. The President’s determination may be made without regard to subsection (a).
 
 **(c) Indian tribal government requests**
 
@@ -2586,7 +2586,7 @@ A prior section 501 of Pub. L. 93–288 enacted subchapter VIII (§ 3231 et seq.
 
   (B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of an emergency.
 
-**(b) General** Whenever the Federal assistance provided under subsection (a) of this section with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations.
+**(b) General** Whenever the Federal assistance provided under subsection (a) with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations.
 
 **(c) Guidelines** The President shall promulgate and maintain guidelines to assist Governors in requesting the declaration of an emergency in advance of a natural or man-made disaster (including for the purpose of seeking assistance with special needs and other evacuation efforts) under this section by defining the types of assistance available to affected States and the circumstances under which such requests are likely to be approved.
 

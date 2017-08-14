@@ -38,6 +38,9 @@ The Congress finds and declares that—
 #### References in Text
 This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2017 Amendment
+Pub. L. 114–223, div. C, § 202(a), as added by Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134, provided that: “This section [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘Further Continued Health Benefits for Miners Act’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–223, div. C, § 167(a), as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: “This section [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘Continued Health Benefits for Miners Act’.”
 
@@ -166,6 +169,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
 
@@ -801,20 +806,16 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
       (II) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
 
-    (ii) *Calculation of excess* — The excess determined under clause (i) shall be calculated—
+    (ii) *Calculation of excess* — The excess determined under clause (i) shall be calculated by taking into account only—
 
-      (I) except as provided in subclause (II), by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made; and
+      (I) those beneficiaries actually enrolled in the Plan as of May 5, 2017, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
 
-      (II) for purposes of the transfer made for fiscal year 2017, as if, for the period beginning January 1, 2017, and ending April 30, 2017, only—
+      (II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in [section 9701(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/b/1&num=0&edition=prelim)), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015.
+    For purposes of subclause (I), a beneficiary enrolled in the Plan as of May 5, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.
 
-        (aa) those beneficiaries actually enrolled in the Plan as of December 10, 2016, who are eligible to receive health benefits under the Plan on January 1, 2017, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
+    (iii) *Eligibility of certain retirees* — Individuals referred to in clause (ii)(II) shall be treated as eligible to receive health benefits under the Plan.
 
-        (bb) those beneficiaries whose health benefits, defined as those benefits payable directly following death or retirement or upon a finding of disability by an employer in the bituminous coal industry under a coal wage agreement (as defined in [section 9701(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/b/1&num=0&edition=prelim)), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015,
-    were taken into account, and for any other period during such fiscal year, only the beneficiaries described in subclause (I) were taken into account.
-
-    (iii) *Eligibility of certain retirees* — Individuals referred to in clause (ii)(II)(bb) shall be treated as eligible to receive health benefits under the Plan for the plan year that includes January 1, 2017.
-
-    (iv) *Requirements for transfer* — The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).
+    (iv) *Requirements for transfer* — The amount of the transfer otherwise determined under this subparagraph for a fiscal year shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii).
 
     (v) *VEBA transfer* — The administrator of such voluntary employees’ beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
 
@@ -932,6 +933,20 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2017—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cls. (ii) which related to calculation of excess.
+
+Pub. L. 114–223, div. C, § 202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions “For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.”
+
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 114–223, div. C, § 202(b)(1), as added by Pub. L. 115–30, par. (2), substituted “May 5, 2017” for “April 30, 2017” in introductory provisions.
+
+Subsec. (h)(2)(C)(ii)(II)(aa). Pub. L. 114–223, div. C, § 202(b)(2), as added by Pub. L. 115–30, par. (2), substituted “April 28, 2017” for “December 10, 2016”.
+
+Subsec. (h)(2)(C)(iii), (iv). Pub. L. 115–31 added cls. (iii) and (iv) and struck out former cls. (iii) and (iv) which read as follows:
+
+“(iii) Eligibility of certain retirees.—Individuals referred to in clause (ii)(II)(bb) shall be treated as eligible to receive health benefits under the Plan for the plan year that includes January 1, 2017.
+
+“(iv) Requirements for transfer.—The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).”
+
 2016—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, § 167(b), as added by Pub. L. 114–254, div. A, § 101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: “Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.”
 
 Subsec. (i)(3)(B). Pub. L. 114–223, div. C, § 167(c), as added by Pub. L. 114–254, div. A, § 101(3), substituted “under paragraph (1) so that” for “so that” in introductory provisions, “each such transfer” for “each transfer” in cl. (i), and “paragraph (1)” for “this subsection” in cl. (iii).
@@ -987,6 +1002,9 @@ Subsec. (f). Pub. L. 101–508, § 6003(d), inserted at end “Whenever the Secr
 Subsec. (g). Pub. L. 101–508, § 6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
 1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–31, div. M, title I, § 104(b), May 5, 2017, 131 Stat. 804, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016.”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–432, div. C, title II, § 202(a)(1), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(1) [amending this section] is effective Oct. 1, 2007.
@@ -1716,6 +1734,8 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
 

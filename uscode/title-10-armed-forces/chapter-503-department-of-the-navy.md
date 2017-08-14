@@ -260,7 +260,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 A prior section 5014, added Pub. L. 85–861, § 1(106)(A), Sept. 2, 1958, 72 Stat. 1490, prescribed compensation of General Counsel of Department of the Navy, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. See [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
-2016—Subsec. (f)(4). Pub. L. 114–328, § 903(d)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.”.
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(d)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.”
 
 Subsec. (f)(5). Pub. L. 114–328, § 903(d)(2), added par. (5).
 

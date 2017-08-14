@@ -81,7 +81,7 @@ Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was ame
 
     (i) the term “Federal offense involving the sexual exploitation or abuse of children” means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years; and
 
-    (ii) the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.).
+    (ii) the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.).22 See References in Text note below.
 
 (2) A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
 
@@ -132,7 +132,7 @@ Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was ame
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, § 1, 68 Stat. 745; Aug. 28, 1965, Pub. L. 89–141, § 2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, § 228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
@@ -795,7 +795,7 @@ Pub. L. 103–322, title XXXIII, § 330011(e), Sept. 13, 1994, 108 Stat. 2145, p
 ### Statutory Notes
 
 #### References in Text
-Section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990, referred to in subsec. (c), is classified to [section 10607(e)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10607/e/2&num=0&edition=prelim), The Public Health and Welfare.
+Section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990, referred to in subsec. (c), is classified to [section 20141(e)(2) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20141/e/2&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Effective Date
 Pub. L. 105–6, § 2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The amendments made by this section [enacting this section and amending [section 3593 of this title](./chapter-228-death-sentence.md#section-3593)] shall apply in cases pending on the date of the enactment of this Act [Mar. 19, 1997].”

@@ -818,7 +818,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 ## § 1381. Establishment of Office of Compliance
 **(a) Establishment** There is established, as an independent office within the legislative branch of the Federal Government, the Office of Compliance.
 
-**(b) Board of Directors** The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
+**(b) Board of Directors** The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
 
 **(c) Chair** The Chair shall be appointed from members of the Board jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
 
@@ -846,6 +846,8 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
   (C) 2 shall have a term of office of 5 years, 1 of whom shall be the Chair,
   as designated at the time of appointment by the persons specified in subsection (b).
+
+(3) **Permitting service until appointment of successor** — A member of the Board may serve after the expiration of that member’s term until a successor has taken office.
 
 **(f) Removal**
 
@@ -901,6 +903,10 @@ This chapter, referred to in subsec. (h)(3), was in the original “this Act”,
 The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–19, § 1(d), inserted “, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section” after “and the Senate”.
+
+Subsec. (e)(3). Pub. L. 115–19, § 1(c), added par. (3).
+
 2014—Subsec. (h)(2). Pub. L. 113–235 substituted “covered employees by the end of each fiscal year” for “the residences of covered employees”.
 
 2007—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
@@ -919,7 +925,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date of 2004 Amendment
 Pub. L. 108–349, § 1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
-#### Additional Term for Members of Board of Directors of Office of Compliance
+#### Appointment of Members of Board of Directors of Office of Compliance
+Pub. L. 115–19, § 1(a), (b), Apr. 3, 2017, 131 Stat. 84, provided that: “(a) Appointment of Members.—“(1) Members replacing members whose terms expire in march 2017.—Notwithstanding the first sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)), of the members of the Board of Directors of the Office of Compliance who are appointed to replace the 3 members whose terms expire in March 2017—“(A) one shall have a term of office of 3 years; and “(B) 2 shall have a term of office of 4 years,“as designated at the time of appointment by the persons specified in section 301(b) of such Act ([2 U.S.C. 1381(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/b&num=0&edition=prelim)). “(2) Members replacing members whose terms expire in may 2017.—In accordance with the first sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)), the members of the Board of Directors of the Office of Compliance who are appointed to replace the 2 members whose terms expire in May 2017 shall each have a term of office of 5 years. “(b) Service of Current Members.—Notwithstanding the second sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)) or section 3 of the Office of Compliance Administrative and Technical Corrections Act of 2015 (Public Law 114–6; [2 U.S.C. 1381](./chapter-024-congressional-accountability.md#section-1381) note)—“(1) an individual serving as a member of the Board of Directors of the Office of Compliance whose term expires in March 2017 may be reappointed to serve one additional term at the length designated under paragraph (1) of subsection (a), but may not be reappointed to any additional terms after that additional term expires; and “(2) an individual serving as a member of the Board of Directors of the Office of Compliance whose term expires in May 2017 may be reappointed to serve one additional term at the length referred to in paragraph (2) of subsection (a), but may not be reappointed to any additional terms after that additional term expires.”
+
 Pub. L. 114–6, § 3, Mar. 20, 2015, 129 Stat. 82, provided that: “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e/1&num=0&edition=prelim)), any individual serving as a member of the Board of Directors of the Office of Compliance as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
 
 Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e/1&num=0&edition=prelim)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”

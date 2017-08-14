@@ -135,7 +135,7 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 
 <a id="section-4954"></a>
 ## § 4954. Selection and assignment of volunteers
-**(a) Covered projects and programs** The Director, on the receipt of applications by public or nonprofit private organizations to receive volunteers under this part, may assign volunteers selected under subsection (b) of this section to work in appropriate projects and programs sponsored by such organizations, including work—
+**(a) Covered projects and programs** The Director, on the receipt of applications by public or nonprofit private organizations to receive volunteers under this part, may assign volunteers selected under subsection (b) to work in appropriate projects and programs sponsored by such organizations, including work—
 
 (1) in meeting the health, education, welfare, or related needs of Indians living on reservations or Federal trust lands, of migratory and seasonal farmworkers and their families, and of residents of the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands;
 
@@ -177,7 +177,7 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 
     (ii) to approved projects or programs, with respect to the availability of individuals whose applications for service as a volunteer have been approved and who are awaiting an assignment with a specific project or program.
 
-  (C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment and management of volunteers.
+  (C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment and management of volunteers.
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),11 So in original. Probably should be paragraph “(5)”. the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
@@ -199,7 +199,7 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 
 **(c) Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds**
 
-(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C) of this section, shall engage in public awareness and recruitment activities. Such activities may include—
+(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C), shall engage in public awareness and recruitment activities. Such activities may include—
 
   (A) public service announcements through the Internet and related technologies, radio, television, and the print media;
 
@@ -225,7 +225,7 @@ Pub. L. 103–82, title III, § 322(b), Sept. 21, 1993, 107 Stat. 899, provided 
 
 **(e) Educational and vocational counseling for volunteers; Director to provide** The Director may provide or arrange for educational and vocational counseling of volunteers and recent former volunteers under this part to (1) encourage them to use, in the national interest, the skills and experience which they have derived from their training and service, particularly working in combating poverty as members of the helping professions, and (2) promote the development of appropriate opportunities for the use of such skills and experience, and the placement therein of such volunteers.
 
-**(f) Terms and conditions; restrictions on political activities; place of service** Except as provided in subsection (e) of this section, the assignment of volunteers under this section shall be on such terms and conditions (including restrictions on political activities that appropriately recognize the special status of volunteers living among the persons or groups served by programs to which they have been assigned) as the Director may determine, including work assignments in their own or nearby communities.
+**(f) Terms and conditions; restrictions on political activities; place of service** Except as provided in subsection (e), the assignment of volunteers under this section shall be on such terms and conditions (including restrictions on political activities that appropriately recognize the special status of volunteers living among the persons or groups served by programs to which they have been assigned) as the Director may determine, including work assignments in their own or nearby communities.
 
 **(g) Program or project submittal to Governor; commencement and termination of service** Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or proj­ect or the assignment of a volunteer to a program or project not later than 30 days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
 
@@ -315,9 +315,9 @@ Subsec. (a)(7). Pub. L. 103–82, § 323(a)(6), added par. (7).
 
 Subsec. (b)(2)(A). Pub. L. 103–82, § 405(a)(2), substituted “the Corporation (or any” for “the ACTION Agency (or any”.
 
-Pub. L. 103–82, § 323(b)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) of this section and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part.”
+Pub. L. 103–82, § 323(b)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part.”
 
-Subsec. (b)(2)(C), (D). Pub. L. 103–82, § 323(b)(1)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c) of this section.”
+Subsec. (b)(2)(C), (D). Pub. L. 103–82, § 323(b)(1)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c).”
 
 Subsec. (b)(4). Pub. L. 103–82, § 405(a)(3), substituted “the Corporation” for “the ACTION Agency” in two places.
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 **(b) Minimum period of service; critical scarce-skill needs exception; reenrollment; limitation**
 
-(1) Volunteers serving under this part may be enrolled initially for periods of service of not less than 1 year, nor more than 2 years, except as provided in paragraph (2) or subsection (e) of this section.
+(1) Volunteers serving under this part may be enrolled initially for periods of service of not less than 1 year, nor more than 2 years, except as provided in paragraph (2) or subsection (e).
 
 (2) Volunteers serving under this part may be enrolled for periods of service of less than 1 year if the Director determines, on an individual basis, that a period of service of less than 1 year is necessary to meet a critical scarce skill need.
 
@@ -728,7 +728,7 @@ Repeal effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a
 ## § 5000. Authority of Director
 **(a) In general** The Director is authorized to make grants to or enter into contracts with public or nonprofit organizations, including organizations funded under part A, B, or C, for the purposes of demonstrating innovative activities involving older Americans as volunteers. The Director may support under this part both volunteers receiving stipends and volunteers not receiving stipends.
 
-**(b) Activities** An organization that receives a grant or enters into a contract under subsection (a) of this section may use funds made available through the grant or contract for activities such as—
+**(b) Activities** An organization that receives a grant or enters into a contract under subsection (a) may use funds made available through the grant or contract for activities such as—
 
 (1) linking youth groups and older American organizations in volunteer activities;
 
@@ -990,11 +990,11 @@ Persons described in paragraph (2) shall be given special consideration for part
 
   (A) Except as provided in subparagraph (B), individuals who are not low-income persons may serve as volunteers under this part, in accordance with such regulations as the Director shall issue, if such individuals serve without receiving any allowance, stipend, or other financial support under this part except reimbursement for transportation, meals, and out-of-pocket expenses incident to serving under this part.
 
-  (B) The regulations issued by the Director to carry out this part (other than any regulations relating to allowances, stipends, and other financial support authorized by subsection (d) of this section to be paid under this part to low-income persons) shall apply to all volunteers under this part, without regard to whether such volunteers are eligible to receive a stipend under subsection (d) of this section.
+  (B) The regulations issued by the Director to carry out this part (other than any regulations relating to allowances, stipends, and other financial support authorized by subsection (d) to be paid under this part to low-income persons) shall apply to all volunteers under this part, without regard to whether such volunteers are eligible to receive a stipend under subsection (d).
 
 (2)
 
-  (A) Except as provided in subparagraph (B), each recipient of a grant or contract to carry out a project under this part shall give equal treatment to all volunteers who participate in such project, without regard to whether such volunteers are eligible to receive a stipend under subsection (d) of this section.
+  (A) Except as provided in subparagraph (B), each recipient of a grant or contract to carry out a project under this part shall give equal treatment to all volunteers who participate in such project, without regard to whether such volunteers are eligible to receive a stipend under subsection (d).
 
   (B) An individual who is not a low-income person may not become a volunteer under this part if allowing such individual to become a volunteer under this part would prevent a low-income individual from becoming a volunteer under this part or would displace a low-income person from being such a volunteer.
 
@@ -1005,7 +1005,7 @@ Persons described in paragraph (2) shall be given special consideration for part
   (B) to solicit locally generated contributions, in cash or in kind, to support such individuals.
   The Director may not coerce any applicant for, or recipient of, such grant or contract to engage in conduct described in subparagraph (A) or (B).
 
-(4) Funds appropriated to carry out this part may not be used to pay any cost, including any administrative cost, incurred in connection with volunteers under this part who do not receive a stipend under subsection (d) of this section. Such cost incurred with respect to a volunteer may be paid with—
+(4) Funds appropriated to carry out this part may not be used to pay any cost, including any administrative cost, incurred in connection with volunteers under this part who do not receive a stipend under subsection (d). Such cost incurred with respect to a volunteer may be paid with—
 
   (A) funds received by the Director as unrestricted gifts;
 
@@ -1013,7 +1013,7 @@ Persons described in paragraph (2) shall be given special consideration for part
 
   (C) funds contributed by such volunteer; or
 
-  (D) locally generated contributions in excess of the amount required to be contributed under subsection (a) of this section, in the discretion of the recipient of a grant or contract under such subsection.
+  (D) locally generated contributions in excess of the amount required to be contributed under subsection (a), in the discretion of the recipient of a grant or contract under such subsection.
 
 ### Statutory Notes
 
@@ -1111,7 +1111,7 @@ Repeal effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a
 
 **(c) Senior companion projects to assist homebound elderly**
 
-(1) The Director is authorized to make grants or contracts after 11 So in original. Probably should be “under”. subsection (a) of this section for senior companion projects to assist homebound elderly individuals to remain in their own homes and to enable institutionalized elderly individuals to return to home care settings.
+(1) The Director is authorized to make grants or contracts after 11 So in original. Probably should be “under”. subsection (a) for senior companion projects to assist homebound elderly individuals to remain in their own homes and to enable institutionalized elderly individuals to return to home care settings.
 
 (2)
 
@@ -1126,7 +1126,7 @@ Repeal effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a
 
 1993—Subsec. (c)(3). Pub. L. 103–82 struck out par. (3) which required an evaluation of, and report on, impact of senior companion projects to assist homebound elderly.
 
-1989—Subsec. (c)(1). Pub. L. 101–204 inserted “after subsection (a) of this section” after “grants or contracts”, and “individuals” after “elderly” in two places.
+1989—Subsec. (c)(1). Pub. L. 101–204 inserted “after subsection (a)” after “grants or contracts”, and “individuals” after “elderly” in two places.
 
 1986—Pub. L. 99–551 inserted “for volunteer service projects” in section catchline and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The provisions of [section 5011(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5011/d&num=0&edition=prelim) and [section 5011(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5011/e&num=0&edition=prelim) and such other provisions of part B as the Director determines to be necessary shall apply to the provisions of this part.”
 
@@ -1256,7 +1256,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 ## § 5027. Programs of national significance
 **(a) Program grants for national problems of local concern; minimum amounts available; scope; implementation**
 
-(1) With not less than one-third of the funds made available under subsection (d) of this section in each fiscal year, the Director shall make grants under the programs authorized in parts A, B, and C to support programs that address national problems of local concern.
+(1) With not less than one-third of the funds made available under subsection (d) in each fiscal year, the Director shall make grants under the programs authorized in parts A, B, and C to support programs that address national problems of local concern.
 
 (2) An applicant for a grant under paragraph (1) shall determine whether the program to be supported by the grant is a program under part A, B, or C, and shall submit an application as required for such program.
 
@@ -1270,7 +1270,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 (5) Notwithstanding paragraph (4), if, for a fiscal year, less than 25 percent of the applicants for grants under this section are applicants described in paragraph (4), the Director may use an amount that is greater than 75 percent of the funds appropriated under this subsection to award grants to applicants that are already receiving assistance from the Corporation at the time of such grant award.
 
-**(b) Program grants for problems concerning Nation** The Director shall make grants under subsection (a) of this section to support one or more of the following programs to address problems that concern the Nation:
+**(b) Program grants for problems concerning Nation** The Director shall make grants under subsection (a) to support one or more of the following programs to address problems that concern the Nation:
 
 (1) Programs that assist individuals with chronic and debilitating illnesses, such as acquired immune deficiency syndrome.
 
@@ -1306,17 +1306,17 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 **(c) Eligibility of applicant; supplemental nature of funds available**
 
-(1) In order for an applicant to be eligible to receive a grant under subsection (a) of this section, such applicant shall demonstrate to the Director that such grant will be used to increase the total number of volunteers supported by such applicant and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant.
+(1) In order for an applicant to be eligible to receive a grant under subsection (a), such applicant shall demonstrate to the Director that such grant will be used to increase the total number of volunteers supported by such applicant and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant.
 
-(2) Funds made available under subsection (d) of this section shall be used to supplement and not supplant the number of volunteers engaged in activities under parts A, B, and C (without regard to this section) addressing the problem for which such funds are awarded unless such sums are an extension of funds previously provided under this section.
+(2) Funds made available under subsection (d) shall be used to supplement and not supplant the number of volunteers engaged in activities under parts A, B, and C (without regard to this section) addressing the problem for which such funds are awarded unless such sums are an extension of funds previously provided under this section.
 
 **(d) Amount of funds available for grants**
 
-(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of [section 5082 of this title](./chapter-066-domestic-volunteer-services.md#section-5082), for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a) of this section.
+(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of [section 5082 of this title](./chapter-066-domestic-volunteer-services.md#section-5082), for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a).
 
-(2) No funds shall be available to the Director to make grants under subsection (a) of this section for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of [section 5082 of this title](./chapter-066-domestic-volunteer-services.md#section-5082) and available for such fiscal year to carry out parts A, B, and C (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C, respectively, in the preceding fiscal year.
+(2) No funds shall be available to the Director to make grants under subsection (a) for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of [section 5082 of this title](./chapter-066-domestic-volunteer-services.md#section-5082) and available for such fiscal year to carry out parts A, B, and C (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C, respectively, in the preceding fiscal year.
 
-**(e) Dissemination of information respecting grants** The Director shall widely disseminate information on grants that may be made under subsection (a) of this section to field personnel of the Corporation and to community volunteer organizations that request such information.
+**(e) Dissemination of information respecting grants** The Director shall widely disseminate information on grants that may be made under subsection (a) to field personnel of the Corporation and to community volunteer organizations that request such information.
 
 ### Statutory Notes
 
@@ -1433,7 +1433,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 
 **(c) Single-year grant or contract** If an applicant does not receive a multiyear grant or contract under this section, the Director shall consider such applicant for a single-year grant or contract.
 
-**(d) Projects for multiyear periods to be treated as single-year projects for specified purposes** If the Director approves an application for a contract or grant to carry out a project for a multiyear period as referred to in subsection (a) of this section, the Director shall ensure that such project shall be treated in the same manner as a single-year contract or grant with respect to—
+**(d) Projects for multiyear periods to be treated as single-year projects for specified purposes** If the Director approves an application for a contract or grant to carry out a project for a multiyear period as referred to in subsection (a), the Director shall ensure that such project shall be treated in the same manner as a single-year contract or grant with respect to—
 
 (1) the overall level of funding for such project;
 
@@ -2097,7 +2097,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ## § 5063. Audit
 **(a) Recordkeeping** Each recipient of Federal grants, subgrants, contracts, subcontracts, or loans entered into under this chapter other than by formal advertising, and which are otherwise authorized by this chapter, shall keep such records as the Director or the Inspector General shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-**(b) Access to books, documents, papers, and records; limitations** The Director, the Inspector General, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in subsection (a) of this section, have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients which in the opinion of the Director, the Inspector General, or the Comptroller General may be related or pertinent to the grants, contracts, subcontracts, subgrants, or loans referred to in subsection (a) of this section.
+**(b) Access to books, documents, papers, and records; limitations** The Director, the Inspector General, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in subsection (a) of this section, have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients which in the opinion of the Director, the Inspector General, or the Comptroller General may be related or pertinent to the grants, contracts, subcontracts, subgrants, or loans referred to in subsection (a).
 
 ### Statutory Notes
 
@@ -2359,7 +2359,7 @@ Repeal effective Oct. 1, 1979, see section 105 of Pub. L. 95–510, set out as a
 ## § 5085. Administration and coordination
 **(a) In general** For each of the fiscal years 2010 through 2014, there are authorized to be appropriated for the administration of this chapter as provided for in subchapter IV, 18 percent of the total amount appropriated under sections 5081 and 5082 of this title with respect to such year.
 
-**(b) Evaluation** For each of the fiscal years 2010 through 2014, the Director is authorized to expend not less than 2½ percent, and not more than 5 percent, of the amount appropriated under subsection (a) of this section, for the purposes prescribed in [section 5056 of this title](./chapter-066-domestic-volunteer-services.md#section-5056).
+**(b) Evaluation** For each of the fiscal years 2010 through 2014, the Director is authorized to expend not less than 2½ percent, and not more than 5 percent, of the amount appropriated under subsection (a), for the purposes prescribed in [section 5056 of this title](./chapter-066-domestic-volunteer-services.md#section-5056).
 
 ### Statutory Notes
 

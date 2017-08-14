@@ -112,7 +112,7 @@ Minor changes were made in phraseology.
 The remainder of said [section 753b of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section753b&num=0&edition=prelim), U.S.C., 1940 ed., is incorporated in [section 4002 of this title](./chapter-301-general-provisions.md#section-4002).
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (a)(4). Pub. L. 111–211, § 261(a)(1), inserted “, tribal,” after “State”.
@@ -157,7 +157,7 @@ Subsecs. (c), (d). Pub. L. 105–119, § 115(a)(8)(A)(iv), added subsec. (c) and
 Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
 
 #### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 17504 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17504&num=0&edition=prelim), The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amenities or Personal Comforts
 Pub. L. 107–77, title VI, § 611, Nov. 28, 2001, 115 Stat. 800, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system— “(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety; “(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented; “(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort; “(4) possession of in-cell coffee pots, hot plates or heating elements; or “(5) the use or possession of any electric or electronic musical instrument.”
@@ -195,7 +195,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 614], Sept. 30, 1996
 Pub. L. 106–553, § 1(a)(2) [title I], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: “That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing.”
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
-Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 12, 1998], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
+Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, which required the Attorney General to provide to States proposed guidelines related to infectious diseases in correctional institutions, was editorially reclassified as a note under [section 60101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Prisoner Access
 Pub. L. 105–314, title VIII, § 801, Oct. 30, 1998, 112 Stat. 2990, provided that: “Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government.”
@@ -376,7 +376,7 @@ Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided t
 
 (2) **Allocation of other amounts.—** — Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
 
-  (A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)); and
+  (A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)); 11 See References in Text note below. and
 
   (B) 25 percent shall be available to the Attorney General for administrative expenses incurred in carrying out this section.
 
@@ -407,6 +407,8 @@ Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided t
 ### Statutory Notes
 
 #### References in Text
+Section 1402 of the Victims of Crime Act of 1984, referred to in subsec. (g)(2)(A), is section 1402 of chapter XIV of title II of Pub. L. 98–473, which was classified to [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim), Crime Control and Law Enforcement.
+
 The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, referred to in subsec. (k), is the date of enactment of Pub. L. 106–294, which was approved Oct. 12, 2000.
 
 

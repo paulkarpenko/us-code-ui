@@ -1013,7 +1013,7 @@ Subsec. (d). Pub. L. 100–399, § 401(q), added subsec. (d).
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
 #### Effective Date
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2077"></a>
@@ -1065,7 +1065,7 @@ A prior section 2079, Pub. L. 92–181, title II, § 2.8, Dec. 10, 1971, 85 Stat
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
 #### Effective Date
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2093"></a>

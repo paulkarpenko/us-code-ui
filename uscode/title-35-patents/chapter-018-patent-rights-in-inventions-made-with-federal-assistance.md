@@ -441,13 +441,13 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 ## § 210. Precedence of chapter
 **(a)** This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
 
-(1) section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 ([7 U.S.C. 427i(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section427i/a&num=0&edition=prelim); 60 Stat. 1085);
+(1) section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 ([7 U.S.C. 427i(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section427i/a&num=0&edition=prelim); 60 Stat. 1085); 11 See References in Text note below.
 
 (2) section 205(a) of the Act of August 14, 1946 ([7 U.S.C. 1624(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1624/a&num=0&edition=prelim); 60 Stat. 1090);
 
 (3) section 501(c) of the Federal Mine Safety and Health Act of 1977 ([30 U.S.C. 951(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section951/c&num=0&edition=prelim); 83 Stat. 742);
 
-(4) section 30168(e) 11 See References in Text note below. of title 49;
+(4) section 30168(e) 1 of title 49;
 
 (5) section 12 of the National Science Foundation Act of 1950 ([42 U.S.C. 1871(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1871/a&num=0&edition=prelim); 1 82 Stat. 360);
 
@@ -496,6 +496,8 @@ The Act creating this chapter shall be construed to take precedence over any fut
 
 #### References in Text
 The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, [section 1113 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1113&num=0&edition=prelim), Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former [section 2457 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2457&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
+
+Section 10 of the Act of June 29, 1935, referred to in subsec. (a)(1), is section 10 of act June 29, 1935, ch. 338, title I, as added Aug. 14, 1946, ch. 966, title I, § 101(2), 60 Stat. 1085, which was formerly classified to [section 427i of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section427i&num=0&edition=prelim), Agriculture, prior to editorial reclassification as [section 3105 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3105&num=0&edition=prelim).
 
 [Section 30168 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30168&num=0&edition=prelim), referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, § 31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
 

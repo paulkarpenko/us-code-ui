@@ -20,9 +20,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 662a was renumbered [section 2901 of this title](./chapter-029-reports.md#section-2901).
-
 #### Amendments
 2016—Pub. L. 114–120, § 101(d)(1)(A), (B), renumbered [section 662a of this title](./chapter-017-administration.md#section-662a) as this section.
 
@@ -63,7 +60,7 @@ Subsec. (b)(2). Pub. L. 114–120, § 101(d)(1)(C)(ii), substituted “described
 
   (D) other planned construction or improvement projects; and
 
-(3) recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such asset’s approved acquisition program baseline.
+(3) recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such 11 So in original. asset’s approved acquisition program baseline.
 
 **(c) Definitions.—** In this section—
 
@@ -90,9 +87,6 @@ Subsec. (b)(2). Pub. L. 114–120, § 101(d)(1)(C)(ii), substituted “described
 
 The words “with the fiscal year 1982 budget request” and “subsequent” are omitted as executed.
 
-#### Prior Provisions
-A prior section 663 was renumbered [section 2902 of this title](./chapter-029-reports.md#section-2902).
-
 #### Amendments
 2016—Pub. L. 114–120, § 101(d)(2), renumbered [section 663 of this title](./chapter-017-administration.md#section-663) as this section.
 
@@ -102,7 +96,7 @@ Subsec. (a)(1)(D). Pub. L. 114–120, § 204(b)(1)(B), substituted “based on t
 
 Subsec. (b). Pub. L. 114–120, § 204(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as (c) and amended subsec. (c) generally. Prior to amendment, text read as follows: “In this section, the term ‘unfunded priority’ means a program or mission requirement that—
+Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as (c) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘unfunded priority’ means a program or mission requirement that—
 
 “(1) has not been selected for funding in the applicable proposed budget;
 
@@ -254,9 +248,6 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 
 #### References in Text
 Section 562(c), referred to in subsec. (c)(2), was redesignated as section 562(b) by Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333.
-
-#### Prior Provisions
-A prior section 569a was renumbered [section 2903 of this title](./chapter-029-reports.md#section-2903).
 
 #### Amendments
 2016—Pub. L. 114–120, § 101(d)(3)(A), (B), renumbered [section 569a of this title](./chapter-015-acquisitions.md#section-569a) as this section.

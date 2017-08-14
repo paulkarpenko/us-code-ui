@@ -2,7 +2,7 @@
 title: 7
 chapter: '53'
 heading: COTTON RESEARCH AND PROMOTION
-section_count: 19
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -343,3 +343,42 @@ Section, Pub. L. 91–524, title VI, § 610, Nov. 30, 1970, 84 Stat. 1378; Pub. 
 
 #### Effective Date of Repeal
 Pub. L. 94–366, § 1, July 14, 1976, 90 Stat. 991, provided that this section is repealed effective Oct. 1, 1977.
+
+
+<a id="section-2120"></a>
+## § 2120. Cotton; investigation of new uses; cooperation with State and other agencies
+
+The Secretary of Agriculture and the Secretary of Commerce are authorized to engage in technical and scientific research in American-grown cotton and its byproducts and their present and potential uses, including new and additional commercial and scientific uses for cotton and its byproducts, and to diffuse such information among the people of the United States; and the Secretary of Agriculture and the Secretary of Commerce or their duly authorized representatives may cooperate with any department or agency of the Government, any State, Territory, District, or possession or department, agency, or political subdivision thereof, or any person in carrying out the purposes of this section in the District of Columbia and elsewhere.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 423 of this title](./chapter-017-miscellaneous-matters.md#section-423) prior to editorial reclassification and renumbering as this section.
+
+Section is comprised of act Apr. 12, 1928, ch. 362, and was not enacted as part of the Cotton Research and Promotion Act which comprises this chapter.
+
+
+<a id="section-2121"></a>
+## § 2121. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies
+
+The Secretary of Agriculture is authorized to investigate the ginning of cotton; to establish and maintain experimental ginning plants and laboratories; and to make such tests, demonstrations, and experiments, and such technical and scientific studies in relation to cotton ginning as he shall deem necessary and to publish the results thereof, with a view to developing improved ginning equipment and encouraging the use of improved methods, and he may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person, as he shall find to be necessary.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 424 of this title](./chapter-017-miscellaneous-matters.md#section-424) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of act Apr. 19, 1930, ch. 203, and not as part of the Cotton Research and Promotion Act which comprises this chapter.
+
+
+<a id="section-2122"></a>
+## § 2122. Authorization of appropriations for cotton ginning studies
+
+For the purposes of [section 2121 of this title](./chapter-053-cotton-research-and-promotion.md#section-2121) there is authorized to be appropriated, after June 30, 1931, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 425 of this title](./chapter-017-miscellaneous-matters.md#section-425) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of act Apr. 19, 1930, ch. 203, and not as part of the Cotton Research and Promotion Act which comprises this chapter.

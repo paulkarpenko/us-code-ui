@@ -2,7 +2,7 @@
 title: 43
 chapter: '35'
 heading: FEDERAL LAND POLICY AND MANAGEMENT
-section_count: 60
+section_count: 61
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -55,7 +55,7 @@ Pub. L. 100–409, § 1, Aug. 20, 1988, 102 Stat. 1086, provided that: “This A
 Pub. L. 94–579, title I, § 101, Oct. 21, 1976, 90 Stat. 2744, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Land Policy and Management Act of 1976’.”
 
 #### Savings Provision
-Pub. L. 94–579, title VII, § 701, Oct. 21, 1976, 90 Stat. 2786, provided that: “(a) Nothing in this Act, or in any amendment made by this Act [see Short Title note above], shall be construed as terminating any valid lease, permit, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act [Oct. 21, 1976]. “(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between this Act and the Acts of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j [1181a et seq., see Tables for classification]) and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail. “(c) All withdrawals, reservations, classifications, and designations in effect as of the date of approval of this Act shall remain in full force and effect until modified under the provisions of this Act or other applicable law. “(d) Nothing in this Act, or in any amendments made by this Act, shall be construed as permitting any person to place, or allow to be placed, spent oil shale, overburden, or byproducts from the recovery of other minerals found with oil shale, on any Federal land other than Federal land which has been leased for the recovery of shale oil under the Act of February 25, 1920 (41 Stat. 437, as amended; [30 U.S.C. 181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) et seq.). “(e) Nothing in this Act shall be construed as modifying, revoking, or changing any provision of the Alaska Native Claims Settlement Act (85 Stat. 688, as amended; [43 U.S.C. 1601](./chapter-033-alaska-native-claims-settlement.md#section-1601) et seq.). “(f) Nothing in this Act shall be deemed to repeal any existing law by implication. “(g) Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—“(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on public lands; “(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control; “(3) as displacing, superseding, limiting, or modifying any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States or of two or more States and the Federal Government; “(4) as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto; “(5) as modifying the terms of any interstate compact; “(6) as a limitation upon any State criminal statute or upon the police power of the respective States, or as derogating the authority of a local police officer in the performance of his duties, or as depriving any State or political subdivision thereof of any right it may have to exercise civil and criminal jurisdiction on the national resource lands; or as amending, limiting, or infringing the existing laws providing grants of lands to the States. “(h) All actions by the Secretary concerned under this Act shall be subject to valid existing rights. “(i) The adequacy of reports required by this Act to be submitted to the Congress or its committees shall not be subject to judicial review. “(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues to local governments under the Granger-Thye Act (64 Stat. 85, [16 U.S.C. 580h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section580h&num=0&edition=prelim)), under the Act of May 23, 1908 (35 Stat. 260, as amended; [16 U.S.C. 500](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section500&num=0&edition=prelim)), under the Act of March 4, 1913 (37 Stat. 843, as amended; [16 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section501&num=0&edition=prelim)), and under the Act of June 20, 1910 (36 Stat. 557).”
+Pub. L. 94–579, title VII, § 701, Oct. 21, 1976, 90 Stat. 2786, provided that: “(a) Nothing in this Act, or in any amendment made by this Act [see Short Title note above], shall be construed as terminating any valid lease, permit, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act [Oct. 21, 1976]. “(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between this Act and the Acts of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j [now [43 U.S.C. 2601](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2601) et seq., see Tables for classification]), and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail. “(c) All withdrawals, reservations, classifications, and designations in effect as of the date of approval of this Act shall remain in full force and effect until modified under the provisions of this Act or other applicable law. “(d) Nothing in this Act, or in any amendments made by this Act, shall be construed as permitting any person to place, or allow to be placed, spent oil shale, overburden, or byproducts from the recovery of other minerals found with oil shale, on any Federal land other than Federal land which has been leased for the recovery of shale oil under the Act of February 25, 1920 (41 Stat. 437, as amended; [30 U.S.C. 181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) et seq.). “(e) Nothing in this Act shall be construed as modifying, revoking, or changing any provision of the Alaska Native Claims Settlement Act (85 Stat. 688, as amended; [43 U.S.C. 1601](./chapter-033-alaska-native-claims-settlement.md#section-1601) et seq.). “(f) Nothing in this Act shall be deemed to repeal any existing law by implication. “(g) Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—“(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on public lands; “(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control; “(3) as displacing, superseding, limiting, or modifying any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States or of two or more States and the Federal Government; “(4) as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto; “(5) as modifying the terms of any interstate compact; “(6) as a limitation upon any State criminal statute or upon the police power of the respective States, or as derogating the authority of a local police officer in the performance of his duties, or as depriving any State or political subdivision thereof of any right it may have to exercise civil and criminal jurisdiction on the national resource lands; or as amending, limiting, or infringing the existing laws providing grants of lands to the States. “(h) All actions by the Secretary concerned under this Act shall be subject to valid existing rights. “(i) The adequacy of reports required by this Act to be submitted to the Congress or its committees shall not be subject to judicial review. “(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues to local governments under the Granger-Thye Act (64 Stat. 85, [16 U.S.C. 580h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section580h&num=0&edition=prelim)), under the Act of May 23, 1908 (35 Stat. 260, as amended; [16 U.S.C. 500](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section500&num=0&edition=prelim)), under the Act of March 4, 1913 (37 Stat. 843, as amended; [16 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section501&num=0&edition=prelim)), and under the Act of June 20, 1910 (36 Stat. 557).”
 
 #### Severability
 Pub. L. 94–579, title VII, § 707, Oct. 21, 1976, 90 Stat. 2794, provided that: “If any provision of this Act [see Short Title note set out above] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
@@ -702,7 +702,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 ## § 1735. Forfeitures and deposits
 **(a) Credit to separate account in Treasury; appropriation and availability** Any moneys received by the United States as a result of the forfeiture of a bond or other security by a resource developer or purchaser or permittee who does not fulfill the requirements of his contract or permit or does not comply with the regulations of the Secretary; or as a result of a compromise or settlement of any claim whether sounding in tort or in contract involving present or potential damage to the public lands shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available, until expended as the Secretary may direct, to cover the cost to the United States of any improvement, protection, or rehabilitation work on those public lands which has been rendered necessary by the action which has led to the forfeiture, compromise, or settlement.
 
-**(b) Expenditure of moneys collected administering Oregon and California Railroad and Coos Bay Wagon Road Grant lands** Any moneys collected under this Act in connection with lands administered under the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), shall be expended for the benefit of such land only.
+**(b) Expenditure of moneys collected administering Oregon and California Railroad and Coos Bay Wagon Road Grant lands** Any moneys collected under this Act in connection with lands administered under the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), 11 See References in Text note below. shall be expended for the benefit of such land only.
 
 **(c) Refunds** If any portion of a deposit or amount forfeited under this Act is found by the Secretary to be in excess of the cost of doing the work authorized under this Act, the Secretary, upon application or otherwise, may cause a refund of the amount in excess to be made from applicable funds.
 
@@ -711,12 +711,14 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 #### References in Text
 This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), referred to in subsec. (b), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
+Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), referred to in subsec. (b), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, which was formerly classified principally to sections 1181a to 1181f of this title prior to editorial reclassification, and is now classified principally to subchapter I (§ 2601 et seq.) of chapter 44 of this title. Section 3 of the Act, former [section 1181c of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181c), was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 1181f–1 to 1181f–4 of this title, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753, and were editorially reclassified as subchapter II (§ 2621 et seq.) of chapter 44 of this title. Sections 1181g to 1181j of this title, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270, and were editorially reclassified as subchapter III (§ 2631 et seq.) of chapter 44 of this title. For complete classification of these Acts to the Code, see Tables.
 
 #### Availability of Funds for Improvement, Protection, or Rehabilitation of Damaged Public Lands
 Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 ([43 U.S.C. 1735(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/a&num=0&edition=prelim)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act ([43 U.S.C. 1735(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/c&num=0&edition=prelim)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: Provided further, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 437.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2527.
 
@@ -1189,13 +1191,239 @@ Section was enacted as part of the Federal Land Assistance, Management, and Enha
 Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 
+<a id="section-1748c"></a>
+## § 1748c. Bureau of Land Management Foundation
+**(a) Definitions** In this section:
+
+(1) **Board** — The term “Board” means the Board of Directors of the Foundation established under subsection (c).
+
+(2) **Foundation** — The term “Foundation” means the Bureau of Land Management Foundation established by subsection (b)(1)(A).
+
+(3) **Public land** — The term “public land” has the meaning given the term “public lands” in [section 1702 of this title](./chapter-035-federal-land-policy-and-management.md#section-1702).
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(5) **Wild free-roaming horses and burros** — The term “wild free-roaming horses and burros” has the meaning given the term in [section 1332 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1332&num=0&edition=prelim).
+
+**(b) Establishment and purposes**
+
+(1) **Establishment**
+
+  (A) *In general* — There is established a foundation, to be known as the “Bureau of Land Management Foundation”.
+
+  (B) *Limitation* — The Foundation shall not be considered to be an agency or establishment of the United States.
+
+  (C) *Tax exemption* — The Foundation shall be considered to be a charitable and nonprofit corporation under [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim).
+
+(2) **Purposes** — The purposes of the Foundation are—
+
+  (A) to encourage, accept, and administer private gifts of money and real and personal property for the benefit of, or in connection with the activities and services of, the Bureau of Land Management;
+
+  (B) to carry out activities that advance the purposes for which public land is administered;
+
+  (C) to carry out and encourage educational, technical, scientific, and other assistance or activities that support the mission of the Bureau of Land Management; and
+
+  (D) to assist the Bureau of Land Management with challenges that could be better addressed with the support of a foundation, including—
+
+    (i) reclamation and conservation activities;
+
+    (ii) activities relating to wild free-roaming horses and burros; and
+
+    (iii) the stewardship of cultural and archeological treasures on public land.
+
+**(c) Board of Directors**
+
+(1) **Establishment**
+
+  (A) *In general* — The Foundation shall be governed by a Board of Directors.
+
+  (B) *Composition*
+
+    (i) *In general* — The Board shall consist of not more than 9 members.
+
+    (ii) *Ex-officio member* — The Director of the Bureau of Land Management shall be an ex-officio, nonvoting member of the Board.
+
+  (C) *Requirements*
+
+    (i) *Citizenship* — A member appointed to the Board shall be a citizen of the United States.
+
+    (ii) *Expertise* — A majority of members appointed to the Board shall have education or experience relating to natural, cultural, conservation, or other resource management, law, or research.
+
+    (iii) *Diverse points of view* — To the maximum extent practicable, the members of the Board shall represent diverse points of view.
+
+(2) **Date of initial appointment** — Not later than 1 year after May 5, 2017, the Secretary shall appoint the initial members of the Board.
+
+(3) **Terms**
+
+  (A) *In general* — Except as provided in subparagraph (B), a member of the Board shall be appointed for a term of 6 years.
+
+  (B) *Initial appointments* — The Secretary shall stagger the initial appointments to the Board, as the Secretary determines to be appropriate, in a manner that ensures that—
+
+    (i) 1/3 of the members shall serve for a term of 2 years;
+
+    (ii) 1/3 of the members shall serve for a term of 4 years; and
+
+    (iii) 1/3 of the members shall serve for a term of 6 years.
+
+  (C) *Vacancies* — A vacancy on the Board shall be filled—
+
+    (i) not later than 60 days after the date of the vacancy;
+
+    (ii) in the manner in which the original appointment was made; and
+
+    (iii) for the remainder of the term of the member vacating the Board.
+
+  (D) *Removal for failure to attend meetings*
+
+    (i) *In general* — A member of the Board may be removed from the Board by a majority vote of the Board, if the individual fails to attend 3 consecutive regularly scheduled meetings of the Board.
+
+    (ii) *Requirements* — A vacancy as the result of a removal under clause (i) shall be filled in accordance with subparagraph (C).
+
+  (E) *Limitation* — A member of the Board shall not serve more than 12 consecutive years on the Board.
+
+(4) **Chairperson**
+
+  (A) *In general* — The Board shall elect a Chairperson from among the members of the Board.
+
+  (B) *Term* — The Chairperson of the Board—
+
+    (i) shall serve as Chairperson for a 2-year term; and
+
+    (ii) may be reelected as Chairperson while serving as a member of the Board.
+
+(5) **Quorum** — A majority of the voting members of the Board shall constitute a quorum for the transaction of business of the Board.
+
+(6) **Meetings** — The Board shall meet—
+
+  (A) at the call of the Chairperson; but
+
+  (B) not less than once each calendar year.
+
+(7) **Reimbursement of expenses**
+
+  (A) *In general* — Serving as a member of the Board shall not constitute employment by the Federal Government for any purpose.
+
+  (B) *Reimbursement* — A member of the Board shall serve without pay, other than reimbursement for the actual and necessary traveling and subsistence expenses incurred in the performance of the duties of the member for the Foundation, in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+(8) **General powers** — The Board may—
+
+  (A) *appoint officers and employees in accordance with paragraph (9);*
+
+  (B) adopt a constitution and bylaws consistent with the purposes of the Foundation and this section; and
+
+  (C) carry out any other activities that may be necessary to function and to carry out this section.
+
+(9) **Officers and employees**
+
+  (A) *In general* — No officer or employee may be appointed to the Foundation until the date on which the Board determines that the Foundation has sufficient funds to pay for the service of the officer or employee.
+
+  (B) *Limitation* — Appointment as an officer or employee of the Foundation shall not constitute employment by the Federal Government.
+
+(10) **Limitation and conflicts of interest**
+
+  (A) *Prohibition on political activity* — The Foundation shall not participate or intervene in a political campaign on behalf of any candidate for public office.
+
+  (B) *Limitation on participation* — No member of the Board or officer or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any question before the Foundation that affects—
+
+    (i) the financial interests of the member of the Board, officer, or employee; or
+
+    (ii) the interests of any corporation partnership, entity, or organization in which the member of the Board, officer, or employee—
+
+      (I) is an officer, director, or trustee; or
+
+      (II) has any direct or indirect financial interest.
+
+**(d) Powers and obligations**
+
+(1) **In general** — The Foundation—
+
+  (A) shall have perpetual succession; and
+
+  (B) may conduct business throughout the several States, territories, and possessions of the United States.
+
+(2) **Notice; service of process**
+
+  (A) *Designated agent* — The Foundation shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
+
+  (B) *Service of process* — The serving of notice to, or service of process on, the agent required under this paragraph, or mailed to the business address of the agent, shall be deemed to be notice to, or the service of process on, the Foundation.
+
+(3) **Seal** — The Foundation shall have an official seal, to be selected by the Board, which shall be judicially noticed.
+
+(4) **Powers** — To carry out the purposes of the Foundation, the Foundation shall have, in addition to powers otherwise authorized by this section, the usual powers of a not-for-profit corporation in the District of Columbia, including the power—
+
+  (A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, absolutely or in trust, of real or personal property, or any income from, or other interest in, the property;
+
+  (B) to acquire by donation, gift, devise, purchase, or exchange, and to dispose of, any real or personal property or interest in the property;
+
+  (C) to sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income from property, unless limited by the instrument of transfer;
+
+  (D) to borrow money and issue bonds, debentures, or other debt instruments;
+
+  (E) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the members of the Board shall not be held personally liable, except in a case of gross negligence;
+
+  (F)
+
+    (i) to enter into contracts or other agreements with public agencies, private organizations, and persons; and
+
+    (ii) to make such payments as may be necessary to carry out the purposes of the contracts or agreements; and
+
+  (G) to carry out any activity necessary and proper to advance the purposes of the Foundation.
+
+(5) **Real property**
+
+  (A) *In general* — For purposes of this section, an interest in real property shall include mineral and water rights, rights-of-way, and easements, appurtenant or in gross.
+
+  (B) *Acceptance* — A gift, devise, or bequest of real property may be accepted by the Foundation, regardless of whether the property is encumbered, restricted, or subject to beneficial interests of a private person, if any current or future interest in the property is for the benefit of the Foundation.
+
+  (C) *Declining gifts* — The Foundation may, at the discretion of the Foundation, decline any gift, devise, or bequest of real property.
+
+  (D) *Prohibition on condemnation* — No land, water, or interest in land or water, that is owned by the Foundation shall be subject to condemnation by any State, political subdivision of a State, or agent or instrumentality of a State or political subdivision of a State.
+
+**(e) Administrative services and support**
+
+(1) **Funding**
+
+  (A) *In general* — For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other expenses, the Secretary may provide to the Foundation, from funds appropriated under subsection (j), such sums as are necessary for fiscal years 2017 and 2018.
+
+  (B) *Availability of funds* — Funds made available under subparagraph (A) shall remain available to the Foundation until expended for authorized purposes.
+
+(2) **Administrative expenses**
+
+  (A) *In general* — The Secretary may provide to the Foundation personnel, facilities, equipment, and other administrative services, subject to such limitations, terms, and conditions as the Secretary may establish.
+
+  (B) *Reimbursement* — The Foundation may reimburse the Secretary for any support provided under subparagraph (A), in whole or in part, and any reimbursement received by the Secretary under this subparagraph shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
+
+**(f) Volunteers** The Secretary may accept, without regard to the civil service classification laws (including regulations), the services of the Foundation, the Board, and the officers, employees, and agents of the Foundation, without compensation from the Department of the Interior, as volunteers for the performance of the functions under [section 1737(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1737/d&num=0&edition=prelim).
+
+**(g) Audits and report requirements**
+
+(1) **Audits** — For purposes of [section 10101 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section10101&num=0&edition=prelim), the Foundation shall be considered to be a private corporation established under Federal law.
+
+(2) **Annual reports** — At the end of each fiscal year, the Board shall submit to Congress a report that describes the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of the receipts, expenditures, and investments.
+
+**(h) United States release from liability**
+
+(1) **In general** — The United States shall not be liable for any debt, default, act, or omission of the Foundation.
+
+(2) **Full faith and credit** — The full faith and credit of the United States shall not extend to any obligation of the Foundation.
+
+**(i) Limitation on authority** Nothing in this section authorizes the Foundation to perform any function the authority for which is provided to the Bureau of Land Management under any other provision of law.
+
+**(j) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+
 <a id="section-1751"></a>
 ## § 1751. Grazing fees; feasibility study; contents; submission of report; annual distribution and use of range betterment funds; nature of distributions
 **(a)** The Secretary of Agriculture and the Secretary of the Interior shall jointly cause to be conducted a study to determine the value of grazing on the lands under their jurisdiction in the eleven Western States with a view to establishing a fee to be charged for domestic livestock grazing on such lands which is equitable to the United States and to the holders of grazing permits and leases on such lands. In making such study, the Secretaries shall take into consideration the costs of production normally associated with domestic livestock grazing in the eleven Western States, differences in forage values, and such other factors as may relate to the reasonableness of such fees. The Secretaries shall report the result of such study to the Congress not later than one year from and after October 21, 1976, together with recommendations to implement a reasonable grazing fee schedule based upon such study. If the report required herein has not been submitted to the Congress within one year after October 21, 1976, the grazing fee charge then in effect shall not be altered and shall remain the same until such report has been submitted to the Congress. Neither Secretary shall increase the grazing fee in the 1977 grazing year.
 
 **(b)**
 
-(1) Congress finds that a substantial amount of the Federal range lands is deteriorating in quality, and that installation of additional range improvements could arrest much of the continuing deterioration and could lead to substantial betterment of forage conditions with resulting benefits to wildlife, watershed protection, and livestock production. Congress therefore directs that 50 per centum or $10,000,000 per annum, whichever is greater of all moneys received by the United States as fees for grazing domestic livestock on public lands (other than from ceded Indian lands) under the Taylor Grazing Act (48 Stat. 1269; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.) and the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181d](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181d)), and on lands in National Forests in the sixteen contiguous Western States under the provisions of this section shall be credited to a separate account in the Treasury, one-half of which is authorized to be appropriated and made available for use in the district, region, or national forest from which such moneys were derived, as the respective Secretary may direct after consultation with district, regional, or national forest user representatives, for the purpose of on-the-ground range rehabilitation, protection, and improvements on such lands, and the remaining one-half shall be used for on-the-ground range rehabilitation, protection, and improvements as the Secretary concerned directs. Any funds so appropriated shall be in addition to any other appropriations made to the respective Secretary for planning and administration of the range betterment program and for other range management. Such rehabilitation, protection, and improvements shall include all forms of range land betterment including, but not limited to, seeding and reseeding, fence construction, weed control, water development, and fish and wildlife habitat enhancement as the respective Secretary may direct after consultation with user representatives. The annual distribution and use of range betterment funds authorized by this paragraph shall not be considered a major Federal action requiring a detailed statement pursuant to section 4332(c) 11 So in original. Probably means “4332(2)(C)”. of title 42.
+(1) Congress finds that a substantial amount of the Federal range lands is deteriorating in quality, and that installation of additional range improvements could arrest much of the continuing deterioration and could lead to substantial betterment of forage conditions with resulting benefits to wildlife, watershed protection, and livestock production. Congress therefore directs that 50 per centum or $10,000,000 per annum, whichever is greater of all moneys received by the United States as fees for grazing domestic livestock on public lands (other than from ceded Indian lands) under the Taylor Grazing Act (48 Stat. 1269; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.) and the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181d](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181d)),11 See References in Text note below. and on lands in National Forests in the sixteen contiguous Western States under the provisions of this section shall be credited to a separate account in the Treasury, one-half of which is authorized to be appropriated and made available for use in the district, region, or national forest from which such moneys were derived, as the respective Secretary may direct after consultation with district, regional, or national forest user representatives, for the purpose of on-the-ground range rehabilitation, protection, and improvements on such lands, and the remaining one-half shall be used for on-the-ground range rehabilitation, protection, and improvements as the Secretary concerned directs. Any funds so appropriated shall be in addition to any other appropriations made to the respective Secretary for planning and administration of the range betterment program and for other range management. Such rehabilitation, protection, and improvements shall include all forms of range land betterment including, but not limited to, seeding and reseeding, fence construction, weed control, water development, and fish and wildlife habitat enhancement as the respective Secretary may direct after consultation with user representatives. The annual distribution and use of range betterment funds authorized by this paragraph shall not be considered a major Federal action requiring a detailed statement pursuant to section 4332(c) 22 So in original. Probably means “4332(2)(C)”. of title 42.
 
 (2) All distributions of moneys made under subsection (b)(1) shall be in addition to distributions made under section 10 of the Taylor Grazing Act [[43 U.S.C. 315i](./chapter-8a-grazing-lands.md#section-315i)] and shall not apply to distribution of moneys made under section 11 of that Act [[43 U.S.C. 315j](./chapter-8a-grazing-lands.md#section-315j)]. The remaining moneys received by the United States as fees for grazing domestic livestock on the public lands shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -1204,7 +1432,7 @@ Section was enacted as part of the Federal Land Assistance, Management, and Enha
 #### References in Text
 The Taylor Grazing Act (48 Stat. 1269; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.), referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
 
-Act of August 28, 1937, referred to in subsec. (b)(2), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, as amended, which is classified to sections 1181a to 1181f of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 28, 1937, referred to in subsec. (b)(1), probably means section 4 of act Aug. 28, 1937, ch. 876, title I, 50 Stat. 875, which was formerly classified to [section 1181d of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181d) prior to editorial reclassification as [section 2603 of this title](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2603). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Subsec. (b)(2) of this section is comprised of second and third sentences of section 401(b)(2) of Pub. L. 94–579. The first sentence of such section 401(b)(2) amended [section 315i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315i/b&num=0&edition=prelim).
@@ -1212,13 +1440,16 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 #### Amendments
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
+#### Credit on Grazing Fee for Approved Conservation Practices
+Pub. L. 115–31, div. G, title III, May 5, 2017, 131 Stat. 477, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
+
 #### Moratorium on Increase of Grazing Fee for 1978 Grazing Year
 Pub. L. 95–321, July 21, 1978, 92 Stat. 394, in order to allow the Congress sufficient time to analyze the report and recommendations of the Secretaries of Interior and Agriculture under subsec. (a) of this section and to take appropriate action, provided that the 1978 grazing year fee was not to be raised by the Secretary of the Interior for the grazing of livestock on public lands nor by the Secretary of Agriculture for such grazing on lands under the jurisdiction of the Forest Service.
 
 
 <a id="section-1752"></a>
 ## § 1752. Grazing leases and permits
-**(a) Terms and conditions** Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
+**(a) Terms and conditions** Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j),11 See References in Text note below. or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
 
 **(b) Terms of lesser duration** Permits or leases may be issued by the Secretary concerned for a period shorter than ten years where the Secretary concerned determines that—
 
@@ -1285,7 +1516,7 @@ Pub. L. 95–321, July 21, 1978, 92 Stat. 394, in order to allow the Congress su
 #### References in Text
 Act of June 28, 1934, referred to in subsec. (a), is act June 28, 1934, ch. 865, 48 Stat. 1269, known as the Taylor Grazing Act, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
 
-Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
+Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), referred to in subsec. (a), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, which was formerly classified principally to sections 1181a to 1181f of this title prior to editorial reclassification, and is now classified principally to subchapter I (§ 2601 et seq.) of chapter 44 of this title. Section 3 of the Act, former [section 1181c of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181c), was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 1181f–1 to 1181f–4 of this title, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753, and were editorially reclassified as subchapter II (§ 2621 et seq.) of chapter 44 of this title. Sections 1181g to 1181j of this title, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270, and were editorially reclassified as subchapter III (§ 2631 et seq.) of chapter 44 of this title. For complete classification of these Acts to the Code, see Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (c)(2), (4) and (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 

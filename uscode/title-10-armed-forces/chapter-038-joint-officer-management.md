@@ -334,7 +334,7 @@ Pub. L. 99–433, title IV, § 406(d), Oct. 1, 1986, 100 Stat. 1033, provided th
 
 **(d) Full Tour of Duty.—** An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
-(1) A joint duty assignment that meets the the requirement in subsection (a).
+(1) A joint duty assignment that meets the the 11 So in original. requirement in subsection (a).
 
 (2) Accrued joint experience in joint duty assignments as described in subsection (e).
 

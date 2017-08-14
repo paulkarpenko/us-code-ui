@@ -116,14 +116,14 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 **(c) Supplemental criteria and reports** The Administrator shall from time to time review and, as appropriate, revise or supplement any criteria or reports published under this section.
 
-**(d) Publication in Federal Register** Any report (or revision thereof) under subsection (b)(1) of this section identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.
+**(d) Publication in Federal Register** Any report (or revision thereof) under subsection (b)(1) identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.
 
 
 <a id="section-4905"></a>
 ## § 4905. Noise emission standards for products distributed in commerce
 **(a) Proposed regulations**
 
-(1) The Administrator shall publish proposed regulations, meeting the requirements of subsection (c) of this section, for each product—
+(1) The Administrator shall publish proposed regulations, meeting the requirements of subsection (c), for each product—
 
   (A) which is identified (or is part of a class identified) in any report published under [section 4904(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4904/b/1&num=0&edition=prelim) as a major source of noise,
 
@@ -145,7 +145,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
   (B) In the case of any product described in paragraph (1) which is identified (or is part of a class identified) as a major source of noise in a report published under [section 4904(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4904/b/1&num=0&edition=prelim) after publication of the initial proposed regulations under subparagraph (A) of this paragraph, regulations under paragraph (1) for such product shall be proposed and published by the Administrator not later than eighteen months after such report is published.
 
-(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
+(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c), for such product—
 
   (A) not earlier than six months after publication of such proposed regulations, and
 
@@ -155,11 +155,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
     (ii) in the case of any other product, twenty-four months after the publication of the report under [section 4904(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4904/b/1&num=0&edition=prelim) identifying it (or a class of products of which it is a part) as a major source of noise.
 
-**(b) Authority to publish regulations not otherwise required** The Administrator may publish proposed regulations, meeting the requirements of subsection (c) of this section, for any product for which he is not required by subsection (a) of this section to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c) of this section, for such product.
+**(b) Authority to publish regulations not otherwise required** The Administrator may publish proposed regulations, meeting the requirements of subsection (c), for any product for which he is not required by subsection (a) to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c), for such product.
 
 **(c) Contents of regulations; appropriate consideration of other standards; participation by interested persons; revision**
 
-(1) Any regulation prescribed under subsection (a) or (b) of this section (and any revision thereof) respecting a product shall include a noise emission standard which shall set limits on noise emissions from such product and shall be a standard which in the Administrator’s judgment, based on criteria published under [section 4904 of this title](./chapter-065-noise-control.md#section-4904), is requisite to protect the public health and welfare, taking into account the magnitude and conditions of use of such product (alone or in combination with other noise sources), the degree of noise reduction achievable through the application of the best available technology, and the cost of compliance. In establishing such a standard for any product, the Administrator shall give appropriate consideration to standards under other laws designed to safeguard the health and welfare of persons, including any standards under chapter 301 of title 49, the Clean Air Act [[42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.], and the Federal Water Pollution Control Act [[33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.]. Any such noise emission standards shall be a performance standard. In addition, any regulation under subsection (a) or (b) of this section (and any revision thereof) may contain testing procedures necessary to assure compliance with the emission standard in such regulation, and may contain provisions respecting instructions of the manufacturer for the maintenance, use, or repair of the product.
+(1) Any regulation prescribed under subsection (a) or (b) of this section (and any revision thereof) respecting a product shall include a noise emission standard which shall set limits on noise emissions from such product and shall be a standard which in the Administrator’s judgment, based on criteria published under [section 4904 of this title](./chapter-065-noise-control.md#section-4904), is requisite to protect the public health and welfare, taking into account the magnitude and conditions of use of such product (alone or in combination with other noise sources), the degree of noise reduction achievable through the application of the best available technology, and the cost of compliance. In establishing such a standard for any product, the Administrator shall give appropriate consideration to standards under other laws designed to safeguard the health and welfare of persons, including any standards under chapter 301 of title 49, the Clean Air Act [[42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.], and the Federal Water Pollution Control Act [[33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.]. Any such noise emission standards shall be a performance standard. In addition, any regulation under subsection (a) or (b) (and any revision thereof) may contain testing procedures necessary to assure compliance with the emission standard in such regulation, and may contain provisions respecting instructions of the manufacturer for the maintenance, use, or repair of the product.
 
 (2) After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of [section 553(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/c&num=0&edition=prelim).
 
@@ -216,7 +216,7 @@ Section, Pub. L. 92–574, § 7(a), Oct. 27, 1972, 86 Stat. 1239, related to a s
 
 (2) which is sold wholly or in part on the basis of its effectiveness in reducing noise.
 
-**(b) Manner of notice; form; methods and units of measurement** For each product (or class thereof) designated under subsection (a) of this section the Administrator shall by regulation require that notice be given to the prospective user of the level of the noise the product emits, or of its effectiveness in reducing noise, as the case may be. Such regulations shall specify (1) whether such notice shall be affixed to the product or to the outside of its container, or to both, at the time of its sale to the ultimate purchaser or whether such notice shall be given to the prospective user in some other manner, (2) the form of the notice, and (3) the methods and units of measurement to be used. [Section 4905(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4905/c/2&num=0&edition=prelim) shall apply to the prescribing of any regulation under this section.
+**(b) Manner of notice; form; methods and units of measurement** For each product (or class thereof) designated under subsection (a) the Administrator shall by regulation require that notice be given to the prospective user of the level of the noise the product emits, or of its effectiveness in reducing noise, as the case may be. Such regulations shall specify (1) whether such notice shall be affixed to the product or to the outside of its container, or to both, at the time of its sale to the ultimate purchaser or whether such notice shall be given to the prospective user in some other manner, (2) the form of the notice, and (3) the methods and units of measurement to be used. [Section 4905(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4905/c/2&num=0&edition=prelim) shall apply to the prescribing of any regulation under this section.
 
 **(c) State regulation of product labeling** This section does not prevent any State or political subdivision thereof from regulating product labeling or information respecting products in any way not in conflict with regulations prescribed by the Administrator under this section.
 
@@ -229,7 +229,7 @@ The Secretary of the Treasury shall, in consultation with the Administrator, iss
 
 <a id="section-4909"></a>
 ## § 4909. Prohibited acts
-**(a)** Except as otherwise provided in subsection (b) of this section, the following acts or the causing thereof are prohibited:
+**(a)** Except as otherwise provided in subsection (b), the following acts or the causing thereof are prohibited:
 
 (1) In the case of a manufacturer, to distribute in commerce any new product manufactured after the effective date of a regulation prescribed under [section 4905 of this title](./chapter-065-noise-control.md#section-4905) which is applicable to such product, except in conformity with such regulation.
 
@@ -247,9 +247,9 @@ The Secretary of the Treasury shall, in consultation with the Administrator, iss
 
 **(b)**
 
-(1) For the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security, the Administrator may exempt for a specified period of time any product, or class thereof, from paragraphs (1), (2), (3), and (5) of subsection (a) of this section, upon such terms and conditions as he may find necessary to protect the public health or welfare.
+(1) For the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security, the Administrator may exempt for a specified period of time any product, or class thereof, from paragraphs (1), (2), (3), and (5) of subsection (a), upon such terms and conditions as he may find necessary to protect the public health or welfare.
 
-(2) Paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for use outside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.
+(2) Paragraphs (1), (2), (3), and (4) of subsection (a) shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for use outside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.
 
 
 <a id="section-4910"></a>
@@ -280,9 +280,9 @@ The Secretary of the Treasury shall, in consultation with the Administrator, iss
 
 <a id="section-4911"></a>
 ## § 4911. Citizen suits
-**(a) Authority to commence suits** Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
+**(a) Authority to commence suits** Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—
 
-(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) 11 So in original. Probably should be subsection “(f)”. of this section), or
+(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) 11 So in original. Probably should be subsection “(f)”.), or
 
 (2) against—
 
@@ -293,13 +293,13 @@ The district courts of the United States shall have jurisdiction, without regard
 
 **(b) Notice** No action may be commenced—
 
-(1) under subsection (a)(1) of this section—
+(1) under subsection (a)(1)—
 
   (A) prior to sixty days after the plaintiff has given notice of the violation (i) to the Administrator of the Environmental Protection Agency (and to the Federal Aviation Administrator in the case of a violation of a noise control requirement under such [section 44715 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44715&num=0&edition=prelim)) and (ii) to any alleged violator of such requirement, or
 
   (B) if an Administrator has commenced and is diligently prosecuting a civil action to require compliance with the noise control requirement, but in any such action in a court of the United States any person may intervene as a matter of right, or
 
-(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
+(2) under subsection (a)(2) prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
 Notice under this subsection shall be given in such manner as the Administrator of the Environmental Protection Agency shall prescribe by regulation.
 
 **(c) Intervention** In an action under this section, the Administrator of the Environmental Protection Agency, if not a party, may intervene as a matter of right. In an action under this section respecting a noise control requirement under [section 44715 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44715&num=0&edition=prelim), the Administrator of the Federal Aviation Administration, if not a party, may also intervene as a matter of right.

@@ -22,6 +22,11 @@ Pub. L. 101–369, § 3, Aug. 15, 1990, 104 Stat. 450, provided that: “This Ac
 
 Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter as if specifically set forth herein, except that for the purposes of this chapter “the Convention” shall mean the Inter-American Convention.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).
+
 
 <a id="section-303"></a>
 ## § 303. Order to compel arbitration; appointment of arbitrators; locale
@@ -29,11 +34,21 @@ Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter a
 
 **(b)** In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).
+
 
 <a id="section-304"></a>
 ## § 304. Recognition and enforcement of foreign arbitral decisions and awards; reciprocity
 
 Arbitral decisions or awards made in the territory of a foreign State shall, on the basis of reciprocity, be recognized and enforced under this chapter only if that State has ratified or acceded to the Inter-American Convention.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).
 
 
 <a id="section-305"></a>
@@ -45,6 +60,11 @@ When the requirements for application of both the Inter-American Convention and 
 
 (2) In all other cases the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, shall apply.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).
+
 
 <a id="section-306"></a>
 ## § 306. Applicable rules of Inter-American Commercial Arbitration Commission
@@ -52,8 +72,18 @@ When the requirements for application of both the Inter-American Convention and 
 
 **(b)** In the event the rules of procedure of the Inter-American Commercial Arbitration Commission are modified or amended in accordance with the procedures for amendment of the rules of that Commission, the Secretary of State, by regulation in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), consistent with the aims and purposes of this Convention, may prescribe that such modifications or amendments shall be effective for purposes of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).
+
 
 <a id="section-307"></a>
 ## § 307. Chapter 1; residual application
 
 Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).

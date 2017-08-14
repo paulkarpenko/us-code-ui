@@ -144,7 +144,7 @@ Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided 
 
     (iii) be performance-based and objectively stated, unless clearly inappropriate; and
 
-  (B) except as provided in subsection (b) of this section, shall be established in accordance with the consensus standards development process.
+  (B) except as provided in subsection (b), shall be established in accordance with the consensus standards development process.
 
 (2) **Consensus standards and regulatory development process**
 
@@ -174,7 +174,7 @@ Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided 
 
     (i) provide periodic recommendations to the Secretary to adopt, revise, and interpret the Federal manufactured housing construction and safety standards in accordance with this subsection;
 
-    (ii) provide periodic recommendations to the Secretary to adopt, revise, and interpret the procedural and enforcement regulations, including regulations specifying the permissible scope and conduct of monitoring in accordance with subsection (b) of this section;
+    (ii) provide periodic recommendations to the Secretary to adopt, revise, and interpret the procedural and enforcement regulations, including regulations specifying the permissible scope and conduct of monitoring in accordance with subsection (b);
 
     (iii) be organized and carry out its business in a manner that guarantees a fair opportunity for the expression and consideration of various positions and for public participation; and
 
@@ -288,7 +288,7 @@ Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided 
 
       (II) provide an opportunity for public comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
 
-  (D) *Final order* — Any final standard under this paragraph shall become effective pursuant to subsection (c) of this section.
+  (D) *Final order* — Any final standard under this paragraph shall become effective pursuant to subsection (c).
 
 (6) **Failure to act** — If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month period beginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
 
@@ -328,15 +328,15 @@ Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided 
 
     (ii) cause to be published in the Federal Register the rejected proposed regulation or interpretive bulletin, the reasons for rejection, and any recommended modifications set forth.
 
-(5) **Authority to act and emergency** — If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
+(5) **Authority to act and emergency** — If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) or in this subsection, if the Secretary—
 
   (A) provides to the consensus committee a written description and sets forth the reasons why action is necessary and all supporting documentation; and
 
   (B) issues the order after notice and an opportunity for public comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), and causes the order to be published in the Federal Register.
 
-(6) **Changes** — Any statement of policies, practices, or procedures relating to construction and safety standards, regulations, inspections, monitoring, or other enforcement activities that constitutes a statement of general or particular applicability to implement, interpret, or prescribe law or policy by the Secretary is subject to subsection (a) of this section or this subsection. Any change adopted in violation of subsection (a) of this section or this subsection is void.
+(6) **Changes** — Any statement of policies, practices, or procedures relating to construction and safety standards, regulations, inspections, monitoring, or other enforcement activities that constitutes a statement of general or particular applicability to implement, interpret, or prescribe law or policy by the Secretary is subject to subsection (a) or this subsection. Any change adopted in violation of subsection (a) or this subsection is void.
 
-(7) **Transition** — Until the date on which the consensus committee is appointed pursuant to subsection (a)(3) of this section, the Secretary may issue proposed orders, pursuant to notice and comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) that are not developed under the procedures set forth in this section for new and revised standards.
+(7) **Transition** — Until the date on which the consensus committee is appointed pursuant to subsection (a)(3), the Secretary may issue proposed orders, pursuant to notice and comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) that are not developed under the procedures set forth in this section for new and revised standards.
 
 **(c) Effective date of orders establishing standards** Each order establishing a Federal manufactured home construction and safety standard shall specify the date such standard is to take effect, which shall not be sooner than one hundred and eighty days or later than one year after the date such order is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest, and publishes his reasons for such finding.
 
@@ -372,7 +372,7 @@ Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided 
 
 (3) The energy conservation standards established under this subsection shall take into consideration the design and factory construction techniques of manufactured homes and shall provide for alternative practices that result in net estimated energy consumption equal to or less than the specified standards.
 
-**(h) New performance standards for hardboard siding** The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer’s costs for maintenance and any other relevant information pursuant to subsection (e) of this section. The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
+**(h) New performance standards for hardboard siding** The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer’s costs for maintenance and any other relevant information pursuant to subsection (e). The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
 
 ### Statutory Notes
 
@@ -399,7 +399,7 @@ Subsec. (h). Pub. L. 106–569, § 604(7), redesignated subsec. (j) as (h). Form
 
 Subsec. (i). Pub. L. 106–569, § 604(7), redesignated subsec. (i) as (g).
 
-Subsec. (j). Pub. L. 106–569, § 604(6), (7), substituted “subsection (e) of this section” for “subsection (f) of this section” and redesignated subsec. (j) as (h).
+Subsec. (j). Pub. L. 106–569, § 604(6), (7), substituted “subsection (e)” for “subsection (f)” and redesignated subsec. (j) as (h).
 
 1992—Subsec. (j). Pub. L. 102–550 added subsec. (j).
 
@@ -420,7 +420,7 @@ Pub. L. 102–486, title I, § 104(c), Oct. 24, 1992, 106 Stat. 2792, provided t
 
 <a id="section-5404"></a>
 ## § 5404. Manufactured home installation
-**(a) Provision of installation design and instructions** A manufacturer shall provide with each manufactured home, design and instructions for the installation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2) of this section, a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
+**(a) Provision of installation design and instructions** A manufacturer shall provide with each manufactured home, design and instructions for the installation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2), a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
 
 **(b) Model manufactured home installation standards**
 
@@ -428,13 +428,13 @@ Pub. L. 102–486, title I, § 104(c), Oct. 24, 1992, 106 Stat. 2792, provided t
 
   (A) the manufactured home designs that have been approved by a design approval primary inspection agency; and
 
-  (B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a) of this section.
+  (B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a).
 
 (2) **Establishment of model standards** — Not later than 12 months after receiving the proposed model standards submitted under paragraph (1), the Secretary shall develop and establish model manufactured home installation standards, which shall, to the maximum extent practicable, taking into account the factors described in [section 5403(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5403/e&num=0&edition=prelim), be consistent with—
 
   (A) the manufactured home designs that have been approved by a design approval primary inspection agency; and
 
-  (B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a) of this section.
+  (B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a).
 
 (3) **Factors for consideration**
 
@@ -460,9 +460,9 @@ Pub. L. 102–486, title I, § 104(c), Oct. 24, 1992, 106 Stat. 2792, provided t
 
   (A) installation standards that, in the determination of the Secretary, provide protection to the residents of manufactured homes that equals or exceeds the protection provided to those residents by—
 
-    (i) the model manufactured home installation standards established by the Secretary under subsection (b)(2) of this section; or
+    (i) the model manufactured home installation standards established by the Secretary under subsection (b)(2); or
 
-    (ii) the designs and instructions provided by manufacturers under subsection (a) of this section, if the Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2) of this section;
+    (ii) the designs and instructions provided by manufacturers under subsection (a), if the Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2);
 
   (B) the training and licensing of manufactured home installers; and
 
@@ -495,7 +495,7 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 (6) The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.
 
-**(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a) of this section.
+**(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a).
 
 
 <a id="section-5406"></a>
@@ -591,7 +591,7 @@ The Secretary is authorized to advise, assist, and cooperate with other Federal 
 ## § 5409. Prohibited acts; exemptions
 **(a)** No person shall—
 
-(1) make use of any means of transportation or communication affecting interstate or foreign commerce or the mails to manufacture for sale, lease, sell, offer for sale or lease, or introduce or deliver, or import into the United States, any manufactured home which is manufactured on or after the effective date of any applicable Federal manufactured home construction and safety standard under this chapter and which does not comply with such standard, except as provided in subsection (b) of this section, where such manufacture, lease, sale, offer for sale or lease, introduction, delivery, or importation affects commerce;
+(1) make use of any means of transportation or communication affecting interstate or foreign commerce or the mails to manufacture for sale, lease, sell, offer for sale or lease, or introduce or deliver, or import into the United States, any manufactured home which is manufactured on or after the effective date of any applicable Federal manufactured home construction and safety standard under this chapter and which does not comply with such standard, except as provided in subsection (b), where such manufacture, lease, sale, offer for sale or lease, introduction, delivery, or importation affects commerce;
 
 (2) fail or refuse to permit access to or copying of records, or fail to make reports or provide information, or fail or refuse to permit entry or inspection, as required under [section 5413 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5413);
 
@@ -607,15 +607,15 @@ The Secretary is authorized to advise, assist, and cooperate with other Federal 
 
 **(b)**
 
-(1) Paragraph (1) of subsection (a) of this section shall not apply to the sale, the offer for sale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
+(1) Paragraph (1) of subsection (a) shall not apply to the sale, the offer for sale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 
-(2) For purposes of [section 5410 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5410), paragraph (1) of subsection (a) of this section shall not apply to any person who establishes that he did not have reason to know in the exercise of due care that such manufactured home is not in conformity with applicable Federal manufactured home construction and safety standards, or to any person who, prior to such first purchase, holds a certificate issued by the manufacturer or importer of such manufactured home to the effect that such manufactured home conforms to all applicable Federal manufactured home construction and safety standards, unless such person knows that such manufactured home does not so conform.
+(2) For purposes of [section 5410 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5410), paragraph (1) of subsection (a) shall not apply to any person who establishes that he did not have reason to know in the exercise of due care that such manufactured home is not in conformity with applicable Federal manufactured home construction and safety standards, or to any person who, prior to such first purchase, holds a certificate issued by the manufacturer or importer of such manufactured home to the effect that such manufactured home conforms to all applicable Federal manufactured home construction and safety standards, unless such person knows that such manufactured home does not so conform.
 
-(3) A manufactured home offered for importation in violation of paragraph (1) of subsection (a) of this section shall be refused admission into the United States under joint regulations issued by the Secretary of the Treasury and the Secretary, except that the Secretary of the Treasury and the Secretary may, by such regulations, provide for authorizing the importation of such manufactured home into the United States upon such terms and conditions (including the furnishing of a bond) as may appear to them appropriate to insure that any such manufactured home will be brought into conformity with any applicable Federal manufactured home construction or safety standard prescribed under this chapter, or will be exported from, or forfeited to, the United States.
+(3) A manufactured home offered for importation in violation of paragraph (1) of subsection (a) shall be refused admission into the United States under joint regulations issued by the Secretary of the Treasury and the Secretary, except that the Secretary of the Treasury and the Secretary may, by such regulations, provide for authorizing the importation of such manufactured home into the United States upon such terms and conditions (including the furnishing of a bond) as may appear to them appropriate to insure that any such manufactured home will be brought into conformity with any applicable Federal manufactured home construction or safety standard prescribed under this chapter, or will be exported from, or forfeited to, the United States.
 
 (4) The Secretary of the Treasury and the Secretary may, by joint regulations, permit the importation of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 
-(5) Paragraph (1) of subsection (a) of this section shall not apply in the case of a manufactured home intended solely for export, and so labeled or tagged on the manufactured home itself and on the outside of the container, if any, in which it is to be exported.
+(5) Paragraph (1) of subsection (a) shall not apply in the case of a manufactured home intended solely for export, and so labeled or tagged on the manufactured home itself and on the outside of the container, if any, in which it is to be exported.
 
 **(c)** Compliance with any Federal manufactured home construction or safety standard issued under this chapter does not exempt any person from any liability under common law.
 
@@ -674,9 +674,9 @@ Rule 42 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 (1) the manufacturer shall immediately repurchase such manufactured home from such distributor or retailer at the price paid by such distributor or retailer, plus all transportation charges involved and a reasonable reimbursement of not less than 1 per centum per month of such price paid prorated from the date of receipt by certified mail of notice of such nonconformance to the date of repurchase by the manufacturer; or
 
 (2) the manufacturer, at his own expense, shall immediately furnish the purchasing distributor or retailer the required conforming part or parts or equipment for installation by the distributor or retailer on or in such manufactured home, and for the installation involved the manufacturer shall reimburse such distributor or retailer for the reasonable value of such installation plus a reasonable reimbursement of not less than 1 per centum per month of the manufacturer’s or distributor’s selling price prorated from the date of receipt by certified mail of notice of such nonconformance to the date such vehicle is brought into conformance with applicable Federal standards, so long as the distributor or retailer proceeds with reasonable diligence with the installation after the required part or equipment is received.
-The value of such reasonable reimbursements as specified in paragraphs (1) and (2) of this subsection shall be fixed by mutual agreement of the parties, or, failing such agreement, by the court pursuant to the provisions of subsection (b) of this section.
+The value of such reasonable reimbursements as specified in paragraphs (1) and (2) of this subsection shall be fixed by mutual agreement of the parties, or, failing such agreement, by the court pursuant to the provisions of subsection (b).
 
-**(b)** If any manufacturer fails to comply with the requirements of subsection (a) of this section, then the distributor or retailer, as the case may be, to whom such manufactured home has been sold may bring an action seeking a court injunction compelling compliance with such requirements on the part of such manufacturer. Such action may be brought in any district court in the United States in the district in which such manufacturer resides, or is found, or has an agent, without regard to the amount in controversy, and the person bringing the action shall also be entitled to recover any damage sustained by him, as well as all court costs plus reasonable attorneys’ fees. Any action brought pursuant to this section shall be forever barred unless commenced within three years after the cause of action shall have accrued.
+**(b)** If any manufacturer fails to comply with the requirements of subsection (a), then the distributor or retailer, as the case may be, to whom such manufactured home has been sold may bring an action seeking a court injunction compelling compliance with such requirements on the part of such manufacturer. Such action may be brought in any district court in the United States in the district in which such manufacturer resides, or is found, or has an agent, without regard to the amount in controversy, and the person bringing the action shall also be entitled to recover any damage sustained by him, as well as all court costs plus reasonable attorneys’ fees. Any action brought pursuant to this section shall be forever barred unless commenced within three years after the cause of action shall have accrued.
 
 ### Statutory Notes
 
@@ -699,7 +699,7 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
   (A) to enter, at reasonable times and without advance notice, any factory, warehouse, or establishment in which manufactured homes are manufactured, stored, or held, for sale; and
 
-  (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c) of this section. Each such inspection shall be commenced and completed with reasonable promptness.
+  (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c). Each such inspection shall be commenced and completed with reasonable promptness.
 
 (2) The Secretary is authorized to contract with State and local governments and private inspection organizations to carry out his functions under this subsection.
 
@@ -727,7 +727,7 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 (2) the first person who purchases a manufactured home for purposes other than resale, at the time of such purchase or in printed matter placed in the manufactured home.
 
-**(h) Disclosure of confidential information and trade secrets** All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+**(h) Disclosure of confidential information and trade secrets** All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
 ### Statutory Notes
 
@@ -747,15 +747,15 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 ## § 5414. Notification and correction of defects by manufacturer
 **(a) Notice to purchaser within reasonable time after discovery of defect** Every manufacturer of manufactured homes shall furnish notification of any defect in any manufactured home produced by such manufacturer which he determines, in good faith, relates to a Federal manufactured home construction or safety standard or contains a defect which constitutes an imminent safety hazard to the purchaser of such manufactured home, within a reasonable time after such manufacturer has discovered such defect.
 
-**(b) Notification by mail** The notification required by subsection (a) of this section shall be accomplished—
+**(b) Notification by mail** The notification required by subsection (a) shall be accomplished—
 
 (1) by mail to the first purchaser (not including any retailer or distributor of such manufacturer) of the manufactured home containing the defect, and to any subsequent purchaser to whom any warranty on such manufactured home has been transferred;
 
-(2) by mail to any other person who is a registered owner of such manufactured home and whose name and address has been ascertained pursuant to procedures established under subsection (f) of this section; and
+(2) by mail to any other person who is a registered owner of such manufactured home and whose name and address has been ascertained pursuant to procedures established under subsection (f); and
 
 (3) by mail or other more expeditious means to the retailer or retailers of such manufacturer to whom such manufactured home was delivered.
 
-**(c) Form and requisites of notification** The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants’ safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
+**(c) Form and requisites of notification** The notification required by subsection (a) shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants’ safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) or otherwise, or is a defect which must be corrected at the expense of the owner.
 
 **(d) Copy to Secretary of all notices, bulletins, and communications sent by manufacturer to retailers and purchasers concerning defects; disclosure to public by Secretary** Every manufacturer of manufactured homes shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the retailers of such manufacturer or purchasers of manufactured homes of such manufacturer regarding any defect in any such manufactured home produced by such manufacturer. The Secretary shall disclose to the public so much of the information contained in such notices or other information obtained under [section 5413 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5413) as he deems will assist in carrying out the purposes of this chapter, but he shall not disclose any information which contains or relates to a trade secret, or which, if disclosed, would put such manufacturer at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purposes of this chapter.
 
@@ -768,14 +768,14 @@ then he shall immediately notify the manufacturer of such manufactured home of s
 
 **(f) Maintenance by manufacturers of record of names and addresses of first purchasers of manufactured homes; procedures for ascertaining names and addresses of subsequent purchasers; establishment and reasonableness of procedures for maintaining records** Every manufacturer of manufactured homes shall maintain a record of the name and address of the first purchaser of each manufactured home (for purposes other than resale), and, to the maximum extent feasible, shall maintain procedures for ascertaining the name and address of any subsequent purchaser thereof and shall maintain a record of names and addresses so ascertained. Such records shall be kept for each home produced by a manufacturer. The Secretary may establish by order procedures to be followed by manufacturers in establishing and maintaining such records, including procedures to be followed by distributors and retailers to assist manufacturers to secure the information required by this subsection. Such procedures shall be reasonable for the particular type of manufactured home for which they are prescribed.
 
-**(g) Correction of defects by manufacturer; conditions; procedures; contract or legal rights of purchasers or other persons unaffected** A manufacturer required to furnish notification of a defect under subsection (a) or (e) of this section shall also bring the manufactured home into compliance with applicable standards and correct the defect or have the defect corrected within a reasonable period of time at no expense to the owner, but only if—
+**(g) Correction of defects by manufacturer; conditions; procedures; contract or legal rights of purchasers or other persons unaffected** A manufacturer required to furnish notification of a defect under subsection (a) or (e) shall also bring the manufactured home into compliance with applicable standards and correct the defect or have the defect corrected within a reasonable period of time at no expense to the owner, but only if—
 
 (1) the defect presents an unreasonable risk of injury or death to occupants of the affected manufactured home or homes;
 
 (2) the defect can be related to an error in design or assembly of the manufactured home by the manufacturer.
 The Secretary may direct the manufacturer to make such corrections after providing an opportunity for oral and written presentation of views by interested persons. Nothing in this section shall limit the rights of the purchaser or any other person under any contract or applicable law.
 
-**(h) Submission to Secretary by manufacturer of plan for notifying owners of defects and repair of defects; approval of manufacturer’s remedy plan; effectuation and implementation of remedy plan** The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer’s remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
+**(h) Submission to Secretary by manufacturer of plan for notifying owners of defects and repair of defects; approval of manufacturer’s remedy plan; effectuation and implementation of remedy plan** The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g)) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer’s remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
 
 **(i) Defective or inadequately repaired manufactured homes; replacement with new or equivalent home or refund of purchase price** Where a defect or failure to comply in a manufactured home cannot be adequately repaired within sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
 
@@ -873,7 +873,7 @@ The Secretary, in exercising the authority under this chapter, shall utilize the
 
   (G) the administration and enforcement of the installation standards authorized by [section 5404 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5404) in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in [section 5404(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5404/c/2/B&num=0&edition=prelim), and the administration and enforcement of a dispute resolution program described in [section 5422(c)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5422/c/12&num=0&edition=prelim) in States in which the Secretary is required to implement such a program after the expiration of the 5-year period set forth in [section 5422(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5422/g/2&num=0&edition=prelim); and
 
-(2) subject to subsection (e) of this section, use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
+(2) subject to subsection (e), use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
 
 **(b) Contractors** In using amounts from any fee collected under this section, the Secretary shall ensure that separate and independent contractors are retained to carry out monitoring and inspection work and any other work that may be delegated to a contractor under this chapter.
 
@@ -935,7 +935,7 @@ The rights afforded manufactured home purchasers under this chapter may not be w
 
 **(b) Assumption of responsibility for enforcement of Federal standards; submission of enforcement plan to Secretary** Any State which, at any time, desires to assume responsibility for enforcement of manufactured home safety and construction standards relating to any issue with respect to which a Federal standard has been established under [section 5403 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5403), shall submit to the Secretary a State plan for enforcement of such standards.
 
-**(c) Criteria for approval of State plan by Secretary** The Secretary shall approve the plan submitted by a State under subsection (b) of this section, or any modification thereof, if such plan in his judgment—
+**(c) Criteria for approval of State plan by Secretary** The Secretary shall approve the plan submitted by a State under subsection (b), or any modification thereof, if such plan in his judgment—
 
 (1) designates a State agency or agencies as the agency or agencies responsible for administering the plan throughout the State;
 
@@ -963,17 +963,17 @@ The rights afforded manufactured home purchasers under this chapter may not be w
 
 (13) complies with such other requirements as the Secretary may by regulation prescribe for the enforcement of this chapter.
 
-**(d) Notice and hearing prior to rejection by Secretary of State plan** If the Secretary rejects a plan submitted under subsection (b) of this section, he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
+**(d) Notice and hearing prior to rejection by Secretary of State plan** If the Secretary rejects a plan submitted under subsection (b), he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
 
-**(e) Discretionary enforcement by Secretary of standards in State having approved plan** After the Secretary approves a State plan submitted under subsection (b) of this section, he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
+**(e) Discretionary enforcement by Secretary of standards in State having approved plan** After the Secretary approves a State plan submitted under subsection (b), he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
 
 **(f) Annual evaluation by Secretary of execution of State plan; basis of evaluation; submission of evaluation and data to Congress; determination by Secretary of improper administration, etc., of State plan; procedure; effect of determination** The Secretary shall, on the basis of reports submitted by the designated State agency and his own inspections, make a continuing evaluation of the manner in which each State having a plan approved under this section is carrying out such plan. Such evaluation shall be made by the Secretary at least annually for each State, and the results of such evaluation and the inspection reports on which it is based shall be promptly submitted to the appropriate committees of the Congress. Whenever the Secretary finds, after affording due notice and opportunity for a hearing, that in the administration of the State plan there is a failure to comply substantially with any provision of the State plan or that the State plan has become inadequate, he shall notify the State agency or agencies of his withdrawal of approval of such plan. Upon receipt of such notice by such State agency or agencies such plan shall cease to be in effect, but the State may retain jurisdiction in any case commenced before the withdrawal of the plan in order to enforce manufactured home standards under the plan whenever the issues involved do not relate to the reasons for the withdrawal of the plan.
 
 **(g) Enforcement of dispute resolution standards**
 
-(1) **Establishment of dispute resolution program** — Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) of this section for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+(1) **Establishment of dispute resolution program** — Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
 
-(2) **Implementation of dispute resolution program** — Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12) of this section.
+(2) **Implementation of dispute resolution program** — Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12).
 
 (3) **Contracting out of implementation** — In carrying out paragraph (2), the Secretary may contract with an appropriate agent to implement the dispute resolution program established under paragraph (2), except that such agent shall not be a person or entity other than a government, nor an affiliate or subsidiary of such a person or entity, that has entered into a contract with the Secretary to implement any other regulatory program under this chapter.
 

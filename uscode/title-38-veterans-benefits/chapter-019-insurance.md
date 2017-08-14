@@ -383,7 +383,7 @@ Pub. L. 88–355 provided that the amendment made by Pub. L. 88–355 is effecti
 Section 602(d) of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 602(d) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(d) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was omitted in the general revision and reenactment of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 716 of this title](./chapter-007-employees.md#section-716) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 716 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section716&num=0&edition=prelim) as this section.
 
 Subsec. (b). Pub. L. 102–86 amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “unpaid” for “upaid”.
 
@@ -491,7 +491,7 @@ Section 602(v)(i) of the National Service Life Insurance Act of 1940, referred t
 #### Amendments
 1998—Subsec. (b). Pub. L. 105–368 substituted “section 602(v)(1)” for “sections 602(c)(2) and 602(v)(1)” and “under such section” for “under such sections”.
 
-1991—Pub. L. 102–83 renumbered [section 719 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section719&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator” in subsec. (a).
+1991—Pub. L. 102–83 renumbered [section 719 of this title](./chapter-007-employees.md#section-719) as this section and substituted “Secretary” for “Administrator” in subsec. (a).
 
 1983—Subsec. (b). Pub. L. 98–160 substituted “sections” for “subsections” after “issued or reinstated under” and after “waived under such”.
 
@@ -544,7 +544,7 @@ Subsec. (c). Pub. L. 104–99 added subsec. (c).
 Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec. 18, 1942, ch. 768, §§ 1, 2, 56 Stat. 1066. Section 1 of that Act enacted section 853c–5 of former Title 34, Navy, and was repealed by act July 9, 1952, ch. 608, pt. VIII, § 803, 66 Stat. 505. Section 2 of that Act enacted section 853c–6 of former Title 34, and was omitted from the Code in the general revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
 #### Amendments
-1991—Pub. L. 102–83 renumbered [section 721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section721&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a) to (d).
+1991—Pub. L. 102–83 renumbered [section 721 of this title](./chapter-007-employees.md#section-721) as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a) to (d).
 
 
 <a id="section-1922"></a>
@@ -670,7 +670,7 @@ Amendment by Pub. L. 104–99 is based on section 107(2) of H.R. 2099, One Hundr
 
 Subsec. (d). Pub. L. 104–99 added subsec. (d).
 
-1991—Pub. L. 102–83, § 5(a), renumbered [section 723 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section723&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 723 of this title](./chapter-007-employees.md#section-723) as this section.
 
 Subsec. (c). Pub. L. 102–83, § 4(b)(2)(C), substituted “two Secretaries” for “Administrator and Secretary”.
 
@@ -743,7 +743,7 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 #### Amendments
 2009—Subsec. (d)(3). Pub. L. 111–117 substituted “appropriations for ‘General Operating Expenses and Information Technology Systems, Department of Veterans Affairs’ ” for “appropriation ‘General Operating Expenses, Department of Veterans Affairs’ ”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered [section 725 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section725&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 725 of this title](./chapter-007-employees.md#section-725) as this section.
 
 Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -894,7 +894,7 @@ United States Government life insurance shall be issued against death or total p
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83 renumbered [section 741 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section741&num=0&edition=prelim) as this section and substituted “1907” for “707”.
+1991—Pub. L. 102–83 renumbered [section 741 of this title](./chapter-007-employees.md#section-741) as this section and substituted “1907” for “707”.
 
 1971—Pub. L. 92–188 made section limitations inapplicable to the additional paid up insurance purchase of which is authorized under [section 707 of this title](./chapter-007-employees.md#section-707).
 

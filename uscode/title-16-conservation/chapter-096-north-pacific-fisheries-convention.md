@@ -250,7 +250,7 @@ The Western and Central Pacific Fisheries Convention Implementation Act, referre
 
 The National Oceanic and Atmospheric Administration Authorization Act of 1992, referred to in subsec. (d), is Pub. L. 102–567, Oct. 29, 1992, 106 Stat. 4270. For complete classification of this Act to the Code, see Tables.
 
-The amendments made by Public Law 100–629, referred to in subsec. (d), are the amendments made by Pub. Law 100–629, Nov. 7, 1988, 102 Stat. 3286, which amended [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857) and provisions set out as a note under [section 883a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section883a&num=0&edition=prelim), Navigation and Navigable Waters.
+The amendments made by Public Law 100–629, referred to in subsec. (d), are the amendments made by Pub. L. 100–629, Nov. 7, 1988, 102 Stat. 3286, which amended [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857) and provisions set out as a note under [section 883a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section883a&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
 <a id="section-7705"></a>
@@ -334,7 +334,7 @@ It is unlawful for any person—
 
 (9) to assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by or under contract to any person to carry out responsibilities under this chapter;
 
-(10) to engage in fishing activities in violation of any regulation adopted pursuant to this chapter ;
+(10) to engage in fishing activities in violation of any regulation adopted pursuant to this chapter;
 
 (11) to fail to make, keep, or furnish any catch returns, statistical records, or other reports required by regulations adopted pursuant to this chapter to be made, kept, or furnished;
 

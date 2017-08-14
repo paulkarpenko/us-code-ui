@@ -99,7 +99,7 @@ As used in this chapter, unless the context otherwise requires:
 
 (4) The term “State” means each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, and any other territory or possession of the United States.
 
-(5) The term “United States” means, when used in a geographical sense, all of the States as defined in paragraph (4) of this section.
+(5) The term “United States” means, when used in a geographical sense, all of the States as defined in paragraph (4).
 
 (6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
 
@@ -170,11 +170,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
     (i) develop, not later than 6 months after October 25, 2004, and update periodically—
 
-      (I) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2) of this section; and
+      (I) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
 
       (II) a detailed management plan to implement such strategic plan; and
 
-    (ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2) of this section, and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
+    (ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2), and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
 
 (4) **Annual report** — The Interagency Coordinating Committee shall transmit, at the time of the President’s budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
 
@@ -188,7 +188,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (E) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
 
-  (F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i) of this section.
+  (F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i).
 
 (5) **Advisory Committee**
 
@@ -198,7 +198,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
     (i) trends and developments in the science and engineering of earthquake hazards reduction;
 
-    (ii) effectiveness of the Program in carrying out the activities under (a)(2) 33 So in original. Probably should be preceded by “subsection”. of this section;
+    (ii) effectiveness of the Program in carrying out the activities under (a)(2) 33 So in original. Probably should be preceded by “subsection”.;
 
     (iii) the need to revise the Program; and
 
@@ -658,9 +658,9 @@ Pub. L. 101–614, § 11(b), Nov. 16, 1990, 104 Stat. 3239, directed Director of
 
   (E) $1,000,000 for development and application of a public education program,
 
-  (F) $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c) of this section, which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
+  (F) $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c), which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
 
-  (G) $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) of this section for earthquake activities in the Center.
+  (G) $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) for earthquake activities in the Center.
 
 (3) There are authorized to be appropriated to the Director for the fiscal year ending September 30, 1982, $2,000,000 to carry out the provisions of sections 7704 and 7705 1 of this title.
 

@@ -46,7 +46,7 @@ Pub. L. 96–223, title III, § 301, Apr. 2, 1980, 94 Stat. 288, provided that t
 ## § 8621. Home energy grants
 **(a) Authorization** The Secretary is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist low-income households, particularly those with the lowest incomes, that pay a high proportion of household income for home energy, primarily in meeting their immediate home energy needs.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out the provisions of this subchapter (other than [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a)), $2,000,000,000 for each of fiscal years 1995 through 1999, such sums as may be necessary for each of fiscal years 2000 and 2001, and $5,100,000,000 for each of fiscal years 2005 through 2007. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated to carry out the provisions of this subchapter (other than [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a)), $2,000,000,000 for each of fiscal years 1995 through 1999, such sums as may be necessary for each of fiscal years 2000 and 2001, and $5,100,000,000 for each of fiscal years 2005 through 2007. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c).
 
 **(c) Availability of appropriations** Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
 
@@ -54,7 +54,7 @@ Pub. L. 96–223, title III, § 301, Apr. 2, 1980, 94 Stat. 288, provided that t
 
 (1) There is authorized to be appropriated to carry out [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a), $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
-(2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a).
+(2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a).
 
 **(e) Emergency funds** There is authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with [section 8623 of this title](./chapter-094-low-income-energy-assistance.md#section-8623) (other than subsection (e) of such section), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/D&num=0&edition=prelim)], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 103–43, § 2011(2), substituted “for each of the fiscal
 
 1990—Subsec. (b). Pub. L. 101–501, § 707(b)(1), which directed the amendment of this section by inserting “(other than [section 8626a of this title](./chapter-094-low-income-energy-assistance.md#section-8626a))” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 101–501, § 702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
+Pub. L. 101–501, § 702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c).” after “1990”.
 
 Subsec. (c). Pub. L. 101–501, § 701, added subsec. (c).
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub
 
 (1)
 
-  (A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under [section 8621(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621/b&num=0&edition=prelim) for each fiscal year which is remaining after reserving any amount permitted to be reserved under [section 8628a of this title](./chapter-094-low-income-energy-assistance.md#section-8628a) and after the amount of allotments for such fiscal year under subsection (b)(1) of this section is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State’s allotment percentage.
+  (A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under [section 8621(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621/b&num=0&edition=prelim) for each fiscal year which is remaining after reserving any amount permitted to be reserved under [section 8628a of this title](./chapter-094-low-income-energy-assistance.md#section-8628a) and after the amount of allotments for such fiscal year under subsection (b)(1) is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State’s allotment percentage.
 
   (B) From the sums appropriated therefor after reserving any amount permitted to be reserved under [section 8628a of this title](./chapter-094-low-income-energy-assistance.md#section-8628a), if for any period a State has a plan which is described in [section 8624(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8624/c/1&num=0&edition=prelim), the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of [section 8624(b)(9)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8624/b/9/B&num=0&edition=prelim)), with respect to households described in [section 8624(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8624/b/2&num=0&edition=prelim).
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub
 
 (2) Each jurisdiction to which paragraph (1) applies may receive grants under this subchapter upon an application submitted to the Secretary containing provisions which describe the programs for which assistance is sought under this subchapter, and which are consistent with the requirements of [section 8624 of this title](./chapter-094-low-income-energy-assistance.md#section-8624).
 
-**(c) Energy crisis intervention** Of the funds available to each State under subsection (a) of this section, a reasonable amount based on data from prior years shall be reserved until March 15 of each program year by each State for energy crisis intervention. The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter,11 See References in Text note below. experience in assisting low-income individuals in the area to be served, the capacity to undertake a timely and effective energy crisis intervention program, and the ability to carry out the program in local communities. The program for which funds are reserved under this subsection shall—
+**(c) Energy crisis intervention** Of the funds available to each State under subsection (a), a reasonable amount based on data from prior years shall be reserved until March 15 of each program year by each State for energy crisis intervention. The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter,11 See References in Text note below. experience in assisting low-income individuals in the area to be served, the capacity to undertake a timely and effective energy crisis intervention program, and the ability to carry out the program in local communities. The program for which funds are reserved under this subsection shall—
 
 (1) not later than 48 hours after a household applies for energy crisis benefits, provide some form of assistance that will resolve the energy crisis if such household is eligible to receive such benefits;
 
@@ -294,7 +294,7 @@ The preceding sentence shall not apply to a program in a geographical area affec
 
 (4) In order for a tribal organization or other entity to be eligible for an amount under this subsection for a fiscal year, it shall submit to the Secretary a plan (in lieu of being under the State’s plan) for such fiscal year which meets such criteria as the Secretary may by regulations prescribe.
 
-**(e) Allotment of emergency funds** Notwithstanding subsections (a) through (d) of this section, the Secretary may allot amounts appropriated pursuant to [section 8621(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621/e&num=0&edition=prelim) to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
+**(e) Allotment of emergency funds** Notwithstanding subsections (a) through (d), the Secretary may allot amounts appropriated pursuant to [section 8621(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621/e&num=0&edition=prelim) to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
 
 ### Statutory Notes
 
@@ -318,7 +318,7 @@ Subsec. (f). Pub. L. 105–285, § 305(3), struck out subsec. (f) relating to op
 
 Subsec. (g). Pub. L. 105–285, § 305(5), redesignated subsec. (g) as (e).
 
-Pub. L. 105–285, §§ 304(b), 305(4), substituted “subsections (a) through (d) of this section” for “subsections (a) through (f) of this section” and “In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.” for “In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.”
+Pub. L. 105–285, §§ 304(b), 305(4), substituted “subsections (a) through (d)” for “subsections (a) through (f)” and “In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.” for “In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.”
 
 1994—Subsec. (b)(1). Pub. L. 103–252, § 311(c)(3), inserted “of the United States” after “Virgin Islands”.
 
@@ -366,11 +366,11 @@ Pub. L. 99–425, title V, § 502(b), Sept. 30, 1986, 100 Stat. 973, provided th
 ## § 8624. Applications and requirements
 **(a) Form; assurances; public hearings**
 
-(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
+(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b).
 
 (2) After the expiration of the first fiscal year for which a State receives funds under this subchapter, no funds shall be allotted to such State for any fiscal year under this subchapter unless such State conducts public hearings with respect to the proposed use and distribution of funds to be provided under this subchapter for such fiscal year.
 
-**(b) Certifications required for covered activities** As part of the annual application required by subsection (a) of this section, the chief executive officer of each State shall certify that the State agrees to—
+**(b) Certifications required for covered activities** As part of the annual application required by subsection (a), the chief executive officer of each State shall certify that the State agrees to—
 
 (1) use the funds available under this subchapter to—
 
@@ -436,9 +436,9 @@ Pub. L. 99–425, title V, § 502(b), Sept. 30, 1986, 100 Stat. 973, provided th
 
 (11) permit and cooperate with Federal investigations undertaken in accordance with [section 8627 of this title](./chapter-094-low-income-energy-assistance.md#section-8627);
 
-(12) provide for timely and meaningful public participation in the development of the plan described in subsection (c) of this section;
+(12) provide for timely and meaningful public participation in the development of the plan described in subsection (c);
 
-(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) of this section are denied or are not acted upon with reasonable promptness;
+(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) are denied or are not acted upon with reasonable promptness;
 
 (14) cooperate with the Secretary with respect to data collecting and reporting under [section 8629 of this title](./chapter-094-low-income-energy-assistance.md#section-8629);
 
@@ -450,7 +450,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 **(c) State plan; revision; public inspection**
 
-(1) As part of the annual application required in subsection (a) of this section, the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
+(1) As part of the annual application required in subsection (a), the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
 
   (A) describes the eligibility requirements to be used by the State for each type of assistance to be provided under this subchapter, including criteria for designating an emergency under [section 8623(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8623/c&num=0&edition=prelim);
 
@@ -458,11 +458,11 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
   (C) contains estimates of the amount of funds the State will use for each of the programs under such plan and describes the alternative use of funds reserved under [section 8623(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8623/c&num=0&edition=prelim) in the event any portion of the amount so reserved is not expended for emergencies;
 
-  (D) describes weatherization and other energy-related home repair the State will provide under subsection (k) of this section, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
+  (D) describes weatherization and other energy-related home repair the State will provide under subsection (k), including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
 
-  (E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
+  (E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b)) to target assistance to households with high home energy burdens;
 
-  (F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b) of this section;
+  (F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b);
 
   (G) states, with respect to the 12-month period specified by the Secretary, the number and income levels of households which apply and the number which are assisted with funds provided under this subchapter, and the number of households so assisted with—
 
@@ -481,7 +481,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 **(d) Expending of funds** The State shall expend funds in accordance with the State plan under this subchapter or in accordance with revisions applicable to such plan.
 
-**(e) Conduct of audits** Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
+**(e) Conduct of audits** Each State shall, in carrying out the requirements of subsection (b)(10), obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
 
 **(f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction**
 
@@ -497,7 +497,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 **(h) Periodic evaluation of expenditures by Comptroller General** The Comptroller General of the United States shall, from time to time 22 So in original. Probably should be followed by a comma. evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
 
-**(i) Certain recipients of supplemental security income ineligible for payments or assistance** A household which is described in subsection (b)(2)(A) of this section solely by reason of clause (ii) thereof shall not be treated as a household described in subsection (b)(2) of this section if the eligibility of the household is dependent upon—
+**(i) Certain recipients of supplemental security income ineligible for payments or assistance** A household which is described in subsection (b)(2)(A) solely by reason of clause (ii) thereof shall not be treated as a household described in subsection (b)(2) if the eligibility of the household is dependent upon—
 
 (1) an individual whose annual supplemental security income benefit rate is reduced pursuant to section 1611(e)(1) of the Social Security Act [[42 U.S.C. 1382(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382/e/1&num=0&edition=prelim)] by reason of being in an institution receiving payments under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] with respect to such individual;
 
@@ -505,7 +505,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 (3) a child described in section 1614(f)(2) of the Social Security Act [[42 U.S.C. 1382c(f)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382c/f/2&num=0&edition=prelim)] who is living together with a parent, or the spouse of a parent, of the child.
 
-**(j) State verification of income eligibility; policies and procedures applicable** In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.], under title XX of the Social Security Act [[42 U.S.C. 1397](./chapter-007-social-security.md#section-1397) et seq.], under subtitle B of title VI of this Act (relating to community services block grant program) [[42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 [[42 U.S.C. 2701](./chapter-034-economic-opportunity-program.md#section-2701) et seq.] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
+**(j) State verification of income eligibility; policies and procedures applicable** In verifying income eligibility for purposes of subsection (b)(2)(B), the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.], under title XX of the Social Security Act [[42 U.S.C. 1397](./chapter-007-social-security.md#section-1397) et seq.], under subtitle B of title VI of this Act (relating to community services block grant program) [[42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 [[42 U.S.C. 2701](./chapter-034-economic-opportunity-program.md#section-2701) et seq.] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
 
 **(k) Limitation on use of funds; waiver**
 
@@ -543,7 +543,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 (2) Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
 
-(3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
+(3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) and suppliers will not be impeded by the use of such data.
 
 ### Statutory Notes
 
@@ -711,9 +711,9 @@ Pub. L. 102–550, title IX, § 927, Oct. 28, 1992, 106 Stat. 3885, as amended b
 ## § 8625. Nondiscrimination provisions
 **(a) Prohibitions** No person shall on the ground of race, color, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this subchapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 [[42 U.S.C. 6101](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) et seq.] or with respect to an otherwise qualified handicapped individual as provided in [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim) also shall apply to any such program or activity.
 
-**(b) Procedures applicable to secure compliance** Whenever the Secretary determines that a State that has received a payment under this subchapter has failed to comply with subsection (a) of this section or an applicable regulation, he shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 [[42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) et seq.], the Age Discrimination Act of 1975 [[42 U.S.C. 6101](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) et seq.], or [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), as may be applicable; or (3) take such other action as may be provided by law.
+**(b) Procedures applicable to secure compliance** Whenever the Secretary determines that a State that has received a payment under this subchapter has failed to comply with subsection (a) or an applicable regulation, he shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 [[42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) et seq.], the Age Discrimination Act of 1975 [[42 U.S.C. 6101](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) et seq.], or [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), as may be applicable; or (3) take such other action as may be provided by law.
 
-**(c) Maintenance of civil actions** When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that the State is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
+**(c) Maintenance of civil actions** When a matter is referred to the Attorney General pursuant to subsection (b), or whenever he has reason to believe that the State is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
 
 ### Statutory Notes
 
@@ -729,7 +729,7 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 (1) From its allotment under [section 8623 of this title](./chapter-094-low-income-energy-assistance.md#section-8623), the Secretary shall make payments to each State in accordance with [section 6503(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6503/a&num=0&edition=prelim), for use under this subchapter.
 
-(2) Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2) of this section, such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
+(2) Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2), such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
 
 **(b)**
 
@@ -805,15 +805,15 @@ Amendment by Pub. L. 98–558 applicable to amounts held available for fiscal ye
 
 **(c) Formula for distribution of amounts**
 
-(1) Distribution of amounts made available under this section shall be based on a formula developed by the Secretary that is designed to take into account the success in leveraging existing appropriations in the preceding fiscal year as measured under subsection (d) of this section. Such formula shall take into account the size of the allocation of the State under this subchapter and the ratio of leveraged resources to such allocation.
+(1) Distribution of amounts made available under this section shall be based on a formula developed by the Secretary that is designed to take into account the success in leveraging existing appropriations in the preceding fiscal year as measured under subsection (d). Such formula shall take into account the size of the allocation of the State under this subchapter and the ratio of leveraged resources to such allocation.
 
 (2) A State may expend funds allocated under this subchapter as are necessary, not to exceed 0.08 percent of such allocation or $35,000 each fiscal year, whichever is greater, to identify, develop, and demonstrate leveraging programs. Funds allocated under this section shall only be used for increasing or maintaining benefits to households.
 
 **(d) Dollar value of leveraged resources** Each State shall quantify the dollar value of leveraged resources received or acquired by such State under this section by using the best available data to calculate such leveraged resources less the sum of any costs incurred by the State to leverage such resources and any cost imposed on the federally eligible low-income households in such State.
 
-**(e) Report to Secretary** Not later than 2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b) of this section, each State shall prepare and submit, to the Secretary, a report that quantifies the leveraged resources of such State in order to qualify for assistance under this section for the following fiscal year.
+**(e) Report to Secretary** Not later than 2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b), each State shall prepare and submit, to the Secretary, a report that quantifies the leveraged resources of such State in order to qualify for assistance under this section for the following fiscal year.
 
-**(f) Determination of State share; regulations; documentation** The Secretary shall determine the share of each State of the amounts made available under this section based on the formula described in subsection (c) of this section and the State reports. The Secretary shall promulgate regulations for the calculation of the leveraged resources of the State and for the submission of supporting documentation. The Secretary may request any documentation that the Secretary determines necessary for the verification of the application of the State for assistance under this section.
+**(f) Determination of State share; regulations; documentation** The Secretary shall determine the share of each State of the amounts made available under this section based on the formula described in subsection (c) and the State reports. The Secretary shall promulgate regulations for the calculation of the leveraged resources of the State and for the submission of supporting documentation. The Secretary may request any documentation that the Secretary determines necessary for the verification of the application of the State for assistance under this section.
 
 ### Statutory Notes
 
@@ -854,7 +854,7 @@ Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set ou
 
 **(c) Criteria**
 
-(1) **In general** — Not later than May 31, 1995, the Secretary shall establish criteria for approving State plans required by subsection (a) of this section, for energy efficiency education quality standards described in subsection (b)(2)(A) of this section, and for the distribution of funds to States with approved plans.
+(1) **In general** — Not later than May 31, 1995, the Secretary shall establish criteria for approving State plans required by subsection (a), for energy efficiency education quality standards described in subsection (b)(2)(A), and for the distribution of funds to States with approved plans.
 
 (2) **Documentation** — Notwithstanding the limitations of [section 8624(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8624/b&num=0&edition=prelim) regarding the authority of the Secretary with respect to plans, the Secretary may require a State to provide appropriate documentation that its R.E.A.Ch. activities conform to the State plan as approved by the Secretary.
 
@@ -986,7 +986,7 @@ Pub. L. 105–285, title III, § 308(a), (b), Oct. 27, 1998, 112 Stat. 2758, pro
 
 **(c) Inspection of books, documents, etc.** Pursuant to an investigation conducted under subsection (b) of this section, a State shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
 
-**(d) Request for information not readily available** In conducting any investigation under subsection (b) of this section, the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
+**(d) Request for information not readily available** In conducting any investigation under subsection (b), the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
 
 ### Statutory Notes
 
@@ -1021,7 +1021,7 @@ Grants made under this subchapter may not be used by the State, or by any other 
 
 (2) to conduct onsite compliance reviews of programs supported under this subchapter.
 
-**(b)** No provision of this section shall be construed to prevent the Secretary from making a grant pursuant to subsection (a) of this section to one or more private nonprofit organizations that apply jointly with a business concern to receive such grant.
+**(b)** No provision of this section shall be construed to prevent the Secretary from making a grant pursuant to subsection (a) to one or more private nonprofit organizations that apply jointly with a business concern to receive such grant.
 
 ### Statutory Notes
 
@@ -1059,7 +1059,7 @@ Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as
 (6) any other information which the Secretary determines to be reasonably necessary to carry out the provisions of this subchapter.
 Nothing in this subsection may be construed to require the Secretary to collect data which has been collected and made available to the Secretary by any other agency of the Federal Government.
 
-**(b)** The Secretary shall, no later than June 30 of each fiscal year, submit a report to the Congress containing a detailed compilation of the data under subsection (a) of this section with respect to the prior fiscal year, and a report that describes for the prior fiscal year—
+**(b)** The Secretary shall, no later than June 30 of each fiscal year, submit a report to the Congress containing a detailed compilation of the data under subsection (a) with respect to the prior fiscal year, and a report that describes for the prior fiscal year—
 
 (1) the manner in which States carry out the requirements of clauses (2), (5), (8), and (15) of [section 8624(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8624/b&num=0&edition=prelim); and
 
@@ -1080,7 +1080,7 @@ Subsec. (a)(2). Pub. L. 98–558, § 607(a), inserted “amount,” before “co
 
 Subsec. (a)(5), (6). Pub. L. 98–558, § 607(b), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 98–558, § 607(d), in amending subsec. (b) generally, inserted “no later than June 30 of each fiscal year,” and substituted “a detailed compilation of the data under subsection (a) of this section with respect to the prior fiscal year” for “a summary of data collected under subsection (a) of this section”.
+Subsec. (b). Pub. L. 98–558, § 607(d), in amending subsec. (b) generally, inserted “no later than June 30 of each fiscal year,” and substituted “a detailed compilation of the data under subsection (a) with respect to the prior fiscal year” for “a summary of data collected under subsection (a)”.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L. 103–252, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).

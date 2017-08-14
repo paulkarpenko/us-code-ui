@@ -507,7 +507,7 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–190 substituted “fiscal years 2012 through 2017” for “fiscal years 2012 through 2015 and $2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016” and struck out second period at end.
+2016—Subsec. (a). Pub. L. 114–190 substituted “fiscal years 2012 through 2017.” for “fiscal years 2012 through 2015 and $2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016..”
 
 Pub. L. 114–141 substituted “$2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.” for “$1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016”.
 

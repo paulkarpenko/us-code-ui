@@ -28,7 +28,7 @@ It is the intent of the Congress that the Secretary of Agriculture shall process
 ## § 8804. Use of gasohol in Federal motor vehicles
 **(a) Exercise of President’s authority pursuant to executive order respecting use** The President shall, by executive order, require that motor vehicles which are owned or leased by Federal agencies and are capable of operating on gasohol shall use gasohol where available at reasonable prices and in reasonable quantities.
 
-**(b) Exceptions** The President may provide for exceptions to the requirement of subsection (a) of this section where necessary, including to protect the national security.
+**(b) Exceptions** The President may provide for exceptions to the requirement of subsection (a) where necessary, including to protect the national security.
 
 **(c) Gasohol requirements** Such executive order shall specify the alcohol-gasoline mixture or mixtures which shall constitute “gasohol” for purposes of such order, as well as specifications for its use.
 
@@ -79,9 +79,9 @@ The Congress finds that—
 ### Statutory Notes
 
 #### Short Title
-Pub. L. 96–294, § 1, June 30, 1980, 94 Stat. 611, provided: “That this Act [enacting chapters 95 to 97, and sections 6347, 7361 to 7364, 7371 to 7375, 8235 to 8235i, 8281 to 8284, 8285 to 8285c, and 8286 to 8286b of this title, sections 1435 and 3129 of Title 7, Agriculture, sections 3601 to 3620 of Title 12, Banks and Banking, [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, sections 1146, 1147, 1501, 1511 to 1516, 1521, 1522, 1531, 1541, and 1542 of Title 30, Mineral Lands and Mining, sections 4515 and 4516 of Title 50, War and National Defense, and sections 2095 to 2098 of the former Appendix to Title 50, amending sections 6240, 6862 to 6872, 8211, 8213, 8214, 8216, 8217, 8221, 8255, 8271, and 8274 to 8276 of this title, sections 341, 342, 427, and 3154 of Title 7, [section 7430 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7430&num=0&edition=prelim), Armed Forces, sections 1451, 1454, 1717, 1723g, and 1723h of Title 12, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), sections 590h, 796, 824a–3, 824i, 824j, 1642, 2705, and 2708 of Title 16, Conservation, sections 1141 and 1143 of Title 30, sections 4502, 4531 to 4533, 4551, 4561, and 4564 of Title 50, repealing [section 1723f of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1723f&num=0&edition=prelim), and enacting provisions set out as notes under this section and sections 6240, 7371, 8211, 8235, 8701, and 8901 of this title, [section 3601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3601&num=0&edition=prelim), [section 2701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2701&num=0&edition=prelim), [section 1501 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1501&num=0&edition=prelim), and sections 4501 and 4502 of Title 50] may be cited as the ‘Energy Security Act’.”
+Pub. L. 96–294, § 1, June 30, 1980, 94 Stat. 611, provided: “That this Act [enacting chapters 95 to 97, and sections 6347, 7361 to 7364, 7371 to 7375, 8235 to 8235i, 8281 to 8284, 8285 to 8285c, and 8286 to 8286b of this title, sections 1435 and 3129 of Title 7, Agriculture, sections 3601 to 3620 of Title 12, Banks and Banking, [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, sections 1146, 1147, 1501, 1511 to 1516, 1521, 1522, 1531, 1541, and 1542 of Title 30, Mineral Lands and Mining, sections 4515 and 4516 of Title 50, War and National Defense, and sections 2095 to 2098 of the former Appendix to Title 50, amending sections 6240, 6862 to 6872, 8211, 8213, 8214, 8216, 8217, 8221, 8255, 8271, and 8274 to 8276 of this title, sections 341, 342, 3104, and 3154 of Title 7, [section 7430 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7430&num=0&edition=prelim), Armed Forces, sections 1451, 1454, 1717, 1723g, and 1723h of Title 12, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), sections 590h, 796, 824a–3, 824i, 824j, 1642, 2705, and 2708 of Title 16, Conservation, sections 1141 and 1143 of Title 30, sections 4502, 4531 to 4533, 4551, 4561, and 4564 of Title 50, repealing [section 1723f of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1723f&num=0&edition=prelim), and enacting provisions set out as notes under this section and sections 6240, 7371, 8211, 8235, 8701, and 8901 of this title, [section 3601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3601&num=0&edition=prelim), [section 2701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2701&num=0&edition=prelim), [section 1501 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1501&num=0&edition=prelim), and sections 4501 and 4502 of Title 50] may be cited as the ‘Energy Security Act’.”
 
-Pub. L. 96–294, title II, § 201, June 30, 1980, 94 Stat. 683, provided that: “This title [enacting this chapter, sections 1435 and 3129 of Title 7, Agriculture, and [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, and amending sections 341, 342, 427, and 3154 of Title 7, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), and sections 590h and 1642 of Title 16, Conservation] may be cited as the ‘Biomass Energy and Alcohol Fuels Act of 1980’.”
+Pub. L. 96–294, title II, § 201, June 30, 1980, 94 Stat. 683, provided that: “This title [enacting this chapter, sections 1435 and 3129 of Title 7, Agriculture, and [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, and amending sections 341, 342, 3104, and 3154 of Title 7, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), and sections 590h and 1642 of Title 16, Conservation] may be cited as the ‘Biomass Energy and Alcohol Fuels Act of 1980’.”
 
 
 <a id="section-8812"></a>
@@ -192,7 +192,7 @@ As used in this chapter—
 #### References in Text
 This chapter, referred to in introductory provisions and pars. (11)(A) and (14)(B), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
 
-Subchapter III, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16.
+Subchapter III, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C (§§ 251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 3104, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
@@ -210,7 +210,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (3) $250,000,000 shall be available to the Secretary of Energy for carrying out activities under subchapter II.
 
-**(b) Availability of funds until expended** Funds made available under subsection (a) of this section shall remain available until expended.
+**(b) Availability of funds until expended** Funds made available under subsection (a) shall remain available until expended.
 
 **(c) Determinations respecting amount of appropriations remaining available**
 
@@ -271,7 +271,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 (2) The plan prepared under this subsection shall evaluate the feasibility of reaching the goals set forth in such subsection.
 
-**(c) Required guidelines** The plans prepared under subsections (a) and (b) of this section shall each include guidelines for use in awarding financial assistance under this subchapter which are designed to increase, during the period covered by the plan, the amount of motor fuel displaced by biomass energy.
+**(c) Required guidelines** The plans prepared under subsections (a) and (b) shall each include guidelines for use in awarding financial assistance under this subchapter which are designed to increase, during the period covered by the plan, the amount of motor fuel displaced by biomass energy.
 
 
 <a id="section-8816"></a>
@@ -302,7 +302,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
   (D) Both Secretaries may jointly act as the Secretary concerned in accordance with such procedures as the Secretaries may jointly prescribe, in which case—
 
-    (i) subparagraphs (B) and (C) and subsection (c) of this section shall not apply, and
+    (i) subparagraphs (B) and (C) and subsection (c) shall not apply, and
 
     (ii) the proportion of financial assistance provided by each Secretary shall be determined in accordance with the procedures jointly prescribed.
 
@@ -316,7 +316,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
   (C) additional applications for financial assistance are solicited within 1 year after the date of the initial solicitation;
 
-  (D) any application is evaluated and a decision made on such application within 120 days after the receipt of the application, including review under subsections (a)(2)(C), (a)(2)(D), or (c) of this section; and
+  (D) any application is evaluated and a decision made on such application within 120 days after the receipt of the application, including review under subsections (a)(2)(C), (a)(2)(D), or (c); and
 
   (E) all interested persons are provided the easiest possible access to the application process, including procedures which assure that—
 
@@ -335,11 +335,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
   (A) a copy of the application and such supporting material as may be appropriate, and
 
   (B) an opportunity of not less than 15 days to review the application.
-  This subsection shall not apply in the case of a project subject to review under subsection (a)(2)(C) of this section.
+  This subsection shall not apply in the case of a project subject to review under subsection (a)(2)(C).
 
 (2) If the reviewing Secretary provides written notice specifying any issues regarding matters subject to the Secretary’s review to the Secretary concerned before the end of the 15-day review period, the Secretary concerned shall defer a final decision on the application for an additional 30 days to provide an opportunity for both Secretaries to answer and resolve such issues. At the expiration of the 30-day period, the Secretary concerned may make a final decision with respect to the application, using the best judgment of the Secretary concerned to resolve any remaining issues.
 
-(3) Reviews of projects under the provisions of subsection (a)(2)(C) of this section or paragraph (1)(B) by the Secretary of Agriculture shall be for the purpose of considering the national, regional, and local agricultural policy impacts of such project on agricultural supply, production, and use, and reviews by the Secretary of Energy under such provisions shall be for the purpose of considering national energy policy impacts and the technical feasibility of the project.
+(3) Reviews of projects under the provisions of subsection (a)(2)(C) or paragraph (1)(B) by the Secretary of Agriculture shall be for the purpose of considering the national, regional, and local agricultural policy impacts of such project on agricultural supply, production, and use, and reviews by the Secretary of Energy under such provisions shall be for the purpose of considering national energy policy impacts and the technical feasibility of the project.
 
 (4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and (2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
 
@@ -743,7 +743,7 @@ then the Secretary may pay to the lender under a loan guarantee agreement an amo
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (d), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, as amended, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, and amended sections 341, 342, 427, and 3154 of Title 7, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
+This chapter, referred to in subsec. (d), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and [section 3391a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391a&num=0&edition=prelim), Commerce and Trade, and amended sections 341, 342, 3104, and 3154 of Title 7, [section 753 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section753&num=0&edition=prelim), and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
 
 #### Amendments
 1986—Subsec. (g)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -777,13 +777,13 @@ This chapter, referred to in subsec. (d), was in the original “this title”, 
 
 **(b) Authority of Secretary of Energy with respect to loans for new projects; disbursements, etc.**
 
-(1) In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a) of this section, except as provided in paragraph (2).
+(1) In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a), except as provided in paragraph (2).
 
 (2) In the case of any loan under this subsection for a new municipal waste energy project—
 
-  (A) disbursements under such loan may not be made for more than 7 consecutive 12-month periods (with reductions as provided in subsection (a)(2)(A)(ii)) of this section;
+  (A) disbursements under such loan may not be made for more than 7 consecutive 12-month periods (with reductions as provided in subsection (a)(2)(A)(ii));
 
-  (B) such loan shall bear interest at a rate not in excess of the rate prescribed under subsection (a) of this section; and
+  (B) such loan shall bear interest at a rate not in excess of the rate prescribed under subsection (a); and
 
   (C) the principal of or interest on such loan shall, in accordance with the support loan agreement, be repayable, commencing at the end of the last 12-month period covered by the support loan, over a period not in excess of the period equal to the then remaining useful life of the project (as determined by the Secretary) or 15 years, whichever is shorter.
 
@@ -801,9 +801,9 @@ This chapter, referred to in subsec. (d), was in the original “this title”, 
 
   (A) disbursements under such guarantee may not be made for more than 7 consecutive 12-month periods; and
 
-  (B) amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a) of this section.
+  (B) amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a).
 
-**(d) Definitions; sale price of retained fuel; rules relating to fuel displacement** For purposes of this section—
+**(d) Definitions; sale price of retained fuel; rules relating to fuel displacement** For purposes—
 
 (1) The term “new municipal waste energy project” means any municipal waste energy project which—
 
@@ -939,7 +939,7 @@ The Secretary of Energy shall establish procedures and take such other actions a
 
 **(b) Financial assistance** Under such program, the Secretary of Energy may provide financial assistance consisting of price supports, loans, and loan guarantees, for the cost of planning, designing, constructing, operating, and maintaining demonstration facilities, and, in the case of existing facilities, modifications of such facilities solely for demonstration purposes, for the conversion of municipal wastes into energy or the recovery of materials.
 
-**(c) Priority for funding** Priority for funding of activities under subsection (a) of this section and financial assistance under subsection (b) of this section shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
+**(c) Priority for funding** Priority for funding of activities under subsection (a) and financial assistance under subsection (b) shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
 
 **(d) Obligation and expenditure of funds** The Secretary of Energy may not obligate or expend any funds authorized under this chapter in carrying out subsection (b) of this section until the plan required under [section 8831(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8831/a&num=0&edition=prelim) has been prepared and submitted to the Congress.
 
@@ -989,12 +989,12 @@ No financial assistance may be committed to or made under this subchapter after 
 ## § 8855. Model demonstration biomass energy facilities; establishment, public inspection, etc.; authorization of appropriations
 **(a)** The Secretary of Agriculture shall establish not more than ten model demonstration biomass energy facilities for purposes of exhibiting the most advanced technology available for producing biomass energy. Such facilities and information regarding the operation of such facilities shall be available for public inspection, and, to the extent practicable, such facilities shall be established in various regions in the United States. Such facilities may be established in cooperation with appropriate departments or agencies of the States, or appropriate in various regions in the United States. Such facilities may be established in cooperation with appropriate departments or agencies of the States, or appropriate departments, agencies, or other instrumentalities of the United States.
 
-**(b)** For purposes of carrying out subsection (a) of this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1981, 1982, 1983, and 1984.
+**(b)** For purposes of carrying out subsection (a), there is authorized to be appropriated $5,000,000 for each of the fiscal years 1981, 1982, 1983, and 1984.
 
 
 <a id="section-8871"></a>
 ## § 8871. Coordination of research and extension activities; consultative requirements
-**(a)** The Secretary of Agriculture shall coordinate the applied research and extension programs conducted under this subchapter 11 See References in Text note below. and under the amendments made by this subchapter to section 1419 [[7 U.S.C. 3154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3154&num=0&edition=prelim)]1 and subtitle B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 [[7 U.S.C. 3129](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3129&num=0&edition=prelim)],1 section 1 of the Bankhead-Jones Act [[7 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section427&num=0&edition=prelim)], section 3 of the Forest and Rangeland Renewable Resources Research Act of 1978 [[16 U.S.C. 1642](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642&num=0&edition=prelim)], and sections 1 and 2 of the Smith-Lever Act [[7 U.S.C. 341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section341&num=0&edition=prelim), 342] with the programs of the Department of Energy.
+**(a)** The Secretary of Agriculture shall coordinate the applied research and extension programs conducted under this subchapter 11 See References in Text note below. and under the amendments made by this subchapter to section 1419 [[7 U.S.C. 3154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3154&num=0&edition=prelim)]1 and subtitle B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 [[7 U.S.C. 3129](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3129&num=0&edition=prelim)],1 section 1 of the Bankhead-Jones Act [[7 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3104&num=0&edition=prelim)], section 3 of the Forest and Rangeland Renewable Resources Research Act of 1978 [[16 U.S.C. 1642](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642&num=0&edition=prelim)], and sections 1 and 2 of the Smith-Lever Act [[7 U.S.C. 341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section341&num=0&edition=prelim), 342] with the programs of the Department of Energy.
 
 **(b)** In carrying out this subchapter and the amendments made by this subchapter, the Secretary of Agriculture shall consult on a continuing basis with—
 
@@ -1008,7 +1008,7 @@ for the purpose of coordinating research and extension activities.
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted this subchapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted this subchapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 3104, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 
 [7 U.S.C. 3154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3154&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 110–246, title VII, § 7110(a), June 18, 2008, 122 Stat. 1980.
 

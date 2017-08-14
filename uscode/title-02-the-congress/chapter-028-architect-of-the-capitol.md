@@ -2,7 +2,7 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 66
+section_count: 67
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -1436,6 +1436,9 @@ On and after November 19, 1995, expenses, based on full cost recovery, for flyin
 #### Codification
 Section was classified to section 166g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
+#### Flag Office Revolving Fund
+Pub. L. 115–31, div. I, title I, § 1203, May 5, 2017, 131 Stat. 581, provided that: “(a) Establishment.—There is established in the Treasury of the United States a revolving fund to be known as the ‘Flag Office Revolving Fund’ (in this section referred to as the ‘Fund’) for services provided by the Flag Office of the Architect of the Capitol (in this section referred to as the ‘Flag Office’). “(b) Deposit of Fees.—The Architect of the Capitol shall deposit any fees charged for services described in subsection (a) into the Fund. “(c) Contents of Fund.—The Fund shall consist of the following amounts:“(1) Amounts deposited by the Architect of the Capitol under subsection (b). “(2) Any other amounts received by the Architect of the Capitol which are attributable to services provided by the Flag Office. “(3) Such other amounts as may be appropriated under law. “(d) Use of Amounts in Fund.—Amounts in the Fund shall be available for disbursement by the Architect of the Capitol, without fiscal year limitation, for expenses in connection with the services provided by the Flag Office, including—“(1) supplies, inventories, equipment, and other expenses; “(2) the reimbursement of any applicable appropriations account for amounts used from such appropriations account to pay the salaries of employees of the Flag Office; and “(3) amounts necessary to carry out the authorized levels in the Fallen Heroes Flag Act of 2016 [[2 U.S.C. 1881](./chapter-028-architect-of-the-capitol.md#section-1881) et seq.].”
+
 
 <a id="section-1868"></a>
 ## § 1868. Semiannual compilation and report of expenditures
@@ -1521,6 +1524,13 @@ Section is from the Legislative Branch Appropriations Act, 2010, which is div. A
 Section 1101, referred to in subsec. (a), is section 1101 of title I of div. F of Pub. L. 113—6, Mar. 26, 2013, 127 Stat. 412, which is not classified to the Code.
 
 
+<a id="section-1872"></a>
+## § 1872. Use of expired funds for unemployment compensation payments
+**(a)** Available balances of expired Architect of the Capitol appropriations shall be available to the Architect of the Capitol for reimbursing the Federal Employees Compensation Account (as established by [section 1109 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1109&num=0&edition=prelim)) for any amounts paid with respect to unemployment compensation payments for former employees of the Architect of the Capitol, notwithstanding any other provision of law, without regard to the fiscal year for which the obligation to make such payments is incurred.
+
+**(b)** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+
 <a id="section-1881"></a>
 ## § 1881. Definitions
 
@@ -1528,7 +1538,7 @@ In this subchapter—
 
 (1) the term “Capitol-flown flag” means a flag of the United States flown over the Capitol in honor of the deceased individual for whom the flag is requested;
 
-(2) the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in [section 3796b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim);
+(2) the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in [section 10284 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim);
 
 (3) the term “immediate family member”, with respect to an individual, means—
 

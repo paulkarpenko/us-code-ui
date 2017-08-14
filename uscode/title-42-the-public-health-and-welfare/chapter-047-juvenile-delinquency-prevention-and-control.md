@@ -219,4 +219,4 @@ A prior section 3889, Pub. L. 90–445, title IV, § 409, July 31, 1968, 82 Stat
 #### Repeals
 Title IV of Pub. L. 93–415, which repealed this section, was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
-Repeal by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as an Effective Date of 1977 Amendment note under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601).
+Repeal by Pub. L. 95–115 effective Oct. 1, 1977, see former section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, which is classified as an Effective Date of 1977 Amendment note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.

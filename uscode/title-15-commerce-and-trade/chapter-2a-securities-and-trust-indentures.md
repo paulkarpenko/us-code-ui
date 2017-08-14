@@ -1301,7 +1301,7 @@ The board of directors shall cause accounts to be kept of all matters relating t
 
 (1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to sell such security through the use or medium of any prospectus or otherwise; or
 
-(2) to carry or cause to be carried through the mails or interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
+(2) to carry or cause to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
 
 **(b) Prohibitions affecting unregistered securities issued under indenture** In the case of any security which is not registered under the Securities Act of 1933 [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
 
@@ -1991,7 +1991,7 @@ This subchapter may be cited as the “Corporation of Foreign Bondholders Act, 1
 
 (3) the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
 
-(4) any change to the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of [section 77kkk of this title](./chapter-2a-securities-and-trust-indentures.md#section-77kkk);
+(4) any change to the amount, interest rate, and maturity date of all other indebtedness owing to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of [section 77kkk of this title](./chapter-2a-securities-and-trust-indentures.md#section-77kkk);
 
 (5) any change to the property and funds physically in its possession as indenture trustee on the date of such report;
 
@@ -2098,7 +2098,7 @@ The rules and regulations prescribed under this subsection shall be such as are 
 
 (3) to such obligor of any property the subjection of which to the lien of the indenture is to be made the basis for the authentication and delivery of indenture securities, the withdrawal of cash constituting a part of the trust estate, or the release of property or securities subject to the lien of the indenture, and requiring further that if
 
-  (A) within six months prior to the d‘te of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
+  (A) within six months prior to the date of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
 
   (B) the fair value to such obligor of such property as set forth in such certificate or opinion is not less than $25,000 and not less than 1 per centum of the aggregate principal amount of the indenture securities at the time outstanding,
   such certificate or opinion shall be made by an independent engineer, appraiser, or other expert and, in the case of the authentication and delivery of indenture securities, shall cover the fair value to the obligor of any property so used or operated which has been so subjected to the lien of the indenture since the commencement of the then current calendar year, and as to which a certificate or opinion of an independent engineer, appraiser, or other expert has not previously been furnished.

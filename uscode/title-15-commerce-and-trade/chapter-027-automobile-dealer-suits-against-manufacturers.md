@@ -52,7 +52,7 @@ This chapter shall not invalidate any provision of the laws of any State except 
 
 (1) **Definitions** — For purposes of this subsection—
 
-  (A) the term “motor vehicle” has the meaning given such term in [section 30102(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/6&num=0&edition=prelim); and
+  (A) the term “motor vehicle” has the meaning given such term in [section 30102(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/6&num=0&edition=prelim); 11 See References in Text note below. and
 
   (B) the term “motor vehicle franchise contract” means a contract under which a motor vehicle manufacturer, importer, or distributor sells motor vehicles to any other person for resale to an ultimate purchaser and authorizes such other person to repair and service the manufacturer’s motor vehicles.
 
@@ -63,6 +63,9 @@ This chapter shall not invalidate any provision of the laws of any State except 
 **(b) Application** Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 30102(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/6&num=0&edition=prelim), referred to in subsec. (a)(1)(A), probably should be “[section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim)”, which was redesignated [section 30102(a)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/7&num=0&edition=prelim) by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
 
 #### Codification
 Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.

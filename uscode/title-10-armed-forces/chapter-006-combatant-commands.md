@@ -96,13 +96,13 @@ Barack Obama.
 ### Statutory Notes
 
 #### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces”, and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces” and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
 
-Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2), which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
+Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2) which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
 
-Subsec. (a)(4). Pub. L. 114–328, § 924(3), which directed striking out “operating with the geographic area”, was executed by striking out “operating within the geographic area” after “all forces” to reflect the probable intent of Congress.
+Subsec. (a)(4). Pub. L. 114–328, § 924(3)(B), struck out “assigned to, and” before “under the command”.
 
-Pub. L. 114–328, § 924(3), struck out “assigned to, and” before “under the command”.
+Pub. L. 114–328, § 924(3)(A), which directed striking out “operating with the geographic area”, was executed by striking out “operating within the geographic area” after “all forces” to reflect the probable intent of Congress.
 
 1996—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
 
@@ -588,9 +588,9 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 #### Amendments
 2016—Subsec. (e)(2). Pub. L. 114–328, § 922(c)(1)(A), substituted “Subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the commander” for “The commander” in introductory provisions.
 
-Subsec. (e)(2)(J). Pub. L. 114–328, § 922(c)(1)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.”.
+Subsec. (e)(2)(J). Pub. L. 114–328, § 922(c)(1)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.”
 
-Subsec. (f) to (l). Pub. L. 114–328, § 922(c)(2), added susbec. (f) and redesignated former subsecs. (f) to (k) as (g) to (l), respectively.
+Subsecs. (f) to (l). Pub. L. 114–328, § 922(c)(2), added subsec. (f) and redesignated former subsecs. (f) to (k) as (g) to (l), respectively.
 
 2014—Subsec. (g). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)”.
 
@@ -741,7 +741,7 @@ Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555,
 
       (I) for forces assigned directly to the cyber command; and
 
-      (II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Should be “2016”. (Public Law 114–92; 129 Stat. 886; [10 U.S.C. 2224](./chapter-131-planning-and-coordination.md#section-2224) note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+      (II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Probably should be “2016”. (Public Law 114–92; 129 Stat. 886; [10 U.S.C. 2224](./chapter-131-planning-and-coordination.md#section-2224) note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
 
     (iv) Training and certification of assigned joint forces.
 

@@ -498,7 +498,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
   (C) the legal barriers, if any, to the establishment of such a program.
 
-(2) Within 3 years after October 6, 1992, the Administrator shall report to Congress on the results of the evaluation performed in accordance with paragraph (1). Included in this report shall be a description of the activities conducted pursuant to subsections (a) through (d) of this section.
+(2) Within 3 years after October 6, 1992, the Administrator shall report to Congress on the results of the evaluation performed in accordance with paragraph (1). Included in this report shall be a description of the activities conducted pursuant to subsections (a) through (d).
 
 **(f) “Small town” defined** For purposes of this section, the term “small town” means an incorporated or unincorporated community (as defined by the Administrator) with a population of less than 2,500 individuals.
 
@@ -720,9 +720,9 @@ For transfer of certain enforcement functions of Administrator or other official
 ## § 6916. General authorization
 **(a) General administration** There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of this chapter, $35,000,000 for the fiscal year ending September 30, 1977, $38,000,000 for the fiscal year ending September 30, 1978, $42,000,000 for the fiscal year ending September 30, 1979, $70,000,000 for the fiscal year ending September 30, 1980, $80,000,000 for the fiscal year ending September 30, 1981, $80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988.
 
-**(b) Resource Recovery and Conservation Panels** Not less than 20 percent of the amount appropriated under subsection (a) of this section, or $5,000,000 per fiscal year, whichever is less, shall be used only for purposes of Resource Recovery and Conservation Panels established under [section 6913 of this title](./chapter-082-solid-waste-disposal.md#section-6913) (including travel expenses incurred by such panels in carrying out their functions under this chapter).
+**(b) Resource Recovery and Conservation Panels** Not less than 20 percent of the amount appropriated under subsection (a), or $5,000,000 per fiscal year, whichever is less, shall be used only for purposes of Resource Recovery and Conservation Panels established under [section 6913 of this title](./chapter-082-solid-waste-disposal.md#section-6913) (including travel expenses incurred by such panels in carrying out their functions under this chapter).
 
-**(c) Hazardous waste** Not less than 30 percent of the amount appropriated under subsection (a) of this section shall be used only for purposes of carrying out subchapter III of this chapter (relating to hazardous waste) other than [section 6931 of this title](./chapter-082-solid-waste-disposal.md#section-6931).
+**(c) Hazardous waste** Not less than 30 percent of the amount appropriated under subsection (a) shall be used only for purposes of carrying out subchapter III of this chapter (relating to hazardous waste) other than [section 6931 of this title](./chapter-082-solid-waste-disposal.md#section-6931).
 
 **(d) State and local support** Not less than 25 per centum of the total amount appropriated under this chapter, up to the amount authorized in [section 6948(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6948/a/1&num=0&edition=prelim), shall be used only for purposes of support to State, regional, local, and interstate agencies in accordance with subchapter IV of this chapter other than section 6948(a)(2) or 6949 of this title.
 
@@ -747,7 +747,7 @@ Subsecs. (e), (f). Pub. L. 98–616, § 2(i), added subsecs. (e) and (f).
 
 1980—Subsec. (a). Pub. L. 96–482, § 31(a), authorized appropriation of $70,000,000, $80,000,000, and $80,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
 
-Subsec. (b). Pub. L. 96–482, § 6(a), inserted “, or $5,000,000 per fiscal year, whichever is less,” after “subsection (a) of this section”.
+Subsec. (b). Pub. L. 96–482, § 6(a), inserted “, or $5,000,000 per fiscal year, whichever is less,” after “subsection (a)”.
 
 Subsec. (d). Pub. L. 96–482, § 6(b), added subsec. (d).
 
@@ -772,7 +772,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(b) Identification and listing**
 
-(1) Not later than eighteen months after October 21, 1976, and after notice and opportunity for public hearing, the Administrator shall promulgate regulations identifying the characteristics of hazardous waste, and listing particular hazardous wastes (within the meaning of [section 6903(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6903/5&num=0&edition=prelim)), which shall be subject to the provisions of this subchapter. Such regulations shall be based on the criteria promulgated under subsection (a) of this section and shall be revised from time to time thereafter as may be appropriate. The Administrator, in cooperation with the Agency for Toxic Substances and Disease Registry and the National Toxicology Program, shall also identify or list those hazardous wastes which shall be subject to the provisions of this subchapter solely because of the presence in such wastes of certain constituents (such as identified carcinogens, mutagens, or teratagens) 11 So in original. Probably should be “teratogens)”. at levels in excess of levels which endanger human health.
+(1) Not later than eighteen months after October 21, 1976, and after notice and opportunity for public hearing, the Administrator shall promulgate regulations identifying the characteristics of hazardous waste, and listing particular hazardous wastes (within the meaning of [section 6903(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6903/5&num=0&edition=prelim)), which shall be subject to the provisions of this subchapter. Such regulations shall be based on the criteria promulgated under subsection (a) and shall be revised from time to time thereafter as may be appropriate. The Administrator, in cooperation with the Agency for Toxic Substances and Disease Registry and the National Toxicology Program, shall also identify or list those hazardous wastes which shall be subject to the provisions of this subchapter solely because of the presence in such wastes of certain constituents (such as identified carcinogens, mutagens, or teratagens) 11 So in original. Probably should be “teratogens)”. at levels in excess of levels which endanger human health.
 
 (2)
 
@@ -864,9 +864,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(e) Specified wastes**
 
-(1) Not later than 6 months after November 8, 1984, the Administrator shall, where appropriate, list under subsection (b)(1) of this section, additional wastes containing chlorinated dioxins or chlorinated-dibenzofurans. Not later than one year after November 8, 1984, the Administrator shall, where appropriate, list under subsection (b)(1) of this section wastes containing remaining halogenated dioxins and halogenated-dibenzofurans.
+(1) Not later than 6 months after November 8, 1984, the Administrator shall, where appropriate, list under subsection (b)(1), additional wastes containing chlorinated dioxins or chlorinated-dibenzofurans. Not later than one year after November 8, 1984, the Administrator shall, where appropriate, list under subsection (b)(1) wastes containing remaining halogenated dioxins and halogenated-dibenzofurans.
 
-(2) Not later than fifteen months after November 8, 1984, the Administrator shall make a determination of whether or not to list under subsection (b)(1) of this section the following wastes: Chlorinated Aliphatics, Dioxin, Dimethyl Hydrazine, TDI (toluene diisocyanate), Carbamates, Bromacil, Linuron, Organo-bromines, solvents, refining wastes, chlorinated aromatics, dyes and pigments, inorganic chemical industry wastes, lithium batteries, coke byproducts, paint production wastes, and coal slurry pipeline effluent.
+(2) Not later than fifteen months after November 8, 1984, the Administrator shall make a determination of whether or not to list under subsection (b)(1) the following wastes: Chlorinated Aliphatics, Dioxin, Dimethyl Hydrazine, TDI (toluene diisocyanate), Carbamates, Bromacil, Linuron, Organo-bromines, solvents, refining wastes, chlorinated aromatics, dyes and pigments, inorganic chemical industry wastes, lithium batteries, coke byproducts, paint production wastes, and coal slurry pipeline effluent.
 
 **(f) Delisting procedures**
 
@@ -964,7 +964,7 @@ Pub. L. 98–616, title II, § 221(f), Nov. 8, 1984, 98 Stat. 3250, as amended b
 
   (D) the changes in volume and toxicity of waste actually achieved during the year in question in comparison with previous years, to the extent such information is available for years prior to November 8, 1984.
 
-**(b) Waste minimization** Effective September 1, 1985, the manifest required by subsection (a)(5) of this section shall contain a certification by the generator that—
+**(b) Waste minimization** Effective September 1, 1985, the manifest required by subsection (a)(5) shall contain a certification by the generator that—
 
 (1) the generator of the hazardous waste has a program in place to reduce the volume or quantity and toxicity of such waste to the degree determined by the generator to be economically practicable; and
 
@@ -1010,7 +1010,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(b) Coordination with regulations of Secretary of Transportation** In case of any hazardous waste identified or listed under this subchapter which is subject to chapter 51 of title 49, the regulations promulgated by the Administrator under this section shall be consistent with the requirements of such Act and the regulations thereunder. The Administrator is authorized to make recommendations to the Secretary of Transportation respecting the regulations of such hazardous waste under the Hazardous Materials Transportation Act and for addition of materials to be covered by such Act.
 
-**(c) Fuel from hazardous waste** Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921), or (2) from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) of this section as may be appropriate.
+**(c) Fuel from hazardous waste** Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921), or (2) from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.
 
 ### Statutory Notes
 
@@ -1064,7 +1064,7 @@ No private entity shall be precluded by reason of criteria established under par
 
 (2) Effective on November 8, 1984, the placement of any hazardous waste other than a hazardous waste referred to in paragraph (1) in a salt dome formation, salt bed formation, underground mine, or cave is prohibited until such time as a permit has been issued under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) for the facility concerned.
 
-(3) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) of this section applies shall affect the prohibition contained in paragraph (1) or (2) of this subsection.
+(3) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) applies shall affect the prohibition contained in paragraph (1) or (2) of this subsection.
 
 (4) Nothing in this subsection shall apply to the Department of Energy Waste Isolation Pilot Project in New Mexico.
 
@@ -1086,18 +1086,18 @@ No private entity shall be precluded by reason of criteria established under par
   (B) placement in such owner or operator’s landfill will not present a risk of contamination of any underground source of drinking water.
   As used in subparagraph (B), the term “underground source of drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act) [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.].
 
-(4) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) of this section applies shall affect the prohibition contained in paragraph (1) of this subsection.
+(4) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) applies shall affect the prohibition contained in paragraph (1) of this subsection.
 
 **(d) Prohibitions on land disposal of specified wastes**
 
-(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
+(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
 
   (A) the long-term uncertainties associated with land disposal,
 
   (B) the goal of managing hazardous waste in an appropriate manner in the first instance, and
 
   (C) the persistence, toxicity, mobility, and propensity to bioaccumulate of such hazardous wastes and their hazardous constituents.
-  For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section), unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
+  For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m)), unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
 
 (2) Paragraph (1) applies to the following hazardous wastes listed or identified under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921):
 
@@ -1132,7 +1132,7 @@ No private entity shall be precluded by reason of criteria established under par
 
 **(e) Solvents and dioxins**
 
-(1) Effective twenty-four months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition of one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraph (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section), unless upon application by an interested person it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
+(1) Effective twenty-four months after November 8, 1984 (except as provided in subsection (f) with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition of one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraph (A) through (C) of subsection (d)(1). For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m)), unless upon application by an interested person it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
 
 (2) The hazardous wastes to which the prohibition under paragraph (1) applies are as follows—
 
@@ -1144,11 +1144,11 @@ No private entity shall be precluded by reason of criteria established under par
 
 **(f) Disposal into deep injection wells; specified subsection (d) wastes; solvents and dioxins**
 
-(1) Not later than forty-five months after November 8, 1984, the Administrator shall complete a review of the disposal of all hazardous wastes referred to in paragraph (2) of subsection (d) of this section and in paragraph (2) of subsection (e) of this section by underground injection into deep injection wells.
+(1) Not later than forty-five months after November 8, 1984, the Administrator shall complete a review of the disposal of all hazardous wastes referred to in paragraph (2) of subsection (d) and in paragraph (2) of subsection (e) by underground injection into deep injection wells.
 
-(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) of this section and the hazardous wastes referred to in paragraph (2) of subsection (e) of this section. The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section which is prohibited from disposal into such wells by any State.
+(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) and the hazardous wastes referred to in paragraph (2) of subsection (e). The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1). In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) which is prohibited from disposal into such wells by any State.
 
-(3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
+(3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
 
 (4) As used in this subsection, the term “deep injection well” means a well used for the underground injection of hazardous waste other than a well to which section 6979a(a) 22 See References in Text note below. of this title applies.
 
@@ -1156,7 +1156,7 @@ No private entity shall be precluded by reason of criteria established under par
 
 (1) Not later than twenty-four months after November 8, 1984, the Administrator shall submit a schedule to Congress for—
 
-  (A) reviewing all hazardous wastes listed (as of November 8, 1984) under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) other than those wastes which are referred to in subsection (d) or (e) of this section; and
+  (A) reviewing all hazardous wastes listed (as of November 8, 1984) under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) other than those wastes which are referred to in subsection (d) or (e); and
 
   (B) taking action under paragraph (5) of this subsection with respect to each such hazardous waste.
 
@@ -1173,48 +1173,48 @@ No private entity shall be precluded by reason of criteria established under par
   (C) for all such listed wastes and for all hazardous wastes identified under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) by the date sixty-six months after November 8, 1984.
   In the case of any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) after November 8, 1984, the Administrator shall determine whether such waste shall be prohibited from one or more methods of land disposal in accordance with paragraph (5) within six months after the date of such identification or listing.
 
-(5) Not later than the date specified in the schedule published under this subsection, the Administrator shall promulgate final regulations prohibiting one or more methods of land disposal of the hazardous wastes listed on such schedule except for methods of land disposal which the Administrator determines will be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment (except with respect to a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section) unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
+(5) Not later than the date specified in the schedule published under this subsection, the Administrator shall promulgate final regulations prohibiting one or more methods of land disposal of the hazardous wastes listed on such schedule except for methods of land disposal which the Administrator determines will be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1). For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment (except with respect to a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m)) unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
 
 (6)
 
   (A) If the Administrator fails (by the date forty-five months after November 8, 1984) to promulgate regulations or make a determination under paragraph (5) for any hazardous waste which is included in the first one-third of the schedule published under this subsection, such hazardous waste may be disposed of in a landfill or surface impoundment only if—
 
-    (i) such facility is in compliance with the requirements of subsection (o) of this section which are applicable to new facilities (relating to minimum technological requirements); and
+    (i) such facility is in compliance with the requirements of subsection (o) which are applicable to new facilities (relating to minimum technological requirements); and
 
     (ii) prior to such disposal, the generator has certified to the Administrator that such generator has investigated the availability of treatment capacity and has determined that the use of such landfill or surface impoundment is the only practical alternative to treatment currently available to the generator.
 
   (B) If the Administrator fails (by the date 55 months after November 8, 1984) to promulgate regulations or make a determination under paragraph (5) for any hazardous waste which is included in the first two-thirds of the schedule published under this subsection, such hazardous waste may be disposed of in a landfill or surface impoundment only if—
 
-    (i) such facility is in compliance with the requirements of subsection (o) of this section which are applicable to new facilities (relating to minimum technological requirements); and
+    (i) such facility is in compliance with the requirements of subsection (o) which are applicable to new facilities (relating to minimum technological requirements); and
 
     (ii) prior to such disposal, the generator has certified to the Administrator that such generator has investigated the availability of treatment capacity and has determined that the use of such landfill or surface impoundment is the only practical alternative to treatment currently available to the generator.
     The prohibition contained in this subparagraph shall continue to apply until the Administrator promulgates regulations or makes a determination under paragraph (5) for the waste concerned.
 
   (C) If the Administrator fails to promulgate regulations, or make a determination under paragraph (5) for any hazardous waste referred to in paragraph (1) within 66 months after November 8, 1984, such hazardous waste shall be prohibited from land disposal.
 
-(7) Solid waste identified as hazardous based solely on one or more characteristics shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section (other than any applicable specific methods of treatment, as provided in paragraph (8)) if the waste—
+(7) Solid waste identified as hazardous based solely on one or more characteristics shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) (other than any applicable specific methods of treatment, as provided in paragraph (8)) if the waste—
 
   (A) is treated in a treatment system that subsequently discharges to waters of the United States pursuant to a permit issued under [section 1342 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342&num=0&edition=prelim), treated for the purposes of the pretreatment requirements of [section 1317 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317&num=0&edition=prelim), or treated in a zero discharge system that, prior to any permanent land disposal, engages in treatment that is equivalent to treatment required under [section 1342 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342&num=0&edition=prelim) for discharges to waters of the United States, as determined by the Administrator; and
 
   (B) no longer exhibits a hazardous characteristic prior to management in any land-based solid waste management unit.
 
-(8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m) of this section, including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
+(8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m), including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
 
-(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under [section 300h–1 of this title](./chapter-6a-public-health-service.md#section-300h-1).
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under [section 300h–1 of this title](./chapter-6a-public-health-service.md#section-300h-1).
 
-(10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
+(10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1), or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
 (11) Nothing in paragraph (7) or (9) shall be interpreted or applied to restrict any inspection or enforcement authority under the provisions of this chapter.
 
 **(h) Variance from land disposal prohibitions**
 
-(1) A prohibition in regulations under subsection (d), (e), (f), or (g) of this section shall be effective immediately upon promulgation.
+(1) A prohibition in regulations under subsection (d), (e), (f), or (g) shall be effective immediately upon promulgation.
 
-(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Any such other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
+(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) or under regulations under subsection (d), (e), (f), or (g) of this section. Any such other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g).
 
-(3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
+(3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
 
-(4) Whenever another effective date (hereinafter referred to as a “variance”) is established under paragraph (2), or an extension is granted under paragraph (3), with respect to any hazardous waste, during the period for which such variance or extension is in effect, such hazardous waste may be disposed of in a landfill or surface impoundment only if such facility is in compliance with the requirements of subsection (o) of this section.
+(4) Whenever another effective date (hereinafter referred to as a “variance”) is established under paragraph (2), or an extension is granted under paragraph (3), with respect to any hazardous waste, during the period for which such variance or extension is in effect, such hazardous waste may be disposed of in a landfill or surface impoundment only if such facility is in compliance with the requirements of subsection (o).
 
 **(i) Publication of determination** If the Administrator determines that a method of land disposal will be protective of human health and the environment, he shall promptly publish in the Federal Register notice of such determination, together with an explanation of the basis for such determination.
 
@@ -1226,9 +1226,9 @@ No private entity shall be precluded by reason of criteria established under par
 
 **(m) Treatment standards for wastes subject to land disposal prohibition**
 
-(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
+(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
-(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) of this section and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g) of this section.
+(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
 
 **(n) Air emissions** Not later than thirty months after November 8, 1984, the Administrator shall promulgate such regulations for the monitoring and control of air emissions at hazardous waste treatment, storage, and disposal facilities, including but not limited to open tanks, surface impoundments, and landfills, as may be necessary to protect human health and the environment.
 
@@ -1282,7 +1282,7 @@ No private entity shall be precluded by reason of criteria established under par
 (2) two liners and a leachate collection system have been installed at the facility; or
 
 (3) the owner or operator inspects the liner (or liners) which has been installed at the facility.
-This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorized on a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (o) of this section) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoring and for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
+This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorized on a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (o)) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoring and for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
 
 **(q) Hazardous waste used as fuel**
 
@@ -1297,13 +1297,13 @@ This subsection shall not be construed to affect other exemptions or waivers fro
   (B) standards applicable to the owners and operators of facilities which burn, for purposes of energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921); and
 
   (C) standards applicable to any person who distributes or markets any fuel which is produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921);
-  as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (7) of subsection (a) of this section as may be appropriate. Nothing in this subsection shall be construed to affect or impair the provisions of [section 6921(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6921/b/3&num=0&edition=prelim). For purposes of this subsection, the term “hazardous waste listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921)” includes any commercial chemical product which is listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) and which, in lieu of its original intended use, is (i) produced for use as (or as a component of) a fuel, (ii) distributed for use as a fuel, or (iii) burned as a fuel.
+  as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (7) of subsection (a) as may be appropriate. Nothing in this subsection shall be construed to affect or impair the provisions of [section 6921(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6921/b/3&num=0&edition=prelim). For purposes of this subsection, the term “hazardous waste listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921)” includes any commercial chemical product which is listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) and which, in lieu of its original intended use, is (i) produced for use as (or as a component of) a fuel, (ii) distributed for use as a fuel, or (iii) burned as a fuel.
 
 (2)
 
-  (A) This subsection, subsection (r) of this section, and subsection (s) of this section shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resulting coke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921).
+  (A) This subsection, subsection (r), and subsection (s) shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resulting coke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921).
 
-  (B) The Administrator may exempt from the requirements of this subsection, subsection (r) of this section, or subsection (s) of this section facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
+  (B) The Administrator may exempt from the requirements of this subsection, subsection (r), or subsection (s) facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
 
   (C)
 
@@ -1313,7 +1313,7 @@ This subsection shall not be construed to affect other exemptions or waivers fro
 
 **(r) Labeling**
 
-(1) Notwithstanding any other provision of law, until such time as the Administrator promulgates standards under subsection (q) of this section specifically superceding this requirement, it shall be unlawful for any person who is required to file a notification in accordance with paragraph (1) or (3) of [section 6930 of this title](./chapter-082-solid-waste-disposal.md#section-6930) to distribute or market any fuel which is produced from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921), or any fuel which otherwise contains any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) if the invoice or the bill of sale fails—
+(1) Notwithstanding any other provision of law, until such time as the Administrator promulgates standards under subsection (q) specifically superceding this requirement, it shall be unlawful for any person who is required to file a notification in accordance with paragraph (1) or (3) of [section 6930 of this title](./chapter-082-solid-waste-disposal.md#section-6930) to distribute or market any fuel which is produced from any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921), or any fuel which otherwise contains any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) if the invoice or the bill of sale fails—
 
   (A) to bear the following statement: “WARNING: THIS FUEL CONTAINS HAZARDOUS WASTES”, and
 
@@ -1346,14 +1346,14 @@ This subsection shall not be construed to affect other exemptions or waivers fro
 
 **(v) Corrective action beyond facility boundary** As promptly as practicable after November 8, 1984, the Administrator shall amend the standards under this section regarding corrective action required at facilities for the treatment, storage, or disposal, of hazardous waste listed or identified under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) to require that corrective action be taken beyond the facility boundary where necessary to protect human health and the environment unless the owner or operator of the facility concerned demonstrates to the satisfaction of the Administrator that, despite the owner or operator’s best efforts, the owner or operator was unable to obtain the necessary permission to undertake such action. Such regulations shall take effect immediately upon promulgation, notwithstanding [section 6930(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6930/b&num=0&edition=prelim), and shall apply to—
 
-(1) all facilities operating under permits issued under subsection (c) of this section, and
+(1) all facilities operating under permits issued under subsection (c), and
 
 (2) all landfills, surface impoundments, and waste pile units (including any new units, replacements of existing units, or lateral expansions of existing units) which receive hazardous waste after July 26, 1982.
 Pending promulgation of such regulations, the Administrator shall issue corrective action orders for facilities referred to in paragraphs (1) and (2), on a case-by-case basis, consistent with the purposes of this subsection.
 
 **(w) Underground tanks** Not later than March 1, 1985, the Administrator shall promulgate final permitting standards under this section for underground tanks that cannot be entered for inspection. Within forty-eight months after November 8, 1984, such standards shall be modified, if necessary, to cover at a minimum all requirements and standards described in [section 6991b of this title](./chapter-082-solid-waste-disposal.md#section-6991b).
 
-**(x) Mining and other special wastes** If (1) solid waste from the extraction, beneficiation or processing of ores and minerals, including phosphate rock and overburden from the mining of uranium, (2) fly ash waste, bottom ash waste, slag waste, and flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels, or (3) cement kiln dust waste, is subject to regulation under this subchapter, the Administrator is authorized to modify the requirements of subsections (c), (d), (e), (f), (g), (o), and (u) of this section and [section 6925(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/j&num=0&edition=prelim), in the case of landfills or surface impoundments receiving such solid waste, to take into account the special characteristics of such wastes, the practical difficulties associated with implementation of such requirements, and site-specific characteristics, including but not limited to the climate, geology, hydrology and soil chemistry at the site, so long as such modified requirements assure protection of human health and the environment.
+**(x) Mining and other special wastes** If (1) solid waste from the extraction, beneficiation or processing of ores and minerals, including phosphate rock and overburden from the mining of uranium, (2) fly ash waste, bottom ash waste, slag waste, and flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels, or (3) cement kiln dust waste, is subject to regulation under this subchapter, the Administrator is authorized to modify the requirements of subsections (c), (d), (e), (f), (g), (o), and (u) and [section 6925(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/j&num=0&edition=prelim), in the case of landfills or surface impoundments receiving such solid waste, to take into account the special characteristics of such wastes, the practical difficulties associated with implementation of such requirements, and site-specific characteristics, including but not limited to the climate, geology, hydrology and soil chemistry at the site, so long as such modified requirements assure protection of human health and the environment.
 
 **(y) Munitions**
 
@@ -1437,7 +1437,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
   (B) Not later than the date eight years after November 8, 1984, in the case of each application for a permit under this subsection for any facility (other than a facility referred to in subparagraph (A)) which was submitted before such date, the Administrator shall issue a final permit pursuant to such application or issue a final denial of such application.
 
-  (C) The time periods specified in this paragraph shall also apply in the case of any State which is administering an authorized hazardous waste program under [section 6926 of this title](./chapter-082-solid-waste-disposal.md#section-6926). Interim status under subsection (e) of this section shall terminate for each facility referred to in subparagraph (A)(ii) or (B) on the expiration of the five- or eight-year period referred to in subparagraph (A) or (B), whichever is applicable, unless the owner or operator of the facility applies for a final determination regarding the issuance of a permit under this subsection within—
+  (C) The time periods specified in this paragraph shall also apply in the case of any State which is administering an authorized hazardous waste program under [section 6926 of this title](./chapter-082-solid-waste-disposal.md#section-6926). Interim status under subsection (e) shall terminate for each facility referred to in subparagraph (A)(ii) or (B) on the expiration of the five- or eight-year period referred to in subparagraph (A) or (B), whichever is applicable, unless the owner or operator of the facility applies for a final determination regarding the issuance of a permit under this subsection within—
 
     (i) two years after November 8, 1984 (in the case of a facility referred to in subparagraph (A)(ii)), or
 
@@ -1464,13 +1464,13 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (2) In the case of each land disposal facility which has been granted interim status under this subsection before November 8, 1984, interim status shall terminate on the date twelve months after November 8, 1984, unless the owner or operator of such facility—
 
-  (A) applies for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility before the date twelve months after November 8, 1984; and
+  (A) applies for a final determination regarding the issuance of a permit under subsection (c) for such facility before the date twelve months after November 8, 1984; and
 
   (B) certifies that such facility is in compliance with all applicable groundwater monitoring and financial responsibility requirements.
 
 (3) In the case of each land disposal facility which is in existence on the effective date of statutory or regulatory changes under this chapter that render the facility subject to the requirement to have a permit under this section and which is granted interim status under this subsection, interim status shall terminate on the date twelve months after the date on which the facility first becomes subject to such permit requirement unless the owner or operator of such facility—
 
-  (A) applies for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility before the date twelve months after the date on which the facility first becomes subject to such permit requirement; and
+  (A) applies for a final determination regarding the issuance of a permit under subsection (c) for such facility before the date twelve months after the date on which the facility first becomes subject to such permit requirement; and
 
   (B) certifies that such facility is in compliance with all applicable groundwater monitoring and financial responsibility requirements.
 
@@ -1499,7 +1499,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (2) the proposed method of treatment, storage, or disposal is that practicable method currently available to the generator which minimizes the present and future threat to human health and the environment.
 
-**(i) Interim status facilities receiving wastes after July 26, 1982** The standards concerning ground water monitoring, unsaturated zone monitoring, and corrective action, which are applicable under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924) to new landfills, surface impoundments, land treatment units, and waste-pile units required to be permitted under subsection (c) of this section shall also apply to any landfill, surface impoundment, land treatment unit, or waste-pile unit qualifying for the authorization to operate under subsection (e) of this section which receives hazardous waste after July 26, 1982.
+**(i) Interim status facilities receiving wastes after July 26, 1982** The standards concerning ground water monitoring, unsaturated zone monitoring, and corrective action, which are applicable under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924) to new landfills, surface impoundments, land treatment units, and waste-pile units required to be permitted under subsection (c) shall also apply to any landfill, surface impoundment, land treatment unit, or waste-pile unit qualifying for the authorization to operate under subsection (e) which receives hazardous waste after July 26, 1982.
 
 **(j) Interim status surface impoundments**
 
@@ -1628,7 +1628,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (3) Pending interim or final authorization of a State program for any State which reflects the amendments made by the Hazardous and Solid Waste Amendments of 1984, the State may enter into an agreement with the Administrator under which the State may assist in the administration of the requirements and prohibitions which take effect pursuant to such Amendments.
 
-(4) In the case of a State permit program for any State which is authorized under subsection (b) of this section or under this subsection, until such program is amended to reflect the amendments made by the Hazardous and Solid Waste Amendments of 1984 and such program amendments receive interim or final authorization, the Administrator shall have the authority in such State to issue or deny permits or those portions of permits affected by the requirements and prohibitions established by the Hazardous and Solid Waste Amendments of 1984. The Administrator shall coordinate with States the procedures for issuing such permits.
+(4) In the case of a State permit program for any State which is authorized under subsection (b) or under this subsection, until such program is amended to reflect the amendments made by the Hazardous and Solid Waste Amendments of 1984 and such program amendments receive interim or final authorization, the Administrator shall have the authority in such State to issue or deny permits or those portions of permits affected by the requirements and prohibitions established by the Hazardous and Solid Waste Amendments of 1984. The Administrator shall coordinate with States the procedures for issuing such permits.
 
 **(d) Effect of State permit** Any action taken by a State under a hazardous waste program authorized under this section shall have the same force and effect as action taken by the Administrator under this subchapter.
 
@@ -1701,9 +1701,9 @@ Each such inspection shall be commenced and completed with reasonable promptness
 
 (4) Notwithstanding any limitation contained in this section or any other provision of law, all information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
 
-**(c) Federal facility inspections** The Administrator shall undertake on an annual basis a thorough inspection of each facility for the treatment, storage, or disposal of hazardous waste which is owned or operated by a department, agency, or instrumentality of the United States to enforce its compliance with this subchapter and the regulations promulgated thereunder. Any State with an authorized hazardous waste program also may conduct an inspection of any such facility for purposes of enforcing the facility’s compliance with the State hazardous waste program. The records of such inspections shall be available to the public as provided in subsection (b) of this section. The department, agency, or instrumentality owning or operating each such facility shall reimburse the Environmental Protection Agency for the costs of the inspection of the facility. With respect to the first inspection of each such facility occurring after October 6, 1992, the Administrator shall conduct a comprehensive ground water monitoring evaluation at the facility, unless such an evaluation was conducted during the 12-month period preceding October 6, 1992.
+**(c) Federal facility inspections** The Administrator shall undertake on an annual basis a thorough inspection of each facility for the treatment, storage, or disposal of hazardous waste which is owned or operated by a department, agency, or instrumentality of the United States to enforce its compliance with this subchapter and the regulations promulgated thereunder. Any State with an authorized hazardous waste program also may conduct an inspection of any such facility for purposes of enforcing the facility’s compliance with the State hazardous waste program. The records of such inspections shall be available to the public as provided in subsection (b). The department, agency, or instrumentality owning or operating each such facility shall reimburse the Environmental Protection Agency for the costs of the inspection of the facility. With respect to the first inspection of each such facility occurring after October 6, 1992, the Administrator shall conduct a comprehensive ground water monitoring evaluation at the facility, unless such an evaluation was conducted during the 12-month period preceding October 6, 1992.
 
-**(d) State-operated facilities** The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardous waste which is operated by a State or local government for which a permit is required under [section 6925 of this title](./chapter-082-solid-waste-disposal.md#section-6925). The records of such inspection shall be available to the public as provided in subsection (b) of this section.
+**(d) State-operated facilities** The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardous waste which is operated by a State or local government for which a permit is required under [section 6925 of this title](./chapter-082-solid-waste-disposal.md#section-6925). The records of such inspection shall be available to the public as provided in subsection (b).
 
 **(e) Mandatory inspections**
 
@@ -1781,7 +1781,7 @@ shall, upon conviction, be subject to a fine of not more than $50,000 for each d
 
 **(e) Knowing endangerment** Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
 
-**(f) Special rules** For the purposes of subsection (e) of this section—
+**(f) Special rules** For the purposes of subsection (e)—
 
 (1) A person’s state of mind is knowing with respect to—
 
@@ -1804,7 +1804,7 @@ shall, upon conviction, be subject to a fine of not more than $50,000 for each d
   (B) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made aware of the risks involved prior to giving consent.
   The defendant may establish an affirmative defense under this subsection by a preponderance of the evidence.
 
-(4) All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply under subsection (e) of this section and shall be determined by the courts of the United States according to the principles of common law as they may be interpreted in the light of reason and experience. Concepts of justification and excuse applicable under this section may be developed in the light of reason and experience.
+(4) All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply under subsection (e) and shall be determined by the courts of the United States according to the principles of common law as they may be interpreted in the light of reason and experience. Concepts of justification and excuse applicable under this section may be developed in the light of reason and experience.
 
 (5) The term “organization” means a legal entity, other than a government, established, or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons.
 
@@ -1939,9 +1939,9 @@ For transfer of certain enforcement functions of Administrator or other official
 ## § 6931. Authorization of assistance to States
 **(a) Authorization of appropriations** There is authorized to be appropriated $25,000,000 for each of the fiscal years 1978 and 1979 11 So in original. Probably should be followed by a comma. $20,000,000 for fiscal year 1980, $35,000,000 for fiscal year 1981, $40,000,000 for the fiscal year 1982, $55,000,000 for the fiscal year 1985, $60,000,000 for the fiscal year 1986, $60,000,000 for the fiscal year 1987, and $60,000,000 for the fiscal year 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of authorized State hazardous waste programs.
 
-**(b) Allocation** Amounts authorized to be appropriated under subsection (a) of this section shall be allocated among the States on the basis of regulations promulgated by the Administrator, after consultation with the States, which take into account, the extent to which hazardous waste is generated, transported, treated, stored, and disposed of within such State, the extent of exposure of human beings and the environment within such State to such waste, and such other factors as the Administrator deems appropriate.
+**(b) Allocation** Amounts authorized to be appropriated under subsection (a) shall be allocated among the States on the basis of regulations promulgated by the Administrator, after consultation with the States, which take into account, the extent to which hazardous waste is generated, transported, treated, stored, and disposed of within such State, the extent of exposure of human beings and the environment within such State to such waste, and such other factors as the Administrator deems appropriate.
 
-**(c) Activities included** State hazardous waste programs for which grants may be made under subsection (a) of this section may include (but shall not be limited to) planning for hazardous waste treatment, storage and disposal facilities, and the development and execution of programs to protect health and the environment from inactive facilities which may contain hazardous waste.
+**(c) Activities included** State hazardous waste programs for which grants may be made under subsection (a) may include (but shall not be limited to) planning for hazardous waste treatment, storage and disposal facilities, and the development and execution of programs to protect health and the environment from inactive facilities which may contain hazardous waste.
 
 ### Statutory Notes
 
@@ -1980,11 +1980,11 @@ Section, Pub. L. 89–272, title II, § 3012, as added Pub. L. 96–463, § 7(a)
 (5) information concerning the current status of the site, including information respecting whether or not hazardous waste is currently being treated or disposed of at such site (and if not, the date on which such activity ceased) and information respecting the nature of any other activity currently carried out at such site.
 For purposes of assisting the States in compiling information under this section, the Administrator shall make available to each State undertaking a program under this section such information as is available to him concerning the items specified in paragraphs (1) through (5) with respect to the sites within such State, including such information as the Administrator is able to obtain from other agencies or departments of the United States and from surveys and studies carried out by any committee or subcommittee of the Congress. Any State may exercise the authority of [section 6927 of this title](./chapter-082-solid-waste-disposal.md#section-6927) for purposes of this section in the same manner and to the same extent as provided in such section in the case of States having an authorized hazardous waste program, and any State may by order require any person to submit such information as may be necessary to compile the data referred to in paragraphs (1) through (5).
 
-**(b) Environmental Protection Agency program** If the Administrator determines that any State program under subsection (a) of this section is not adequately providing information respecting the sites in such State referred to in subsection (a) of this section, the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
+**(b) Environmental Protection Agency program** If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a), the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
 
-(1) the Administrator shall have the authorities provided with respect to State programs under subsection (a) of this section;
+(1) the Administrator shall have the authorities provided with respect to State programs under subsection (a);
 
-(2) the funds allocated under subsection (c) of this section for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
+(2) the funds allocated under subsection (c) for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
 
 (3) no further expenditure may be made for grants to such State under this section until such time as the Administrator determines that such State is carrying out, or will carry out, an inventory program which meets the requirements of this section.
 
@@ -2017,20 +2017,20 @@ For transfer of certain enforcement functions of Administrator or other official
 (2) the release of any such waste from such facility or site
 may present a substantial hazard to human health or the environment, he may issue an order requiring the owner or operator of such facility or site to conduct such monitoring, testing, analysis, and reporting with respect to such facility or site as the Administrator deems reasonable to ascertain the nature and extent of such hazard.
 
-**(b) Previous owners and operators** In the case of any facility or site not in operation at the time a determination is made under subsection (a) of this section with respect to the facility or site, if the Administrator finds that the owner of such facility or site could not reasonably be expected to have actual knowledge of the presence of hazardous waste at such facility or site and of its potential for release, he may issue an order requiring the most recent previous owner or operator of such facility or site who could reasonably be expected to have such actual knowledge to carry out the actions referred to in subsection (a) of this section.
+**(b) Previous owners and operators** In the case of any facility or site not in operation at the time a determination is made under subsection (a) with respect to the facility or site, if the Administrator finds that the owner of such facility or site could not reasonably be expected to have actual knowledge of the presence of hazardous waste at such facility or site and of its potential for release, he may issue an order requiring the most recent previous owner or operator of such facility or site who could reasonably be expected to have such actual knowledge to carry out the actions referred to in subsection (a).
 
-**(c) Proposal** An order under subsection (a) or (b) of this section shall require the person to whom such order is issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
+**(c) Proposal** An order under subsection (a) or (b) shall require the person to whom such order is issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
 
 **(d) Monitoring, etc., carried out by Administrator**
 
-(1) If the Administrator determines that no owner or operator referred to in subsection (a) or (b) of this section is able to conduct monitoring, testing, analysis, or reporting satisfactory to the Administrator, if the Administrator deems any such action carried out by an owner or operator to be unsatisfactory, or if the Administrator cannot initially determine that there is an owner or operator referred to in subsection (a) or (b) of this section who is able to conduct such monitoring, testing, analysis, or reporting, he may—
+(1) If the Administrator determines that no owner or operator referred to in subsection (a) or (b) is able to conduct monitoring, testing, analysis, or reporting satisfactory to the Administrator, if the Administrator deems any such action carried out by an owner or operator to be unsatisfactory, or if the Administrator cannot initially determine that there is an owner or operator referred to in subsection (a) or (b) who is able to conduct such monitoring, testing, analysis, or reporting, he may—
 
   (A) conduct monitoring, testing, or analysis (or any combination thereof) which he deems reasonable to ascertain the nature and extent of the hazard associated with the site concerned, or
 
   (B) authorize a State or local authority or other person to carry out any such action,
-  and require, by order, the owner or operator referred to in subsection (a) or (b) of this section to reimburse the Administrator or other authority or person for the costs of such activity.
+  and require, by order, the owner or operator referred to in subsection (a) or (b) to reimburse the Administrator or other authority or person for the costs of such activity.
 
-(2) No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b) of this section.
+(2) No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b).
 
 (3) For purposes of carrying out this subsection, the Administrator or any authority or other person authorized under paragraph (1), may exercise the authorities set forth in [section 6927 of this title](./chapter-082-solid-waste-disposal.md#section-6927).
 
@@ -2060,7 +2060,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
     (i) either—
 
-      (I) enters into an agreement or other arrangement (including an agreement or arrangement with an independent transporter or with an agent of the recycler) for delivery of such used oil to a recycling facility which has a permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) (or for which a valid permit is deemed to be in effect under subsection (d) of this section), or
+      (I) enters into an agreement or other arrangement (including an agreement or arrangement with an independent transporter or with an agent of the recycler) for delivery of such used oil to a recycling facility which has a permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) (or for which a valid permit is deemed to be in effect under subsection (d)), or
 
       (II) recycles such used oil at one or more facilities of the generator which has such a permit under [section 6925 of this title](./chapter-082-solid-waste-disposal.md#section-6925) (or for which a valid permit is deemed to have been issued under subsection (d) of this section);
 
@@ -2072,9 +2072,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(d) Permits**
 
-(1) The owner or operator of a facility which recycles used oil which is exempt under subsection (c)(1) of this section, shall be deemed to have a permit under this subsection for all such treatment or recycling (and any associated tank or container storage) if such owner and operator comply with standards promulgated by the Administrator under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924); except that the Administrator may require such owners and operators to obtain an individual permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) if he determines that an individual permit is necessary to protect human health and the environment.
+(1) The owner or operator of a facility which recycles used oil which is exempt under subsection (c)(1), shall be deemed to have a permit under this subsection for all such treatment or recycling (and any associated tank or container storage) if such owner and operator comply with standards promulgated by the Administrator under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924); except that the Administrator may require such owners and operators to obtain an individual permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) if he determines that an individual permit is necessary to protect human health and the environment.
 
-(2) Notwithstanding any other provision of law, any generator who recycles used oil which is exempt under subsection (c)(1) of this section shall not be required to obtain a permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) with respect to such used oil until the Administrator has promulgated standards under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924) regarding the recycling of such used oil.
+(2) Notwithstanding any other provision of law, any generator who recycles used oil which is exempt under subsection (c)(1) shall not be required to obtain a permit under [section 6925(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim) with respect to such used oil until the Administrator has promulgated standards under [section 6924 of this title](./chapter-082-solid-waste-disposal.md#section-6924) regarding the recycling of such used oil.
 
 ### Statutory Notes
 
@@ -2123,7 +2123,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (8) The name and address and responsible Federal agency for each site, determined as of the date of preparation of the inventory.
 
-**(b) Environmental Protection Agency program** If the Administrator determines that any Federal agency under subsection (a) of this section is not adequately providing information respecting the sites referred to in subsection (a) of this section, the Administrator shall notify the chief official of such agency. If within ninety days following such notification, the Federal agency has not undertaken a program to adequately provide such information, the Administrator shall carry out the inventory program for such agency.
+**(b) Environmental Protection Agency program** If the Administrator determines that any Federal agency under subsection (a) is not adequately providing information respecting the sites referred to in subsection (a), the Administrator shall notify the chief official of such agency. If within ninety days following such notification, the Federal agency has not undertaken a program to adequately provide such information, the Administrator shall carry out the inventory program for such agency.
 
 
 <a id="section-6938"></a>
@@ -2138,9 +2138,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
   (C) a copy of the receiving country’s written consent is attached to the manifest accompanying each waste shipment, and
 
-  (D) the shipment conforms with the terms of the consent of the government of the receiving country required pursuant to subsection (e) of this section, or
+  (D) the shipment conforms with the terms of the consent of the government of the receiving country required pursuant to subsection (e), or
 
-(2) the United States and the government of the receiving country have entered into an agreement as provided for in subsection (f) of this section and the shipment conforms with the terms of such agreement.
+(2) the United States and the government of the receiving country have entered into an agreement as provided for in subsection (f) and the shipment conforms with the terms of such agreement.
 
 **(b) Regulations** Not later than twelve months after November 8, 1984, the Administrator shall promulgate the regulations necessary to implement this section. Such regulations shall become effective one hundred and eighty days after promulgation.
 
@@ -2170,7 +2170,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(e) Conveyance of written consent to exporter** Within thirty days of receipt by the Secretary of State of the receiving country’s written consent or objection (or any subsequent communication withdrawing a prior consent or objection), the Administrator shall forward such a consent, objection, or other communication to the exporter.
 
-**(f) International agreements** Where there exists an international agreement between the United States and the government of the receiving country establishing notice, export, and enforcement procedures for the transportation, treatment, storage, and disposal of hazardous wastes, only the requirements of subsections (a)(2) and (g) of this section shall apply.
+**(f) International agreements** Where there exists an international agreement between the United States and the government of the receiving country establishing notice, export, and enforcement procedures for the transportation, treatment, storage, and disposal of hazardous wastes, only the requirements of subsections (a)(2) and (g) shall apply.
 
 **(g) Reports** After November 8, 1984, any person who exports any hazardous waste identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) shall file with the Administrator no later than March 1 of each year, a report summarizing the types, quantities, frequency, and ultimate destination of all such hazardous waste exported during the previous calendar year.
 
@@ -2181,7 +2181,7 @@ For transfer of certain enforcement functions of Administrator or other official
 ## § 6939. Domestic sewage
 **(a) Report** The Administrator shall, not later than 15 months after November 8, 1984, submit a report to the Congress concerning those substances identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) which are not regulated under this subchapter by reason of the exclusion for mixtures of domestic sewage and other wastes that pass through a sewer system to a publicly owned treatment works. Such report shall include the types, size and number of generators which dispose of such substances in this manner, the types and quantities disposed of in this manner, and the identification of significant generators, wastes, and waste constituents not regulated under existing Federal law or regulated in a manner sufficient to protect human health and the environment.
 
-**(b) Revisions of regulations** Within eighteen months after submitting the report specified in subsection (a) of this section, the Administrator shall revise existing regulations and promulgate such additional regulations pursuant to this subchapter (or any other authority of the Administrator, including [section 1317 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317&num=0&edition=prelim)) as are necessary to assure that substances identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) which pass through a sewer system to a publicly owned treatment works are adequately controlled to protect human health and the environment.
+**(b) Revisions of regulations** Within eighteen months after submitting the report specified in subsection (a), the Administrator shall revise existing regulations and promulgate such additional regulations pursuant to this subchapter (or any other authority of the Administrator, including [section 1317 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317&num=0&edition=prelim)) as are necessary to assure that substances identified or listed under [section 6921 of this title](./chapter-082-solid-waste-disposal.md#section-6921) which pass through a sewer system to a publicly owned treatment works are adequately controlled to protect human health and the environment.
 
 **(c) Report on wastewater lagoons** The Administrator shall, within thirty-six months after November 8, 1984, submit a report to Congress concerning wastewater lagoons at publicly owned treatment works and their effect on groundwater quality. Such report shall include—
 
@@ -2210,13 +2210,13 @@ The owner or operator of a landfill or surface impoundment for which an applicat
 
 **(b) Health assessments**
 
-(1) The Administrator (or the State, in the case of a State with an authorized program) shall make the information required by subsection (a) of this section, together with other relevant information, available to the Agency for Toxic Substances and Disease Registry established by [section 9604(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/i&num=0&edition=prelim).
+(1) The Administrator (or the State, in the case of a State with an authorized program) shall make the information required by subsection (a), together with other relevant information, available to the Agency for Toxic Substances and Disease Registry established by [section 9604(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/i&num=0&edition=prelim).
 
 (2) Whenever in the judgment of the Administrator, or the State (in the case of a State with an authorized program), a landfill or a surface impoundment poses a substantial potential risk to human health, due to the existence of releases of hazardous constituents, the magnitude of contamination with hazardous constituents which may be the result of a release, or the magnitude of the population exposed to such release or contamination, the Administrator or the State (with the concurrence of the Administrator) may request the Administrator of the Agency for Toxic Substances and Disease Registry to conduct a health assessment in connection with such facility and take other appropriate action with respect to such risks as authorized by section 9604(b) and (i) of this title. If funds are provided in connection with such request the Administrator of such Agency shall conduct such health assessment.
 
 **(c) Members of the public** Any member of the public may submit evidence of releases of or exposure to hazardous constituents from such a facility, or as to the risks or health effects associated with such releases or exposure, to the Administrator of the Agency for Toxic Substances and Disease Registry, the Administrator, or the State (in the case of a State with an authorized program).
 
-**(d) Priority** In determining the order in which to conduct health assessments under this subsection, the Administrator of the Agency for Toxic Substances and Disease Registry shall give priority to those facilities or sites at which there is documented evidence of release of hazardous constituents, at which the potential risk to human health appears highest, and for which in the judgment of the Administrator of such Agency existing health assessment data is inadequate to assess the potential risk to human health as provided in subsection (f) of this section.
+**(d) Priority** In determining the order in which to conduct health assessments under this subsection, the Administrator of the Agency for Toxic Substances and Disease Registry shall give priority to those facilities or sites at which there is documented evidence of release of hazardous constituents, at which the potential risk to human health appears highest, and for which in the judgment of the Administrator of such Agency existing health assessment data is inadequate to assess the potential risk to human health as provided in subsection (f).
 
 **(e) Periodic reports** The Administrator of such Agency shall issue periodic reports which include the results of all the assessments carried out under this section. Such assessments or other activities shall be reported after appropriate peer review.
 
@@ -2234,7 +2234,7 @@ The owner or operator of a landfill or surface impoundment for which an applicat
 (2) above such a formation.
 The prohibitions established under this section shall take effect 6 months after November 8, 1984, except in the case of any State in which identical or more stringent prohibitions are in effect before such date under the Safe Drinking Water Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.].
 
-**(b) Actions under Comprehensive Environmental Response, Compensation, and Liability Act** Subsection (a) of this section shall not apply to the injection of contaminated ground water into the aquifer from which it was withdrawn, if—
+**(b) Actions under Comprehensive Environmental Response, Compensation, and Liability Act** Subsection (a) shall not apply to the injection of contaminated ground water into the aquifer from which it was withdrawn, if—
 
 (1) such injection is—
 
@@ -2247,7 +2247,7 @@ The prohibitions established under this section shall take effect 6 months after
 
 (3) such response action or corrective action will, upon completion, be sufficient to protect human health and the environment.
 
-**(c) Enforcement** In addition to enforcement under the provisions of this chapter, the prohibitions established under paragraphs (1) and (2) of subsection (a) of this section shall be enforceable under the Safe Drinking Water Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.] in any State—
+**(c) Enforcement** In addition to enforcement under the provisions of this chapter, the prohibitions established under paragraphs (1) and (2) of subsection (a) shall be enforceable under the Safe Drinking Water Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.] in any State—
 
 (1) which has adopted identical or more stringent prohibitions under part C of the Safe Drinking Water Act [[42 U.S.C. 300h](./chapter-6a-public-health-service.md#section-300h) et seq.] and which has assumed primary enforcement responsibility under that Act for enforcement of such prohibitions; or
 
@@ -2357,19 +2357,19 @@ Section was formerly classified to [section 6979a of this title](./chapter-082-s
 
 **(c) Schedule and progress reports**
 
-(1) **Schedule** — Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b) of this section.
+(1) **Schedule** — Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b).
 
 (2) **Progress reports**
 
   (A) Not later than the deadlines specified in subparagraph (B), the Secretary of Energy shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a progress report containing the following:
 
-    (i) An identification, by facility, of the plans that have been submitted to States or the Administrator of the Environmental Protection Agency pursuant to subsection (b) of this section.
+    (i) An identification, by facility, of the plans that have been submitted to States or the Administrator of the Environmental Protection Agency pursuant to subsection (b).
 
     (ii) The status of State and Environmental Protection Agency review and approval of each such plan.
 
     (iii) The number of orders requiring compliance with such plans that are in effect.
 
-    (iv) For the first 2 reports required under this paragraph, an identification of the plans required under such subsection (b) of this section that the Secretary expects to submit in the 12-month period following submission of the report.
+    (iv) For the first 2 reports required under this paragraph, an identification of the plans required under such subsection (b) that the Secretary expects to submit in the 12-month period following submission of the report.
 
   (B) The Secretary of Energy shall submit a report under subparagraph (A) not later than 12 months after October 6, 1992, 24 months after October 6, 1992, and 36 months after October 6, 1992.
 
@@ -2390,7 +2390,7 @@ Pub. L. 102–386, title I, § 105(c), Oct. 6, 1992, 106 Stat. 1512, provided th
 
 (2) the waste is transferred to another public vessel within the territorial waters of the United States and is stored on such vessel or another public vessel for more than 90 days after the date of transfer.
 
-**(b) Computation of storage period** For purposes of subsection (a) of this section, the 90-day period begins on the earlier of—
+**(b) Computation of storage period** For purposes of subsection (a), the 90-day period begins on the earlier of—
 
 (1) the date on which the public vessel on which the waste was generated is placed in reserve or is otherwise no longer in service; or
 
@@ -2553,9 +2553,9 @@ The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is titl
 #### Amendments
 2016—Subsec. (a)(2). Pub. L. 114–182, § 10(c)(1), substituted “2019” for “2013”.
 
-Subsec. (b)(1)(A). Pub. L. 114–182, § 10(c)(2)(A)(ii), (iii), designated introductory provisions of par. (1) as subpar. (A), inserted heading, and struck out “The amount of such fees” at end. Former subpar. (A) redesignated cl. (i) of subpar. (B).
+Subsec. (b)(1)(A). Pub. L. 114–182, § 10(c)(2)(A)(ii), designated first sentence of par. (1) as subpar. (A) and inserted heading. Former subpar. (A) redesignated cl. (i) of subpar. (B).
 
-Subsec. (b)(1)(B). Pub. L. 114–182, § 10(c)(2)(A)(i), (iii), (iv), inserted heading and introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins, substituted “publicly available not later than October 1, 2018” for “publically available not later than October 1, 2012” in cl. (i) and “, subject to clause (iv); and” for period in cl. (iii), and added cl. (iv).
+Subsec. (b)(1)(B). Pub. L. 114–182, § 10(c)(2)(A)(i), (iii), (iv), designated second sentence of par. (1) as subpar. (B), inserted heading, substituted “The amount of the fees described in subparagraph (A)” for “The amount of such fees” in introductory provisions, redesignated former subpars. (A) to (C) of par. (1) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins, substituted “publicly available not later than October 1, 2018” for “publically available not later than October 1, 2012” in cl. (i) and “, subject to clause (iv); and” for period at end of cl. (iii), and added cl. (iv).
 
 Subsec. (b)(1)(C). Pub. L. 114–182, § 10(c)(2)(A)(v), added subpar. (C). Former subpar. (C) redesignated cl. (iii) of subpar. (B).
 
@@ -2840,7 +2840,7 @@ Section was enacted as part of the Solid Waste Disposal Act Amendments of 1980, 
 
 **(b) Guidelines for State plans** Not later than eighteen months after October 21, 1976, and after notice and hearing, the Administrator shall, after consultation with appropriate Federal, State, and local authorities, promulgate regulations containing guidelines to assist in the development and implementation of State solid waste management plans (hereinafter in this chapter referred to as “State plans”). The guidelines shall contain methods for achieving the objectives specified in [section 6941 of this title](./chapter-082-solid-waste-disposal.md#section-6941). Such guidelines shall be reviewed from time to time, but not less frequently than every three years, and revised as may be appropriate.
 
-**(c) Considerations for State plan guidelines** The guidelines promulgated under subsection (b) of this section shall consider—
+**(c) Considerations for State plan guidelines** The guidelines promulgated under subsection (b) shall consider—
 
 (1) the varying regional, geologic, hydrologic, climatic, and other circumstances under which different solid waste practices are required in order to insure the reasonable protection of the quality of the ground and surface waters from leachate contamination, the reasonable protection of the quality of the surface waters from surface runoff contamination, and the reasonable protection of ambient air quality;
 
@@ -2956,7 +2956,7 @@ Pub. L. 96–482, § 32(d)(2), added subsec. (b) relating to energy and material
 
 **(b) Disposal required to be in sanitary landfills, etc.** For purposes of complying with section 6943(2) 11 See References in Text note below. of this title each State plan shall prohibit the establishment of open dumps and contain a requirement that disposal of all solid waste within the State shall be in compliance with such section 6943(2) 1 of this title.
 
-**(c) Effective date** The prohibition contained in subsection (b) of this section shall take effect on the date six months after the date of promulgation of regulations under subsection (a) of this section.
+**(c) Effective date** The prohibition contained in subsection (b) shall take effect on the date six months after the date of promulgation of regulations under subsection (a).
 
 ### Statutory Notes
 
@@ -2972,7 +2972,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 <a id="section-6945"></a>
 ## § 6945. Upgrading of open dumps
-**(a) Closing or upgrading of existing open dumps** Upon promulgation of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim), any solid waste management practice or disposal of solid waste or hazardous waste which constitutes the open dumping of solid waste or hazardous waste is prohibited, except in the case of any practice or disposal of solid waste under a timetable or schedule for compliance established under this section. The prohibition contained in the preceding sentence shall be enforceable under [section 6972 of this title](./chapter-082-solid-waste-disposal.md#section-6972) against persons engaged in the act of open dumping. For purposes of complying with section 6943(a)(2) and 6943(a)(3) of this title, each State plan shall contain a requirement that all existing disposal facilities or sites for solid waste in such State which are open dumps listed in the inventory under subsection (b) of this section shall comply with such measures as may be promulgated by the Administrator to eliminate health hazards and minimize potential health hazards. Each such plan shall establish, for any entity which demonstrates that it has considered other public or private alternatives for solid waste management to comply with the prohibition on open dumping and is unable to utilize such alternatives to so comply, a timetable or schedule for compliance for such practice or disposal of solid waste which specifies a schedule of remedial measures, including an enforceable sequence of actions or operations, leading to compliance with the prohibition on open dumping of solid waste within a reasonable time (not to exceed 5 years from the date of publication of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim)).
+**(a) Closing or upgrading of existing open dumps** Upon promulgation of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim), any solid waste management practice or disposal of solid waste or hazardous waste which constitutes the open dumping of solid waste or hazardous waste is prohibited, except in the case of any practice or disposal of solid waste under a timetable or schedule for compliance established under this section. The prohibition contained in the preceding sentence shall be enforceable under [section 6972 of this title](./chapter-082-solid-waste-disposal.md#section-6972) against persons engaged in the act of open dumping. For purposes of complying with section 6943(a)(2) and 6943(a)(3) of this title, each State plan shall contain a requirement that all existing disposal facilities or sites for solid waste in such State which are open dumps listed in the inventory under subsection (b) shall comply with such measures as may be promulgated by the Administrator to eliminate health hazards and minimize potential health hazards. Each such plan shall establish, for any entity which demonstrates that it has considered other public or private alternatives for solid waste management to comply with the prohibition on open dumping and is unable to utilize such alternatives to so comply, a timetable or schedule for compliance for such practice or disposal of solid waste which specifies a schedule of remedial measures, including an enforceable sequence of actions or operations, leading to compliance with the prohibition on open dumping of solid waste within a reasonable time (not to exceed 5 years from the date of publication of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim)).
 
 **(b) Inventory** To assist the States in complying with [section 6943(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6943/a/3&num=0&edition=prelim), not later than one year after promulgation of regulations under [section 6944 of this title](./chapter-082-solid-waste-disposal.md#section-6944), the Administrator, with the cooperation of the Bureau of the Census shall publish an inventory of all disposal facilities or sites in the United States which are open dumps within the meaning of this chapter.
 
@@ -3108,7 +3108,7 @@ Pub. L. 98–616, § 502(c), inserted a closing parenthesis before the period at
 
 Subsec. (c). Pub. L. 98–616, § 302(c), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–482, § 19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in [section 6903(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6903/14&num=0&edition=prelim), redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim), any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “[section 6943(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6943/2&num=0&edition=prelim)”, and “criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim)” for “the inventory under subsection (b) of this section”.
+1980—Subsec. (a). Pub. L. 96–482, § 19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in [section 6903(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6903/14&num=0&edition=prelim), redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim), any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “[section 6943(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6943/2&num=0&edition=prelim)”, and “criteria under [section 6907(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a/3&num=0&edition=prelim)” for “the inventory under subsection (b)”.
 
 Amendment by section 19(b)(1) of Pub. L. 96–482, directing that following reference to “4003(2)”, which had been editorially translated as [section 6943(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6943/2&num=0&edition=prelim), the phrase “and 4003(3)” be inserted, was executed by translating “4003(2) and 4003(3)” as section 6943(a)(2) and 6943(a)(3) of this title, in view of the designation of the existing provisions of [section 6943 of this title](./chapter-082-solid-waste-disposal.md#section-6943) as subsec. (a) of [section 6943 of this title](./chapter-082-solid-waste-disposal.md#section-6943) by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
 
@@ -3126,13 +3126,13 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(b) Identification of State and local agencies and responsibilities**
 
-(1) Within one hundred and eighty days after the Governor promulgates regulations under subsection (a) of this section, for purposes of facilitating the development and implementation of a State plan which will meet the minimum requirements of [section 6943 of this title](./chapter-082-solid-waste-disposal.md#section-6943), the State, together with appropriate elected officials of general purpose units of local government, shall jointly (A) identify an agency to develop the State plan and identify one or more agencies to implement such plan, and (B) identify which solid waste management activities will, under such State plan, be planned for and carried out by the State and which such management activities will, under such State plan, be planned for and carried out by a regional or local authority or a combination of regional or local and State authorities. If a multi-functional regional agency authorized by State law to conduct solid waste planning and management (the members of which are appointed by the Governor) is in existence on October 21, 1976, the Governor shall identify such authority for purposes of carrying out within such region clause (A) of this paragraph. Where feasible, designation of the agency for the affected area designated under [section 1288 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1288&num=0&edition=prelim) shall be considered. A State agency identified under this paragraph shall be established or designated by the Governor of such State. Local or regional agencies identified under this paragraph shall be composed of individuals at least a majority of whom are elected local officials.
+(1) Within one hundred and eighty days after the Governor promulgates regulations under subsection (a), for purposes of facilitating the development and implementation of a State plan which will meet the minimum requirements of [section 6943 of this title](./chapter-082-solid-waste-disposal.md#section-6943), the State, together with appropriate elected officials of general purpose units of local government, shall jointly (A) identify an agency to develop the State plan and identify one or more agencies to implement such plan, and (B) identify which solid waste management activities will, under such State plan, be planned for and carried out by the State and which such management activities will, under such State plan, be planned for and carried out by a regional or local authority or a combination of regional or local and State authorities. If a multi-functional regional agency authorized by State law to conduct solid waste planning and management (the members of which are appointed by the Governor) is in existence on October 21, 1976, the Governor shall identify such authority for purposes of carrying out within such region clause (A) of this paragraph. Where feasible, designation of the agency for the affected area designated under [section 1288 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1288&num=0&edition=prelim) shall be considered. A State agency identified under this paragraph shall be established or designated by the Governor of such State. Local or regional agencies identified under this paragraph shall be composed of individuals at least a majority of whom are elected local officials.
 
-(2) If planning and implementation agencies are not identified and designated or established as required under paragraph (1) for any affected area, the governor shall, before the date two hundred and seventy days after promulgation of regulations under subsection (a) of this section, establish or designate a State agency to develop and implement the State plan for such area.
+(2) If planning and implementation agencies are not identified and designated or established as required under paragraph (1) for any affected area, the governor shall, before the date two hundred and seventy days after promulgation of regulations under subsection (a), establish or designate a State agency to develop and implement the State plan for such area.
 
 **(c) Interstate regions**
 
-(1) In the case of any region which, pursuant to the guidelines published by the Administrator under [section 6942(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6942/a&num=0&edition=prelim) (relating to identification of regions), would be located in two or more States, the Governors of the respective States, after consultation with local elected officials, shall consult, cooperate, and enter into agreements identifying the boundaries of such region pursuant to subsection (a) of this section.
+(1) In the case of any region which, pursuant to the guidelines published by the Administrator under [section 6942(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6942/a&num=0&edition=prelim) (relating to identification of regions), would be located in two or more States, the Governors of the respective States, after consultation with local elected officials, shall consult, cooperate, and enter into agreements identifying the boundaries of such region pursuant to subsection (a).
 
 (2) Within one hundred and eighty days after an interstate region is identified by agreement under paragraph (1), appropriate elected officials of general purpose units of local government within such region shall jointly establish or designate an agency to develop a plan for such region. If no such agency is established or designated within such period by such officials, the Governors of the respective States may, by agreement, establish or designate for such purpose a single representative organization including elected officials of general purpose units of local government within such region.
 
@@ -3171,9 +3171,9 @@ The Administrator shall review approved plans from time to time and if he determ
 
 (1) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, if such State and local and regional authorities within such State have complied with the requirements of [section 6946 of this title](./chapter-082-solid-waste-disposal.md#section-6946) within the period required under such section and if such State has a State plan which has been approved by the Administrator under this subchapter.
 
-(2) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) of this section and is being implemented by the State.
+(2) The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) and is being implemented by the State.
 
-(3) Upon withdrawal of approval of a State plan under subsection (a) of this section, the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
+(3) Upon withdrawal of approval of a State plan under subsection (a), the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
 
 **(c) Existing activities** Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.
 
@@ -3217,9 +3217,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
   (C) Where appropriate, any State receiving assistance under this paragraph may make all or any part of such assistance available to municipalities within the State to carry out the activities specified in section 6943(b)(1)(A) and (B) 4 of this title.
 
-**(b) State allotment** The sums appropriated in any fiscal year under subsection (a)(1) of this section shall be allotted by the Administrator among all States, in the ratio that the population in each State bears to the population in all of the States, except that no State shall receive less than one-half of 1 per centum of the sums so allotted in any fiscal year. No State shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for other than non-recurrent expenditures for solid waste management control programs will be less than its expenditures were for such programs during fiscal year 1975, except that such funds may be reduced by an amount equal to their proportionate share of any general reduction of State spending ordered by the Governor or legislature of such State. No State shall receive any grant for solid waste management programs unless the Administrator is satisfied that such grant will be so used as to supplement and, to the extent practicable, increase the level of State, local, regional, or other non-Federal funds that would in the absence of such grant be made available for the maintenance of such programs.
+**(b) State allotment** The sums appropriated in any fiscal year under subsection (a)(1) shall be allotted by the Administrator among all States, in the ratio that the population in each State bears to the population in all of the States, except that no State shall receive less than one-half of 1 per centum of the sums so allotted in any fiscal year. No State shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for other than non-recurrent expenditures for solid waste management control programs will be less than its expenditures were for such programs during fiscal year 1975, except that such funds may be reduced by an amount equal to their proportionate share of any general reduction of State spending ordered by the Governor or legislature of such State. No State shall receive any grant for solid waste management programs unless the Administrator is satisfied that such grant will be so used as to supplement and, to the extent practicable, increase the level of State, local, regional, or other non-Federal funds that would in the absence of such grant be made available for the maintenance of such programs.
 
-**(c) Distribution of Federal financial assistance within the State** The Federal assistance allotted to the States under subsection (b) of this section shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to [section 6946(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6946/b&num=0&edition=prelim).
+**(c) Distribution of Federal financial assistance within the State** The Federal assistance allotted to the States under subsection (b) shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to [section 6946(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6946/b&num=0&edition=prelim).
 
 **(d) Technical assistance**
 
@@ -3245,7 +3245,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (1) The Administrator may make grants to States, which have a State plan approved under [section 6947 of this title](./chapter-082-solid-waste-disposal.md#section-6947), or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in [section 6943(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6943/b&num=0&edition=prelim). Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
-(2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b) of this section.
+(2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b).
 
 (3) No grant may be made under this subsection unless an application therefor is submitted to, and approved by, the Administrator. The application shall be in such form, be submitted in such manner, and contain such information as the Administrator may require.
 
@@ -3486,7 +3486,7 @@ There are authorized to be appropriated to the Secretary of Commerce $5,000,000 
 
 (2) No administrative order issued to such a department, agency, or instrumentality shall become final until such department, agency, or instrumentality has had the opportunity to confer with the Administrator.
 
-**(c) Limitation on State use of funds collected from Federal Government** Unless a State law in effect on October 6, 1992, or a State constitution requires the funds to be used in a different manner, all funds collected by a State from the Federal Government from penalties and fines imposed for violation of any substantive or procedural requirement referred to in subsection (a) of this section shall be used by the State only for projects designed to improve or protect the environment or to defray the costs of environmental protection or enforcement.
+**(c) Limitation on State use of funds collected from Federal Government** Unless a State law in effect on October 6, 1992, or a State constitution requires the funds to be used in a different manner, all funds collected by a State from the Federal Government from penalties and fines imposed for violation of any substantive or procedural requirement referred to in subsection (a) shall be used by the State only for projects designed to improve or protect the environment or to defray the costs of environmental protection or enforcement.
 
 ### Statutory Notes
 
@@ -3513,13 +3513,13 @@ Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agen
 
 <a id="section-6962"></a>
 ## § 6962. Federal procurement
-**(a) Application of section** Except as provided in subsection (b) of this section, a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
+**(a) Application of section** Except as provided in subsection (b), a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
 
 **(b) Procurement subject to other law** Any procurement, by any procuring agency, which is subject to regulations of the Administrator under [section 6964 of this title](./chapter-082-solid-waste-disposal.md#section-6964) (as promulgated before October 21, 1976, under comparable provisions of prior law) shall not be subject to the requirements of this section to the extent that such requirements are inconsistent with such regulations.
 
 **(c) Requirements**
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
   (A) are not reasonably available within a reasonable period of time;
 
@@ -3547,11 +3547,11 @@ Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agen
 
   (B) any requirement that items be manufactured from virgin materials; and
 
-(2) within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
+(2) within one year after the date of publication of applicable guidelines under subsection (e), or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
 
 **(e) Guidelines** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
-(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
+(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
 
 (2) set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
 and shall provide information as to the availability, relative price, and performance of such materials and items and where appropriate shall recommend the level of recovered material to be contained in the procured product. The Administrator shall prepare final guidelines for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985. In making the designation under paragraph (1), the Administrator shall consider, but is not limited in his considerations, to—
@@ -3566,7 +3566,7 @@ and shall provide information as to the availability, relative price, and perfor
 
 **(f) Procurement of services** A procuring agency shall, to the maximum extent practicable, manage or arrange for the procurement of solid waste management services in a manner which maximizes energy and resource recovery.
 
-**(g) Executive Office** The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
+**(g) Executive Office** The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d).
 
 **(h) “Recovered materials” defined** As used in this section, in the case of paper products, the term “recovered materials” includes—
 
@@ -3590,7 +3590,7 @@ and shall provide information as to the availability, relative price, and perfor
 
 **(i) Procurement program**
 
-(1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+(1) Within one year after the date of publication of applicable guidelines under subsection (e), each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
 
 (2) Each affirmative procurement program required under this subsection shall, at a minimum, contain—
 
@@ -3601,13 +3601,13 @@ and shall provide information as to the availability, relative price, and perfor
   (C) a program for requiring estimates of the total percentage of recovered material utilized in the performance of a contract; certification of minimum recovered material content actually utilized, where appropriate; and reasonable verification procedures for estimates and certifications; and
 
   (D) annual review and monitoring of the effectiveness of an agency’s affirmative procurement program.
-  In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1) of this section.
+  In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
 
 (3) In developing the preference program, the following options shall be considered for adoption:
 
-  (A) Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C) of this section, a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1) of this section). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
+  (A) Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C), a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1)). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
 
-  (B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1) of this section) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C) of this section.
+  (B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1)) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C).
   Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
 ### Statutory Notes
@@ -3624,15 +3624,15 @@ Subsec. (j). Pub. L. 103–355, § 1554(1), struck out subsec. (j). See Codifica
 
 1988—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted “National Institute of Standards and Tech­nology” for “Bureau of Standards”.
 
-1984—Subsec. (c)(1). Pub. L. 98–616, § 501(c), inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)”.
+1984—Subsec. (c)(1). Pub. L. 98–616, § 501(c), inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable)”.
 
 Subsec. (d)(1). Pub. L. 98–616, § 501(e), substituted “eighteen months after November 8, 1984” for “five years after October 21, 1976”.
 
 Subsec. (e). Pub. L. 98–616, § 501(b)(2), substituted “for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985” for “for at least three product categories, including paper, by May 1, 1981, and for two additional product categories, including construction materials, by September 30, 1982.” in provisions following par. (2).
 
-Subsec. (e)(1). Pub. L. 98–616, § 501(b)(1), inserted “, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section”.
+Subsec. (e)(1). Pub. L. 98–616, § 501(b)(1), inserted “, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1)”.
 
-Subsec. (g). Pub. L. 98–616, § 501(d), substituted “the requirements of” for “the policy expressed in” and inserted “, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section”.
+Subsec. (g). Pub. L. 98–616, § 501(d), substituted “the requirements of” for “the policy expressed in” and inserted “, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d)”.
 
 Subsecs. (h), (i). Pub. L. 98–616, § 501(a), added subsecs. (h) and (i).
 
@@ -3666,7 +3666,7 @@ For transfer of certain enforcement functions of Administrator or other official
 ## § 6963. Cooperation with Environmental Protection Agency
 **(a) General rule** All Federal agencies shall assist the Administrator in carrying out his functions under this chapter and shall promptly make available all requested information concerning past or present Agency waste management practices and past or present Agency owned, leased, or operated solid or hazardous waste facilities. This information shall be provided in such format as may be determined by the Administrator.
 
-**(b) Information relating to energy and materials conservation and recovery** The Administrator shall collect, maintain, and disseminate information concerning the market potential of energy and materials recovered from solid waste, including materials obtained through source separation, and information concerning the savings potential of conserving resources contributing to the waste stream. The Administrator shall identify the regions in which the increased substitution of such energy for energy derived from fossil fuels and other sources is most likely to be feasible, and provide information on the technical and economic aspects of developing integrated resource conservation or recovery systems which provide for the recovery of source-separated materials to be recycled or the conservation of resources. The Administrator shall utilize the authorities of subsection (a) of this section in carrying out this subsection.
+**(b) Information relating to energy and materials conservation and recovery** The Administrator shall collect, maintain, and disseminate information concerning the market potential of energy and materials recovered from solid waste, including materials obtained through source separation, and information concerning the savings potential of conserving resources contributing to the waste stream. The Administrator shall identify the regions in which the increased substitution of such energy for energy derived from fossil fuels and other sources is most likely to be feasible, and provide information on the technical and economic aspects of developing integrated resource conservation or recovery systems which provide for the recovery of source-separated materials to be recycled or the conservation of resources. The Administrator shall utilize the authorities of subsection (a) in carrying out this subsection.
 
 ### Statutory Notes
 
@@ -3771,7 +3771,7 @@ Section was enacted as part of the Federal Facility Compliance Act of 1992, and 
 
 **(c) Full implementation study**
 
-(1) **In general** — The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
+(1) **In general** — The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which procurement requirements, when fully implemented in accordance with subsection (b), may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
 
 (2) **Matters to be addressed** — The study shall—
 
@@ -3793,11 +3793,11 @@ Section was enacted as part of the Federal Facility Compliance Act of 1992, and 
 
 (3) **Report** — Not later than 30 months after August 8, 2005, the Administrator shall submit to Congress a report on the study.
 
-**(d) Additional procurement requirements** Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) of this section is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
+**(d) Additional procurement requirements** Unless the study conducted under subsection (c) identifies any effects or other problems described in subsection (c)(2)(C)(iii) that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
 
 (1) to realize more fully the energy savings and environmental benefits associated with increased substitution; and
 
-(2) to eliminate barriers identified under subsection (c)(2)(B) of this section.
+(2) to eliminate barriers identified under subsection (c)(2)(B).
 
 **(e) Effect of section** Nothing in this section affects the requirements of [section 6962 of this title](./chapter-082-solid-waste-disposal.md#section-6962) (including the guidelines and specifications for implementing those requirements).
 
@@ -3845,7 +3845,7 @@ Another section 6005 of Pub. L. 89–272 is classified to [section 6966a of this
 
 **(c) Full implementation study**
 
-(1) **In general** — The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
+(1) **In general** — The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b), may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
 
 (2) **Matters to be addressed** — The study shall—
 
@@ -3863,11 +3863,11 @@ Another section 6005 of Pub. L. 89–272 is classified to [section 6966a of this
 
 (3) **Report** — Not later than 30 months after August 10, 2005, the Administrator shall submit to Congress a report on the study.
 
-**(d) Additional procurement requirements** Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the release of the report in accordance with subsection (c)(3) of this section, take additional actions authorized under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects, so as to—
+**(d) Additional procurement requirements** Unless the study conducted under subsection (c) identifies any effects or other problems described in subsection (c)(2)(C)(iii) that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the release of the report in accordance with subsection (c)(3), take additional actions authorized under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects, so as to—
 
 (1) realize more fully the energy savings and environmental benefits associated with increased substitution; and
 
-(2) eliminate barriers identified under subsection (c) of this section.
+(2) eliminate barriers identified under subsection (c).
 
 **(e) Effect of section** Nothing in this section affects the requirements of [section 6962 of this title](./chapter-082-solid-waste-disposal.md#section-6962) (including the guidelines and specifications for implementing those requirements).
 
@@ -3968,7 +3968,7 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
     except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter; or
 
   (B) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, prohibition, or order.
-  In any action under subsection (a)(1)(A) of this section in a court of the United States, any person may intervene as a matter of right.
+  In any action under subsection (a)(1)(A) in a court of the United States, any person may intervene as a matter of right.
 
 (2)
 
@@ -3978,7 +3978,7 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
 
     (ii) the State in which the alleged endangerment may occur;
 
-    (iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B) of this section,
+    (iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B),
     except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter.
 
   (B) No action may be commenced under subsection (a)(1)(B) of this section if the Administrator, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
@@ -3990,21 +3990,21 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
     (iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 [[42 U.S.C. 9604](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9604)] and is diligently proceeding with a remedial action under that Act [[42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.]; or
 
     (iv) has obtained a court order (including a consent decree) or issued an administrative order under section 106 of the Comprehensive Environmental Response, Compensation and Liability Act of 980 22 So in original. Probably should be “1980”. [[42 U.S.C. 9606](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606)] or [section 6973 of this title](./chapter-082-solid-waste-disposal.md#section-6973) pursuant to which a responsible party is diligently conducting a removal action, Remedial Investigation and Feasibility Study (RIFS), or proceeding with a remedial action.
-    In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) of this section are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
+    In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
   (C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
-    (i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B) of this section;
+    (i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 
     (ii) is actually engaging in a removal action under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 [[42 U.S.C. 9604](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9604)]; or
 
     (iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 [[42 U.S.C. 9604](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9604)] and is diligently proceeding with a remedial action under that Act [[42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.].
 
-  (D) No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
+  (D) No action may be commenced under subsection (a)(1)(B) by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
 
-  (E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant’s interest is adequately represented by existing parties.
+  (E) In any action under subsection (a)(1)(B) in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant’s interest is adequately represented by existing parties.
 
-  (F) Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
+  (F) Whenever any action is brought under subsection (a)(1)(B) in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
 
 **(c) Notice** No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
 
@@ -4014,7 +4014,7 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
 
 **(f) Other rights preserved** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).
 
-**(g) Transporters** A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+**(g) Transporters** A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
 ### Statutory Notes
 
@@ -4048,7 +4048,7 @@ For transfer of certain enforcement functions of Administrator or other official
 ## § 6973. Imminent hazard
 **(a) Authority of Administrator** Notwithstanding any other provision of this chapter, upon receipt of evidence that the past or present handling, storage, treatment, transportation or disposal of any solid waste or hazardous waste may present an imminent and substantial endangerment to health or the environment, the Administrator may bring suit on behalf of the United States in the appropriate district court against any person (including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility) who has contributed or who is contributing to such handling, storage, treatment, transportation or disposal to restrain such person from such handling, storage, treatment, transportation, or disposal, to order such person to take such other action as may be necessary, or both. A transporter shall not be deemed to have contributed or to be contributing to such handling, storage, treatment, or disposal taking place after such solid waste or hazardous waste has left the possession or control of such transporter if the transportation of such waste was under a sole contractural 11 So in original. Probably should be “contractual”. arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste. The Administrator shall provide notice to the affected State of any such suit. The Administrator may also, after notice to the affected State, take other action under this section including, but not limited to, issuing such orders as may be necessary to protect public health and the environment.
 
-**(b) Violations** Any person who willfully violates, or fails or refuses to comply with, any order of the Administrator under subsection (a) of this section may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $5,000 for each day in which such violation occurs or such failure to comply continues.
+**(b) Violations** Any person who willfully violates, or fails or refuses to comply with, any order of the Administrator under subsection (a) may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $5,000 for each day in which such violation occurs or such failure to comply continues.
 
 **(c) Immediate notice** Upon receipt of information that there is hazardous waste at any site which has presented an imminent and substantial endangerment to human health or the environment, the Administrator shall provide immediate notice to the appropriate local government agencies. In addition, the Administrator shall require notice of such endangerment to be promptly posted at the site where the waste is located.
 
@@ -4382,7 +4382,7 @@ In furtherance of this study, the Administrator shall, as he deems appropriate, 
 
 **(k) Airport landfills** The Administrator shall undertake a comprehensive study and analysis of and publish a report on systems to alleviate the hazards to aviation from birds congregating and feeding on landfills in the vicinity of airports.
 
-**(l) Completion of research and studies** The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+**(l) Completion of research and studies** The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 
 **(m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geo­thermal energy**
 
@@ -4464,7 +4464,7 @@ In furtherance of this study, the Administrator shall, as he deems appropriate, 
 (8) the current and potential utilization of such materials.
 In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
-**(q) Authorization of appropriations** There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j) of this section.
+**(q) Authorization of appropriations** There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j).
 
 **(r) Minimization of hazardous waste** The Administrator shall compile, and not later than October 1, 1986, submit to the Congress, a report on the feasibility and desirability of establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by [section 6902 of this title](./chapter-082-solid-waste-disposal.md#section-6902).
 
@@ -4546,7 +4546,7 @@ For transfer of certain enforcement functions of Administrator or other official
   (iii) the various systems and technologies for collection, transport, storage, treatment, and final disposition of solid waste, and
 
   (iv) other aspects of solid waste and hazardous solid waste management.
-  Such central reference library shall also contain, but not be limited to, the model codes and model accounting systems developed under this section, the information collected under subsection (d) of this section, and, subject to any applicable requirements of confidentiality, information respecting any aspect of solid waste provided by officers and employees of the Environmental Protection Agency which has been acquired by them in the conduct of their functions under this chapter and which may be of value to Federal, State, and local authorities and other persons.
+  Such central reference library shall also contain, but not be limited to, the model codes and model accounting systems developed under this section, the information collected under subsection (d), and, subject to any applicable requirements of confidentiality, information respecting any aspect of solid waste provided by officers and employees of the Environmental Protection Agency which has been acquired by them in the conduct of their functions under this chapter and which may be of value to Federal, State, and local authorities and other persons.
 
 (2) Information in the central reference library shall, to the extent practicable, be collated, analyzed, verified, and published and shall be made available to State and local governments and other persons at reasonable times and subject to such reasonable charges as may be necessary to defray expenses of making such information available.
 
@@ -4632,7 +4632,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 (10) in consultation with the Secretary of the Interior, mining waste management problems, and practices, including an assessment of existing authorities, technologies, and economics, and the environmental and public health consequences of such practices.
 
-**(b) Demonstration** The Administrator is also authorized to carry out demonstration projects to test and demonstrate methods and techniques developed pursuant to subsection (a) of this section.
+**(b) Demonstration** The Administrator is also authorized to carry out demonstration projects to test and demonstrate methods and techniques developed pursuant to subsection (a).
 
 **(c) Application of other sections** Section 6981(b) and (c) of this title shall be applicable to investigations, studies, and projects carried out under this section.
 
@@ -4677,7 +4677,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(e) Additional limitations** A grant under this section—
 
-(1) may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) of this section applies, the first-year operation and maintenance costs;
+(1) may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) applies, the first-year operation and maintenance costs;
 
 (2) may not be provided for land acquisition or (except as otherwise provided in paragraph (1)(B)) for operating or maintenance costs;
 
@@ -4813,11 +4813,11 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 ## § 6991a. Notification
 **(a) Underground storage tanks**
 
-(1) Within 18 months after November 8, 1984, each owner of an underground storage tank shall notify the State or local agency or department designated pursuant to subsection (b)(1) of this section of the existence of such tank, specifying the age, size, type, location, and uses of such tank.
+(1) Within 18 months after November 8, 1984, each owner of an underground storage tank shall notify the State or local agency or department designated pursuant to subsection (b)(1) of the existence of such tank, specifying the age, size, type, location, and uses of such tank.
 
 (2)
 
-  (A) For each underground storage tank taken out of operation after January 1, 1974, the owner of such tank shall, within eighteen months after November 8, 1984, notify the State or local agency, or department designated pursuant to subsection (b)(1) of this section of the existence of such tanks (unless the owner knows the tank subsequently was removed from the ground). The owner of a tank taken out of operation on or before January 1, 1974, shall not be required to notify the State or local agency under this subsection.
+  (A) For each underground storage tank taken out of operation after January 1, 1974, the owner of such tank shall, within eighteen months after November 8, 1984, notify the State or local agency, or department designated pursuant to subsection (b)(1) of the existence of such tanks (unless the owner knows the tank subsequently was removed from the ground). The owner of a tank taken out of operation on or before January 1, 1974, shall not be required to notify the State or local agency under this subsection.
 
   (B) Notice under subparagraph (A) shall specify, to the extent known to the owner—
 
@@ -4833,15 +4833,15 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 (4) Paragraphs (1) through (3) of this subsection shall not apply to tanks for which notice was given pursuant to [section 9603(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/c&num=0&edition=prelim).
 
-(5) Beginning thirty days after the Administrator prescribes the form of notice pursuant to subsection (b)(2) of this section and for eighteen months thereafter, any person who deposits regulated substances in an underground storage tank shall reasonably notify the owner or operator of such tank of the owner’s notification requirements pursuant to this subsection.
+(5) Beginning thirty days after the Administrator prescribes the form of notice pursuant to subsection (b)(2) and for eighteen months thereafter, any person who deposits regulated substances in an underground storage tank shall reasonably notify the owner or operator of such tank of the owner’s notification requirements pursuant to this subsection.
 
 (6) Beginning thirty days after the Administrator issues new tank performance standards pursuant to [section 6991b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/c&num=0&edition=prelim), any person who sells a tank intended to be used as an underground storage tank shall notify the purchaser of such tank of the owner’s notification requirements pursuant to this subsection.
 
 **(b) Agency designation**
 
-(1) Within one hundred and eighty days after November 8, 1984, the Governors of each State shall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3) of this section.
+(1) Within one hundred and eighty days after November 8, 1984, the Governors of each State shall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3).
 
-(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after notice and opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
+(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1), and after notice and opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3). In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
 
 **(c) State inventories** Each State shall make 2 separate inventories of all underground storage tanks in such State containing regulated substances. One inventory shall be made with respect to petroleum and one with respect to other regulated substances. In making such inventories, the State shall utilize and aggregate the data in the notification forms submitted pursuant to subsections (a) and (b) of this section. Each State shall submit such aggregated data to the Administrator not later than 270 days after October 17, 1986.
 
@@ -4871,7 +4871,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 <a id="section-6991b"></a>
 ## § 6991b. Release detection, prevention, and correction regulations
-**(a) Regulations** The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
+**(a) Regulations** The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f), shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
 
 **(b) Distinctions in regulations** In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensed from the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
 
@@ -4924,11 +4924,11 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
     (ii) such State is taking steps to establish a fund pursuant to [section 6991c(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991c/c/1&num=0&edition=prelim) to be submitted as evidence of financial responsibility.
     A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
 
-**(e) New tank performance standards** The Administrator shall, not later than three months prior to the effective date specified in subsection (f) of this section, issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
+**(e) New tank performance standards** The Administrator shall, not later than three months prior to the effective date specified in subsection (f), issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
 
 **(f) Effective dates**
 
-(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in [section 6991(7)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991/7/B&num=0&edition=prelim) (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
+(1) Regulations issued pursuant to subsections (c) and (d), and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in [section 6991(7)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991/7/B&num=0&edition=prelim) (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
 
 (2) Standards issued pursuant to subsection (e) of this section (entitled “New Tank Performance Standards”) for underground storage tanks containing regulated substances defined in [section 6991(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991/7/A&num=0&edition=prelim) shall be effective not later than thirty-six months after November 8, 1984.
 
@@ -4936,7 +4936,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 **(g) Interim prohibition**
 
-(1) Until the effective date of the standards promulgated by the Administrator under subsection (e) of this section and after one hundred and eighty days after November 8, 1984, no person may install an underground storage tank for the purpose of storing regulated substances unless such tank (whether of single or double wall construction)—
+(1) Until the effective date of the standards promulgated by the Administrator under subsection (e) and after one hundred and eighty days after November 8, 1984, no person may install an underground storage tank for the purpose of storing regulated substances unless such tank (whether of single or double wall construction)—
 
   (A) will prevent releases due to corrosion or structural failure for the operational life of the tank;
 
@@ -4948,14 +4948,14 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 **(h) EPA response program for petroleum**
 
-(1) **Before regulations** — Before the effective date of regulations under subsection (c) of this section, the Administrator (or a State pursuant to paragraph (7)) is authorized to—
+(1) **Before regulations** — Before the effective date of regulations under subsection (c), the Administrator (or a State pursuant to paragraph (7)) is authorized to—
 
   (A) require the owner or operator of an underground storage tank to undertake corrective action with respect to any release of petroleum when the Administrator (or the State) determines that such corrective action will be done properly and promptly by the owner or operator of the underground storage tank from which the release occurs; or
 
   (B) undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment.
   The corrective action undertaken or required under this paragraph shall be such as may be necessary to protect human health and the environment. The Administrator shall use funds in the Trust Fund for payment of costs incurred for corrective action under subparagraph (B), enforcement action under subparagraph (A), and cost recovery under paragraph (6) of this subsection. Subject to the priority requirements of paragraph (3), the Administrator (or the State) shall give priority in undertaking such actions under subparagraph (B) to cases where the Administrator (or the State) cannot identify a solvent owner or operator of the tank who will undertake action properly.
 
-(2) **After regulations** — Following the effective date of regulations under subsection (c) of this section, all actions or orders of the Administrator (or a State pursuant to paragraph (7)) described in paragraph (1) of this subsection shall be in conformity with such regulations. Following such effective date, the Administrator (or the State) may undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank only if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment and one or more of the following situations exists:
+(2) **After regulations** — Following the effective date of regulations under subsection (c), all actions or orders of the Administrator (or a State pursuant to paragraph (7)) described in paragraph (1) of this subsection shall be in conformity with such regulations. Following such effective date, the Administrator (or the State) may undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank only if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment and one or more of the following situations exists:
 
   (A) No person can be found, within 90 days or such shorter period as may be necessary to protect human health and the environment, who is—
 
@@ -4973,7 +4973,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 (3) **Priority of corrective actions** — The Administrator (or a State pursuant to paragraph (7)) shall give priority in undertaking corrective actions under this subsection, and in issuing orders requiring owners or operators to undertake such actions, to releases of petroleum from underground storage tanks which pose the greatest threat to human health and the environment.
 
-(4) **Corrective action orders** — The Administrator is authorized to issue orders to the owner or operator of an underground storage tank to carry out subparagraph (A) of paragraph (1) or to carry out regulations issued under subsection (c)(4) of this section. A State acting pursuant to paragraph (7) of this subsection is authorized to carry out subparagraph (A) of paragraph (1) only until the State’s program is approved by the Administrator under [section 6991c of this title](./chapter-082-solid-waste-disposal.md#section-6991c). Such orders shall be issued and enforced in the same manner and subject to the same requirements as orders under [section 6991e of this title](./chapter-082-solid-waste-disposal.md#section-6991e).
+(4) **Corrective action orders** — The Administrator is authorized to issue orders to the owner or operator of an underground storage tank to carry out subparagraph (A) of paragraph (1) or to carry out regulations issued under subsection (c)(4). A State acting pursuant to paragraph (7) of this subsection is authorized to carry out subparagraph (A) of paragraph (1) only until the State’s program is approved by the Administrator under [section 6991c of this title](./chapter-082-solid-waste-disposal.md#section-6991c). Such orders shall be issued and enforced in the same manner and subject to the same requirements as orders under [section 6991e of this title](./chapter-082-solid-waste-disposal.md#section-6991e).
 
 (5) **Allowable corrective actions** — The corrective actions undertaken by the Administrator (or a State pursuant to paragraph (7)) under paragraph (1) or (2) may include temporary or permanent relocation of residents and alternative household water supplies. In connection with the performance of any corrective action under paragraph (1) or (2), the Administrator may undertake an exposure assessment as defined in paragraph (10) of this subsection or provide for such an assessment in a cooperative agreement with a State pursuant to paragraph (7) of this subsection. The costs of any such assessment may be treated as corrective action for purposes of paragraph (6), relating to cost recovery.
 
@@ -4981,7 +4981,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
   (A) *In general* — Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operator of such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under [section 1321 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321&num=0&edition=prelim).
 
-  (B) *Recovery* — In determining the equities for seeking the recovery of costs under subparagraph (A), the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5) of this section.
+  (B) *Recovery* — In determining the equities for seeking the recovery of costs under subparagraph (A), the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5).
 
   (C) *Effect on liability*
 
@@ -5058,7 +5058,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XII, § 1201], Dec. 21, 2000, 114 S
 
 (2) **Evidence of financial responsibility and certification**
 
-  (A) *Manufacturer and installer financial responsibility* — A person that manufactures an underground storage tank or piping for an underground storage tank system or that installs an underground storage tank system is required to maintain evidence of financial responsibility under subsection (d) of this section in order to provide for the costs of corrective actions directly related to releases caused by improper manufacture or installation unless the person can demonstrate themselves 11 So in original. to be already covered as an owner or operator of an underground storage tank under this section.
+  (A) *Manufacturer and installer financial responsibility* — A person that manufactures an underground storage tank or piping for an underground storage tank system or that installs an underground storage tank system is required to maintain evidence of financial responsibility under subsection (d) in order to provide for the costs of corrective actions directly related to releases caused by improper manufacture or installation unless the person can demonstrate themselves 11 So in original. to be already covered as an owner or operator of an underground storage tank under this section.
 
   (B) *Installer certification* — The Administrator and each State that receives funding under this subchapter, as appropriate, shall require that a person that installs an underground storage tank system is—
 
@@ -5108,7 +5108,7 @@ The effective date of this subsection, referred to in subsec. (i)(1)(A), (D), is
 #### Amendments
 2006—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
 
-2005—Subsec. (f)(1). Pub. L. 109–58, § 1533(2), substituted “subsections (c) and (d)” for “subsection (c) and (d)”.
+2005—Subsec. (f)(1). Pub. L. 109–58, § 1533(2), substituted “subsections (c) and (d)” for “subsection (c) and (d) of this section”.
 
 Pub. L. 109–58, § 1532(b)(1)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
 
@@ -5186,17 +5186,17 @@ Pub. L. 99–499, title II, § 205(h), Oct. 17, 1986, 100 Stat. 1702, provided t
 
 **(b) Federal standards**
 
-(1) A State program submitted under this section may be approved only if the requirements under paragraphs (1) through (7) of subsection (a) of this section are no less stringent than the corresponding requirements standards promulgated by the Administrator pursuant to [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim).
+(1) A State program submitted under this section may be approved only if the requirements under paragraphs (1) through (7) of subsection (a) are no less stringent than the corresponding requirements standards promulgated by the Administrator pursuant to [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim).
 
 (2)
 
-  (A) A State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) of this section are less stringent than the corresponding standards under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) during the one-year period commencing on the date of promulgation of regulations under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) if State regulatory action but no State legislative action is required in order to adopt a State program.
+  (A) A State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) are less stringent than the corresponding standards under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) during the one-year period commencing on the date of promulgation of regulations under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) if State regulatory action but no State legislative action is required in order to adopt a State program.
 
-  (B) If such State legislative action is required, the State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) of this section are less stringent than the corresponding standards under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) during the two-year period commencing on the date of promulgation of regulations under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) (and during an additional one-year period after such legislative action if regulations are required to be promulgated by the State pursuant to such legislative action).
+  (B) If such State legislative action is required, the State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) are less stringent than the corresponding standards under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) during the two-year period commencing on the date of promulgation of regulations under [section 6991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/a&num=0&edition=prelim) (and during an additional one-year period after such legislative action if regulations are required to be promulgated by the State pursuant to such legislative action).
 
 **(c) Financial responsibility**
 
-(1) Corrective action and compensation programs administered by State or local agencies or departments may be submitted for approval under subsection (a)(6) of this section as evidence of financial responsibility.
+(1) Corrective action and compensation programs administered by State or local agencies or departments may be submitted for approval under subsection (a)(6) as evidence of financial responsibility.
 
 (2) Financial responsibility required by this subsection may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, qualification as a self-insurer or any other method satisfactory to the Administrator. In promulgating requirements under this subsection, the Administrator is authorized to specify policy or other contractual terms including the amount of coverage required for various classes and categories of underground storage tanks pursuant to [section 6991b(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/d/5&num=0&edition=prelim), conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this subchapter.
 
@@ -5206,7 +5206,7 @@ Pub. L. 99–499, title II, § 205(h), Oct. 17, 1986, 100 Stat. 1702, provided t
 
 (5) For the purpose of this subsection, the term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
-(6) **Withdrawal of approval.—** — After an opportunity for good faith, collaborative efforts to correct financial deficiencies with a State fund, the Administrator may withdraw approval of any State fund or State assurance program to be used as a financial responsibility mechanism without withdrawing approval of a State underground storage tank program under subsection (a) of this section.
+(6) **Withdrawal of approval.—** — After an opportunity for good faith, collaborative efforts to correct financial deficiencies with a State fund, the Administrator may withdraw approval of any State fund or State assurance program to be used as a financial responsibility mechanism without withdrawing approval of a State underground storage tank program under subsection (a).
 
 **(d) EPA determination**
 
@@ -5224,7 +5224,7 @@ Pub. L. 99–499, title II, § 205(h), Oct. 17, 1986, 100 Stat. 1702, provided t
 
     (i) corrective actions taken by the State under [section 6991b(h)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/h/7/A&num=0&edition=prelim);
 
-    (ii) necessary administrative expenses, as determined by the Administrator, that are directly related to State fund or State assurance programs under subsection (c)(1) of this section; or
+    (ii) necessary administrative expenses, as determined by the Administrator, that are directly related to State fund or State assurance programs under subsection (c)(1); or
 
     (iii) enforcement, by a State or a local government, of State or local regulations pertaining to underground storage tanks regulated under this subchapter.
 
@@ -5236,7 +5236,7 @@ Pub. L. 99–499, title II, § 205(h), Oct. 17, 1986, 100 Stat. 1702, provided t
 
   (A) *Process* — Subject to subparagraphs (B) and (C), in the case of a State with which the Administrator has entered into a cooperative agreement under [section 6991b(h)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/h/7/A&num=0&edition=prelim), the Administrator shall distribute funds from the Trust Fund to the State using an allocation process developed by the Administrator.
 
-  (B) *Diversion of State funds* — The Administrator shall not distribute funds under subparagraph (A)(iii) of subsection (f)(1) of this section to any State that has diverted funds from a State fund or State assurance program for purposes other than those related to the regulation of underground storage tanks covered by this subchapter, with the exception of those transfers that had been completed earlier than August 8, 2005.
+  (B) *Diversion of State funds* — The Administrator shall not distribute funds under subparagraph (A)(iii) of subsection (f)(1) to any State that has diverted funds from a State fund or State assurance program for purposes other than those related to the regulation of underground storage tanks covered by this subchapter, with the exception of those transfers that had been completed earlier than August 8, 2005.
 
   (C) *Revisions to process* — The Administrator may revise the allocation process referred to in subparagraph (A) after—
 
@@ -5313,7 +5313,7 @@ Each such inspection shall be commenced and completed with reasonable promptness
 
 (2) **Periodic inspections** — After completion of all inspections required under paragraph (1), the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections of each underground storage tank regulated under this subchapter at least once every 3 years to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under [section 6991c of this title](./chapter-082-solid-waste-disposal.md#section-6991c). The Administrator may extend for up to one additional year the first 3-year inspection interval under this paragraph if the State demonstrates that it has insufficient resources to complete all such inspections within the first 3-year period.
 
-(3) **Inspection authority** — Nothing in this section shall be construed to diminish the Administrator’s or a State’s authorities under subsection (a) of this section.
+(3) **Inspection authority** — Nothing in this section shall be construed to diminish the Administrator’s or a State’s authorities under subsection (a).
 
 ### Statutory Notes
 
@@ -5366,7 +5366,7 @@ Subsec. (a)(4). Pub. L. 99–499, § 205(f)(2), added par. (4).
   (E) the delivery prohibition requirement established by [section 6991k of this title](./chapter-082-solid-waste-disposal.md#section-6991k),
   shall be subject to a civil penalty not to exceed $10,000 for each tank for each day of violation. Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of [section 6991k of this title](./chapter-082-solid-waste-disposal.md#section-6991k) shall also be subject to the same civil penalty for each day of such violation.
 
-**(e) Incentive for performance** Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d) of this section:
+**(e) Incentive for performance** Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d):
 
 (1) The compliance history of an owner or operator in accordance with this subchapter or a program approved under [section 6991c of this title](./chapter-082-solid-waste-disposal.md#section-6991c).
 
@@ -5440,7 +5440,7 @@ Nothing in this subchapter shall preclude or deny any right of any State or poli
 
 **(b) Other tanks** Not later than thirty-six months after November 8, 1984, the Administrator shall complete a study of all other underground storage tanks.
 
-**(c) Elements of studies** The studies under subsections (a) and (b) of this section shall include an assessment of the ages, types (including methods of manufacture, coatings, protection systems, the compatibility of the construction materials and the installation methods) and locations (including the climate of the locations) of such tanks; soil conditions, water tables, and the hydrogeology of tank locations; the relationship between the foregoing factors and the likelihood of releases from underground storage tanks; the effectiveness and costs of inventory systems, tank testing, and leak detection systems; and such other factors as the Administrator deems appropriate.
+**(c) Elements of studies** The studies under subsections (a) and (b) shall include an assessment of the ages, types (including methods of manufacture, coatings, protection systems, the compatibility of the construction materials and the installation methods) and locations (including the climate of the locations) of such tanks; soil conditions, water tables, and the hydrogeology of tank locations; the relationship between the foregoing factors and the likelihood of releases from underground storage tanks; the effectiveness and costs of inventory systems, tank testing, and leak detection systems; and such other factors as the Administrator deems appropriate.
 
 **(d) Farm and heating oil tanks** Not later than thirty-six months after November 8, 1984, the Administrator shall conduct a study regarding the tanks referred to in subparagraphs (A) and (B) of [section 6991(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991/10&num=0&edition=prelim). Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
 
@@ -5497,11 +5497,11 @@ Subsec. (d). Pub. L. 109–58, § 1532(b)(3)(B), substituted “subparagraphs (A
 
 **(b) State programs**
 
-(1) **In general** — Not later than 2 years after the date on which the Administrator publishes the guidelines under subsection (a)(1) of this section, each State that receives funding under this subchapter shall develop State-specific training requirements that are consistent with the guidelines developed under subsection (a)(1) of this section.
+(1) **In general** — Not later than 2 years after the date on which the Administrator publishes the guidelines under subsection (a)(1), each State that receives funding under this subchapter shall develop State-specific training requirements that are consistent with the guidelines developed under subsection (a)(1).
 
 (2) **Requirements** — State requirements described in paragraph (1) shall—
 
-  (A) be consistent with subsection (a) of this section;
+  (A) be consistent with subsection (a);
 
   (B) be developed in cooperation with tank owners and tank operators;
 
@@ -5511,11 +5511,11 @@ Subsec. (d). Pub. L. 109–58, § 1532(b)(3)(B), substituted “subparagraphs (A
 
 (3) **Financial incentive** — The Administrator may award to a State that develops and implements requirements described in paragraph (1), in addition to any funds that the State is entitled to receive under this subchapter, not more than $200,000, to be used to carry out the requirements.
 
-**(c) Training** All persons that are subject to the operator training requirements of subsection (a) of this section shall—
+**(c) Training** All persons that are subject to the operator training requirements of subsection (a) shall—
 
-(1) meet the training requirements developed under subsection (b) of this section; and
+(1) meet the training requirements developed under subsection (b); and
 
-(2) repeat the applicable requirements developed under subsection (b) of this section, if the tank for which they have primary daily on-site management responsibilities is determined to be out of compliance with—
+(2) repeat the applicable requirements developed under subsection (b), if the tank for which they have primary daily on-site management responsibilities is determined to be out of compliance with—
 
   (A) a requirement or standard promulgated by the Administrator under [section 6991b of this title](./chapter-082-solid-waste-disposal.md#section-6991b); or
 
@@ -5568,7 +5568,7 @@ Funds made available under [section 6991m(2)(D) of this title](https://uscode.ho
 
 **(b) Effect on State authority** Nothing in this section shall affect or preempt the authority of a State to prohibit the delivery, deposit, or acceptance of a regulated substance to an underground storage tank.
 
-**(c) Defense to violation** A person shall not be in violation of subsection (a)(1) of this section if the person has not been provided with notice pursuant to subsection (a)(2)(D) of this section of the ineligibility of a facility for delivery, deposit, or acceptance of a regulated substance as determined by the Administrator or a State, as appropriate, under this section.
+**(c) Defense to violation** A person shall not be in violation of subsection (a)(1) if the person has not been provided with notice pursuant to subsection (a)(2)(D) of the ineligibility of a facility for delivery, deposit, or acceptance of a regulated substance as determined by the Administrator or a State, as appropriate, under this section.
 
 ### Statutory Notes
 
@@ -5631,13 +5631,13 @@ Pub. L. 109–168 substituted “2006 through 2011” for “2005 through 2009�
 
 <a id="section-6992"></a>
 ## § 6992. Scope of demonstration program for medical waste
-**(a) Covered States** The States within the demonstration program established under this subchapter for tracking medical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c) of this section, except for any of such States in which the Governor notifies the Administrator under subsection (b) of this section that such State shall not be covered by the program.
+**(a) Covered States** The States within the demonstration program established under this subchapter for tracking medical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c), except for any of such States in which the Governor notifies the Administrator under subsection (b) that such State shall not be covered by the program.
 
 **(b) Opt out**
 
-(1) If the Governor of any State covered under subsection (a) of this section which is not contiguous to the Atlantic Ocean notifies the Administrator that such State elects not to participate in the demonstration program, the Administrator shall remove such State from the program.
+(1) If the Governor of any State covered under subsection (a) which is not contiguous to the Atlantic Ocean notifies the Administrator that such State elects not to participate in the demonstration program, the Administrator shall remove such State from the program.
 
-(2) If the Governor of any other State covered under subsection (a) of this section notifies the Administrator that such State has implemented a medical waste tracking program that is no less stringent than the demonstration program under this subchapter and that such State elects not to participate in the demonstration program, the Administrator shall, if the Administrator determines that such State program is no less stringent than the demonstration program under this subchapter, remove such State from the demonstration program.
+(2) If the Governor of any other State covered under subsection (a) notifies the Administrator that such State has implemented a medical waste tracking program that is no less stringent than the demonstration program under this subchapter and that such State elects not to participate in the demonstration program, the Administrator shall, if the Administrator determines that such State program is no less stringent than the demonstration program under this subchapter, remove such State from the demonstration program.
 
 (3) Notifications under paragraphs (1) or (2) shall be submitted to the Administrator no later than 30 days after the promulgation of regulations implementing the demonstration program under this subchapter.
 
@@ -5648,7 +5648,7 @@ Pub. L. 109–168 substituted “2006 through 2011” for “2005 through 2009�
 
 <a id="section-6992a"></a>
 ## § 6992a. Listing of medical wastes
-**(a) List** Not later than 6 months after November 1, 1988, the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b) of this section, such list shall include, but need not be limited to, each of the following types of solid waste:
+**(a) List** Not later than 6 months after November 1, 1988, the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b), such list shall include, but need not be limited to, each of the following types of solid waste:
 
 (1) Cultures and stocks of infectious agents and associated biologicals, including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures.
 
@@ -5672,7 +5672,7 @@ Pub. L. 109–168 substituted “2006 through 2011” for “2005 through 2009�
 
 (11) Such other waste material that results from the administration of medical care to a patient by a health care provider and is found by the Administrator to pose a threat to human health or the environment.
 
-**(b) Exclusions from list** The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) of this section which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
+**(b) Exclusions from list** The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
 
 
 <a id="section-6992b"></a>
@@ -5685,9 +5685,9 @@ Pub. L. 109–168 substituted “2006 through 2011” for “2005 through 2009�
 
 (C) A requirement for appropriate labeling of containers of the waste.
 
-**(b) Small quantities** In the program under subsection (a) of this section, the Administrator may establish an exemption for generators of small quantities of medical waste listed under [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a), except that the Administrator may not exempt from the program any person who, or facility that, generates 50 pounds or more of such waste in any calendar month.
+**(b) Small quantities** In the program under subsection (a), the Administrator may establish an exemption for generators of small quantities of medical waste listed under [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a), except that the Administrator may not exempt from the program any person who, or facility that, generates 50 pounds or more of such waste in any calendar month.
 
-**(c) On-site incinerators** Concurrently with the promulgation of regulations under subsection (a) of this section, the Administrator shall promulgate a recordkeeping and reporting requirement for any generator in a demonstration State of medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) that (1) incinerates medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) on site and (2) does not track such waste under the regulations promulgated under subsection (a) of this section. Such requirement shall require the generator to report to the Administrator on the volume and types of medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) that the generator incinerated on site during the 6 months following the effective date of the requirements of this subsection.
+**(c) On-site incinerators** Concurrently with the promulgation of regulations under subsection (a), the Administrator shall promulgate a recordkeeping and reporting requirement for any generator in a demonstration State of medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) that (1) incinerates medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) on site and (2) does not track such waste under the regulations promulgated under subsection (a). Such requirement shall require the generator to report to the Administrator on the volume and types of medical waste listed in [section 6992a of this title](./chapter-082-solid-waste-disposal.md#section-6992a) that the generator incinerated on site during the 6 months following the effective date of the requirements of this subsection.
 
 **(d) Type of medical waste and types of generators** For each of the requirements of this section, the regulations may vary for different types of medical waste and for different types of medical waste generators.
 
@@ -5728,7 +5728,7 @@ Pub. L. 109–168 substituted “2006 through 2011” for “2005 through 2009�
 (3) knowingly generates, stores, treats, transports, disposes of, or otherwise handles any medical waste (whether such activity took place before or takes place after November 1, 1988) and who knowingly destroys, alters, conceals, or fails to file any record, report, or other document required to be maintained or filed for purposes of compliance with this subchapter or regulations thereunder
 shall, upon conviction, be subject to a fine of not more than $50,000 for each day of violation, or imprisonment not to exceed 2 years (5 years in the case of a violation of paragraph (1)). If the conviction is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment under the respective paragraph shall be doubled with respect to both fine and imprisonment.
 
-**(c) Knowing endangerment** Any person who knowingly violates any provision of subsection (b) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under [section 6928(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6928/f&num=0&edition=prelim).
+**(c) Knowing endangerment** Any person who knowingly violates any provision of subsection (b) who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under [section 6928(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6928/f&num=0&edition=prelim).
 
 **(d) Civil penalties** Any person who violates any requirement of or regulation under this subchapter shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day of such violation shall, for purposes of this section, constitute a separate violation.
 
@@ -5755,7 +5755,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 (1) preempt any State or local law; or
 
-(2) except as provided in subsection (c) of this section, otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law.
+(2) except as provided in subsection (c), otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law.
 
 **(c) State forms** Any State or local law which requires submission of a tracking form from any person subject to this subchapter shall require that the form be identical in content and format to the form required under [section 6992b of this title](./chapter-082-solid-waste-disposal.md#section-6992b), except that a State may require the submission of other tracking information which is supplemental to the information required on the form required under [section 6992b of this title](./chapter-082-solid-waste-disposal.md#section-6992b) through additional sheets or such other means as the State deems appropriate.
 

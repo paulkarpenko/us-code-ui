@@ -2,7 +2,7 @@
 title: 22
 chapter: '99'
 heading: NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT
-section_count: 25
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -10,12 +10,14 @@ source: >-
 ## § 9201. Rulemaking
 **(a) In general** The President is authorized to promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter (which may include regulatory exceptions), including under section 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1704](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1704&num=0&edition=prelim)).
 
-**(b) Rule of construction** Nothing in this chapter, or in any amendment made by this chapter, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).
+**(b) Rule of construction** Nothing in this chapter, or in any amendment made by this Act, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+
+Any amendment made by this Act, referred to in subsec. (b), means the amendments made by Pub. L. 114–122. See Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -26,12 +28,14 @@ Functions and authorities of President under subsec. (a) of this section delegat
 <a id="section-9202"></a>
 ## § 9202. Authority to consolidate reports
 
-Any and all reports required to be submitted to appropriate congressional committees under this chapter or any amendment made by this chapter that are subject to a deadline for submission consisting of the same unit of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to such deadline. The consolidated reports must contain all information required under this Act or any amendment made by this Act, in addition to all other elements mandated by previous law.
+Any and all reports required to be submitted to appropriate congressional committees under this chapter or any amendment made by this Act that are subject to a deadline for submission consisting of the same unit of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to such deadline. The consolidated reports must contain all information required under this chapter or any amendment made by this Act, in addition to all other elements mandated by previous law.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+
+Any amendment made by this Act, referred to in text, means the amendments made by Pub. L. 114–122. See Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
 
 
 <a id="section-9211"></a>
@@ -130,6 +134,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### Effective Date
 Pub. L. 114–122, title IV, § 406, Feb. 18, 2016, 130 Stat. 116, provided that: “Except as otherwise provided in this Act, this Act [see Short Title note below] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Feb. 18, 2016].”
 
+#### Short Title of 2017 Amendment
+Pub. L. 115–44, title III, § 301, Aug. 2, 2017, 131 Stat. 940, provided that: “This title [enacting sections 9221a, 9225, 9241a, 9241b of this title and [section 1232c of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1232c&num=0&edition=prelim), Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing [section 9225 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9225), and enacting provisions set out as notes under sections 9202, 9214, and 9241 of this title] may be cited as the ‘Korean Interdiction and Modernization of Sanctions Act’.”
+
 #### Short Title
 Pub. L. 114–122, § 1(a), Feb. 18, 2016, 130 Stat. 93, provided that: “This Act [enacting this chapter and amending [section 7814 of this title](./chapter-085-north-korean-human-rights.md#section-7814) and sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘North Korea Sanctions and Policy Enhancement Act of 2016’.”
 
@@ -141,7 +148,7 @@ In this chapter:
 
 (1) **Applicable Executive order** — The term “applicable Executive order” means—
 
-  (A) Executive Order 13382 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of weapons of mass destruction proliferators and their supporters), Executive Order 13466 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to continuing certain restrictions with respect to North Korea and North Korean nationals), Executive Order 13551 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of certain persons with respect to North Korea), Executive Order 13570 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to prohibiting certain transactions with respect to North Korea), Executive Order 13619 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of persons threatening the peace, security, or stability of Burma), Executive Order 13687 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to imposing additional sanctions with respect to North Korea), or Executive Order 13694 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), to the extent that such Executive order—
+  (A) Executive Order 13382 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of weapons of mass destruction proliferators and their supporters), Executive Order 13466 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to continuing certain restrictions with respect to North Korea and North Korean nationals), Executive Order 13551 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of certain persons with respect to North Korea), Executive Order 13570 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to prohibiting certain transactions with respect to North Korea), Executive Order 13619 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking property of persons threatening the peace, security, or stability of Burma), Executive Order 13687 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to imposing additional sanctions with respect to North Korea), Executive Order No. 13694 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), or Executive Order No. 13722 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea), to the extent that such Executive order—
 
     (i) authorizes the imposition of sanctions on persons for conduct with respect to North Korea;
 
@@ -159,7 +166,7 @@ In this chapter:
 
 (2) **Applicable United Nations Security Council resolution** — The term “applicable United Nations Security Council resolution” means—
 
-  (A) United Nations Security Council Resolution 1695 (2006), 1718 (2006), 1874 (2009), 2087 (2013), or 2094 (2013); and
+  (A) United Nations Security Council Resolution 1695 (2006), 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), or 2321 (2016); and
 
   (B) any United Nations Security Council resolution adopted on or after February 18, 2016, that—
 
@@ -177,23 +184,31 @@ In this chapter:
 
 (4) **Designated person** — The term “designated person” means a person designated under subsection (a) or (b) of [section 9214 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9214) for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
 
-(5) **Government of North Korea** — The term “Government of North Korea” means the Government of North Korea and its agencies, instrumentalities, and controlled entities.
+(5) **Foreign person** — The term “foreign person” means—
 
-(6) **Humanitarian assistance** — The term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies, clothing, and shelter.
+  (A) an individual who is not a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
 
-(7) **Intelligence community** — The term “intelligence community” has the meaning given such term in [section 3003(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
+  (B) an entity that is not a United States person.
 
-(8) **Luxury goods** — The term “luxury goods”—
+(6) **Government of North Korea** — The term “Government of North Korea” means the Government of North Korea and its agencies, instrumentalities, and controlled entities.
 
-  (A) has the meaning given such term in section 746.4(b)(1) of title 15, Code of Federal Regulations; and
+(7) **Humanitarian assistance** — The term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies, clothing, and shelter.
 
-  (B) includes the items listed in Supplement No. 1 to part 746 of such title, and any similar items.
+(8) **Intelligence community** — The term “intelligence community” has the meaning given such term in [section 3003(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
 
-(9) **Monetary instruments** — The term “monetary instruments” has the meaning given such term in [section 5312(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a&num=0&edition=prelim).
+(9) **Luxury goods** — The term “luxury goods”—
 
-(10) **North Korea** — The term “North Korea” means the Democratic People’s Republic of Korea.
+  (A) has the meaning given such term in section 746.4(b)(1) of title 15, Code of Federal Regulations;
 
-(11) **North Korean financial institution** — The term “North Korean financial institution” means any financial institution that—
+  (B) includes the items listed in Supplement No. 1 to part 746 of such title, and any similar items; and
+
+  (C) also includes any items so designated under an applicable United Nations Security Council resolution.
+
+(10) **Monetary instruments** — The term “monetary instruments” has the meaning given such term in [section 5312(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a&num=0&edition=prelim).
+
+(11) **North Korea** — The term “North Korea” means the Democratic People’s Republic of Korea.
+
+(12) **North Korean financial institution** — The term “North Korean financial institution” means any financial institution that—
 
   (A) is organized under the laws of North Korea or any jurisdiction within North Korea (including a foreign branch of such an institution);
 
@@ -203,7 +218,13 @@ In this chapter:
 
   (D) is owned or controlled by a financial institution described in subparagraph (A), (B), or (C), regardless of location.
 
-(12) **Significant activities undermining cybersecurity** — The term “significant activities undermining cybersecurity” includes—
+(13) **North Korean person** — The term ‘North Korean person’ means—
+
+  (A) a North Korean citizen or national; or
+
+  (B) an entity owned or controlled by the Government of North Korea or by a North Korean citizen or national.
+
+(14) **Significant activities undermining cybersecurity** — The term “significant activities undermining cybersecurity” includes—
 
   (A) significant efforts to—
 
@@ -217,9 +238,9 @@ In this chapter:
 
   (D) such other significant activities described in regulations promulgated to implement [section 9214 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9214).
 
-(13) **South Korea** — The term “South Korea” means the Republic of Korea.
+(15) **South Korea** — The term “South Korea” means the Republic of Korea.
 
-(14) **United States person** — The term “United States person” means—
+(16) **United States person** — The term “United States person” means—
 
   (A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
 
@@ -230,7 +251,44 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
 
-Subchapter I or II, referred to in par. (4), was in the original “title I or II”, meaning titles I and II of Pub. L. 114–122. Title I is classified principally to subchapter I of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+Subchapter I or II, referred to in par. (4), was in the original “title I or II”, meaning titles I and II of Pub. L. 114–122. Title I is classified principally to subchapter I of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I and II of Pub. L. 114–122 to the Code, see Tables.
+
+#### Amendments
+2017—Par. (1)(A). Pub. L. 115–44, § 302(a)(1), substituted “Executive Order No. 13694” for “or Executive Order 13694” and inserted “or Executive Order No. 13722 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “to the extent”.
+
+Par. (2)(A). Pub. L. 115–44, § 302(a)(2), substituted “2094 (2013), 2270 (2016), or 2321 (2016)” for “or 2094 (2013)”.
+
+Par. (5) to (9). Pub. L. 115–44, § 302(a)(3)(A), added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+
+Par. (9)(C). Pub. L. 115–44, § 302(a)(4), added subpar. (C).
+
+Par. (10) to (12). Pub. L. 115–44, § 302(a)(3)(A), redesignated pars. (9) to (11) as (10) to (12), respectively.
+
+Par. (13). Pub. L. 115–44, § 302(a)(5)(B), added par. (13). Former par. (13) redesignated (14).
+
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+
+Par. (14). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
+
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
+
+Par. (15). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (14) as (15). Former par. (15) redesignated (16).
+
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (14) as (15).
+
+Par. (16). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (15) as (16).
+
+#### Regulatory Authority
+Pub. L. 115–44, title III, § 333, Aug. 2, 2017, 131 Stat. 955, provided that: “(a) In General.—The President shall, not later than 180 days after the date of the enactment of this Act [Aug. 2, 2017], promulgate regulations as necessary for the implementation of this title [see Short Title of 2017 Amendment note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201)] and the amendments made by this title. “(b) Notification to Congress.—Not fewer than 10 days before the promulgation of a regulation under subsection (a), the President shall notify and provide to the appropriate congressional committees [see Definitions note below] the proposed regulation, specifying the provisions of this title or the amendments made by this title that the regulation is implementing.”
+
+#### Rule of Construction
+Pub. L. 115–44, title III, § 332, Aug. 2, 2017, 131 Stat. 954, provided that: “Nothing in this title [see Short Title of 2017 Amendment note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201)] shall be construed to limit— “(1) the authority or obligation of the President to apply the sanctions described in section 104 of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9214](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9214)), as amended by section 311 of this Act, with regard to persons who meet the criteria for designation under such section, or in any other provision of law; or “(2) the authorities of the President pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).”
+
+#### Authority To Consolidate Reports
+Pub. L. 115–44, title III, § 331, Aug. 2, 2017, 131 Stat. 954, provided that: “Any reports required to be submitted to the appropriate congressional committees [see Definitions note below] under this title [see Short Title of 2017 Amendment note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201)] or any amendment made by this title that are subject to deadlines for submission consisting of similar units of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to the earlier of such deadlines. The consolidated reports must contain all information required under this title or any amendment made by this title, in addition to all other elements mandated by previous law.”
+
+#### Definitions
+Pub. L. 115–44, title III, § 302(b), Aug. 2, 2017, 131 Stat. 941, provided that: “In this title [see Short Title of 2017 Amendment note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201)]: “(1) Applicable united nations security council resolution; luxury goods.—The terms ‘applicable United Nations Security Council resolution’ and ‘luxury goods’ have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9202](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9202)), as amended by subsection (a). “(2) Appropriate congressional committees; government of north korea; united states person.—The terms ‘appropriate congressional committees’, ‘Government of North Korea’, and ‘United States person’ have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9202](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9202)). “(3) Foreign person; north korean person.—The terms ‘foreign person’ and ‘North Korean person’ have the meanings given those terms, respectively, in paragraph (5) and paragraph (13) of section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9202(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9202/5&num=0&edition=prelim) and 9202(13)), as added by subsection (a). “(4) Prohibited weapons program.—The term ‘prohibited weapons program’ means—“(A) any program related to the development of nuclear, chemical, or biological weapons, and their means of delivery, including ballistic missiles; and “(B) any program to develop related materials with respect to a program described in subparagraph (A).”
 
 
 <a id="section-9213"></a>
@@ -319,8 +377,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 Functions and authorities of President under subsec. (a) of this section delegated to Secretary of State, in consultation with Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
 
 
-<a id="section-9222"></a>
-## § 9222. Designation of persons
+<a id="section-9221a"></a>
+## § 9221a. Designation of persons
 **(a) Mandatory designations** Except as provided in [section 9228 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9228), the President shall designate under this subsection any person that the President determines—
 
 (1) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any goods, services, or technology controlled for export by the United States because of the use of such goods, services, or technology for weapons of mass destruction or delivery systems for such weapons and materially contributes to the use, development, production, possession, or acquisition by any person of a nuclear, radiological, chemical, or biological weapon or any device or system designed in whole or in part to deliver such a weapon;
@@ -339,15 +397,31 @@ Functions and authorities of President under subsec. (a) of this section delegat
 
 (8) knowingly, directly or indirectly, sells, supplies, or transfers to or from the Government of North Korea or any person acting for or on behalf of that Government, a significant amount of precious metal, graphite, raw or semi-finished metals or aluminum, steel, coal, or software, for use by or in industrial processes directly related to weapons of mass destruction and delivery systems for such weapons, other proliferation activities, the Korean Workers’ Party, armed forces, internal security, or intelligence activities, or the operation and maintenance of political prison camps or forced labor camps, including outside of North Korea;
 
-(9) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any arms or related materiel; or
+(9) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any arms or related materiel or any defense article or defense service (as such terms are defined in [section 2794 of this title](./chapter-039-arms-export-control.md#section-2794));
 
-(10) knowingly attempts to engage in any of the conduct described in paragraphs (1) through (9).
+(10) knowingly, directly or indirectly, purchases or otherwise acquires from North Korea any significant amounts of gold, titanium ore, vanadium ore, copper, silver, nickel, zinc, or rare earth minerals;
+
+(11) knowingly, directly or indirectly, sells or transfers to North Korea any significant amounts of rocket, aviation, or jet fuel (except for use by a civilian passenger aircraft outside North Korea, exclusively for consumption during its flight to North Korea or its return flight);
+
+(12) knowingly, directly or indirectly, provides significant amounts of fuel or supplies, provides bunkering services, or facilitates a significant transaction or transactions to operate or maintain, a vessel or aircraft that is designated under an applicable Executive order or an applicable United Nations Security Council resolution, or that is owned or controlled by a person designated under an applicable Executive order or applicable United Nations Security Council resolution;
+
+(13) knowingly, directly or indirectly, insures, registers, facilitates the registration of, or maintains insurance or a registration for, a vessel owned or controlled by the Government of North Korea, except as specifically approved by the United Nations Security Council;
+
+(14) knowingly, directly or indirectly, maintains a correspondent account (as defined in [section 9221a(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9221a/d/1&num=0&edition=prelim)) with any North Korean financial institution, except as specifically approved by the United Nations Security Council; or
+
+(15) knowingly attempts to engage in any of the conduct described in paragraphs (1) through (14).
 
 **(b) Additional discretionary designations**
 
 (1) **Prohibited conduct described** — Except as provided in [section 9228 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9228), the President may designate under this subsection any person that the President determines—
 
-  (A) knowingly engages in, contributes to, assists, sponsors, or provides financial, material or technological support for, or goods and services in support of, any person designated pursuant to an applicable United Nations Security Council resolution;
+  (A) knowingly engages in, contributes to, assists, sponsors, or provides financial, material or technological support for, or goods and services in support of, any person designated pursuant to—
+
+    (i) an applicable United Nations Security Council resolution;
+
+    (ii) any regulation promulgated under [section 9254 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9254); or
+
+    (iii) any applicable Executive order;
 
   (B) knowingly contributed to—
 
@@ -355,13 +429,35 @@ Functions and authorities of President under subsec. (a) of this section delegat
 
     (ii) the misappropriation, theft, or embezzlement of public funds by, or for the benefit of, an official of the Government of North Korea or any person acting for or on behalf of that official; or
 
-    (iii) the use of any proceeds of any activity described in clause (i) or (ii); or
+    (iii) the use of any proceeds of any activity described in clause (i) or (ii);
 
-  (C) knowingly and materially assisted, sponsored, or provided significant financial, material, or technological support for, or goods or services to or in support of, the activities described in subparagraph (A) or (B).
+  (C) knowingly and materially assisted, sponsored, or provided significant financial, material, or technological support for, or goods or services to or in support of, the activities described in subparagraph (A) or (B);
+
+  (D) knowingly, directly or indirectly, purchased or otherwise acquired from the Government of North Korea significant quantities of coal, iron, or iron ore, in excess of the limitations provided in applicable United Nations Security Council resolutions;
+
+  (E) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of textiles from the Government of North Korea;
+
+  (F) knowingly facilitated a significant transfer of funds or property of the Government of North Korea that materially contributes to any violation of an applicable United National Security Council resolution;
+
+  (G) knowingly, directly or indirectly, facilitated a significant transfer to or from the Government of North Korea of bulk cash, precious metals, gemstones, or other stores of value not described under subsection (a)(10);
+
+  (H) knowingly, directly or indirectly, sold, transferred, or otherwise provided significant amounts of crude oil, condensates, refined petroleum, other types of petroleum or petroleum byproducts, liquified natural gas, or other natural gas resources to the Government of North Korea (except for heavy fuel oil, gasoline, or diesel fuel for humanitarian use or as excepted under subsection (a)(11));
+
+  (I) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the online commercial activities of the Government of North Korea, including online gambling;
+
+  (J) knowingly, directly or indirectly, purchased or otherwise acquired fishing rights from the Government of North Korea;
+
+  (K) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of food or agricultural products from the Government of North Korea;
+
+  (L) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the exportation of workers from North Korea in a manner intended to generate significant revenue, directly or indirectly, for use by the Government of North Korea or by the Workers’ Party of Korea;
+
+  (M) knowingly conducted a significant transaction or transactions in North Korea’s transportation, mining, energy, or financial services industries; or
+
+  (N) except as specifically approved by the United Nations Security Council, and other than through a correspondent account as described in subsection (a)(14), knowingly facilitated the operation of any branch, subsidiary, or office of a North Korean financial institution.
 
 (2) **Effect of designation** — With respect to any person designated under this subsection, the President may—
 
-  (A) apply the sanctions described in section 9224, 9225(c), or 9226 of this title to the person to the same extent and in the same manner as if the person were designated under subsection (a);
+  (A) apply the sanctions described in section 9224, 9225(c),11 See References in Text note below. or 9226 of this title to the person to the same extent and in the same manner as if the person were designated under subsection (a);
 
   (B) apply any applicable special measures described in [section 5318A of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim);
 
@@ -377,7 +473,11 @@ Functions and authorities of President under subsec. (a) of this section delegat
 
     (ii) involve any interest of such person.
 
-**(c) Asset blocking** The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a designated person, the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+**(c) Asset blocking**
+
+(1) **Mandatory asset blocking** — The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a person designated under subsection (a), the Government of North Korea, or the Workers’ Party of Korea, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(2) **Discretionary asset blocking** — The President may also exercise such powers, in the same manner and to the same extent described in paragraph (1), with respect to a person designated under subsection (b).
 
 **(d) Application to subsidiaries and agents** The designation of a person under subsection (a) or (b) and the blocking of property and interests in property under subsection (c) shall apply with respect to a person who is determined to be owned or controlled by, or to have acted or purported to have acted for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section.
 
@@ -388,14 +488,30 @@ Functions and authorities of President under subsec. (a) of this section delegat
 ### Statutory Notes
 
 #### References in Text
-The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 925 enacted by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in [section 9225(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9225/c&num=0&edition=prelim) and now are now contained in [section 9225(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9225/d&num=0&edition=prelim).
+
+The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2017—Subsec. (a)(9). Pub. L. 115–44, § 311(a)(1), substituted “or any defense article or defense service (as such terms are defined in [section 2794 of this title](./chapter-039-arms-export-control.md#section-2794));” for “; or”
+
+Subsec. (a)(10) to (15). Pub. L. 115–44, § 311(a)(2)–(4), added pars. (10) to (14), redesignated former par. (10) as (15), and in par. (15), substituted “(14)” for “(9)”.
+
+Subsec. (b)(1)(A). Pub. L. 115–44, § 311(b)(1)(A), substituted “pursuant to—” and items (i) to (iii) for “pursuant to an applicable United Nations Security Council resolution;”.
+
+Subsec. (b)(1)(D) to (N). Pub. L. 115–44, § 311(b)(1)(B)–(D), added subpars. (D) to (N).
+
+Subsec. (c). Pub. L. 115–44, § 311(c), designated existing text as par. (1), inserted heading, substituted “of a person designated under subsection (a)” for “of a designated person”, and added par. (2).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–44, title III, § 311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the date of the enactment of this Act [Aug. 2, 2017] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 [[22 U.S.C. 9214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/b/1&num=0&edition=prelim)], as added by paragraph (1), engaged in on or after such date of enactment.”
 
 #### Delegation of Functions
 Functions and authorities of President under subsecs. (a), (b), and (d) of this section delegated to Secretary of the Treasury, in consultation with Secretary of State, and functions and authorities under subsecs. (c) and (e) of this section delegated to Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
 
 
-<a id="section-9223"></a>
-## § 9223. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern
+<a id="section-9222"></a>
+## § 9222. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern
 **(a) Findings** Congress makes the following findings:
 
 (1) The Under Secretary of the Treasury for Terrorism and Financial Intelligence, who is responsible for safeguarding the financial system against illicit use, money laundering, terrorist financing, and the proliferation of weapons of mass destruction, and has repeatedly expressed concern about North Korea’s misuse of the international financial system—
@@ -479,6 +595,25 @@ Functions and authorities of President under subsecs. (a), (b), and (d) of this 
   (B) *Form* — The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
 
 
+<a id="section-9223"></a>
+## § 9223. Prohibition on indirect correspondent accounts
+**(a) In general** Except as provided in subsection (b), if a United States financial institution has or obtains knowledge that a correspondent account established, maintained, administered, or managed by that institution for a foreign financial institution is being used by the foreign financial institution to provide significant financial services indirectly to any person, foreign government, or financial institution designated under [section 9214 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9214), the United States financial institution shall ensure that such correspondent account is no longer used to provide such services.
+
+**(b) Exception** A United States financial institution is authorized to process transfers of funds to or from North Korea, or for the direct or indirect benefit of any person, foreign government, or financial institution that is designated under [section 9214 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9214), only if the transfer—
+
+(1) arises from, and is ordinarily incident and necessary to give effect to, an underlying transaction that has been authorized by a specific or general license issued by the Secretary of the Treasury; and
+
+(2) does not involve debiting or crediting a North Korean account.
+
+**(c) Definitions** In this section:
+
+(1) **Correspondent account** — The term “correspondent account” has the meaning given that term in [section 5318A of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim).
+
+(2) **United States financial institution** — The term “United States financial institution” means has the meaning given that term in section 510.310 of title 31, Code of Federal Regulations, as in effect on August 2, 2017.
+
+(3) **Foreign financial institution** — The term “foreign financial institution” has the meaning given that term in section 1010.605 of title 31, Code of Federal Regulations, as in effect on August 2, 2017.
+
+
 <a id="section-9224"></a>
 ## § 9224. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea
 **(a) Findings** Congress makes the following findings:
@@ -550,11 +685,11 @@ Functions and authorities of President under subsecs. (a), (b), and (d) of this 
 ## § 9225. Proliferation prevention sanctions
 **(a) Export of certain goods or technology** A validated license shall be required for the export to North Korea of any goods or technology otherwise covered under [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim). No defense exports may be approved for the Government of North Korea.
 
-**(b) Transactions in lethal military equipment**
+**(b) Transactions in defense articles or defense services**
 
-(1) **In general** — The President shall withhold assistance under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) to the government of any country that provides lethal military equipment to the Government of North Korea.
+(1) **In general** — The President shall withhold assistance under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) to the government of any country that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in [section 2794 of this title](./chapter-039-arms-export-control.md#section-2794), if the President determines that a significant type or amount of such article or service has been so provided or received.
 
-(2) **Applicability** — The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 1 year after the date on which the prohibition under paragraph (1) is applied to that government.
+(2) **Applicability** — The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 2 years after the date on which the prohibition under paragraph (1) is applied to that government.
 
 **(c) Waiver** Notwithstanding any other provision of law, the Secretary of State may waive the prohibitions under this section with respect to a country if the Secretary—
 
@@ -566,19 +701,36 @@ Functions and authorities of President under subsecs. (a), (b), and (d) of this 
 
   (B) why such waiver is in the national interest of the United States.
 
-**(d) Exception** The prohibitions under this section shall not apply to the provision of assistance for human rights, democracy, rule of law, or emergency humanitarian purposes.
+**(d) Exception** The prohibitions under this section shall not apply to the provision of assistance for human rights, democracy, rule of law, maternal and child health, disease prevention and response, or humanitarian purposes.
+
+**(e) Report on arms trafficking involving North Korea**
+
+(1) **In general** — Not later than 180 days after August 2, 2017, and annually thereafter for 5 years, the Secretary of State shall submit to the appropriate congressional committees a report that specifically describes the compliance of foreign countries and other foreign jurisdictions with the requirement to curtail the trade described in subsection (b)(1).
+
+(2) **Form** — The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 
 ### Statutory Notes
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
+#### Amendments
+2017—Subsec. (b). Pub. L. 115–44, § 313(1)(A), substituted “Transactions in defense articles or defense services” for “Transactions in lethal military equipment” in heading.
+
+Subsec. (b)(1). Pub. L. 115–44, § 313(1)(B), substituted “that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in [section 2794 of this title](./chapter-039-arms-export-control.md#section-2794), if the President determines that a significant type or amount of such article or service has been so provided or received” for “that provides lethal military equipment to the Government of North Korea”.
+
+Subsec. (b)(2). Pub. L. 115–44, § 313(1)(C), substituted “2 years” for “1 year”.
+
+Subsec. (d). Pub. L. 115–44, § 313(2), substituted “maternal and child health, disease prevention and response, or” for “or emergency”.
+
+Subsec. (e). Pub. L. 115–44, § 313(3), added subsec. (e).
+
 
 <a id="section-9226"></a>
 ## § 9226. Procurement sanctions
 **(a) In general** Except as provided in this section, the head of an executive agency may not procure, or enter into any contract for the procurement of, any goods or services from any person designated under [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim).
 
-**(b) Federal acquisition regulation**
+**(b) Federal Acquisition Regulation**
 
 (1) **In general** — The Federal Acquisition Regulation issued pursuant to [section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim) shall be revised to require that each person that is a prospective contractor submit a certification that such person does not engage in any activity described in [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim).
 
@@ -605,20 +757,63 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 
 <a id="section-9227"></a>
 ## § 9227. Enhanced inspection authorities
-**(a) Report required** Not later than 180 days after February 18, 2016, and annually thereafter, the President shall submit to the appropriate congressional committees a report that identifies foreign ports and airports at which inspections of ships, aircraft, and conveyances originating in North Korea, carrying North Korean property, or operated by the Government of North Korea are not sufficient to effectively prevent the facilitation of any of the activities described in [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim).
+**(a) Report required**
 
-**(b) Enhanced customs inspection requirements** The Secretary of Homeland Security may require enhanced inspections of any goods entering the United States that have been transported through a port or airport identified by the President under subsection (a).
+(1) **In general** — Not later than 180 days after August 2, 2017, and annually thereafter for 5 years, the President shall submit to the appropriate congressional committees a report—
 
-**(c) Seizure and forfeiture** A vessel, aircraft, or conveyance used to facilitate any of the activities described in [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim) under the jurisdiction of the United States may be seized and forfeited under—
+  (A) identifying the operators of foreign sea ports and airports that knowingly—
+
+    (i) significantly fail to implement or enforce regulations to inspect ships, aircraft, cargo, or conveyances in transit to or from North Korea, as required by applicable United Nations Security Council resolutions;
+
+    (ii) facilitate the transfer, transshipment, or conveyance of significant types or quantities of cargo, vessels, or aircraft owned or controlled by persons designated under applicable United Nations Security Council resolutions; or
+
+    (iii) facilitate any of the activities described in [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim);
+
+  (B) describing the extent to which the requirements of applicable United Nations Security Council resolutions to de-register any vessel owned, controlled, or operated by or on behalf of the Government of North Korea have been implemented by other foreign countries;
+
+  (C) describing the compliance of the Islamic Republic of Iran with the sanctions mandated in applicable United Nations Security Council resolutions;
+
+  (D) identifying vessels, aircraft, and conveyances owned or controlled by the Reconnaissance General Bureau of the Workers’ Party of Korea; and
+
+  (E) describing the diplomatic and enforcement efforts by the President to secure the full implementation of the applicable United Nations Security Council resolutions, as described in subparagraphs (A) through (C).
+
+(2) **Form** — The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+
+**(b) Specific findings** Each report required under subsection (a) shall include specific findings with respect to the following ports and airports:
+
+(1) The ports of Dandong, Dalian, and any other port in the People’s Republic of China that the President deems appropriate.
+
+(2) The ports of Abadan, Bandar-e-Abbas, Chabahar, Bandar-e-Khomeini, Bushehr Port, Asaluyeh Port, Kish, Kharg Island, Bandar-e-Lenge, and Khorramshahr, and Tehran Imam Khomeini International Airport, in the Islamic Republic of Iran.
+
+(3) The ports of Nakhodka, Vanino, and Vladivostok, in the Russian Federation.
+
+(4) The ports of Latakia, Banias, and Tartous, and Damascus International Airport, in the Syrian Arab Republic.
+
+**(c) Enhanced security targeting requirements**
+
+(1) **In general** — Except as provided in paragraph (2), the Secretary of Homeland Security may, using a layered approach, require enhanced screening procedures to determine whether physical inspections are warranted of any cargo bound for or landed in the United States that—
+
+  (A) has been transported through a sea port or airport the operator of which has been identified by the President in accordance with subsection (a)(1) as having repeatedly failed to comply with applicable United Nations Security Council resolutions;
+
+  (B) is aboard a vessel or aircraft, or within a conveyance that has, within the last 365 days, entered the territory or waters of North Korea, or landed in any of the sea ports or airports of North Korea; or
+
+  (C) is registered by a country or jurisdiction whose compliance has been identified by the President as deficient pursuant to subsection (a)(2).
+
+(2) **Exception for food, medicine, and humanitarian shipments** — Paragraph (1) shall not apply to any vessel, aircraft, or conveyance that has entered the territory or waters of North Korea, or landed in any of the sea ports or airports of North Korea, exclusively for the purposes described in [section 9228(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9228/b/3/B&num=0&edition=prelim), or to import food, medicine, or supplies into North Korea to meet the humanitarian needs of the North Korean people.
+
+**(d) Seizure and forfeiture** A vessel, aircraft, or conveyance used to facilitate any of the activities described in [section 9214(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim) under the jurisdiction of the United States may be seized and forfeited, or subject to forfeiture, under—
 
 (1) chapter 46 of title 18; or
 
-(2) title V 11 See References in Text note below. of the Tariff Act of 1930 ([19 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1501&num=0&edition=prelim) et seq.).
+(2) part V of title IV of the Tariff Act of 1930 ([19 U.S.C. 1581](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1581&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsec. (c)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. The Act does not contain a title V. Section 1501 et seq. of Title 19 is contained in title IV of the Act. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590. Part V of title IV of the Act is classified generally to part V (§ 1581 et seq.) of subtitle III of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 9225, Pub. L. 114–122, title II, § 205, Feb. 18, 2016, 130 Stat. 108, related to enhanced inspection authorities, prior to repeal by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946.
 
 #### Delegation of Functions
 Functions and authorities of President under subsec. (a) of this section delegated to Director of National Intelligence, in consultation with Secretary of State, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
@@ -652,7 +847,7 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
 
 <a id="section-9230"></a>
 ## § 9230. Exemptions, waivers, and removals of designation
-**(a) Exemptions** The following activities shall be exempt from sanctions under sections 9214, 9226, 9229, and 9243 of this title:
+**(a) Exemptions** The following activities shall be exempt from sanctions under sections 9214, 9221a, 9226, 9229, 9241a, 9241b, and 9243 of this title:
 
 (1) Activities subject to the reporting requirements under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.), or to any authorized intelligence activities of the United States.
 
@@ -662,11 +857,11 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
 
 **(b) Humanitarian waiver**
 
-(1) **In general** — The President may waive, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9224, 9225, 9226, 9229(b), or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver is necessary for humanitarian assistance or to carry out the humanitarian purposes set forth [section 7802 of this title](./chapter-085-north-korean-human-rights.md#section-7802).
+(1) **In general** — The President may waive, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver is necessary for humanitarian assistance or to carry out the humanitarian purposes set forth [section 7802 of this title](./chapter-085-north-korean-human-rights.md#section-7802).
 
 (2) **Content of written determination** — A written determination submitted under paragraph (1) with respect to a waiver shall include a description of all notification and accountability controls that have been employed in order to ensure that the activities covered by the waiver are humanitarian assistance or are carried out for the purposes set forth in [section 7802 of this title](./chapter-085-north-korean-human-rights.md#section-7802) and do not entail any activities in North Korea or dealings with the Government of North Korea not reasonably related to humanitarian assistance or such purposes.
 
-(3) **Clarification of permitted activities under waiver** — An internationally recognized humanitarian organization shall not be subject to sanctions under section 9214, 9224, 9225, 9226, 9229(b), or 9243(b) of this title for—
+(3) **Clarification of permitted activities under waiver** — An internationally recognized humanitarian organization shall not be subject to sanctions under section 9214, 9221a, 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title for—
 
   (A) engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes pursuant to a waiver issued under paragraph (1);
 
@@ -674,7 +869,7 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
 
   (C) having merely incidental contact, in the course of providing humanitarian assistance or aid for humanitarian purposes pursuant to such a waiver, with individuals who are under the control of a foreign person subject to sanctions under this chapter.
 
-**(c) Waiver** The President may waive, on a case-by-case basis, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221(c)(2), 9224, 9225, 9226, 9229(b), or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver—
+**(c) Waiver** The President may waive, on a case-by-case basis, for renewable periods of between 30 days and 1 year, the application of the sanctions authorized under section 9214, 9221a, 9221(c)(2), 9224, 9225, 9226, 9229(b), 9241a, 9241b, or 9243(b) of this title if the President submits to the appropriate congressional committees a written determination that the waiver—
 
 (1) is important to the national security interests of the United States; or
 
@@ -685,9 +880,16 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (b)(3)(C) and (c)(2), was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+This chapter, referred to in subsecs. (b)(3)(C) and (c)(2), was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–44, § 322(a), inserted “9221a,” after “sections 9214,” and “9241a, 9241b,” after “9229,” in introductory provisions.
+
+Subsec. (b)(1), (3). Pub. L. 115–44, § 322(b), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),”.
+
+Subsec. (c). Pub. L. 115–44, § 322(c), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),” in introductory provisions.
 
 #### Delegation of Functions
 Functions and authorities of President under subsecs. (b) and (c) of this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, and functions and authorities of President under subsec. (d) of this section delegated to Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
@@ -735,8 +937,8 @@ For delegation of certain functions of President under this section, see Memoran
 The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 
-<a id="section-9242"></a>
-## § 9242. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan
+<a id="section-9241a"></a>
+## § 9241a. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan
 **(a) In general** It is the sense of Congress that the President—
 
 (1) should seek to strengthen high-level trilateral mechanisms for discussion and coordination of policy toward North Korea between the Government of the United States, the Government of South Korea, and the Government of Japan;
@@ -754,15 +956,17 @@ The International Emergency Economic Powers Act, referred to in subsec. (b), is 
 (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 
-<a id="section-9243"></a>
-## § 9243. Strategy to promote North Korean human rights
+<a id="section-9241b"></a>
+## § 9241b. Strategy to promote North Korean human rights
 **(a) In general** Not later than 180 days after February 18, 2016, the Secretary of State, in coordination with other appropriate Federal departments and agencies, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that details a United States strategy to promote initiatives to enhance international awareness of and to address the human rights situation in North Korea.
 
 **(b) Information** The report required under subsection (a) should include—
 
-(1) a list of countries that forcibly repatriate refugees from North Korea; and
+(1) a list of countries that forcibly repatriate refugees from North Korea;
 
-(2) a list of countries where North Korean laborers work, including countries the governments of which have formal arrangements with the Government of North Korea or any person acting for or on behalf of that Government to employ North Korean workers.
+(2) a list of countries where North Korean laborers work, including countries the governments of which have formal arrangements with the Government of North Korea or any person acting for or on behalf of that Government to employ North Korean workers; and
+
+(3) a list of foreign persons that knowingly employ North Korean laborers, as described in section 9214(b)(1)(M) 11 So in original. The reference probably should be to [section 9214(b)(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/b/1/L&num=0&edition=prelim). of this title.
 
 **(c) Strategy** The report required under subsection (a) should include—
 
@@ -771,6 +975,53 @@ The International Emergency Economic Powers Act, referred to in subsec. (b), is 
 (2) public affairs and public diplomacy campaigns, including options to work with news organizations and media outlets to publish opinion pieces and secure public speaking opportunities for United States Government officials on issues related to the human rights situation in North Korea, including forced labor, trafficking, and repatriation of citizens of North Korea; and
 
 (3) opportunities to coordinate and collaborate with appropriate nongovernmental organizations and private sector entities to raise awareness and provide assistance to North Korean defectors throughout the world.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (b)(3). Pub. L. 115–44 added par. (3).
+
+#### Additional Determinations; Reports
+Pub. L. 115–44, title III, § 321(a)(2), Aug. 2, 2017, 131 Stat. 951, provided that: “With respect to any country identified in section 302(b)(2) of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9241(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9241/b/2&num=0&edition=prelim)), as amended by paragraph (1), the report required under section 302(a) of such Act shall— “(A) include a determination whether each person identified in section 302(b)(3) of such Act (as amended by paragraph (1)) who is a national or a citizen of such identified country meets the criteria for sanctions under—“(i) section 111 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7108](./chapter-078-trafficking-victims-protection.md#section-7108)) (relating to the prevention of trafficking in persons); or “(ii) section 104(a) or 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 ([22 U.S.C. 9214(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim)[, (b)(1)]), as amended by section 101 of this Act; “(B) be included in the report required under section 110(b) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7107/b&num=0&edition=prelim)) (relating to the annual report on trafficking in persons); and “(C) be considered in any determination that the government of such country has made serious and sustained efforts to eliminate severe forms of trafficking in persons, as such term is defined for purposes of the Trafficking Victims Protection Act of 2000 [[22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.].”
+
+
+<a id="section-9242"></a>
+## § 9242. Rebuttable presumption applicable to goods made with North Korean labor
+**(a) In general** Except as provided in subsection (b), any significant goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part by the labor of North Korean nationals or citizens shall be deemed to be prohibited under [section 1307 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1307&num=0&edition=prelim) and shall not be entitled to entry at any of the ports of the United States.
+
+**(b) Exception** The prohibition described in subsection (a) shall not apply if the Commissioner of U.S. Customs and Border Protection finds, by clear and convincing evidence, that the goods, wares, articles, or merchandise described in such paragraph were not produced with convict labor, forced labor, or indentured labor under penal sanctions.
+
+
+<a id="section-9243"></a>
+## § 9243. Sanctions on foreign persons employing North Korean labor
+**(a) In general** Except as provided in subsection (c), the President shall designate any person identified under [section 9241(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9241/b/3&num=0&edition=prelim) for the imposition of sanctions under subsection (b).
+
+**(b) Imposition of sanctions**
+
+(1) **In general** — The President shall impose the sanctions described in paragraph (2) with respect to any person designated under subsection (a).
+
+(2) **Sanctions described** — The sanctions described in this paragraph are sanctions pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to block and prohibit all transactions in property and interests in property of a person designated under subsection (a), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+**(c) Exception**
+
+(1) **In general** — A person may not be designated under subsection (a) if the President certifies to the appropriate congressional committees that the President has received reliable assurances from such person that—
+
+  (A) the employment of North Korean laborers does not result in the direct or indirect transfer of convertible currency, luxury goods, or other stores of value to the Government of North Korea;
+
+  (B) all wages and benefits are provided directly to the laborers, and are held, as applicable, in accounts within the jurisdiction in which they reside in locally denominated currency; and
+
+  (C) the laborers are subject to working conditions consistent with international standards.
+
+(2) **Recertification** — Not later than 180 days after the date on which the President transmits to the appropriate congressional committees an initial certification under paragraph (1), and every 180 days thereafter, the President shall—
+
+  (A) transmit a recertification stating that the conditions described in such paragraph continue to be met; or
+
+  (B) if such recertification cannot be transmitted, impose the sanctions described in subsection (b) beginning on the date on which the President determines that such recertification cannot be transmitted.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-9251"></a>
@@ -861,7 +1112,7 @@ Functions and authorities of President under subsec. (b) of this section delegat
 ### Statutory Notes
 
 #### References in Text
-Subchapter I, II, or III (or any amendment made by such subchapters), referred to in subsec. (a), was in the original “title I, II, or III (or any amendment made by such titles”, meaning titles I, II, and III of Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 98, 101, 112. Titles I and III are classified principally to subchapters I and III, respectively, of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I, II, and III of this Act to the Code, see Tables.
+Subchapter I, II, or III (or any amendment made by such subchapters), referred to in subsec. (a), was in the original “title I, II, or III (or any amendment made by such titles)”, meaning titles I, II, and III of Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 98, 101, 112. Titles I and III are classified principally to subchapters I and III, respectively, of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I, II, and III of Pub. L. 114–122 to the Code, see Tables.
 
 #### Delegation of Functions
 Functions and authorities of President under subsecs. (a) and (b) of this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
@@ -893,7 +1144,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
 ### Statutory Notes
 
 #### References in Text
-Subchapter I, II, or III (or any amendment made by such subchapters), referred to in subsec. (a), was in the original “title I, II, or III (or any amendment made by such titles”is titles I, II, and III of Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 98, 101, 112. Titles I and III are classified principally to subchapters I and III, respectively, of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I, II, and III of this Act to the Code, see Tables.
+Subchapter I, II, or III (or any amendment made by such subchapters), referred to in subsec. (a), was in the original “title I, II, or III (or any amendment made by such titles)”, meaning titles I, II, and III of Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 98, 101, 112. Titles I and III are classified principally to subchapters I and III, respectively, of this chapter. Title II is classified generally to subchapter II of this chapter. For complete classification of titles I, II, and III of Pub. L. 114–122 to the Code, see Tables.
 
 #### Delegation of Functions
 Functions and authorities of President under this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
@@ -918,4 +1169,4 @@ Functions and authorities of President under this section delegated to Secretary
 #### References in Text
 The North Korea Human Rights Act of 2004, referred to in subsec. (a), probably means the North Korean Human Rights Act of 2004, Pub. L. 108–333, Oct. 18, 2004, 118 Stat. 1287, which enacted chapter 85 (§ 7801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7801 of this title](./chapter-085-north-korean-human-rights.md#section-7801) and Tables.
 
-This Act, referred to in subsec. (a)(3), is Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. Section 301 of this Act amended [section 7814 of this title](./chapter-085-north-korean-human-rights.md#section-7814). For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9201) and Tables.
+Section 301 of this Act, referred to in subsec. (a)(3), means section 301 of Pub. L. 114–122, which amended [section 7814 of this title](./chapter-085-north-korean-human-rights.md#section-7814).

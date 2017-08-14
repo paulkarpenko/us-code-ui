@@ -1578,7 +1578,7 @@ See 2016 Amendment notes below.
 In subsection (b), the words “whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law” are substituted for “either as miscellaneous receipts on account of ‘proceeds of Government property’ or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be” to eliminate unnecessary words.
 
 #### Amendments
-2016—Pub. L. 114–287 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to deposit in the Treasury as miscellaneous receipts of net proceeds from transfer or other disposition of surplus property and payment of expenses of sale before deposit.
+2016—Subsecs. (a) to (c). Pub. L. 114–287 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to deposit in the Treasury as miscellaneous receipts of net proceeds from transfer or other disposition of surplus property and payment of expenses of sale before deposit.
 
 Subsec. (d). Pub. L. 114–318 added subsec. (d).
 
@@ -2292,7 +2292,7 @@ In subsection (e), the words “beyond such liability presently existing by virt
 
 (1) **Definition.—** — In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
 
-(2) **In general.—** — All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ([42 U.S.C. 13041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13041&num=0&edition=prelim)).
+(2) **In general.—** — All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ([42 U.S.C. 13041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13041&num=0&edition=prelim)).11 See References in Text note below.
 
 (3) **Nonapplication to legislative branch facilities.—** — This subsection does not apply to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
 
@@ -2331,6 +2331,9 @@ In subsection (g)(2), the word “hereafter” is omitted as unnecessary.
 In subsection (g)(4), the words “as appropriate” are omitted as unnecessary.
 
 In subsection (g)(5), the words “in this or any other Act” are omitted as unnecessary. The words “of the House of Representatives and the Senate” are added for consistency in the revised title.
+
+#### References in Text
+Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is section 231 of Pub. L. 101–647, which was classified to [section 13041 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13041&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20351 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20351&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
 2004—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.

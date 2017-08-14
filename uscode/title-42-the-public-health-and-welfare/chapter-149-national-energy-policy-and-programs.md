@@ -6650,7 +6650,7 @@ That for all programs funded under Fossil Energy appropriations in this and subs
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 #### Definitions
-For definition “this [Act]”, referred to in text, see section 3 of Pub. L. 113–76, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions.
+For definition of “this [Act]”, referred to in text, see section 3 of Pub. L. 113–76, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions.
 
 
 <a id="section-16295"></a>

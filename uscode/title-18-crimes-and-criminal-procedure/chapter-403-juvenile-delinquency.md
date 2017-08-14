@@ -21,7 +21,7 @@ The phrase “who has not attained his eighteenth birthday” was substituted fo
 Minor change was made in translation of section references to “this chapter”.
 
 #### Codification
-Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is set out as a note under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim), The Public Health and Welfare.
+Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is set out as a note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was set out as a note under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
@@ -46,7 +46,7 @@ The final sentence of said [section 922 of title 18](./chapter-044-firearms.md#s
 Changes were made in arrangement and phraseology.
 
 #### Codification
-Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 5781 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5781&num=0&edition=prelim), The Public Health and Welfare.
+Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 11311 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11311&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5781 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5781&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
@@ -101,7 +101,7 @@ This revised section and [section 5032 of this title](./chapter-403-juvenile-del
 The other provisions of said section 922 are incorporated in [section 5032 of this title](./chapter-403-juvenile-delinquency.md#section-5032).
 
 #### Codification
-Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 5782 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5782&num=0&edition=prelim), The Public Health and Welfare.
+Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 11312 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11312&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5782 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5782&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
@@ -129,7 +129,7 @@ The reference to particular sections dealing with probation was omitted as unnec
 Changes were made in phraseology and arrangement.
 
 #### Codification
-Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1895, is classified to [section 5783 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5783&num=0&edition=prelim), The Public Health and Welfare.
+Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1895, is classified to [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5783 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5783&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
@@ -157,7 +157,7 @@ Based on title 18, U.S.C., 1940 ed., § 925 (June 16, 1938, ch. 486, § 5, 52, S
 Minor changes were made in arrangement and phraseology.
 
 #### Codification
-Another section 505 of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, is classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare.
+Another section 505 of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to being omitted from the Code.
 
 Another section 505 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028, was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
@@ -348,7 +348,7 @@ Subsec. (f). Pub. L. 104–294 substituted “section 401 of the Controlled Subs
 1977—Subsec. (a)(6). Pub. L. 95–115 added par. (6).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim), The Public Health and Welfare.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see former section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, which is classified as a note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-5039"></a>

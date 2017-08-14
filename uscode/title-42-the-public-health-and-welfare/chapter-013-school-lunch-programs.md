@@ -1057,7 +1057,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
   (B) a homeless child or youth (defined as 1 of the individuals described in [section 11434a(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim));
 
-  (C) served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.);
+  (C) served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); 11 See References in Text note below.
 
   (D) a migratory child (as defined in [section 6399 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6399&num=0&edition=prelim)); or
 
@@ -1139,7 +1139,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
     (ii) ending on a date during the subsequent school year determined by the Secretary.
 
-(10) No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 11 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
+(10) No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 22 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
 
 (11) Any child who has a parent or guardian who (A) is responsible for the principal support of such child and (B) is unemployed shall be served a free or reduced price lunch, respectively, during any period (i) in which such child’s parent or guardian continues to be unemployed and (ii) the income of the child’s parents or guardians during such period of unemployment falls within the income eligibility criteria for free lunches or reduced price lunches, respectively, based on the current rate of income of such parents or guardians. Local educational agencies shall publicly announce that such children are eligible for a free or reduced price lunch, and shall make determinations with respect to the status of any parent or guardian of any child under clauses (A) and (B) of the preceding sentence on the basis of a statement executed in such form as the Secretary may prescribe by such parent or guardian. No physical segregation of, or other discrimination against, any child eligible for a free or reduced price lunch under this paragraph shall be made by the school nor shall there be any overt identification of any such child by special tokens or tickets, announced or published lists of names, or by any other means.
 
@@ -1155,7 +1155,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
     (iv) a homeless child or youth (defined as 1 of the individuals described in [section 11434a(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim));
 
-    (v) served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.);
+    (v) served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); 1
 
     (vi) a migratory child (as defined in [section 6399 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6399&num=0&edition=prelim)); or
 
@@ -1191,7 +1191,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
         (bb) who is a member of a family with an income as measured by the Medicaid program before the application of any expense, block, or other income disregard, that does not exceed 133 percent of the poverty line (as defined in [section 9902(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim), including any revision required by such section)applicable to a family of the size used for purposes of determining eligibility for the Medicaid program; or
 
-      (II) who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 22 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
+      (II) who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 33 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
 
     (ii) *Medicaid program.—* — The term “Medicaid program” means the program of medical assistance established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.).
 
@@ -1339,13 +1339,13 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 (2) **State and local government inspections** — Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
-(3) **Audits and reports by States** — For each of fiscal years 2011 through 2015, each State shall annually—
+(3) **Audits and reports by States** — For fiscal year 2017, each State shall annually—
 
   (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
   (B) submit to the Secretary a report of the results of the audit.
 
-(4) **Audit by the Secretary** — For each of fiscal years 2011 through 2015, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+(4) **Audit by the Secretary** — For fiscal year 2017, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 (5) **School food safety program**
 
@@ -1410,7 +1410,7 @@ The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Au
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, and E of title IV, title XIX, and title XXI of the Act are classified generally to parts A (§ 601 et seq.), B (§ 620 et seq.), and E (§ 670 et seq.) of subchapter IV, subchapter XIX (§ 1396 et seq.), and subchapter XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Runaway and Homeless Youth Act, referred to in subsec. (b)(5)(C), (12)(A)(v), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) and Tables.
+The Runaway and Homeless Youth Act, referred to in subsec. (b)(5)(C), (12)(A)(v), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which was classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title, prior to editorial reclassification and renumbering as subchapter III (§ 11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The Head Start Act, referred to in subsec. (b)(12)(A)(iii), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
@@ -1420,6 +1420,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2017—Subsec. (h)(3). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
+
+Subsec. (h)(4). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
+
 2011—Subsec. (l). Pub. L. 112–55 added subsec. (l).
 
 2010—Subsec. (a)(2)(A)(i). Pub. L. 111–296, § 202, added cl. (i) and struck out former cl. (i) which read as follows: “shall offer students fluid milk in a variety of fat contents;”.
@@ -6578,6 +6582,8 @@ Pub. L. 103–448, title I, § 122(c), Nov. 2, 1994, 108 Stat. 4731, provided th
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–31, which directed substitution of “2010 through 2017” for “2010 through 2016” in first sentence, could not be executed because of the prior identical amendment by Pub. L. 114–223, § 148. See 2016 Amendment note below.
+
 2016—Subsec. (d). Pub. L. 114–223, § 148, as added by Pub. L. 114–254, § 101(3), substituted “2010 through 2017” for “2010 through 2016” in first sentence.
 
 2015—Subsec. (d). Pub. L. 114–113 substituted “2010 through 2016” for “2010 through 2015” in first sentence.

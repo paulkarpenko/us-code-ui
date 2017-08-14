@@ -169,7 +169,7 @@ Act Feb. 27, 1922, amended section in the manner set out in [section 610 of this
 
 Act Aug. 21, 1935, amended section in the manner set out in [section 611a of this title](./chapter-004-protection-of-timber-and-depredations.md#section-611a).
 
-The portion of the section omitted here prescribed the time within which suits by the United States to annul patents should be brought, and is classified to [section 1166 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1166&num=0&edition=prelim), Public Lands.
+The portion of the section omitted here prescribed the time within which suits by the United States to annul patents should be brought, and is classified to [section 2506 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2506&num=0&edition=prelim), Public Lands.
 
 #### Amendments
 1959—Pub. L. 86–70 included Alaska within the enumeration of States and struck out provisions which related to Territory of Alaska.
@@ -474,7 +474,7 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93
 
 The National Forest Management Act of 1976, referred to in subsec. (a)(5), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
-Sections 620 to 620j of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, which enacted sections 620 to 620j of this title and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
+Sections 620 to 620j of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, known as the Forest Resources Conservation and Shortage Relief Act of 1990, which enacted sections 620 to 620j of this title and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1999—Subsec. (b)(3). Pub. L. 106–36, § 1002(a)(1)(A), substituted “GATT 1994 (as defined in [section 3501(1)(B) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/1/B&num=0&edition=prelim))” for “General Agreement on Tariffs and Trade”.

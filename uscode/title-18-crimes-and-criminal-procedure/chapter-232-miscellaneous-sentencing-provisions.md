@@ -556,7 +556,7 @@ This amendment [see section 57] conforms the language of [section 3656 of title 
 #### References in Text
 Section 2 of the Public Health Service Act, referred to in the seventh undesignated par., is classified to [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim), The Public Health and Welfare.
 
-This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out under [section 17501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17501&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement, and Tables.
 
 #### Amendments
 2011—Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States” in seventh undesignated par.
@@ -584,7 +584,7 @@ Pub. L. 99–646, § 18(b), Nov. 10, 1986, 100 Stat. 3596, provided that: “The
 Pub. L. 99–570, title I, § 1861(b)(2), Oct. 27, 1986, 100 Stat. 3207–53, provided that: “The amendment made by this section [probably should be “subsection”, amending this section] shall take effect on the date of the taking effect of such redesignation [[section 3656 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3656&num=0&edition=prelim) renumbered section 3672 effective Nov. 1, 1987].”
 
 #### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 17504 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17504&num=0&edition=prelim), The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Authorization of Appropriations
 Pub. L. 95–537, § 4(a), Oct. 27, 1978, 92 Stat. 2038, as amended by Pub. L. 98–236, § 2, Mar. 20, 1984, 98 Stat. 66; Pub. L. 99–570, title I, § 1861(d), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 100–690, title VI, § 6291, Nov. 18, 1988, 102 Stat. 4369; Pub. L. 101–421, § 2, Oct. 12, 1990, 104 Stat. 909, authorized appropriations to carry out the purposes of Pub. L. 95–537 and the seventh par. of this section for the fiscal year ending Sept. 30, 1980, to the fiscal year ending Sept. 30, 1992.

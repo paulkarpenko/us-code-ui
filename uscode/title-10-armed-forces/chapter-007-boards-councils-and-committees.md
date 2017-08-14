@@ -872,7 +872,7 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 [Section 118 of this title](./chapter-002-department-of-defense.md#section-118), referred to in subsec. (b)(1), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Requirements in the national defense strategy are now set out in subsec. (g) of [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
 #### Amendments
-2016—Pub. L. 114–328 amended section generally. Prior to amendment, related to Joint Requirements Oversight Council and consisted of its establishment, mission, composition, advisors, organization, availability of oversight information to Congressional defense committees, and definitions.
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to Joint Requirements Oversight Council and consisted of its establishment, mission, composition, advisors, organization, availability of oversight information to Congressional defense committees, and definitions.
 
 2015—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
 
@@ -1051,11 +1051,6 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 <a id="section-184"></a>
 ## § 184. Renumbered § 342]
 
-### Statutory Notes
-
-#### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
-Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided a temporary waiver of reimbursement of costs of activities for nongovernmental personnel, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(A), Dec. 23, 2016, 130 Stat. 2507.
-
 
 <a id="section-185"></a>
 ## § 185. Repealed. Pub. L. 114–328, div. A, title IX, § 904(a), Dec. 23, 2016, 130 Stat. 2345]
@@ -1089,7 +1084,7 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 
   (D) A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
 
-  (E) A designee of the Assistant Secretary of the Air Force for Acquisition.
+  (E) A designee of the Assistant Secretary of the Air Force for Acquisition.11 See Change of Name note below.
 
 **(b) Duties.—** In addition to other matters assigned to it by the Secretary of Defense, the Board shall—
 
@@ -1139,6 +1134,9 @@ Subsec. (d). Pub. L. 112–239, § 901(c)(4), amended subsec. (d) generally. Pri
 2011—Subsec. (b). Pub. L. 111–383, § 829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 
 Subsec. (e). Pub. L. 111–383, § 829(a), added subsec. (e).
+
+#### Change of Name
+Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under [section 8016 of this title](./chapter-803-department-of-the-air-force.md#section-8016).
 
 #### First Meeting of Board
 Pub. L. 109–364, div. A, title VIII, § 843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: “The first meeting of the Strategic Materials Protection Board, established by [section 187 of title 10](./chapter-007-boards-councils-and-committees.md#section-187), United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006].”

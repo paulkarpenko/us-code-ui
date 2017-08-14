@@ -952,6 +952,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
 
+Pub. L. 115–31, div. B, title I, May 5, 2017, 131 Stat. 188.
+
 Pub. L. 114–113, div. B, title I, Dec. 18, 2015, 129 Stat. 2292.
 
 Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2179.
@@ -979,6 +981,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. B, title I, May 5, 2017, 131 Stat. 187.
 
 Pub. L. 114–113, div. B, title I, Dec. 18, 2015, 129 Stat. 2291.
 

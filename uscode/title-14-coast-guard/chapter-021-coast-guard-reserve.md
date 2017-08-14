@@ -268,7 +268,7 @@ No member of the Reserve, other than a temporary member, may be a member of anot
 Provisions similar to those in this section were contained in [section 757 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section757&num=0&edition=prelim) prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
-1981—Pub. L. 97–136 struck out provision that a member of the Reserve, other than a temporary member, is exempt from registration and liability for military training and service under any other law, and substituted “Exclusiveness of service” for “Exemption from military training and draft; exclusiveness of service” in section catchline.k
+1981—Pub. L. 97–136 struck out provision that a member of the Reserve, other than a temporary member, is exempt from registration and liability for military training and service under any other law, and substituted “Exclusiveness of service” for “Exemption from military training and draft; exclusiveness of service” in section catchline.
 
 
 <a id="section-712"></a>

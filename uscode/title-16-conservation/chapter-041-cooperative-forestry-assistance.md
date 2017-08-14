@@ -326,7 +326,7 @@ A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified
 
 **(b) State and regional forest legacy programs** The Secretary shall exercise the authority under subsection (a) in conjunction with State or regional programs that the Secretary deems consistent with this section.
 
-**(c) Interests in land** In addition to the authorities granted under [section 515 of this title](./chapter-002-national-forests.md#section-515) and [section 428a(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section428a/a&num=0&edition=prelim), the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+**(c) Interests in land** In addition to the authorities granted under [section 515 of this title](./chapter-002-national-forests.md#section-515) and [section 2268a(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2268a/a&num=0&edition=prelim), the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
 
 **(d) Implementation**
 

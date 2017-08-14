@@ -11661,7 +11661,7 @@ Committee on Labor and Public Welfare of Senate abolished and replaced by Commit
 
 **(d) Congressional review of regulations; resolution of disapproval**
 
-(1) Any regulations developed pursuant to subsection (c)shall take effect if, and only if—
+(1) Any regulations developed pursuant to subsection (c) shall take effect if, and only if—
 
   (A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
 

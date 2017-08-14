@@ -24,7 +24,7 @@ source: >-
 
 (5) For purposes of this section, the term “middle distillate” has the same meaning as given that term in section 211.51 of title 10, Code of Federal Regulations, as in effect on November 5, 1979.
 
-**(b) Report** Before December 31, 1979, the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) of this section and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1) 11 See References in Text note below. of title 15.
+**(b) Report** Before December 31, 1979, the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1) 11 See References in Text note below. of title 15.
 
 ### Statutory Notes
 
@@ -148,9 +148,9 @@ For purposes of this chapter—
 
   (D) For purposes of this subsection, the uniform national percentage shall be designed by the President to minimize the impact on the domestic economy of the projected shortage in the energy source for which a target is established by saving an amount of such energy source equivalent to the projected shortage, taking into consideration such other factors related to that shortage as the President considers appropriate.
 
-**(b) Notification and publication of targets** The President shall notify the Governor of each State of each target established under subsection (a) of this section for that State, and shall publish in the Federal Register, the targets, the base period consumption for each State and other data on which the targets are based, and the factors considered under subsection (a)(3) of this section.
+**(b) Notification and publication of targets** The President shall notify the Governor of each State of each target established under subsection (a) for that State, and shall publish in the Federal Register, the targets, the base period consumption for each State and other data on which the targets are based, and the factors considered under subsection (a)(3).
 
-**(c) Establishment of targets for Federal agencies** In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+**(c) Establishment of targets for Federal agencies** In connection with the establishment of any national target under subsection (a) the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D). Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
 
 (1) by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 **(d) Review of targets**
 
-(1) From time to time, the President shall review and, consistent with subsection (a) of this section, modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.
+(1) From time to time, the President shall review and, consistent with subsection (a), modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.
 
 (2) Any modification under this paragraph shall be accompanied by such information and analysis as is necessary to provide the basis therefor and shall be available to the Congress and the public.
 
@@ -168,7 +168,7 @@ For purposes of this chapter—
 
   (B) If the President determines such an energy supply interruption does not exist or is not imminent or such actions are not required, the conservation targets established under this section with respect to such energy source shall cease to be effective.
 
-**(e) Determination and publication of actual consumption nationally and State-by-State** Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) of this section is in effect, and (2) whether the targets under subsection (a) of this section have been substantially met or are likely to be met.
+**(e) Determination and publication of actual consumption nationally and State-by-State** Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) is in effect, and (2) whether the targets under subsection (a) have been substantially met or are likely to be met.
 
 **(f) Presidential authority not to be delegated** Notwithstanding any other provision of law, the authority vested in the President under this section may not be delegated.
 
@@ -201,7 +201,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (B) measures—
 
-    (i) which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d) of this section;
+    (i) which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d);
 
     (ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
 
@@ -221,7 +221,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (C) that the requirements of this subchapter regarding the plan have not been met, or
 
-  (D) that a measure described in subsection (b)(1) of this section is—
+  (D) that a measure described in subsection (b)(1) is—
 
     (i) inconsistent with any otherwise applicable Federal law (including any rule or regulation under such law),
 
@@ -233,11 +233,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(d) State administration and enforcement**
 
-(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
+(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e).
 
 (2) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 
-(3) If at any time the conditions of subsection (b)(1)(B)(ii) of this section are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general’s statement.
+(3) If at any time the conditions of subsection (b)(1)(B)(ii) are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general’s statement.
 
 (4) Any revocation under paragraph (2) or (3) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such revocation.
 
@@ -247,7 +247,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (2) Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
 
-(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d) of this section.
+(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d).
 
 
 <a id="section-8515"></a>
@@ -271,9 +271,9 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
   (A) has no emergency conservation plan approved under [section 8512 of this title](./chapter-093-emergency-energy-conservation.md#section-8512); or
 
   (B) the President finds has substantially failed to carry out the assurances regarding implementation set forth in the plan approved under [section 8512 of this title](./chapter-093-emergency-energy-conservation.md#section-8512),
-  then the President shall, after consultation with the Governor of such State, make effective in such State all or any part of the standby Federal conservation plan established under subsection (a) of this section for such period or periods as the President determines appropriate to achieve the target in that State.
+  then the President shall, after consultation with the Governor of such State, make effective in such State all or any part of the standby Federal conservation plan established under subsection (a) for such period or periods as the President determines appropriate to achieve the target in that State.
 
-**(c) Basis for findings** Any finding under subsection (b) of this section shall be accompanied by such information and analysis as is necessary to provide a basis therefor and shall be available to the Congress and the public.
+**(c) Basis for findings** Any finding under subsection (b) shall be accompanied by such information and analysis as is necessary to provide a basis therefor and shall be available to the Congress and the public.
 
 **(d) Submission of State emergency conservation plan**
 
@@ -281,7 +281,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(e) State substitute emergency conservation measures**
 
-(1) After the President makes all or any part of the standby Federal conservation plan effective in any State or political subdivision under subsection (b) of this section, the Secretary shall provide procedures whereby such State or any political subdivision thereof may submit to the Secretary for approval one or more measures under authority of State or local law to be implemented by such State or political subdivision and to be substituted for any Federal measure in the Federal plan. The measures may include provisions whereby persons affected by such Federal measure are permitted to use alternative means of conserving at least as much energy as would be conserved by such Federal measure. Such measures shall provide effective procedures, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision thereof.
+(1) After the President makes all or any part of the standby Federal conservation plan effective in any State or political subdivision under subsection (b), the Secretary shall provide procedures whereby such State or any political subdivision thereof may submit to the Secretary for approval one or more measures under authority of State or local law to be implemented by such State or political subdivision and to be substituted for any Federal measure in the Federal plan. The measures may include provisions whereby persons affected by such Federal measure are permitted to use alternative means of conserving at least as much energy as would be conserved by such Federal measure. Such measures shall provide effective procedures, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision thereof.
 
 (2) The Secretary may approve the measures under paragraph (1) if he finds—
 
@@ -295,11 +295,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (4) If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures in effect under this subsection he may reimpose the Federal measure referred to in paragraph (1).
 
-**(f) State authority to administer plan** At the request of the Governor of any State, the President may provide that the administration and enforcement of all or a portion of the standby Federal conservation plan made effective in that State under subsection (b) of this section be in accordance with section 8512(d)(1), (2), and (4) of this title.
+**(f) State authority to administer plan** At the request of the Governor of any State, the President may provide that the administration and enforcement of all or a portion of the standby Federal conservation plan made effective in that State under subsection (b) be in accordance with section 8512(d)(1), (2), and (4) of this title.
 
-**(g) Presidential authority not to be delegated** Notwithstanding any other provision of law (other than subsection (f) of this section), the authority vested in the President under this section may not be delegated.
+**(g) Presidential authority not to be delegated** Notwithstanding any other provision of law (other than subsection (f)), the authority vested in the President under this section may not be delegated.
 
-**(h) Requirements of plan** The plan established under subsection (a) of this section shall—
+**(h) Requirements of plan** The plan established under subsection (a) shall—
 
 (1) taken as a whole, be designed so that the plan, if implemented, would be likely to achieve the emergency conservation target under [section 8511 of this title](./chapter-093-emergency-energy-conservation.md#section-8511) for which it would be implemented,
 
@@ -317,17 +317,17 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(i) Plan may not authorize weekend closings of retail gasoline stations**
 
-(1) Except as provided in paragraph (2), the plan established under subsection (a) of this section may not provide for the restriction of hours of sale of motor fuel at retail at any time between Friday noon and Sunday midnight.
+(1) Except as provided in paragraph (2), the plan established under subsection (a) may not provide for the restriction of hours of sale of motor fuel at retail at any time between Friday noon and Sunday midnight.
 
 (2) Paragraph (1) shall not preclude the restriction on such hours of sale if that restriction occurs in connection with a program for restricting hours of sale of motor fuel each day of the week on a rotating basis.
 
 **(j) Civil penalties**
 
-(1) Whoever violates the requirements of such a plan implemented under subsection (b) of this section shall be subject to a civil penalty not to exceed $1,000 for each violation.
+(1) Whoever violates the requirements of such a plan implemented under subsection (b) shall be subject to a civil penalty not to exceed $1,000 for each violation.
 
 (2) Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided under paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
 
-(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of that portion of the standby Federal conservation plan for which authority is delegated to that State under subsection (f) of this section.
+(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of that portion of the standby Federal conservation plan for which authority is delegated to that State under subsection (f).
 
 ### Statutory Notes
 
@@ -356,7 +356,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(b) Repealed. Pub. L. 98–620, title IV, § 402(42), Nov. 8, 1984, 98 Stat. 3360**
 
-**(c) Injunctive relief** With respect to judicial review under subsection (a)(1)(A) of this section, the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.
+**(c) Injunctive relief** With respect to judicial review under subsection (a)(1)(A), the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.
 
 ### Statutory Notes
 
@@ -381,57 +381,57 @@ Subsec. (b) of this section, which required the President to report annually to 
 
 <a id="section-8531"></a>
 ## § 8531. Minimum automobile fuel purchase measures
-**(a) General rule** If the provisions of this subsection are made applicable under subsection (c) of this section, no person shall purchase motor fuel from a motor fuel retailer in any transaction for use in any automobile or other vehicle unless—
+**(a) General rule** If the provisions of this subsection are made applicable under subsection (c), no person shall purchase motor fuel from a motor fuel retailer in any transaction for use in any automobile or other vehicle unless—
 
 (1) the price for the quantity purchased and placed into the fuel tank of that vehicle equals or exceeds $5.00; or
 
 (2) in any case in which the amount paid for the quantity of motor fuel necessary to fill the fuel tank of that vehicle to capacity is less than $5.00, such person pays to the retailer an additional amount so that the total amount paid in that transaction equals $5.00.
 Any person selling motor fuel in transactions to which the provisions of this subsection apply shall display at the point of sale notice of such provisions in accordance with regulations prescribed by the Secretary.
 
-**(b) $7.00 to be applicable in case of 8-cylinder vehicles** In applying subsection (a) of this section in the case of any vehicle with an engine having 8 cylinders (or more), “$7.00” shall be substituted for “$5.00”.
+**(b) $7.00 to be applicable in case of 8-cylinder vehicles** In applying subsection (a) in the case of any vehicle with an engine having 8 cylinders (or more), “$7.00” shall be substituted for “$5.00”.
 
 **(c) Applicability**
 
-(1) Unless applicable pursuant to paragraph (2), the requirements of subsection (a) of this section shall apply in any State and shall be administered and enforced as provided in subsection (g) of this section only if—
+(1) Unless applicable pursuant to paragraph (2), the requirements of subsection (a) shall apply in any State and shall be administered and enforced as provided in subsection (g) only if—
 
   (A) the Governor of that State submits a request to the Secretary to have such requirements applicable in that State; and
 
   (B) the attorney general of that State has found that (i) absent a delegation of authority under a Federal law, the Governor lacks the authority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.
   Subject to paragraph (2), such provisions shall cease to apply in any State if the Governor of the State withdraws any request under subparagraph (A).
 
-(2) The requirements of subsection (a) of this section shall apply in every State if there is in effect a finding by the President that nationwide implementation of such requirements would be appropriate and consistent with the purposes of this chapter.
+(2) The requirements of subsection (a) shall apply in every State if there is in effect a finding by the President that nationwide implementation of such requirements would be appropriate and consistent with the purposes of this chapter.
 
 (3) Such requirements shall take effect in any State beginning on the 5th day after the Secretary or the President (as the case may be) publishes notice in the Federal Register of the applicability of the requirements to the State pursuant to paragraph (1) or (2).
 
 (4) Notwithstanding any other provision of law, the authority vested in the President under paragraph (2) may not be delegated.
 
-**(d) Exemptions** The requirements of subsection (a) of this section shall not apply to any motorcycle or motorpowered bicycle, or to any comparable vehicle as may be determined by the Secretary by regulation.
+**(d) Exemptions** The requirements of subsection (a) shall not apply to any motorcycle or motorpowered bicycle, or to any comparable vehicle as may be determined by the Secretary by regulation.
 
-**(e) Adjustment of minimum levels** The Secretary may increase the $5.00 and $7.00 amounts specified in subsections (a) and (b) of this section if the Secretary considers it appropriate. Adjustments under this subsection shall be only in even dollar amounts.
+**(e) Adjustment of minimum levels** The Secretary may increase the $5.00 and $7.00 amounts specified in subsections (a) and (b) if the Secretary considers it appropriate. Adjustments under this subsection shall be only in even dollar amounts.
 
 **(f) Civil penalties**
 
-(1) Whoever violates the requirements of subsection (a) of this section shall be subject to a civil penalty of not to exceed $100 for each violation.
+(1) Whoever violates the requirements of subsection (a) shall be subject to a civil penalty of not to exceed $100 for each violation.
 
 (2) Any penalty under paragraph (1) may be assessed by the court in any action under this section brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
 
-(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of the requirements of subsection (a) of this section the authority for which is delegated under subsection (g) of this section.
+(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of the requirements of subsection (a) the authority for which is delegated under subsection (g).
 
 **(g) Administration and enforcement delegated to States**
 
-(1) There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f) of this section.
+(1) There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f).
 
 (2)
 
   (A) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective (i) upon the receipt of a written waiver of authority signed by the Governor of such State or (ii) upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 
-  (B) If at any time the conditions of subsection (c)(1)(B) of this section are no longer satisfied in any State to which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general’s statement.
+  (B) If at any time the conditions of subsection (c)(1)(B) are no longer satisfied in any State to which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general’s statement.
 
   (C) Any revocation under subparagraph (A) or (B) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based on any act committed or liability incurred prior to such revocation.
 
-  (D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) of this section and for which a delegation of authority is considered revoked under subparagraph (A).
+  (D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) and for which a delegation of authority is considered revoked under subparagraph (A).
 
-**(h) Coordination with other law** The charging and collecting of amounts referred to in subsection (a)(2) of this section under the requirements of subsection (a) of this section, or similar amounts collected under comparable requirements under any State law, shall not be considered a violation of—
+**(h) Coordination with other law** The charging and collecting of amounts referred to in subsection (a)(2) under the requirements of subsection (a), or similar amounts collected under comparable requirements under any State law, shall not be considered a violation of—
 
 (1) the Emergency Petroleum Allocation Act of 1973 11 See References in Text note below. [[15 U.S.C. 751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section751&num=0&edition=prelim) et seq.] or any regulation thereunder; or
 

@@ -1585,9 +1585,9 @@ Subsection (c) is based on title 14, U.S.C., 1946 ed., § 185d (May 24, 1939, ch
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
-2016—Pub. L. 114–120, § 215(b)(1), amended heading generally. Prior to amendment, heading read as follows: “Involuntary retirement of enlisted members”.
+2016—Pub. L. 114–120, § 215(b)(1), substituted “Retirement of enlisted members: increase in retired pay” for “Involuntary retirement of enlisted members” in section catchline.
 
-Pub. L. 114–120, § 215(a), struck out subsecs. (a) to (h) and (j) and subsec. (i) designation. Prior to amendment, subsecs. (a) to (h) and (j) read as follows:
+Pub. L. 114–120, § 215(a), struck out subsec. (i) designation before “An enlisted member” and struck out subsecs. (a) to (h) and (j) which read as follows:
 
 “(a) Enlisted Personnel Boards shall be convened as the Commandant may prescribe to review the records of enlisted members who have twenty or more years of active military service.
 
@@ -2162,6 +2162,11 @@ In conducting an investigation into an allegation of misconduct by a flag office
 (1) conduct the investigation in a manner consistent with Department of Defense policies for such an investigation; and
 
 (2) consult with the Inspector General of the Department of Defense.
+
+### Statutory Notes
+
+#### Codification
+Section 220(a) of Pub. L. 114–120, which directed that this section be added at the end of this chapter, was executed by adding this section after section 429, to reflect the probable intent of Congress.
 
 
 <a id="section-431"></a>

@@ -63,7 +63,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Sections 331, 332, 333, referred to in subsec. (b)(9), were renumbered sections 251, 252, and 253, respectively, of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Sections 331, 332, and 333, referred to in subsec. (b)(9), were renumbered sections 251, 252, and 253, respectively, of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).

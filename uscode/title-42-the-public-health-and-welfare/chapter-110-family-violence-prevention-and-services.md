@@ -38,9 +38,9 @@ In this chapter:
 
 (1) **Alaska Native** — The term “Alaska Native” has the meaning given the term “Native” in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim).
 
-(2) **Dating violence** — The term “dating violence” has the meaning given such term in [section 13925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).
+(2) **Dating violence** — The term “dating violence” has the meaning given such term in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12291/a&num=0&edition=prelim).
 
-(3) **Domestic violence** — The term “domestic violence” has the meaning given such term in [section 13925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).
+(3) **Domestic violence** — The term “domestic violence” has the meaning given such term in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12291/a&num=0&edition=prelim).
 
 (4) **Family violence** — The term “family violence” means any act or threatened act of violence, including any forceful detention of an individual, that—
 
@@ -58,7 +58,7 @@ In this chapter:
 
 (6) **Native Hawaiian** — The term “Native Hawaiian” has the meaning given the term in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
 
-(7) **Personally identifying information** — The term “personally identifying information” has the meaning given the term in [section 13925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).
+(7) **Personally identifying information** — The term “personally identifying information” has the meaning given the term in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12291/a&num=0&edition=prelim).
 
 (8) **Secretary** — The term “Secretary” means the Secretary of Health and Human Services.
 
@@ -84,7 +84,7 @@ In this chapter:
 
 (13) **Tribally designated official** — The term “tribally designated official” means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under [section 10409 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10409).
 
-(14) **Underserved populations** — The term “underserved populations” has the meaning given the term in [section 13925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim). For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) 11 So in original. of this title.
+(14) **Underserved populations** — The term “underserved populations” has the meaning given the term in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12291/a&num=0&edition=prelim). For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 12291(a) 11 So in original. of this title.
 
 ### Statutory Notes
 
@@ -434,7 +434,7 @@ A prior section 308 of Pub. L. 98–457 was classified to [section 10407 of this
 
 <a id="section-10409"></a>
 ## § 10409. Grants for Indian tribes
-**(a) Grants authorized** The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) note) 11 See References in Text note below. and in accordance with [section 14045d of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14045d), shall continue to award grants for Indian tribes from amounts appropriated under [section 10403(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10403/a/2/B&num=0&edition=prelim) to carry out this section.
+**(a) Grants authorized** The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) note) 11 See References in Text note below. and in accordance with [section 20126 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20126&num=0&edition=prelim), shall continue to award grants for Indian tribes from amounts appropriated under [section 10403(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10403/a/2/B&num=0&edition=prelim) to carry out this section.
 
 **(b) Eligible entities** To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
 
@@ -491,9 +491,9 @@ A prior section 309 of Pub. L. 98–457 was renumbered section 320 and transferr
 
   (B) a National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women, which shall—
 
-    (i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note);
+    (i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note); 11 See References in Text note below.
 
-    (ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 [[42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note]; and
+    (ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 [[42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note]; 1 and
 
     (iii) coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiians that experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.
 
@@ -533,9 +533,9 @@ A prior section 309 of Pub. L. 98–457 was renumbered section 320 and transferr
 
 (2) **National Indian Resource Center** — To be eligible to receive a grant under subsection (b)(1)(B), an entity shall be a tribal organization or a nonprofit private organization that focuses primarily on issues of domestic violence within Indian tribes and that submits documentation to the Secretary demonstrating—
 
-  (A) experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note);
+  (A) experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note); 1
 
-  (B) experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note);
+  (B) experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ([42 U.S.C. 3796gg–10](./chapter-046-justice-system-improvement.md#section-3796gg-10) note); 1
 
   (C) strong support for the entity’s designation as the National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;
 
@@ -570,7 +570,7 @@ A prior section 309 of Pub. L. 98–457 was renumbered section 320 and transferr
 ### Statutory Notes
 
 #### References in Text
-Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which are set out as a note under [section 3796gg–10 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-10).
+Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under [section 3796gg–10 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-10), prior to editorial reclassification as a note under [section 10452 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10452&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Prior Provisions
 A prior section 10410, Pub. L. 98–457, title III, § 311, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, § 303(b), Apr. 25, 1988, 102 Stat. 125; Pub. L. 102–295, title III, § 317, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, § 40272(c), Sept. 13, 1994, 108 Stat. 1938; Pub. L. 108–36, title IV, §§ 406(c), 407, 415(6), June 25, 2003, 117 Stat. 827, 830, related to grants for State domestic violence coalitions, prior to the general amendment of this chapter by Pub. L. 111–320. See [section 10411 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10411).
@@ -622,9 +622,9 @@ A prior section 310 of Pub. L. 98–457 was classified to [section 10409 of this
 
 **(e) Limitation on use of funds** A coalition that receives a grant under this section shall not be required to use funds received under this chapter for the purposes described in paragraph (5) or (6) of subsection (d) if the coalition provides an annual assurance to the Secretary that the coalition is—
 
-(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796gg(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg/c/1&num=0&edition=prelim)) for such purposes; and
+(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796gg(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg/c/1&num=0&edition=prelim)) 11 See References in Text note below. for such purposes; and
 
-(2) coordinating the activities carried out by the coalition under subsection (d) with the State’s activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796gg](./chapter-046-justice-system-improvement.md#section-3796gg) et seq.) that address those purposes.
+(2) coordinating the activities carried out by the coalition under subsection (d) with the State’s activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796gg](./chapter-046-justice-system-improvement.md#section-3796gg) et seq.) 1 that address those purposes.
 
 **(f) Prohibition on lobbying** No funds made available to entities under this section shall be used, directly or indirectly, to influence the issuance, amendment, or revocation of any executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation by Congress, or by any State or local legislative body, or State proposals by initiative petition, except that the representatives of the entity may testify or make other appropriate communication—
 
@@ -639,7 +639,7 @@ A prior section 310 of Pub. L. 98–457 was classified to [section 10409 of this
 ### Statutory Notes
 
 #### References in Text
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified generally to subchapter XII–H (§ 3796gg et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title](./chapter-046-justice-system-improvement.md#section-3711) and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 2001 of the Act was classified to [section 3796gg of this title](./chapter-046-justice-system-improvement.md#section-3796gg), prior to editorial reclassification and renumbering as [section 10441 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10441&num=0&edition=prelim), Crime Control and Law Enforcement. Part T of title I of the Act was classified generally to subchapter XII–H (§ 3796gg et seq.) of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XIX (§ 10441 et seq.) of chapter 101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 10411, Pub. L. 98–457, title III, § 312, Oct. 9, 1984, 98 Stat. 1763, related to authority of Secretary to carry out provisions of this chapter, competitive awarding of grants and contracts, and delegation of authority and transfer of funds to Attorney General, prior to repeal by Pub. L. 100–294, title III, § 303(a), Apr. 25, 1988, 102 Stat. 124.
@@ -913,103 +913,12 @@ Section 10419, Pub. L. 98–457, title III, § 319, as added Pub. L. 106–386, 
 
 
 <a id="section-10420"></a>
-## § 10420. Grants to support families in the justice system
-**(a) In general** The Attorney General may make grants to States, units of local government, courts (including juvenile courts), Indian tribal governments, nonprofit organizations, legal services providers, and victim services providers to improve the response of all aspects of the civil and criminal justice system to families with a history of domestic violence, dating violence, sexual assault, or stalking, or in cases involving allegations of child sexual abuse.
-
-**(b) Use of funds** A grant under this section may be used to—
-
-(1) provide supervised visitation and safe visitation exchange of children and youth by and between parents in situations involving domestic violence, dating violence, child sexual abuse, sexual assault, or stalking;
-
-(2) develop and promote State, local, and tribal legislation, policies, and best practices for improving civil and criminal court functions, responses, practices, and procedures in cases involving a history of domestic violence or sexual assault, or in cases involving allegations of child sexual abuse, including cases in which the victim proceeds pro se;
-
-(3) educate court-based and court-related personnel and court-appointed personnel (including custody evaluators and guardians ad litem) and child protective services workers on the dynamics of domestic violence, dating violence, sexual assault, and stalking, including information on perpetrator behavior, evidence-based risk factors for domestic and dating violence homicide, and on issues relating to the needs of victims, including safety, security, privacy, and confidentiality, including cases in which the victim proceeds pro se;
-
-(4) provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault (including child sexual abuse), and stalking and ensure necessary services dealing with the health and mental health of victims are available;
-
-(5) enable courts or court-based or court-related programs to develop or enhance—
-
-  (A) court infrastructure (such as specialized courts, consolidated courts, dockets, intake centers, or interpreter services);
-
-  (B) community-based initiatives within the court system (such as court watch programs, victim assistants, pro se victim assistance programs, or community-based supplementary services);
-
-  (C) offender management, monitoring, and accountability programs;
-
-  (D) safe and confidential information-storage and information-sharing databases within and between court systems;
-
-  (E) education and outreach programs to improve community access, including enhanced access for underserved populations; and
-
-  (F) other projects likely to improve court responses to domestic violence, dating violence, sexual assault, and stalking;
-
-(6) provide civil legal assistance and advocacy services, including legal information and resources in cases in which the victim proceeds pro se, to—
-
-  (A) victims of domestic violence; and
-
-  (B) nonoffending parents in matters—
-
-    (i) that involve allegations of child sexual abuse;
-
-    (ii) that relate to family matters, including civil protection orders, custody, and divorce; and
-
-    (iii) in which the other parent is represented by counsel;
-
-(7) collect data and provide training and technical assistance, including developing State, local, and tribal model codes and policies, to improve the capacity of grantees and communities to address the civil justice needs of victims of domestic violence, dating violence, sexual assault, and stalking who have legal representation, who are proceeding pro se, or who are proceeding with the assistance of a legal advocate; and
-
-(8) to 11 So in original. The word “to” probably should not appear. improve training and education to assist judges, judicial personnel, attorneys, child welfare personnel, and legal advocates in the civil justice system.
-
-**(c) Considerations**
-
-(1) **In general** — In making grants for purposes described in paragraphs (1) through (7) of subsection (b), the Attorney General shall consider—
-
-  (A) the number of families to be served by the proposed programs and services;
-
-  (B) the extent to which the proposed programs and services serve underserved populations;
-
-  (C) the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community with demonstrated histories of effective work on domestic violence, dating violence, sexual assault, or stalking, including State or tribal domestic violence coalitions, State or tribal sexual assault coalitions, local shelters, and programs for domestic violence and sexual assault victims; and
-
-  (D) the extent to which the applicant demonstrates coordination and collaboration with State, tribal, and local court systems, including mechanisms for communication and referral.
-
-(2) **Other grants** — In making grants under subsection (b)(8) the Attorney General shall take into account the extent to which the grantee has expertise addressing the judicial system’s handling of family violence, child custody, child abuse and neglect, adoption, foster care, supervised visitation, divorce, and parentage.
-
-**(d) Applicant requirements** The Attorney General may make a grant under this section to an applicant that—
-
-(1) demonstrates expertise in the areas of domestic violence, dating violence, sexual assault, stalking, or child sexual abuse, as appropriate;
-
-(2) ensures that any fees charged to individuals for use of supervised visitation programs and services are based on the income of those individuals, unless otherwise provided by court order;
-
-(3) for a court-based program, certifies that victims of domestic violence, dating violence, sexual assault, or stalking are not charged fees or any other costs related to the filing, petitioning, modifying, issuance, registration, enforcement, withdrawal, or dismissal of matters relating to the domestic violence, dating violence, sexual assault, or stalking;
-
-(4) demonstrates that adequate security measures, including adequate facilities, procedures, and personnel capable of preventing violence, and adequate standards are, or will be, in place (including the development of protocols or policies to ensure that confidential information is not shared with courts, law enforcement agencies, or child welfare agencies unless necessary to ensure the safety of any child or adult using the services of a program funded under this section), if the applicant proposes to operate supervised visitation programs and services or safe visitation exchange;
-
-(5) certifies that the organizational policies of the applicant do not require mediation or counseling involving offenders and victims being physically present in the same place, in cases where domestic violence, dating violence, sexual assault, or stalking is alleged;
-
-(6) certifies that any person providing legal assistance through a program funded under this section has completed or will complete training on domestic violence, dating violence, sexual assault, and stalking, including child sexual abuse, and related legal issues; and
-
-(7) certifies that any person providing custody evaluation or guardian ad litem services through a program funded under this section has completed or will complete training developed with input from and in collaboration with a tribal, State, territorial, or local domestic violence, dating violence, sexual assault, or stalking victim service provider or coalition on the dynamics of domestic violence and sexual assault, including child sexual abuse, that includes training on how to review evidence of past abuse and the use of evidenced-based theories to make recommendations on custody and visitation.
-
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $22,000,000 for each of fiscal years 2014 through 2018. Amounts appropriated pursuant to this subsection shall remain available until expended.
-
-**(f) Allotment for Indian tribes**
-
-(1) **In general** — Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by [section 3796gg–10 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-10).22 So in original. See References in Text note below.
-
-(2) **Applicability of part 33 So in original. Probably should be “section”.** — The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
+## § 10420. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-[Section 3796gg–10 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-10), referred to in subsec. (f)(1), was so in the original but probably should have been a reference to section 2015 of Pub. L. 90–351, which is classified to [section 3796gg–10 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-10).
-
 #### Codification
-Section was enacted as part of the Violence Against Women Act of 2000 and also as part of the Victims of Trafficking and Violence Protection Act of 2000, and not as part of the Family Violence Prevention and Services Act which comprises this chapter.
-
-#### Prior Provisions
-A prior section 10420, Pub. L. 106–386, div. B, title III, § 1301, Oct. 28, 2000, 114 Stat. 1509; Pub. L. 109–162, § 3(b)(2), title III, § 306, title IX, § 906(d), formerly § 906(e), title XI, § 1135(b), Jan. 5, 2006, 119 Stat. 2971, 3016, 3081, 3109, renumbered § 906(d), Pub. L. 109–271, § 7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§ 2(d), 7(d)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 766, related to safe havens for children, prior to repeal by Pub. L. 113–4, title I, § 104(a), Mar. 7, 2013, 127 Stat. 73.
-
-#### Effective Date
-Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as an Effective Date of 2013 Amendment note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
-
-#### Definitions
-For definitions of terms used in this section, see section 1002 of Pub. L. 106–386, as amended, set out as a note under [section 3796gg–2 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-2).
+Section 10420 was editorially reclassified as [section 12464 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12464&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-10421"></a>

@@ -750,7 +750,7 @@ A prior section 6752, Pub. L. 106–102, title III, § 322, Nov. 12, 1999, 113 S
 ### Statutory Notes
 
 #### References in Text
-The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(2), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title note set out under [section 13701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13701&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(2), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement, and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 6755 of this title](./chapter-093-insurance.md#section-6755), prior to the general amendment of this subchapter by Pub. L. 114–1.

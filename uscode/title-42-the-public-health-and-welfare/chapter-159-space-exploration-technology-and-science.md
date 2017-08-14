@@ -181,7 +181,25 @@ In this chapter:
 
 <a id="section-18313"></a>
 ## § 18313. United States human space flight policy
-**(a) Use of non-United States human space flight transportation capabilities** It is the policy of the United States that reliance upon and use of non-United States human space flight capabilities shall be undertaken only as a contingency in circumstances where no United States-owned and operated human space flight capability is available, operational, and certified for flight by appropriate Federal agencies.
+**(a) Use of non-United States human space flight transportation services**
+
+(1) **In general** — The Federal Government may not acquire human space flight transportation services from a foreign entity unless—
+
+  (A) no United States Government-operated human space flight capability is available;
+
+  (B) no United States commercial provider is available; and
+
+  (C) it is a qualified foreign entity.
+
+(2) **Definitions** — In this subsection:
+
+  (A) *Commercial provider* — The term “commercial provider” means any person providing human space flight transportation services, primary control of which is held by persons other than the Federal Government, a State or local government, or a foreign government.
+
+  (B) *Qualified foreign entity* — The term “qualified foreign entity” means a foreign entity that is in compliance with all applicable safety standards and is not prohibited from providing space transportation services under other law.
+
+  (C) *United states commercial provider* — The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is more than 50 percent owned by United States nationals.
+
+(3) **Arrangements with foreign entities** — Nothing in this subsection shall prevent the Administrator from negotiating or entering into human space flight transportation arrangements with foreign entities to ensure safety of flight and continued ISS operations.
 
 **(b) United States human space flight capabilities** Congress reaffirms the policy stated in [section 70501(a) of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70501/a&num=0&edition=prelim), that the United States shall maintain an uninterrupted capability for human space flight and operations in low-Earth orbit, and beyond, as an essential instrument of national security and of the capacity to ensure continued United States participation and leadership in the exploration and utilization of space.
 
@@ -190,10 +208,19 @@ In this chapter:
 #### Codification
 In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70501/a&num=0&edition=prelim)” substituted for “section 501(a) of the National Aeronautics and Space Administration Authorization Act of 2005 ([42 U.S.C. 16761(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16761/a&num=0&edition=prelim))” on authority of Pub. L. 111–314, § 5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
 
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–10 amended subsec. (a) generally. Prior to amendment, text read as follows: “It is the policy of the United States that reliance upon and use of non-United States human space flight capabilities shall be undertaken only as a contingency in circumstances where no United States-owned and operated human space flight capability is available, operational, and certified for flight by appropriate Federal agencies.”
+
 
 <a id="section-18321"></a>
 ## § 18321. Goals and objectives
-**(a) Long term goal** The long term goal of the human space flight and exploration efforts of NASA shall be to expand permanent human presence beyond low-Earth orbit and to do so, where practical, in a manner involving international partners.
+**(a) Long-term goals** The long-term goals of the human space flight and exploration efforts of NASA shall be—
+
+(1) to expand permanent human presence beyond low-Earth orbit and to do so, where practical, in a manner involving international, academic, and industry partners;
+
+(2) crewed missions and progress toward achieving the goal in paragraph (1) to enable the potential for subsequent human exploration and the extension of human presence throughout the solar system; and
+
+(3) to enable a capability to extend human presence, including potential human habitation on another celestial body and a thriving space economy in the 21st Century.11 So in original. Probably should not be capitalized.
 
 **(b) Key objectives** The key objectives of the United States for human expansion into space shall be—
 
@@ -201,9 +228,18 @@ In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.
 
 (2) to determine if humans can live in an extended manner in space with decreasing reliance on Earth, starting with utilization of low-Earth orbit infrastructure, to identify potential roles that space resources such as energy and materials may play, to meet national and global needs and challenges, such as potential cataclysmic threats, and to explore the viability of and lay the foundation for sustainable economic activities in space;
 
-(3) to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, and inspiring young people in their educational pursuits; and
+(3) to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, and inspiring young people in their educational pursuits;
 
-(4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a).
+(4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a); and
+
+(5) to achieve human exploration of Mars and beyond through the prioritization of those technologies and capabilities best suited for such a mission in accordance with the stepping stone approach to exploration under [section 70504 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70504&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–10, § 411, amended subsec. (a) generally. Prior to amendment, text read as follows: “The long term goal of the human space flight and exploration efforts of NASA shall be to expand permanent human presence beyond low-Earth orbit and to do so, where practical, in a manner involving international partners.”
+
+Subsec. (b)(5). Pub. L. 115–10, § 412, added par. (5).
 
 
 <a id="section-18322"></a>
@@ -214,13 +250,7 @@ In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.
 
 (2) these initial missions and related capabilities should be utilized to provide operational experience, technology development, and the placement and assured use of in-space infrastructure and in-space servicing of existing and future assets.
 
-**(b) Space Shuttle capability assurance**
-
-(1) **Development of follow-on space transportation systems** — The Administrator shall proceed with the development of follow-on space transportation systems in a manner that ensures that the national capability to restart and fly Space Shuttle missions can be initiated if required by the Congress, in an Act enacted after October 11, 2010, or by a Presidential determination transmitted to the Congress, before the last Space Shuttle mission authorized by this chapter is completed.
-
-(2) **Required actions** — In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured external tank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).
-
-**(c) Sense of Congress regarding human space flight capability assurance** It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, and commercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
+**(b) Sense of Congress regarding human space flight capability assurance** It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, and commercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
 
 (1) that these capabilities remain inherently complementary and interrelated;
 
@@ -228,11 +258,19 @@ In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.
 
 (3) that resources required to support the timely and sustainable development of these capabilities authorized in either subchapter II or subchapter III of this chapter are not derived from a reduction in resources for the capabilities authorized in the other subchapter.
 
-**(d) Limitation** Nothing in subsection (c) shall apply to or affect any capability authorized by any other subchapter of this chapter 11 So in original. Probably should be followed by a period.
+**(c) Limitation** Nothing in subsection (b) shall apply to or affect any capability authorized by any other subchapter of this chapter 11 So in original. Probably should be followed by a period.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–10, § 416(a)(1), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows:
+
+“(1) Development of follow-on space transportation systems.—The Administrator shall proceed with the development of follow-on space transportation systems in a manner that ensures that the national capability to restart and fly Space Shuttle missions can be initiated if required by the Congress, in an Act enacted after October 11, 2010, or by a Presidential determination transmitted to the Congress, before the last Space Shuttle mission authorized by this chapter is completed.
+
+“(2) Required actions.—In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured external tank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).”
+
+Subsecs. (c), (d). Pub. L. 115–10, § 416(a)(2), (3), substituted “subsection (b)” for “subsection (c)” in subsec. (d) and redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
 2013—Subsecs. (c), (d). Pub. L. 112–273 added subsecs. (c) and (d).
 
 #### References in Text
@@ -425,13 +463,18 @@ Within 90 days after October 11, 2010, or upon completion of reference designs f
 <a id="section-18351"></a>
 ## § 18351. Commercial Cargo Development program
 
-The Administrator shall continue to support the existing Commercial Orbital Transportation Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
+The Administrator shall continue to support the existing Commercial Resupply Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
 
 (1) efforts to conduct a flight test;
 
 (2) accelerate development; and
 
 (3) develop the ground infrastructure needed for commercial cargo capability.
+
+### Statutory Notes
+
+#### Amendments
+2017—Pub. L. 115–10 substituted “Commercial Resupply Services” for “Commercial Orbital Transportation Services” in introductory provisions.
 
 
 <a id="section-18352"></a>
@@ -470,11 +513,23 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), i
 ## § 18353. Continuation of the International Space Station
 **(a) Policy of the United States** It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
 
-**(b) NASA actions** In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.
+**(b) NASA action** In furtherance of the policy set forth in subsection (a), NASA shall—
+
+(1) pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS;
+
+(2) utilize, to the extent practicable, the ISS for the development of capabilities and technologies needed for the future of human space exploration beyond low-Earth orbit; and
+
+(3) utilize, if practical and cost effective, the ISS for Science Mission Directorate missions in low-Earth orbit.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 115–10 amended section generally. Prior to amendment, section read as follows:
+
+“(a) Policy of the United States.—It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
+
+“(b) NASA actions.—In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.”
+
 2015—Pub. L. 114–90, § 114(b)(1)(A), struck out “through 2020” after “Station” in section catchline.
 
 Subsec. (a). Pub. L. 114–90, § 114(b)(1)(B), substituted “through at least 2024” for “through at least 2020”.

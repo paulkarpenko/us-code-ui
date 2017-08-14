@@ -167,7 +167,7 @@ In subsec. (c)(2), “for level IV of the Executive Schedule” substituted for 
 
 Subsecs. (c) to (e). Pub. L. 114–328, § 820(a)(1)(C), added subsecs. (c) to (e). Former subsecs. (c) to (e) redesignated (f) to (h), respectively.
 
-Subsec. (f). Pub. L. 114–328, § 820(a)(1)(B), (D), redesignated subsec. (c) as (f) and amended subsec. (f) generally. Prior to amendment, text of subsec. (f) read as follows: “The Administrator, after consultation with the Board, may—
+Subsec. (f). Pub. L. 114–328, § 820(a)(1)(B), (D), redesignated subsec. (c) as (f) and amended it generally. Prior to amendment, text read as follows: “The Administrator, after consultation with the Board, may—
 
 “(1) appoint an executive secretary and 2 additional staff members without regard to the provisions of title 5 governing appointments in the competitive service; and
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 ### Statutory Notes
 
 #### Amendment of Subsection (b)(3)(A)
-Pub. L. 114–328, div. A, title VIII, § 820(a)(2), (d), Dec. 23, 2016, 130 Stat. 2274, 2276, provided that, effective Oct. 1, 2018, subsection (b)(3)(A) of this section is amended by striking “$15,000,000” and inserting “$100,000,000”.
+Pub. L. 114–328, div. A, title VIII, § 820(a)(2), (d), Dec. 23, 2016, 130 Stat. 2274, 2276, provided that, effective Oct. 1, 2018, subsection (b)(3)(A) of this section is amended by striking “$15,000,000” and inserting “$100,000,000”. See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

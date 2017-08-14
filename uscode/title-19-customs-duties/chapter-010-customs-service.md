@@ -69,9 +69,7 @@ Pub. L. 101–382, title II, § 233, Aug. 20, 1990, 104 Stat. 663, required the 
 Pub. L. 101–207, § 3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act [Dec. 7, 1989] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) [amending this section], takes office.”
 
 #### Advisory Committee on Commercial Operations of United States Customs Service
-Pub. L. 100–203, title IX, § 9503(c), Dec. 22, 1987, 101 Stat. 1330–381, provided that: “(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the ‘Advisory Committee on Commercial Operations of the United States Customs Service’ (hereafter in this subsection referred to as the ‘Advisory Committee’). “(2)(A) The Advisory Committee shall consist of 20 members appointed by the Secretary of the Treasury. “(B) In making appointments under subparagraph (A), the Secretary of the Treasury shall ensure that—“(i) the membership of the Advisory Committee is representative of the individuals and firms affected by the commercial operations of the United States Customs Service; and “(ii) a majority of the members of the Advisory Committee do not belong to the same political party. “(3) The Advisory Committee shall—“(A) provide advice to the Secretary of the Treasury on all matters involving the commercial operations of the United States Customs Service; and “(B) submit an annual report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives that shall—“(i) describe the operations of the Advisory Committee during the preceding year, and “(ii) set forth any recommendations of the Advisory Committee regarding the commercial operations of the United States Customs Service. “(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee.”
-
-[Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137, provided that, effective on the date on which the Advisory Committee is established under [section 4316(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim), section 9503(c) of Pub. L. 100–203, set out above, is repealed.]
+Pub. L. 100–203, title IX, § 9503(c), Dec. 22, 1987, 101 Stat. 1330–381, which directed the Secretary of the Treasury to establish an Advisory Committee on Commercial Operations of the United States Customs Service to advise the Secretary and prepare annual reports relating to commercial operations of the United States Customs Service, was repealed, effective on the date on which the Advisory Committee was established under [section 4316(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim) [Mar. 29, 2016, see 81 F.R. 18865], by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137.
 
 Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, § 9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
 
@@ -106,12 +104,12 @@ Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provi
 
 (1) **Commissioner** — The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
 
-(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) or any successor committee.
+(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) 11 See References in Text note below. or any successor committee.
 
 ### Statutory Notes
 
 #### References in Text
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (e)(2), is section 9503(c) of Pub. L. 100–203, which is set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071).
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (e)(2), is section 9503(c) of Pub. L. 100–203, which was set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see [section 4316(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim).
 
 #### Codification
 Section was formerly classified to [section 281a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section281a&num=0&edition=prelim) prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
@@ -739,7 +737,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3) coordinate with the Executive Assistant Commissioner for the Office of Field Operations with respect to the trade facilitation and trade enforcement activities of U.S. Customs and Border Protection;
 
-(4) direct the development and implementation of matters relating to the priority trade issues identified by the Commissioner of U.S. Customs and Border Protection in the joint strategic plan for trade facilitation and trade enforcement required under [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4314);
+(4) direct the development and implementation of matters relating to the priority trade issues identified by the Commissioner of U.S. Customs and Border Protection in the joint strategic plan for trade facilitation and trade enforcement required under [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4314);
 
 (5) otherwise advise the Commissioner of U.S. Customs and Border Protection with respect to the development and implementation of the joint strategic plan;
 
@@ -773,7 +771,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (B) *Congressional notification* — Not less than 90 days prior to the transfer of assets, functions, personnel, or liabilities under subparagraph (A), the Commissioner of U.S. Customs and Border Protection shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the specific assets, functions, personnel, or liabilities to be transferred, and the reason for such transfer.
 
-**(e) Definitions** In this section, the terms “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301).
+**(e) Definitions** In this section, the terms “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301).
 
 ### Statutory Notes
 

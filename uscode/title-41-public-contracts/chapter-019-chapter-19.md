@@ -68,6 +68,9 @@ In subsection (e)(2), the reference to [section 253 of this title](https://uscod
 
 ### Statutory Notes
 
+#### Adjustment of Micro-Purchase Threshold
+For adjustment of dollar threshold pursuant to [section 1908 of this title](./chapter-019-chapter-19.md#section-1908), see definition of micro-purchase threshold in Federal Acquisition Regulation 2.101.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |

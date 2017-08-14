@@ -28,7 +28,7 @@ source: >-
 
 (9) The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
 
-(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 ([42 U.S.C. 10607(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10607/c&num=0&edition=prelim)) and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
+(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 ([42 U.S.C. 10607(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10607/c&num=0&edition=prelim)) 11 See References in Text note below. and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
 
 **(b) Rights Afforded.—**
 
@@ -110,6 +110,8 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
+Section 503(c) of the Victims’ Rights and Restitution Act of 1990, referred to in subsec. (a)(10), is section 503(c) of title V of Pub. L. 101–647, which was classified to [section 10607(c) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10607/c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20141(c) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20141/c&num=0&edition=prelim), Crime Control and Law Enforcement.
+
 The Federal Rules of Appellate Procedure, referred to in subsec. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The date of enactment of this chapter, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 108–405, which was approved Oct. 30, 2004.

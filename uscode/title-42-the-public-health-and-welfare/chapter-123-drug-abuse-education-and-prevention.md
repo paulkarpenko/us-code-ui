@@ -78,12 +78,12 @@ In selecting among applications submitted under [section 11802(a) of this title]
 <a id="section-11804"></a>
 ## § 11804. Coordination with juvenile justice programs
 
-The Secretary shall coordinate the program established by [section 11801 of this title](./chapter-123-drug-abuse-education-and-prevention.md#section-11801) with the programs and activities carried out under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) et seq.] and with the programs and activities of the Attorney General, to ensure that all such programs and activities are complementary and not duplicative.
+The Secretary shall coordinate the program established by [section 11801 of this title](./chapter-123-drug-abuse-education-and-prevention.md#section-11801) with the programs and activities carried out under the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.] and with the programs and activities of the Attorney General, to ensure that all such programs and activities are complementary and not duplicative.
 
 ### Statutory Notes
 
 #### References in Text
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which was classified principally to chapter 72 (§ 5601 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-11805"></a>
@@ -386,7 +386,7 @@ Subsec. (b). Pub. L. 101–204, § 1001(c)(1)(B), substituted “Secretary of He
 
 Unless otherwise defined by an Act amended by this title,11 See References in Text note below. for purposes of this title 1 and the amendments made by this title— 1
 
-(1) the term “community based” has the meaning given it in [section 5603(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603/1&num=0&edition=prelim),
+(1) the term “community based” has the meaning given it in [section 11103(1) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11103/1&num=0&edition=prelim),
 
 (2) the term “controlled substance” has the meaning given it in [section 802(6) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/6&num=0&edition=prelim),
 
@@ -406,7 +406,7 @@ Unless otherwise defined by an Act amended by this title,11 See References in Te
 
 (7) the term “institution of higher education” has the meaning given it in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim),
 
-(8) the term “public agency” has the meaning given it in [section 5603(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603/11&num=0&edition=prelim),
+(8) the term “public agency” has the meaning given it in [section 11103(11) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11103/11&num=0&edition=prelim),
 
 (9) the term “Secretary” means—
 
@@ -416,11 +416,11 @@ Unless otherwise defined by an Act amended by this title,11 See References in Te
 
   (C) the Secretary of Health and Human Services for purposes of subtitle B,
 
-(10) the term “State” has the meaning given it in [section 5603(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603/7&num=0&edition=prelim),
+(10) the term “State” has the meaning given it in [section 11103(7) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11103/7&num=0&edition=prelim),
 
-(11) the term “treatment” has the meaning given it in [section 5603(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603/15&num=0&edition=prelim), and
+(11) the term “treatment” has the meaning given it in [section 11103(15) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11103/15&num=0&edition=prelim), and
 
-(12) the term “unit of general local government” has the meaning given it in section 5603(8) 1 of this title.
+(12) the term “unit of general local government” has the meaning given it in section 11103(8) 1 of title 34.
 
 ### Statutory Notes
 
@@ -433,7 +433,7 @@ Section 3201, referred to in par. (9)(A), (B), is section 3201 of Pub. L. 100–
 
 Subtitle B, referred to in par. (9)(C), is subtitle B (§§ 3501–3522) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4254, which enacted subchapters I to III of this chapter. For complete classification of subtitle B to the Code, see Tables.
 
-[Section 5603(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603/8&num=0&edition=prelim), referred to in par. (12), was subsequently amended, and no longer defines “unit of general local government”. However, it now defines “unit of local government”.
+[Section 11103(8) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11103/8&num=0&edition=prelim), referred to in par. (12), was subsequently amended, and no longer defines “unit of general local government”. However, it now defines “unit of local government”.
 
 #### Amendments
 1998—Par. (7). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.

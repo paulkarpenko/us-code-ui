@@ -260,7 +260,7 @@ Prohibition against accrual of increase in pay or allowances for service perform
 
 ### Statutory Notes
 
-Section, Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–651, title I, § 117, Sept. 7, 1962, 76 Stat. 513, related to chaplain.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–651, title I, § 117, Sept. 7, 1962, 76 Stat. 513, related to chaplain.
 
 
 <a id="section-9338"></a>
@@ -542,7 +542,7 @@ Subsec. (b)(3). Pub. L. 89–650, § 1(5), substituted “reserve components of 
 Subsec. (c). Pub. L. 87–663, § 1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
+Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–92 applicable with respect to the nomination of candidates for appointment to the United States Military Academy, Naval Academy, and Air Force Academy for classes entering after Nov. 25, 2015, see section 556(d) of Pub. L. 114–92, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).

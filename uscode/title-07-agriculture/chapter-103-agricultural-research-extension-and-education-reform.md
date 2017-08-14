@@ -2,7 +2,7 @@
 title: 7
 chapter: '103'
 heading: 'AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION REFORM'
-section_count: 33
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -391,7 +391,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) the proposed funding levels to be allocated to, and the expected publication date, scope, and allocation level for, each request for applications to be published under or associated with—
 
-    (i) each priority area specified in subsection (b)(2) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i);
+    (i) each priority area specified in subsection (b)(2) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
 
     (ii) each research and extension project carried out under [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5811/a&num=0&edition=prelim);
 
@@ -407,7 +407,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (4) **Prohibition** — Unless the President submits the information described in paragraph (2)(C) for a fiscal year, the President may not carry out any program during that fiscal year that is authorized under—
 
-  (A) subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i);
+  (A) subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
 
   (B) [section 5811 of this title](./chapter-088-research.md#section-5811);
 
@@ -466,7 +466,7 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 #### Effective Date of Repeal
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-Repeal of this section inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i).
+Repeal of this section inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
 
 <a id="section-7623"></a>
@@ -641,7 +641,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-[Section 399c(d) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section399c/d&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 1011(d) of the Federal Food, Drug, and Cosmetic Act” and was translated as meaning section 1011(d) of the Act as added by Pub. L. 111–353, title II, § 209(a), Jan. 4, 2011, 124 Stat. 3945, to reflect the probable intent of Congress. Another section 1011 of the Federal Food, Drug, and Cosmetic Act as added by Pub. L. 111–148, title III, § 3509(g), Mar. 23, 2010, 124 Stat. 536 is classified to [section 399b of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section399b&num=0&edition=prelim), Food and Drugs, but does not contain a subsec. (d).
+[Section 399c(d) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section399c/d&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 1011(d) of the Federal Food, Drug, and Cosmetic Act” and was translated as meaning section 1011(d) of the Act as added by Pub. L. 111–353, title II, § 209(a), Jan. 4, 2011, 124 Stat. 3945, to reflect the probable intent of Congress. [Section 399c of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section399c&num=0&edition=prelim) was renumbered section 1012 of the Federal Food, Drug, and Cosmetic Act by Pub. L. 114–255, div. A, title III, § 3073(b)(2), Dec. 13, 2016, 130 Stat. 1137. Another section 1011 of the Federal Food, Drug, and Cosmetic Act as added by Pub. L. 111–148, title III, § 3509(g), Mar. 23, 2010, 124 Stat. 536 is classified to [section 399b of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section399b&num=0&edition=prelim), Food and Drugs, but does not contain a subsec. (d).
 
 #### Prior Provisions
 A prior section 7625, Pub. L. 105–185, title IV, § 405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§ 7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, § 7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, § 4(a), title VII, § 7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
@@ -1140,7 +1140,7 @@ Pub. L. 110–234, title VII, § 7311(b), May 22, 2008, 122 Stat. 1245, and Pub.
 
 (1) **Authorization of appropriations** — There is authorized to be appropriated to carry out the Program $25,000,000, to remain available until expended.
 
-(2) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of a competitive grant under this section.
+(2) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of a competitive grant under this section.
 
 (3) **Maintenance of effort** — Funds made available under paragraph (1) shall be used only to supplement, not to supplant, the amount of Federal funding otherwise expended for nutrition, research, and extension programs of the Department.
 
@@ -1163,8 +1163,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 (2) **Use** — The collected funds shall be available to the Agricultural Research Service, without further appropriation or fiscal-year limitation, to carry out its responsibilities under law (including international treaties) with respect to the Patent Culture Collection.
 
 
-<a id="section-7651"></a>
-## § 7651. Food Animal Residue Avoidance Database program
+<a id="section-7643"></a>
+## § 7643. Food Animal Residue Avoidance Database program
 **(a) Continuation of program** The Secretary of Agriculture shall continue operation of the Food Animal Residue Avoidance Database program (referred to in this section as the “FARAD program”) through contracts, grants, or cooperative agreements with appropriate colleges or universities.
 
 **(b) Activities** In carrying out the FARAD program, the Secretary shall—
@@ -1211,6 +1211,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-7651"></a>
+## § 7651. Distribution of farmers’ bulletins
+
+In the distribution of farmers’ bulletins, which shall be adapted to the interests of the people of the different sections of the country, an equal proportion of four-fifths shall be delivered to or sent out under the addressed franks furnished by Senators, Representatives, and Delegates in Congress, as such Senators, Representatives, or Delegates shall direct: Provided, That the Secretary of Agriculture shall notify Senators, Representatives, and Delegates in Congress of the title and character of each such bulletin, with the total number to which each Senator, Representative, and Delegate may be entitled for such distribution; and on the face of the envelope inclosing said bulletins shall be printed the title of each bulletin contained therein.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 417 of this title](./chapter-017-miscellaneous-matters.md#section-417) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of act June 30, 1906, ch. 3913, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
+
+Section is derived from an Appropriation Act for the Department of Agriculture, 1907. The last proviso of section relating to farmers’ bulletins not called for in quotas of Senators and Representatives was omitted from the Code as obsolete in view of Attorney General’s opinion, 27 Op. Atty. Gen. 288.
 
 
 <a id="section-7652"></a>
@@ -1374,7 +1389,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (iii) a demonstrated means of evaluating and responding to the needs of the related commercial sector.
 
-(3) **Administration** — In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i).
+(3) **Administration** — In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
 (4) **Term** — The term of a grant made under this section may not exceed 10 years.
 

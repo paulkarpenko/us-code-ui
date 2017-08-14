@@ -892,7 +892,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 (8) a description of how, in subsequent fiscal years, the grantee will integrate the violence prevention activities the grantee carries out with funds under this subchapter with activities carried out under the grantee’s comprehensive plan for drug and violence prevention adopted under the Drug-Free Schools and Communities Act of 1986;
 
-(9) a description of how the grantee will coordinate the grantee’s school crime and violence prevention efforts with education, law enforcement, judicial, health, and social service programs supported under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.], and other appropriate agencies and organizations serving the community;
+(9) a description of how the grantee will coordinate the grantee’s school crime and violence prevention efforts with education, law enforcement, judicial, health, and social service programs supported under the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.], and other appropriate agencies and organizations serving the community;
 
 (10) a description of how the grantee will inform parents about the extent of crime and violence in their children’s schools and maximize the participation of parents in the grantee’s violence prevention activities;
 
@@ -909,7 +909,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 #### References in Text
 The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§ 3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-5967"></a>

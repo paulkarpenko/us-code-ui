@@ -795,7 +795,7 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 ### Statutory Notes
 
 #### References in Text
-[Section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474), referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
+[Section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474), referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
 
 The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625), and with limited applicability, to [section 2621 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2621), and was restated in [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
@@ -1341,7 +1341,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 6481. Designated persons list for particularly severe violations of religious freedom
 **(a) List**
 
-(1) **In general** — The Secretary of State, in coordination with the Ambassador at Large and in consultation with relevant government and nongovernment experts, shall establish and maintain a list of foreign individuals to whom a consular post has denied a visa on the grounds of particularly severe violations of religious freedom under [section 1182(a)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1182/a/2/G&num=0&edition=prelim), or who are subject to financial sanctions or other measures for particularly severe violations of freedom religion.
+(1) **In general** — The Secretary of State, in coordination with the Ambassador at Large and in consultation with relevant government and nongovernment experts, shall establish and maintain a list of foreign individuals to whom a consular post has denied a visa on the grounds of particularly severe violations of religious freedom under [section 1182(a)(2)(G) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/2/G&num=0&edition=prelim), or who are subject to financial sanctions or other measures for particularly severe violations of freedom religion.
 
 (2) **Reference** — The list required under paragraph (1) shall be known as the “Designated Persons List for Particularly Severe Violations of Religious Freedom”.
 

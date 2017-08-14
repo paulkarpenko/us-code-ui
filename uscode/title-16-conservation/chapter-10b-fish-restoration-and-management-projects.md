@@ -226,7 +226,7 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For
 ### Statutory Notes
 
 #### References in Text
-The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§ 3951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3951 of this title](./chapter-59a-wetlands.md#section-3951) and Tables.
+The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which enacted chapter 59A (§ 3951 et seq.) of this title and amended this section. For complete classification of this Act to the Code, see Short Title note set out under [section 3951 of this title](./chapter-59a-wetlands.md#section-3951) and Tables.
 
 Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under [section 1322 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim), Navigation and Navigable Waters.
 

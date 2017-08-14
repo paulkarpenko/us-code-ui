@@ -133,6 +133,6 @@ Public Law 91–190, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 
 
 (2) Federal interagency environmental projects (including task forces) in which the Office participates.
 
-**(b) Study contract or project initiative** Any study contract or project that is to be financed under subsection (a) of this section may be initiated only with the approval of the Director.
+**(b) Study contract or project initiative** Any study contract or project that is to be financed under subsection (a) may be initiated only with the approval of the Director.
 
 **(c) Regulations** The Director shall promulgate regulations setting forth policies and procedures for operation of the Fund.

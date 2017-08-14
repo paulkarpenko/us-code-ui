@@ -14,7 +14,7 @@ Deposits of coal, phosphate, sodium, potassium, oil, oil shale, gilsonite (inclu
 ### Statutory Notes
 
 #### References in Text
-The Appalachian Forest Act, referred to in the first undesignated paragraph, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, also known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552 and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
+The Appalachian Forest Act, referred to in the first undesignated paragraph, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, also popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1981—Pub. L. 97–78, in first par., substituted “gilso­nite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”, and added, after first par. three paragraphs which defined “oil”, “combined hydrocarbon lease”, and “special tar sand area”, respectively.
@@ -1692,7 +1692,7 @@ Terms and conditions of mineral leases on submerged lands of outer Continental S
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
+Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
 
 The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§ 5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 

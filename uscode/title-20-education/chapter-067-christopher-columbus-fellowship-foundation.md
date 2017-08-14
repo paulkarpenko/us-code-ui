@@ -13,10 +13,18 @@ The purpose of this chapter is to establish the Christopher Columbus Fellowship 
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Pub. L. 115–31, div. E, title VI, § 631, May 5, 2017, 131 Stat. 376, provided that: “(a) Effective one year after the date of the enactment of this Act [May 5, 2017], subtitle B [§§ 421–430] of title IV of Public Law 102–281 [enacting this chapter] is repealed. “(b) On the day before the date of the repeal under subsection (a), the Secretary of the Treasury shall transfer the amounts in the fund described in section 408(a) of subtitle A of title IV of such Public Law [listed in a table of Commemorative Coins under [section 5112 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5112&num=0&edition=prelim), Money and Finance] into the general fund of the Treasury.”
+
 #### Short Title
 Pub. L. 102–281, title IV, § 400, May 13, 1992, 106 Stat. 139, provided that: “This title [enacting this chapter and provisions set out as a note under [section 5112 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5112&num=0&edition=prelim), Money and Finance] may be cited as the ‘Frank Annunzio Act’.”
 
 Pub. L. 102–281, title IV, § 421, May 13, 1992, 106 Stat. 142, provided that: “This subtitle [subtitle B (§§ 421–430) of title IV of Pub. L. 102–281, enacting this chapter] may be cited as the ‘Christopher Columbus Fellowship Act’.”
+
+[Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, section 421 of Pub. L. 102–281, set out above, is repealed.]
 
 
 <a id="section-5702"></a>
@@ -52,6 +60,14 @@ Pub. L. 102–281, title IV, § 421, May 13, 1992, 106 Stat. 142, provided that:
 
 **(e) Expenses; no additional compensation** Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
+
 
 <a id="section-5703"></a>
 ## § 5703. Fellowship recipients
@@ -61,11 +77,27 @@ Pub. L. 102–281, title IV, § 421, May 13, 1992, 106 Stat. 142, provided that:
 
 **(c) Selection** The Foundation may provide, directly or by contract, for the conduct of a nationwide competition for the selection of fellowship recipients.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
+
 
 <a id="section-5704"></a>
 ## § 5704. Stipends
 
 Each person awarded a fellowship under this chapter shall receive a stipend as determined by the Foundation.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
 
 
 <a id="section-5705"></a>
@@ -108,17 +140,31 @@ Each person awarded a fellowship under this chapter shall receive a stipend as d
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
 #### References in Text
-The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(5), is subtitle A (§§ 401–411) of title IV of Pub. L. 102–281, May 13, 1992, 106 Stat. 139, which is classified as a note under [section 5112 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5112&num=0&edition=prelim), Money and Finance.
+The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(5), is subtitle A (§§ 401–411) of title IV of Pub. L. 102–281, May 13, 1992, 106 Stat. 139, which is listed in a table of Commemorative Coins under [section 5112 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5112&num=0&edition=prelim), Money and Finance.
 
 #### Amendments
 2009—Subsec. (a)(4), (5). Pub. L. 111–8 added par. (4) and redesignated former par. (4) as (5).
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
 
 
 <a id="section-5706"></a>
 ## § 5706. Audits
 
 The activities of the Foundation under this chapter may be audited by the Comptroller General of the United States. The Comptroller General shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
 
 
 <a id="section-5707"></a>
@@ -129,8 +175,14 @@ The activities of the Foundation under this chapter may be audited by the Comptr
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
 #### References in Text
 Executive Level V, referred to in subsec. (b), probably means level V of the Executive Schedule, which is set out in [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
 
 
 <a id="section-5708"></a>
@@ -161,6 +213,9 @@ Executive Level V, referred to in subsec. (b), probably means level V of the Exe
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
 #### References in Text
 The General Schedule, referred to in subsec. (a)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
@@ -173,6 +228,9 @@ In subsec. (a)(6), “[section 6101 of title 41](https://uscode.house.gov/view.x
 
 In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to [section 529 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim), United States Code, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 156 of House Document No. 103–7.
 
@@ -181,3 +239,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 ## § 5709. Authorization of appropriations
 
 There are authorized to be appropriated to the Foundation, such sums as may be necessary to carry out this chapter.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 115–31, div. E, title VI, § 631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under [section 5701 of this title](./chapter-067-christopher-columbus-fellowship-foundation.md#section-5701).

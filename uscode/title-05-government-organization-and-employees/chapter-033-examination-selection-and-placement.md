@@ -114,9 +114,9 @@ Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879.
 
 Ex. Ord. No. 12148, § 5–212, July 20, 1979, 44 F.R. 43239, set out in a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
-Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683, which was superseded by Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519.
+Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683, superseded by Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519.
 
-Ex. Ord. No. 12748, § 8(a), Feb. 1, 1991, 56 F.R. 4521, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
+Ex. Ord. No. 12748, § 6(a), formerly § 8(a), Feb. 1, 1991, 56 F.R. 4521, as amended, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
 
 Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515.
 
@@ -125,6 +125,8 @@ Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519.
 Ex. Ord. No. 13124, § 2(b), June 4, 1999, 64 F.R. 31103.
 
 Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853.
+
+Ex. Ord. No. 13764, § 1, Jan. 17, 2017, 82 F.R. 8115.
 
 #### Executive Order No. 10590
 Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President’s Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under [section 2000e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim), The Public Health and Welfare.
@@ -1060,7 +1062,7 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
   (A) public notice has been given; and
 
-  (B) the Office of Personnel Management has determined that there exists a severe shortage of candidates or that there is a critical hiring need.
+  (B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
 **(b)** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under [section 3302 of this title](./chapter-033-examination-selection-and-placement.md#section-3302). This subsection does not take from the President any authority conferred by [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301) that is consistent with the provisions of this title governing the competitive service.
@@ -1116,6 +1118,8 @@ In subsection (d), the word “Employees” is substituted for “collector, pos
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2017—Subsec. (a)(3)(B). Pub. L. 115–46 inserted “(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)” after “severe shortage of candidates”.
+
 2009—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
@@ -1721,7 +1725,7 @@ Pub. L. 114–137, § 2(d), Mar. 18, 2016, 130 Stat. 312, provided that: “Not 
 
 (6) **Collective bargaining obligations.—** — Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
 
-(7) **Preference eligibles.—** — Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.
+(7) **Preference eligibles.—** — Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 11 So in original. 3317(b) and 1 3318(c), as applicable, are satisfied.
 
 **(d)** Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
 
@@ -1845,7 +1849,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 3322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422, related to temporary appointments after age 70 in the competitive service, prior to repeal by Pub. L. 95–256, § 5(b)(1), Apr. 6, 1978, 92 Stat. 191.
+A prior section 3322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422, related to temporary appointments after age 70 in the competitive service, prior to repeal by Pub. L. 95–256, § 5(b)(1), Apr. 6, 1978, 92 Stat. 191, effective Sept. 30, 1978.
 
 #### Effective Date
 Pub. L. 114–328, div. A, title XI, § 1140(b), Dec. 23, 2016, 130 Stat. 2471, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any employee described in [section 3322 of title 5](./chapter-033-examination-selection-and-placement.md#section-3322), United States Code, (as added by such subsection) who leaves the service after the date of enactment of this Act [Dec. 23, 2016].”
@@ -2372,7 +2376,7 @@ Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, pro
 
 ### Statutory Notes
 
-#### Effective Date of 2016 Amendment
+#### Effective Date
 Pub. L. 114–328, div. A, title XI, § 1136(b), Dec. 23, 2016, 130 Stat. 2460, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any former Government employee (as described in [section 3330e of title 5](./chapter-033-examination-selection-and-placement.md#section-3330e), United States Code, as added by such subsection) appointed or reinstated on or after the date that is 180 days after the date of enactment of this Act [Dec. 23, 2016].”
 
 
@@ -2660,7 +2664,9 @@ George W. Bush.
 Provisions relating to the exercise of Presidential authorities to designate an order of succession for executive agencies and offices are contained in the following:
 
 #### Council on Environmental Quality
-Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289.
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627.
+
+Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289, revoked by Memorandum of President of the United States, § 3, Jan. 13, 2017, 82 F.R. 7627.
 
 Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, revoked by Memorandum of President of the United States, § 3, Mar. 13, 2015, 80 F.R. 14289.
 
@@ -2701,14 +2707,20 @@ Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, as amended by Ex. Ord. No. 132
 Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, revoked by Ex. Ord. No. 13243, § 4, Dec. 18, 2001, 66 F.R. 66263.
 
 #### Department of Justice
-Ex. Ord. No. 13557, Nov. 4, 2010, 75 F.R. 68679.
+Ex. Ord. No. 13775, Feb. 9, 2017, 82 F.R. 10697.
+
+Ex. Ord. No. 13762, Jan. 13, 2017, 82 F.R. 7619, revoked by Ex. Ord. No. 13775, § 3, Feb. 9, 2017, 82 F.R. 10697.
+
+Ex. Ord. No. 13557, Nov. 4, 2010, 75 F.R. 68679, revoked by Ex. Ord. No. 13762, § 3 Jan. 13, 2017, 82 F.R. 7619.
 
 Ex. Ord. No. 13481, Dec. 9, 2008, 73 F.R. 75531, revoked by Ex. Ord. No. 13557, § 3, Nov. 4, 2010, 75 F.R. 68679.
 
 Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, superseded by Ex. Ord. No. 13481, § 3, Dec. 9, 2008, 73 F.R. 75531.
 
 #### Department of Labor
-Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, as amended by Ex. Ord. No. 13261, § 4(e), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13755, Dec. 23, 2016, 81 F.R. 96329.
+
+Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, as amended by Ex. Ord. No. 13261, § 4(e), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13755, § 3, Dec. 23, 2016, 81 F.R. 96329.
 
 Ex. Ord. No. 10513, Jan. 19, 1954, 19 F.R. 369, revoked by Ex. Ord. No. 13245, § 4, Dec. 8, 2001, 66 F.R. 66269.
 
@@ -2749,7 +2761,9 @@ Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 132
 Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revoked by Ex. Ord. No. 13736, § 3(d), Aug. 12, 2016, 81 F.R. 54711.
 
 #### Environmental Protection Agency
-Ex. Ord. No. 13737, Aug. 12, 2016, 81 F.R. 54713.
+Ex. Ord. No. 13763, Jan. 13, 2017, 82 F.R. 7621.
+
+Ex. Ord. No. 13737, Aug. 12, 2016, 81 F.R. 54713, revoked by Ex. Ord. No. 13763, § 3, Jan. 13, 2017, 82 F.R. 7622.
 
 Ex. Ord. No. 13614, May 21, 2012, 77 F.R. 31157, revoked by Ex. Ord. No. 13737, § 3, Aug. 12, 2016, 81 F.R. 54714.
 
@@ -2762,6 +2776,8 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
 #### Federal Mediation and Conciliation Service
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7629.
+
 Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96333.
 
 Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
@@ -2801,7 +2817,9 @@ Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, supers
 Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12281, superseded by Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773.
 
 #### Office of Science and Technology Policy
-Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871.
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7625.
+
+Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871, revoked by Memorandum of President of the United States, § 3, Jan. 13, 2017, 82 F.R. 7625.
 
 #### Office of the Director of National Intelligence
 Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59159.

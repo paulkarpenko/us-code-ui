@@ -1959,9 +1959,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (B) The date on which the surviving spouse relinquishes an ownership interest in the small business concern.
 
-  (C) The date that is ten years after the date of the veteran’s death.
+  (C) The date that—
 
-(3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability.
+    (i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran’s death; or
+
+    (ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran’s death.
+
+(3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability.
 
 **(i) Priority for Contracting Preferences.—** Preferences for awarding contracts to small business concerns shall be applied in the following order of priority:
 
@@ -2010,11 +2014,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (e), Dec. 23, 2016, 130 Stat. 2659, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, this section is amended–
+Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (e), Dec. 23, 2016, 130 Stat. 2659, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, this section is amended—
 
 (1) in subsection (b), by inserting “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”;
 
-(2) in subsection (c), by inserting “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions;
+(2) in subsection (c), by inserting “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”;
 
 (3) in subsection (d), by inserting “or small business concerns owned and controlled by veterans with service-connected disabilities” after “small business concerns owned and controlled by veterans” both places it appears;
 
@@ -2022,41 +2026,28 @@ Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (e), Dec. 23, 2016, 130
 
 (A) by inserting “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans” in paragraph (1);
 
-(B) by striking “verified” and inserting “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” in the introductory provisions of paragraph (4); and
+(B) by striking “verified” and inserting “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” in paragraph (4); and
 
 (C) by adding at the end the following new paragraph:
 
 “(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.”;
 
-(5) by striking subsection (h) and redesignating subsections (i) through (l) as subsections (h) through (k), respectively;
+(5) by striking subsection (h) and redesignating subsections (i) through (l) as subsections (h) through (k), respectively; and
 
-(6) in subsection (k), as so redesignated, by amending paragraph (2) to read as follows:
+(6) in subsection (k), as so redesignated:
+
+(A) by amending paragraph (2) to read as follows:
 
 “(2) The term ‘small business concern owned and controlled by veterans’ has the meaning given that term under section 3(q)(3) of the Small Business Act ([15 U.S.C. 632(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/3&num=0&edition=prelim)).”; and
 
-(7) in subsection (k), as so redesignated, by adding at the end the following new paragraph:
+(B) by adding at the end the following new paragraph:
 
 “(3) The term ‘small business concern owned and controlled by veterans with service-connected disabilities’ has the meaning given the term ‘small business concern owned and controlled by service-disabled veterans’ under section 3(q)(2) of the Small Business Act ([15 U.S.C. 632(q)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/2&num=0&edition=prelim)).”
 
 See 2016 Amendment notes below.
 
-#### Amendment of Subsection (h)
-Pub. L. 114–315, title V, § 501, Dec. 16, 2016, 130 Stat. 1566, provided that, effective on the date that is 180 days after Dec. 16, 2016 and applicable with respect to contracts awarded on or after Dec. 16, 2016, subsection (h) of this section is amended—
-
-(1) in paragraph (2), by amending subparagraph (C) to read as follows:
-
-“(C) The date that—
-
-“(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran’s death; or
-
-“(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran’s death.”
-
-(2) in paragraph (3), by striking “rated as” and all that follows through “disability.” and inserting a period.
-
-See 2016 Amendment notes below.
-
 #### References in Text
-The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to [section 634(i) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section634/i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (b). Pub. L. 114–328, § 1832(b)(2)(A), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”.
@@ -2077,17 +2068,23 @@ Subsec. (h). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (i) as (h
 
 Subsec. (h)(2)(C). Pub. L. 114–315, § 501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The date that is ten years after the date of the veteran’s death.”
 
-Subsec. (h)(3). Pub. L. 114–315, § 501(a)(1), substituted period for “rated as 100 percent disabling or who dies as a result of a service-connected disability.”
+Subsec. (h)(3). Pub. L. 114–315, § 501(a)(1), substituted period at end for “rated as 100 percent disabling or who dies as a result of a service-connected disability.”
 
 Subsecs. (i), (j). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
 
-Subsecs. (k), (l). Pub. L. 114–328, § 1832(b)(1), redesignated subsec. (l) as (k), added par. (3), and amended par. (2) generally. Former subsec. (k) redesignated (j). Prior to amendment, par. (2) read as follows: “The term ‘small business concern owned and controlled by veterans’ means a small business concern—
+Subsec. (k). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(2). Pub. L. 114–328, § 1832(b)(1)(B)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘small business concern owned and controlled by veterans’ means a small business concern—
 
 “(A)(i) not less than 51 percent of which is owned by one or more veterans or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 “(ii) the management and daily business operations of which are controlled by one or more veterans; or
 
 “(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.”
+
+Subsec. (k)(3). Pub. L. 114–328, § 1832(b)(1)(B)(ii), added par. (3).
+
+Subsec. (l). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (l) as (k).
 
 2012—Subsec. (g). Pub. L. 112–154 designated existing provisions as par. (1), inserted “willfully and intentionally” before “misrepresented”, substituted “a period of not less than five years” for “a reasonable period of time, as determined by the Secretary”, and added pars. (2) and (3).
 
@@ -3095,7 +3092,7 @@ Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to
 
 Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
-No act with the title “Los Angeles Homeless Veterans Leasing Act of 2016”, referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled “Los Angeles Homeless Veterans Leasing Act of 2016”, was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2106, 130 Stat. 926, known as the “West Los Angeles Leasing Act of 2016”. Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
+No act with the title “Los Angeles Homeless Veterans Leasing Act of 2016”, referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled “Los Angeles Homeless Veterans Leasing Act of 2016”, was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the “West Los Angeles Leasing Act of 2016”. Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
 
 #### Amendments
 2016—Subsec. (b)(3)(D). Pub. L. 114–226, § 3(a), added subpar. (D).

@@ -448,7 +448,7 @@ Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 5
 The Natural Gas Act, referred to in subsec. (j), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2016—Subsec. (e). Pub. L. 114–328, § 1081(b)(3)(E), substituted “([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 2401 et seq.)”.
+2016—Subsec. (e). Pub. L. 114–328 substituted “([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 2401 et seq.)”.
 
 2001—Subsec. (b)(2). Pub. L. 107–107 substituted “at a price less than the current sales price” for “at a price less than the higher of— (A) the current sales price”, substituted a period for “; or” after “petroleum in the same area”, and struck out subpar. (B) which read as follows: “the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.”
 

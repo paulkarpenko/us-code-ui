@@ -356,7 +356,7 @@ No part of any funds appropriated for the Forest Service shall be used to pay th
 ### Statutory Notes
 
 #### Codification
-Section, acts June 16, 1955, ch. 147, title II, § 203, 69 Stat. 156; June 13, 1956, ch. 380, title II, § 202, 70 Stat. 270, which related to expenditures for options to purchase lands from appropriations made for the Forest Service, was superseded by [section 428a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section428a&num=0&edition=prelim), Agriculture.
+Section, acts June 16, 1955, ch. 147, title II, § 203, 69 Stat. 156; June 13, 1956, ch. 380, title II, § 202, 70 Stat. 270, which related to expenditures for options to purchase lands from appropriations made for the Forest Service, was superseded by [section 2268a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2268a&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-556b"></a>
@@ -449,11 +449,10 @@ None of the funds made available to the Forest Service in this Act or any other 
 
 ### Statutory Notes
 
-#### References in Text
-[Section 8316(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim), referred to in text, was in the original “section 10417(b) of Public Law 107–107 ([7 U.S.C. 8316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim))” which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
-
 #### Similar Provisions
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. G, title III, Dec. 18, 2015, 129 Stat. 2563.
 
 Pub. L. 113–235, div. F, title III, Dec. 16, 2014, 128 Stat. 2432.
 

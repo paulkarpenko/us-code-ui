@@ -2,7 +2,7 @@
 title: 7
 chapter: '38'
 heading: DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS
-section_count: 54
+section_count: 55
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -113,7 +113,7 @@ The Secretary of Agriculture is directed and authorized:
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended [section 3104 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3104). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -267,7 +267,7 @@ Such sums appropriated in pursuance of this chapter shall be in addition to, and
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 107–76, title VII, § 703, Nov. 28, 2001, 115 Stat. 731, which provided that not less than $1,500,000 of the appropriations of the Department of Agriculture for research and service work authorized by sections 427, 427i, and 1621 et seq. of this title and chapter 63 of title 31 would be available for contracting in accordance with those laws, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 107–76, title VII, § 703, Nov. 28, 2001, 115 Stat. 731, which provided that not less than $1,500,000 of the appropriations of the Department of Agriculture for research and service work authorized by sections 1621 et seq., 3104, and 3105 of this title and chapter 63 of title 31 would be available for contracting in accordance with those laws, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 106–387, § 1(a) [title VII, § 703], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
@@ -809,7 +809,7 @@ In the furtherance of the research and service work authorized by this Act, the 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended [section 3104 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3104). For complete classification of this Act to the Code, see Tables.
 
 The national advisory committee, referred to in text, was established by [section 1628 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1628), which was subsequently repealed by Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246.
 
@@ -1466,6 +1466,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+
+<a id="section-1633"></a>
+## § 1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws
+
+In order to avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of Federal and State laws and regulations relating to the marketing of agricultural products and to the control or eradication of plant and animal diseases and pests, the Secretary of Agriculture is authorized, in the administration and enforcement of such Federal laws within his area of responsibility, whenever he deems it feasible and in the public interest, to enter into cooperative arrangements with State departments of agriculture and other State agencies charged with the administration and enforcement of such State laws and regulations and to provide that any such State agency which has adequate facilities, personnel, and procedures, as determined by the Secretary, may assist the Secretary in the administration and enforcement of such Federal laws and regulations to the extent and in the manner he deems appropriate in the public interest.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450 of this title](./chapter-017-miscellaneous-matters.md#section-450) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as Pub. L. 87–718, popularly known as the Talmadge-Aiken Act, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
 
 <a id="section-1635"></a>
@@ -2679,7 +2692,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (f)(2)(A), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (f)(2)(A), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended [section 3104 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3104). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 May 13, 2002, referred to in subsec. (f)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 107–171, which enacted this subchapter, to reflect the probable intent of Congress.

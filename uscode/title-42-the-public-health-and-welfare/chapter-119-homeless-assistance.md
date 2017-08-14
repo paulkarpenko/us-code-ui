@@ -516,11 +516,13 @@ Section effective on, and applicable beginning on, May 20, 2009, see section 100
 <a id="section-11319"></a>
 ## § 11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2017 11 So in original. Probably should be followed by a period.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2018 11 So in original. Probably should be followed by a period.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 115–31 substituted “October 1, 2018” for “October 1, 2017”.
+
 2014—Pub. L. 113–235 substituted “October 1, 2017” for “October 1, 2016”.
 
 Pub. L. 113–76 substituted “October 1, 2016” for “October 1, 2015”.
@@ -3160,7 +3162,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
   (A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
 
-  (B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.);
+  (B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); 1
 
   (C) providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;
 
@@ -3228,7 +3230,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
   (K) A description of how youths described in [section 11434a(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim) will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
 
-(2) Compliance
+(2) **Compliance**
 
   (A) *In general* — Each plan adopted under this subsection shall also describe how the State will ensure that local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).
 
@@ -3312,7 +3314,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
   (A) *In general* — Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-    (i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); and
+    (i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); 1 and
 
     (ii) transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.
 
@@ -3377,7 +3379,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 #### References in Text
 The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) and Tables.
+The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which was classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title, prior to editorial reclassification and renumbering as subchapter III (§ 11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 

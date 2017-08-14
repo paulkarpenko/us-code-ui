@@ -237,7 +237,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
   (F) Ex-offenders.
 
-  (G) Homeless individuals (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)), or homeless children and youths (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)).
+  (G) Homeless individuals (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)), or homeless children and youths (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)).
 
   (H) Youth who are in or have aged out of the foster care system.
 
@@ -323,7 +323,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
       (II) 70 percent of the lower living standard income level;
 
-    (iii) is a homeless individual (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)), or a homeless child or youth (as defined under [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim));
+    (iii) is a homeless individual (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)), or a homeless child or youth (as defined under [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim));
 
     (iv) receives or is eligible to receive a free or reduced price lunch under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.);
 
@@ -848,7 +848,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (J) Employment and training activities carried out under the Community Services Block Grant Act ([42 U.S.C. 9901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) et seq.).
 
-  (K) Programs authorized under [section 17532 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17532&num=0&edition=prelim).
+  (K) Programs authorized under [section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim).
 
 **(b) Requirements**
 
@@ -1781,7 +1781,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (xi) programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
 
-    (xii) programs authorized under [section 17532 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17532&num=0&edition=prelim); and
+    (xii) programs authorized under [section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim); and
 
     (xiii) programs authorized under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), subject to subparagraph (C).
 
@@ -2426,7 +2426,7 @@ Section effective on the first day of the first full program year after July 22,
 
       (IV) An individual who is subject to the juvenile or adult justice system.
 
-      (V) A homeless individual (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, in foster care or has 11 So in original. Probably should be preceded by “who”. aged out of the foster care system, a child eligible for assistance under [section 677 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677&num=0&edition=prelim), or in an out-of-home placement.
+      (V) A homeless individual (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, in foster care or has 11 So in original. Probably should be preceded by “who”. aged out of the foster care system, a child eligible for assistance under [section 677 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677&num=0&edition=prelim), or in an out-of-home placement.
 
       (VI) An individual who is pregnant or parenting.
 
@@ -2450,7 +2450,7 @@ Section effective on the first day of the first full program year after July 22,
 
       (III) An offender.
 
-      (IV) A homeless individual (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, in foster care or has 1 aged out of the foster care system, a child eligible for assistance under [section 677 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677&num=0&edition=prelim), or in an out-of-home placement.
+      (IV) A homeless individual (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, in foster care or has 1 aged out of the foster care system, a child eligible for assistance under [section 677 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677&num=0&edition=prelim), or in an out-of-home placement.
 
       (V) Pregnant or parenting.
 
@@ -3546,7 +3546,7 @@ Section was formerly classified to [section 2883b of this title](./chapter-030-w
 
   (B) A school dropout.
 
-  (C) A homeless individual (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, an individual in foster care, or an individual who was in foster care and has aged out of the foster care system.
+  (C) A homeless individual (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)), a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)), a runaway, an individual in foster care, or an individual who was in foster care and has aged out of the foster care system.
 
   (D) A parent.
 
@@ -4960,7 +4960,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (I) any other entity eligible to provide education or employment training under a Federal program (other than the program carried out under this section).
 
-(4) **Homeless individual** — The term “homeless individual” means a homeless individual (as defined in [section 14043e–2(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043e–2/6&num=0&edition=prelim)) or a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)).
+(4) **Homeless individual** — The term “homeless individual” means a homeless individual (as defined in [section 12473(6) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12473/6&num=0&edition=prelim)) or a homeless child or youth (as defined in [section 11434a(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim)).
 
 (5) **Housing development agency** — The term “housing development agency” means any agency of a State or local government, or any private nonprofit organization, that is engaged in providing housing for homeless individuals or low-income families.
 

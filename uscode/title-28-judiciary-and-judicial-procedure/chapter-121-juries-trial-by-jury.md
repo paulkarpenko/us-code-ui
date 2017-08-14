@@ -101,7 +101,7 @@ The phrase “or previous condition of servitude” was omitted as obsolete.
 Changes were made in phraseology.
 
 #### References in Text
-Section 1203(6) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(5)(B), was successively renumbered and redesignated as section 1204(8) of the Act which is classified to [section 3796b(8) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/8&num=0&edition=prelim), The Public Health and Welfare.
+Section 1203(6) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(5)(B), was successively renumbered and redesignated as section 1204(8) of the Act, which is classified to [section 10284(8) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/8&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 The date of enactment of the Jury Selection and Service Act of 1968, referred to in subsec. (c), is the date of enactment of Pub. L. 90–274, which was approved Mar. 27, 1968.
 

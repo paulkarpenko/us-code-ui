@@ -1715,7 +1715,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 2013—Par. (5)(A)(i)(II). Pub. L. 113–67 substituted “subparagraph (B)” for “subparagraph (B))”.
 
 #### Effective Date
-Part effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-658d"></a>

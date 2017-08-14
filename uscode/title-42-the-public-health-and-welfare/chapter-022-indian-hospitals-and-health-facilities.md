@@ -89,7 +89,7 @@ In accordance with subsection (d) of [section 215 of this title](./chapter-6a-pu
 ### Statutory Notes
 
 #### Amendments
-1988—Pub. L. 100–472, which directed amendment of this section by substituting reference to sections 5321 and 5322 of title 25 for reference to section 5321, former section 450g, and [section 5322 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322&num=0&edition=prelim) was executed by making the substitution for reference to section 5321, former section 450g, or [section 5322 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322&num=0&edition=prelim), to reflect the probable intent of Congress.
+1988—Pub. L. 100–472, which directed amendment of this section by substituting reference to sections 5321 and 5322 of title 25 for reference to section 5321, former section 450g, “and” [section 5322 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322&num=0&edition=prelim), was executed by making the substitution for reference to section 5321, former section 450g, “or” [section 5322 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322&num=0&edition=prelim), to reflect the probable intent of Congress.
 
 
 <a id="section-2005"></a>

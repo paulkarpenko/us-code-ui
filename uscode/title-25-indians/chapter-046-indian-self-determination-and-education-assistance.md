@@ -2381,7 +2381,7 @@ A prior section 4 of act Apr. 16, 1934, ch. 147, 48 Stat. 596; June 4, 1936, ch.
 Section was formerly classified to [section 456 of this title](./chapter-014-miscellaneous.md#section-456) prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
-A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, excluded Oklahoma from the application of contract provisions, and was omitted by act June 4, 1936, ch. 490, 49 Stat. 1458.
+A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, which excluded Oklahoma from the application of contract provisions, was omitted in the general amendment of act Apr. 16, 1934, by act June 4, 1936, ch. 490, 49 Stat. 1458.
 
 #### Amendments
 2015—Subsec. (a). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7424(c)(4) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7424/c/4&num=0&edition=prelim).
@@ -2606,7 +2606,7 @@ Section was formerly classified to [section 458bb of this title](./chapter-014-m
 
 (1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
 
-  (A) the Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.);11 See References in Text note below.
+  (A) the Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.); 11 See References in Text note below.
 
   (B) [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13); and
 
@@ -2985,7 +2985,7 @@ Section was formerly classified to [section 458aaa–3 of this title](./chapter-
 
   (A) [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13);
 
-  (B) the Act of April 16, 1934 (48 Stat. 596; chapter 147; [25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.);11 See References in Text note below.
+  (B) the Act of April 16, 1934 (48 Stat. 596; chapter 147; [25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.); 11 See References in Text note below.
 
   (C) the Act of August 5, 1954 (68 Stat. 674; chapter 658) [[42 U.S.C. 2001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2001&num=0&edition=prelim) et seq.];
 
@@ -3314,7 +3314,7 @@ In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle 
 
 **(b) Applicability of certain laws** [Section 81 of this title](./chapter-003-agreements-with-indians.md#section-81) and [section 5123 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5123), shall not apply to attorney and other professional contracts entered into by Indian tribes participating in self-governance under this subchapter.
 
-**(c) References** All references in this chapter to [section 501 of this title](./chapter-014-miscellaneous.md#section-501) are hereby deemed to include [section 82a of this title](./chapter-003-agreements-with-indians.md#section-82a).
+**(c) References** All references in this chapter to [section 5201 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5201) are hereby deemed to include [section 82a of this title](./chapter-003-agreements-with-indians.md#section-82a).
 
 ### Statutory Notes
 

@@ -2,7 +2,7 @@
 title: 51
 chapter: '201'
 heading: NATIONAL AERONAUTICS AND SPACE PROGRAM
-section_count: 31
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51&num=0&edition=prelim
 ---
@@ -49,6 +49,8 @@ Chapter 201 of title 51 restates the National Aeronautics and Space Act of 1958.
 
 (9) The preservation of the United States preeminent position in aeronautics and space through research and technology development related to associated manufacturing processes.
 
+(10) The search for life’s origin, evolution, distribution, and future in the universe.
+
 **(e) Ground Propulsion Systems Research and Development.—** Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the Administration also be directed toward ground propulsion systems research and development. Such development shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
 
 **(f) Bioengineering Research, Development, and Demonstration Programs.—** Congress declares that the general welfare of the United States requires that the unique competence of the Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
@@ -69,6 +71,9 @@ In subsection (b), the words “in conformity with section 201(e)”, which appe
 In subsection (c), the words “(as established by title II of this Act)”, which appeared after “Administration”, are omitted as unnecessary.
 
 In subsection (d), the word “and”, appearing at the end of paragraph (8), is omitted as unnecessary because of the introductory words “one or more of the following”.
+
+#### Amendments
+2017—Subsec. (d)(10). Pub. L. 115–10 added par. (10).
 
 #### Congressional Findings and Policy
 Pub. L. 110–422, § 2, Oct. 15, 2008, 122 Stat. 4781, provided that: “The Congress finds, on this, the 50th anniversary of the establishment of the National Aeronautics and Space Administration, the following: “(1) NASA [National Aeronautics and Space Administration] is and should remain a multimission agency with a balanced and robust set of core missions in science, aeronautics, and human space flight and exploration. “(2) Investment in NASA’s programs will promote innovation through research and development, and will improve the competitiveness of the United States. “(3) Investment in NASA’s programs, like investments in other Federal science and technology activities, is an investment in our future. “(4) Properly structured, NASA’s activities can contribute to an improved quality of life, economic vitality, United States leadership in peaceful cooperation with other nations on challenging undertakings in science and technology, national security, and the advancement of knowledge. “(5) NASA should assume a leadership role in a cooperative international Earth observations and research effort to address key research issues associated with climate change and its impacts on the Earth system. “(6) NASA should undertake a program of aeronautical research, development, and where appropriate demonstration activities with the overarching goals of—“(A) ensuring that the Nation’s future air transportation system can handle up to 3 times the current travel demand and incorporate new vehicle types with no degradation in safety or adverse environmental impact on local communities; “(B) protecting the environment; “(C) promoting the security of the Nation; and “(D) retaining the leadership of the United States in global aviation. “(7) Human and robotic exploration of the solar system will be a significant long-term undertaking of humanity in the 21st century and beyond, and it is in the national interest that the United States should assume a leadership role in a cooperative international exploration initiative. “(8) Developing United States human space flight capabilities to allow independent American access to the International Space Station, and to explore beyond low Earth orbit, is a strategically important national imperative, and all prudent steps should thus be taken to bring the Orion Crew Exploration Vehicle and Ares I Crew Launch Vehicle to full operational capability as soon as possible and to ensure the effective development of a United States heavy lift launch capability for missions beyond low Earth orbit. “(9) NASA’s scientific research activities have contributed much to the advancement of knowledge, provided societal benefits, and helped train the next generation of scientists and engineers, and those activities should continue to be an important priority. “(10) NASA should make a sustained commitment to a robust long-term technology development activity. Such investments represent the critically important ‘seed corn’ on which NASA’s ability to carry out challenging and productive missions in the future will depend. “(11) NASA, through its pursuit of challenging and relevant activities, can provide an important stimulus to the next generation to pursue careers in science, technology, engineering, and mathematics. “(12) Commercial activities have substantially contributed to the strength of both the United States space program and the national economy, and the development of a healthy and robust United States commercial space sector should continue to be encouraged. “(13) It is in the national interest for the United States to have an export control policy that protects the national security while also enabling the United States aerospace industry to compete effectively in the global market place and the United States to undertake cooperative programs in science and human space flight in an effective and efficient manner.”
@@ -122,6 +127,22 @@ In paragraph (1)(A), the word “Earth’s” is capitalized for consistency in 
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 20111 | [42 U.S.C. 2472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2472&num=0&edition=prelim). | Pub. L. 85–568, title II, § 202, July 29, 1958, 72 Stat. 429; Pub. L. 88–426, title III, § 305(12), Aug. 14, 1964, 78 Stat. 423. |
+
+#### Agency Information Technology and Cybersecurity
+Pub. L. 115–10, title VIII, §§ 811–813, Mar. 21, 2017, 131 Stat. 58–60, provided that: “SEC. 811. INFORMATION TECHNOLOGY GOVERNANCE.“(a) In General.—The Administrator [of the National Aeronautics and Space Administration] shall, in a manner that reflects the unique nature of NASA [National Aeronautics and Space Administration]’s mission and expertise—“(1) ensure the NASA Chief Information Officer, Mission Directorates, and Centers have appropriate roles in the management, governance, and oversight processes related to information technology operations and investments and information security programs for the protection of NASA systems; “(2) ensure the NASA Chief Information Officer has the appropriate resources and insight to oversee NASA information technology and information security operations and investments; “(3) provide an information technology program management framework to increase the efficiency and effectiveness of information technology investments, including relying on metrics for identifying and reducing potential duplication, waste, and cost; “(4) improve the operational linkage between the NASA Chief Information Officer and each NASA mission directorate, center, and mission support office to ensure both agency and mission needs are considered in agency-wide information technology and information security management and oversight; “(5) review the portfolio of information technology investments and spending, including information technology-related investments included as part of activities within NASA mission directorates that may not be considered information technology, to ensure investments are recognized and reported appropriately based on guidance from the Office of Management and Budget; “(6) consider appropriate revisions to the charters of information technology boards and councils that inform information technology investment and operation decisions; and “(7) consider whether the NASA Chief Information Officer should have a seat on any boards or councils described in paragraph (6). “(b) GAO Study.—“(1) Study.—The Comptroller General of the United States shall conduct a study of the effectiveness of the Administration’s Information Technology Governance in ensuring information technology resources are aligned with agency missions and are cost effective and secure. “(2) Contents.—The study shall include an assessment of—“(A) the resources available for overseeing Administration-wide information technology operations, investments, and security measures and the NASA Chief Information Officer’s visibility and involvement into information technology oversight and access to those resources; “(B) the effectiveness and challenges of the Administration’s information technology structure, decision making processes and authorities, including impacts on its ability to implement information security; and “(C) the impact of NASA Chief Information Officer approval authority over information technology investments that exceed a defined monetary threshold, including any potential impacts of such authority on the Administration’s missions, flights programs and projects, research activities, and Center operations. “(3) Report.—Not later than 1 year after the date of enactment of this Act [Mar. 21, 2017], the Comptroller General shall submit to the appropriate committees of Congress [Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate] a report detailing the results of the study under paragraph (1), including any recommendations. “SEC. 812. INFORMATION TECHNOLOGY STRATEGIC PLAN.“(a) In General.—Subject to subsection (b), the Administrator [of the National Aeronautics and Space Administration] shall develop an information technology strategic plan to guide NASA [National Aeronautics and Space Administration] information technology management and strategic objectives. “(b) Requirements.—In developing the strategic plan, the Administrator shall ensure that the strategic plan addresses—“(1) the deadline under [section 306(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306/a&num=0&edition=prelim), United States Code; and “(2) the requirements under [section 3506 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3506&num=0&edition=prelim), United States Code. “(c) Contents.—The strategic plan shall address, in a manner that reflects the unique nature of NASA’s mission and expertise—“(1) near and long-term goals and objectives for leveraging information technology; “(2) a plan for how NASA will submit to Congress of [sic] a list of information technology projects, including completion dates and risk level in accordance with guidance from the Office of Management and Budget; “(3) an implementation overview for an agency-wide approach to information technology investments and operations, including reducing barriers to cross-center collaboration; “(4) coordination by the NASA Chief Information Officer with centers and mission directorates to ensure that information technology policies are effectively and efficiently implemented across the agency; “(5) a plan to increase the efficiency and effectiveness of information technology investments, including a description of how unnecessarily duplicative, wasteful, legacy, or outdated information technology across NASA will be identified and eliminated, and a schedule for the identification and elimination of such information technology; “(6) a plan for improving the information security of agency information and agency information systems, including improving security control assessments and role-based security training of employees; and “(7) submission by NASA to Congress of information regarding high risk projects and cybersecurity risks. “(d) Congressional Oversight.—The Administrator shall submit to the appropriate committees of Congress [Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate] the strategic plan under subsection (a) and any updates thereto. “SEC. 813. CYBERSECURITY.“(a) Finding.—Congress finds that the security of NASA [National Aeronautics and Space Administration] information and information systems is vital to the success of the mission of the agency. “(b) Information Security Plan.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Mar. 21, 2017], the Administrator [of the National Aeronautics and Space Administration] shall implement the information security plan developed under paragraph (2) and take such further actions as the Administrator considers necessary to improve the information security system in accordance with this section. “(2) Information security plan.—Subject to paragraphs (3) and (4), the Administrator shall develop an agency-wide information security plan to enhance information security for NASA information and information infrastructure. “(3) Requirements.—In developing the plan under paragraph (2), the Administrator shall ensure that the plan—“(A) reflects the unique nature of NASA’s mission and expertise; “(B) is informed by policies, standards, guidelines, and directives on information security required for Federal agencies; “(C) is consistent with the standards and guidelines under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim), United States Code; and “(D) meets applicable National Institute of Standards and Technology information security standards and guidelines. “(4) Contents.—The plan shall address—“(A) an overview of the requirements of the information security system; “(B) an agency-wide risk management framework for information security; “(C) a description of the information security system management controls and common controls that are necessary to ensure compliance with information security-related requirements; “(D) an identification and assignment of roles, responsibilities, and management commitment for information security at the agency; “(E) coordination among organizational entities, including between each center, facility, mission directorate, and mission support office, and among agency entities responsible for different aspects of information security; “(F) the need to protect the information security of mission-critical systems and activities and high-impact and moderate-impact information systems; and “(G) a schedule of frequent reviews and updates, as necessary, of the plan.”
+
+#### Collaboration Among Mission Directorates
+Pub. L. 115–10, title VIII, § 821, Mar. 21, 2017, 131 Stat. 61, provided that:
+
+The Administrator [of the National Aeronautics and Space Administration] shall encourage an interdisciplinary approach among all NASA [National Aeronautics and Space Administration] mission directorates and divisions, whenever appropriate, for projects or missions—
+
+(1) to improve coordination, and encourage collaboration and early planning on scope;
+
+(2) to determine areas of overlap or alignment;
+
+(3) to find ways to leverage across divisional perspectives to maximize outcomes; and
+
+(4) to be more efficient with resources and funds.
 
 #### Users’ Advisory Group
 Pub. L. 101–611, title I, § 121, Nov. 16, 1990, 104 Stat. 3204, provided that: “(a) Establishment.—(1) The National Space Council shall establish a Users’ Advisory Group composed of non-Federal representatives of industries and other persons involved in aeronautical and space activities. “(2) The Vice President shall name a chairman of the Users’ Advisory Group. “(3) The National Space Council shall from time to time, but not less than once a year, meet with the Users’ Advisory Group. “(4) The function of the Users’ Advisory Group shall be to ensure that the interests of industries and other non-Federal entities involved in space activities, including in particular commercial entities, are adequately represented in the National Space Council. “(5) The Users’ Advisory Group may be assisted by personnel detailed to the National Space Council. “(b) Exemption.—The Users’ Advisory Group shall not be subject to section 14(a)(2) of the Federal Advisory Committee Act [5 U.S.C. App.].”
@@ -288,7 +309,7 @@ Sec. 8. Report. The Council shall submit an annual report setting forth its asse
 
 **(f) Cooperation With Federal Agencies and Others.—** In the performance of its functions, the Administration is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement, and on a similar basis to cooperate with other public and private agencies and instrumentalities in the use of services, equipment, and facilities. Each department and agency of the Federal Government shall cooperate fully with the Administration in making its services, equipment, personnel, and facilities available to the Administration, and any such department or agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, aeronautical and space vehicles, and supplies and equipment other than administrative supplies or equipment.
 
-**(g) Advisory Committees.—** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration.
+**(g) Advisory Committees.—** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration and Congress.
 
 **(h) Offices and Procedures.—** In the performance of its functions, the Administration is authorized to establish within the Administration such offices and procedures as may be appropriate to provide for the greatest possible coordination of its activities under this chapter with related scientific and other activities being carried on by other public and private agencies and organizations.
 
@@ -320,6 +341,9 @@ Sec. 8. Report. The Council shall submit an annual report setting forth its asse
 
 ### Statutory Notes
 
+#### Amendment of Subsection (g)
+Pub. L. 115–10, title VIII, § 835(d)(2), Mar. 21, 2017, 131 Stat. 69, provided that, effective Sept. 30, 2017, subsection (g) of this section is amended by striking “and Congress”. See 2017 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -343,7 +367,20 @@ Level III of the Executive Schedule, referred to in subsec. (b)(1), is set out i
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim) and Tables. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–10, § 835(d)(2), struck out “and Congress” after “advice to the Administration”.
+
+Pub. L. 115–10, § 835(d)(1), inserted “and Congress” after “advice to the Administration”.
+
 2015—Subsec. (n). Pub. L. 114–90 added subsec. (n).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–10, title VIII, § 835(d)(2), Mar. 21, 2017, 131 Stat. 69, provided that the amendment by section 835(d)(2) is effective Sept. 30, 2017.
+
+#### Collaboration
+Pub. L. 115–10, title V, § 517, Mar. 21, 2017, 131 Stat. 54, provided that: “The Administration [National Aeronautics and Space Administration] shall continue to develop first-of-a-kind instruments that, once proved, can be transitioned to other agencies for operations. Whenever responsibilities for the development of sensors or for measurements are transferred to the Administration from another agency, the Administration shall seek, to the extent possible, to be reimbursed for the assumption of such responsibilities.”
+
+#### Space Act Agreements
+Pub. L. 115–10, title VIII, § 841, Mar. 21, 2017, 131 Stat. 72, provided that: “(a) Sense of Congress.—It is the sense of Congress that, when used appropriately, Space Act Agreements can provide significant value in furtherance of NASA [National Aeronautics and Space Administration]’s mission. “(b) Funded Space Act Agreements.—To the extent appropriate, the Administrator [of the National Aeronautics and Space Administration] shall seek to maximize the value of contributions provided by other parties under a funded Space Act Agreement in order to advance NASA’s mission. “(c) Non-exclusivity.—“(1) In general.—The Administrator shall, to the greatest extent practicable, issue each Space Act Agreement—“(A) except as provided in paragraph (2), on a nonexclusive basis; “(B) in a manner that ensures all non-government parties have equal access to NASA resources; and “(C) exercising reasonable care not to reveal unique or proprietary information. “(2) Exclusivity.—If the Administrator determines an exclusive arrangement is necessary, the Administrator shall, to the greatest extent practicable, issue the Space Act Agreement—“(A) utilizing a competitive selection process when exclusive arrangements are necessary; and “(B) pursuant to public announcements when exclusive arrangements are necessary. “(d) Transparency.—The Administrator shall publicly disclose on the Administration’s website and make available in a searchable format each Space Act Agreement, including an estimate of committed NASA resources and the expected benefits to agency objectives for each agreement, with appropriate redactions for proprietary, sensitive, or classified information, not later than 60 days after such agreement is signed by the parties. “(e) Annual Reports.—“(1) Requirement.—Not later than 90 days after the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress [Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate] a report on the use of Space Act Agreement authority by the Administration during the previous fiscal year. “(2) Contents.—The report shall include for each Space Act Agreement in effect at the time of the report—“(A) an indication of whether the agreement is a reimbursable, non-reimbursable, or funded Space Act Agreement; “(B) a description of—“(i) the subject and terms; “(ii) the parties; “(iii) the responsible— “(I) Mission Directorate; “(II) Center; or “(III) headquarters element; “(iv) the value; “(v) the extent of the cost sharing among Federal Government and non-Federal sources; “(vi) the time period or schedule; and “(vii) all milestones; and “(C) an indication of whether the agreement was renewed during the previous fiscal year. “(3) Anticipated agreements.—The report shall include a list of all anticipated reimbursable, non-reimbursable, and funded Space Act Agreements for the upcoming fiscal year. “(4) Cumulative program benefits.—The report shall include, with respect to each Space Act Agreement covered by the report, a summary of—“(A) the technology areas in which research projects were conducted under that agreement; “(B) the extent to which the use of that agreement—“(i) has contributed to a broadening of the technology and industrial base available for meeting Administration needs; and “(ii) has fostered within the technology and industrial base new relationships and practices that support the United States; and “(C) the total amount of value received by the Federal Government during the fiscal year under that agreement.”
 
 #### Sense of Congress
 Pub. L. 114–90, title I, § 112(b), Nov. 25, 2015, 129 Stat. 711, provided that: “The National Aeronautics and Space Administration has a need to fly government astronauts (as defined in [section 50902 of title 51](./chapter-509-commercial-space-launch-activities.md#section-50902), United States Code, as amended) within commercial launch vehicles and reentry vehicles under chapter 509 of that title. This need was identified by the Secretary of Transportation and the Administrator of the National Aeronautics and Space Administration due to the intended use of commercial launch vehicles and reentry vehicles developed under the Commercial Crew Development Program, authorized in section 402 of the National Aeronautics and Space Administration Authorization Act of 2010 (124 Stat. 2820; Public Law 111–267). It is the sense of Congress that the authority delegated to the Administration by the amendment made by subsection (d) of this section [amending this section] should be used for that purpose.”
@@ -990,7 +1027,7 @@ Pub. L. 110–422, title XI, § 1105(a), Oct. 15, 2008, 122 Stat. 4809, provided
 
 (2) **Availability and use of funds for operating plan.—** — The availability and use of funds received under this section for the Administration’s operating plan.
 
-**(g) Sunset.—** The authority to enter into leases under this section shall expire 10 years after December 26, 2007. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+**(g) Sunset.—** The authority to enter into leases under this section shall expire December 31, 2018. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
 
 ### Statutory Notes
 
@@ -1004,12 +1041,16 @@ In subsection (f)(2), the word “Administration’s” is substituted for “Ag
 In subsection (g), the words “10 years after December 26, 2007” are substituted for “on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008” for consistency and to reflect the date of enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–10 substituted “December 31, 2018” for “10 years after December 26, 2007”.
+
 2011—Subsec. (b)(1). Pub. L. 112–55 designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Deposit of Proceeds
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. B, title III, May 5, 2017, 131 Stat. 214.
 
 Pub. L. 114–113, div. B, title III, Dec. 18, 2015, 129 Stat. 2317.
 
@@ -1068,6 +1109,167 @@ Pub. L. 111–117, div. B, title III, Dec. 16, 2009, 123 Stat. 3144.
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 20147 | [42 U.S.C. 2459](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2459&num=0&edition=prelim)l. | Pub. L. 85–568, title III, § 317, as added Pub. L. 109–155, title VII, § 705, Dec. 30, 2005, 119 Stat. 2936. |
+
+
+<a id="section-20148"></a>
+## § 20148. Indemnification; NASA launch services and reentry services
+**(a) In General.—** Under such regulations in conformity with this section as the Administrator shall prescribe taking into account the availability, cost, and terms of liability insurance, any contract between the Administration and a provider may provide that the United States will indemnify the provider against successful claims (including reasonable expenses of litigation or settlement) by third parties for death, bodily injury, or loss of or damage to property resulting from launch services and reentry services carried out under the contract that the contract defines as unusually hazardous or nuclear in nature, but only to the extent the total amount of successful claims related to the activities under the contract—
+
+(1) is more than the amount of insurance or demonstration of financial responsibility described in subsection (c)(3); and
+
+(2) is not more than the amount specified in section 50915(a)(1)(B).
+
+**(b) Terms of Indemnification.—** A contract made under subsection (a) that provides indemnification shall provide for—
+
+(1) notice to the United States of any claim or suit against the provider for death, bodily injury, or loss of or damage to property; and
+
+(2) control of or assistance in the defense by the United States, at its election, of that claim or suit and approval of any settlement.
+
+**(c) Liability Insurance of the Provider.—**
+
+(1) **In general.—** — The provider under subsection (a) shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
+
+  (A) a third party for death, bodily injury, or property damage or loss resulting from a launch service or reentry service carried out under the contract; and
+
+  (B) the United States Government for damage or loss to Government property resulting from a launch service or reentry service carried out under the contract.
+
+(2) **Maximum probable losses.—**
+
+  (A) *In general.—* — The Administrator shall determine the maximum probable losses under subparagraphs (A) and (B) of paragraph (1) not later than 90 days after the date that the provider requests such a determination and submits all information the Administrator requires.
+
+  (B) *Revisions.—* — The Administrator may revise a determination under subparagraph (A) of this paragraph if the Administrator determines the revision is warranted based on new information.
+
+(3) **Amount of insurance.—** — For the total claims related to one launch or reentry, a provider shall not be required to obtain insurance or demonstrate financial responsibility of more than—
+
+  (A)
+
+    (i) $500,000,000 under paragraph (1)(A); or
+
+    (ii) $100,000,000 under paragraph (1)(B); or
+
+  (B) the maximum liability insurance available on the world market at reasonable cost.
+
+(4) **Coverage.—** — An insurance policy or demonstration of financial responsibility under this subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services:
+
+  (A) The Government.
+
+  (B) Personnel of the Government.
+
+  (C) Related entities of the Government.
+
+  (D) Related entities of the provider.
+
+  (E) Government astronauts.
+
+**(d) No Indemnification Without Cross-waiver.—** Notwithstanding subsection (a), the Administrator may not indemnify a provider under this section unless there is a cross-waiver between the Administration and the provider as described in subsection (e).
+
+**(e) Cross-Waivers.—**
+
+(1) **In general.—** — The Administrator, on behalf of the United States and its departments, agencies, and instrumentalities, shall reciprocally waive claims with a provider under which each party to the waiver agrees to be responsible, and agrees to ensure that its related entities are responsible, for damage or loss to its property, or for losses resulting from any injury or death sustained by its employees or agents, as a result of activities arising out of the performance of the contract.
+
+(2) **Limitation.—** — The waiver made by the Government under paragraph (1) shall apply only to the extent that the claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (c)(1)(B).
+
+**(f) Willful Misconduct.—** Indemnification under subsection (a) may exclude claims resulting from the willful misconduct of the provider or its related entities.
+
+**(g) Certification of Just and Reasonable Amount.—** No payment may be made under subsection (a) unless the Administrator or the Administrator’s designee certifies that the amount is just and reasonable.
+
+**(h) Payments.—**
+
+(1) **In general.—** — Upon the approval by the Administrator, payments under subsection (a) may be made from funds appropriated for such payments.
+
+(2) **Limitation.—** — The Administrator shall not approve payments under paragraph (1), except to the extent provided in an appropriation law or to the extent additional legislative authority is enacted providing for such payments.
+
+(3) **Additional appropriations.—** — If the Administrator requests additional appropriations to make payments under this subsection, then the request for those appropriations shall be made in accordance with the procedures established under section 50915.
+
+**(i) Rules of Construction.—**
+
+(1) **In general.—** — The authority to indemnify under this section shall not create any rights in third persons that would not otherwise exist by law.
+
+(2) **Other authority.—** — Nothing in this section may be construed as prohibiting the Administrator from indemnifying a provider or any other NASA contractor under other law, including under Public Law 85–804 ([50 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1431&num=0&edition=prelim) et seq.).
+
+(3) **Anti-deficiency act.—** — Notwithstanding any other provision of this section—
+
+  (A) all obligations under this section are subject to the availability of funds; and
+
+  (B) nothing in this section may be construed to require obligation or payment of funds in violation of sections 1341, 1342, 1349 through 1351, and 1511 through 1519 of title 31, United States Code (commonly referred to as the “Anti-Deficiency Act”).
+
+**(j) Relationship to Other Laws.—** The Administrator may not provide indemnification under this section for an activity that requires a license or permit under chapter 509.
+
+**(k) Definitions.—** In this section:
+
+(1) **Government astronaut.—** — The term “government astronaut” has the meaning given the term in section 50902.
+
+(2) **Launch services.—** — The term “launch services” has the meaning given the term in section 50902.
+
+(3) **Provider.—** — The term “provider” means a person that provides domestic launch services or domestic reentry services to the Government.
+
+(4) **Reentry services.—** — The term “reentry services” has the meaning given the term in section 50902.
+
+(5) **Related entity.—** — The term “related entity” means a contractor or subcontractor.
+
+(6) **Third party.—** — The term “third party” means a person except—
+
+  (A) the United States Government;
+
+  (B) related entities of the Government involved in launch services or reentry services;
+
+  (C) a provider;
+
+  (D) related entities of the provider involved in launch services or reentry services; or
+
+  (E) a government astronaut.
+
+### Statutory Notes
+
+#### References in Text
+Public Law 85–804, referred to in subsec. (i)(2), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-20149"></a>
+## § 20149. Medical monitoring and research relating to human space flight
+**(a) In General.—** Notwithstanding any other provision of law, the Administrator may provide for—
+
+(1) the medical monitoring and diagnosis of a former United States government astronaut or a former payload specialist for conditions that the Administrator considers potentially associated with human space flight; and
+
+(2) the treatment of a former United States government astronaut or a former payload specialist for conditions that the Administrator considers associated with human space flight, including scientific and medical tests for psychological and medical conditions.
+
+**(b) Requirements.—**
+
+(1) **No cost sharing.—** — The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without any deductible, copayment, or other cost sharing obligation.
+
+(2) **Access to local services.—** — The medical monitoring, diagnosis, and treatment described in subsection (a) may be provided by a local health care provider if it is unadvisable due to the health of the applicable former United States government astronaut or former payload specialist for that former United States government astronaut or former payload specialist to travel to the Lyndon B. Johnson Space Center, as determined by the Administrator.
+
+(3) **Secondary payment.—** — Payment or reimbursement for the medical monitoring, diagnosis, or treatment described in subsection (a) shall be secondary to any obligation of the United States Government or any third party under any other provision of law or contractual agreement to pay for or provide such medical monitoring, diagnosis, or treatment. Any costs for items and services that may be provided by the Administrator for medical monitoring, diagnosis, or treatment under subsection (a) that are not paid for or provided under such other provision of law or contractual agreement, due to the application of deductibles, copayments, coinsurance, other cost sharing, or otherwise, are reimbursable by the Administrator on behalf of the former United States government astronaut or former payload specialist involved to the extent such items or services are authorized to be provided by the Administrator for such medical monitoring, diagnosis, or treatment under subsection (a).
+
+(4) **Conditional payment.—** — The Administrator may provide for conditional payments for or provide medical monitoring, diagnosis, or treatment described in subsection (a) that is obligated to be paid for or provided by the United States or any third party under any other provision of law or contractual agreement to pay for or provide such medical monitoring, diagnosis, or treatment if—
+
+  (A) payment for (or the provision of) such medical monitoring, diagnosis, or treatment services has not been made (or provided) or cannot reasonably be expected to be made (or provided) promptly by the United States or such third party, respectively; and
+
+  (B) such payment (or such provision of services) by the Administrator is conditioned on reimbursement by the United States or such third party, respectively, for such medical monitoring, diagnosis, or treatment.
+
+**(c) Exclusions.—** The Administrator may not—
+
+(1) provide for medical monitoring or diagnosis of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not potentially associated with human space flight;
+
+(2) provide for treatment of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not associated with human space flight; or
+
+(3) require a former United States government astronaut or former payload specialist to participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
+
+**(d) Privacy.—** Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of all medical records generated under subsection (a) and accessible to the Administration.
+
+**(e) Regulations.—** The Administrator shall promulgate such regulations as are necessary to carry out this section.
+
+**(f) Definition of United States Government Astronaut.—** In this section, the term “United States government astronaut” has the meaning given the term “government astronaut” in section 50902, except it does not include an individual who is an international partner astronaut.
+
+**(g) Data Use and Disclosure.—** The Administrator may use or disclose data acquired in the course of medical monitoring, diagnosis, or treatment of a former United States government astronaut or a former payload specialist under subsection (a), in accordance with subsection (d). Former United States government astronaut or former payload specialist participation in medical monitoring, diagnosis, or treatment under subsection (a) shall constitute consent for the Administrator to use or disclose such data.
+
+### Statutory Notes
+
+#### Annual Reports
+Pub. L. 115–10, title IV, § 443(c), Mar. 21, 2017, 131 Stat. 47, provided that: “(1) In general.—Each fiscal year, not later than the date of submission of the President’s annual budget request for that fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Administrator [of the National Aeronautics and Space Administration] shall publish a report, in accordance with applicable Federal privacy laws, on the activities of the Administration [National Aeronautics and Space Administration] under [section 20149 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20149), United States Code. “(2) Contents.—Each report under paragraph (1) shall include a detailed cost accounting of the Administration’s activities under [section 20149 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20149), United States Code, and a 5-year budget estimate. “(3) Submission to congress.—The Administrator shall submit to the appropriate committees of Congress [Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate] each report under paragraph (1) not later than the date of submission of the President’s annual budget request for that fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code.”
+
+#### Inspector General Audit
+Pub. L. 115–10, title IV, § 443(f), Mar. 21, 2017, 131 Stat. 47, provided that: “The Inspector General of NASA [National Aeronautics and Space Administration] shall periodically audit or review, as the Inspector General considers necessary to prevent waste, fraud, and abuse, the activities of the Administration [National Aeronautics and Space Administration] under [section 20149 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20149), United States Code.”
 
 
 <a id="section-20161"></a>

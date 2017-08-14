@@ -7,7 +7,7 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
 <a id="section-80c"></a>
-## § 80c. Liaison between Securities Exchange Commission and Small Business Administration
+## § 80c. Liaison between Securities and Exchange Commission and Small Business Administration
 **(a) Studies on needs, problems, and costs of businesses; availability** The Securities and Exchange Commission shall gather, analyze, and make available to the public, information with respect to the capital formation needs, and the problems and costs involved with new, small, medium-sized, and independent businesses.
 
 **(b) Availability of studies to Small Business Administration** The Commission shall make the results of such studies available to the Small Business Administration and otherwise have regular communication and liaison with such Administration in these matters.
@@ -23,7 +23,7 @@ Pub. L. 96–477, title V, § 501, Oct. 21, 1980, 94 Stat. 2291, provided that: 
 
 <a id="section-80c-1"></a>
 ## § 80c–1. Annual government-business forum on capital formation
-**(a) Responsibility of Securities Exchange Commission** Pursuant to the consultation called for in [section 80c of this title](./chapter-2e-omnibus-small-business-capital-formation.md#section-80c), the Securities and Exchange Commission (acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee) shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
+**(a) Responsibility of Securities and Exchange Commission** Pursuant to the consultation called for in [section 80c of this title](./chapter-2e-omnibus-small-business-capital-formation.md#section-80c), the Securities and Exchange Commission (acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee) shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
 
 **(b) Participation in forum planning** The Commission shall invite other Federal agencies, such as the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Small Business Administration, organizations representing State securities commissioners, and leading small business and professional organizations concerned with capital formation, to participate in the planning for such forums.
 

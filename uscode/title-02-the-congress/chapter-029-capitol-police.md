@@ -2,7 +2,7 @@
 title: 2
 chapter: '29'
 heading: CAPITOL POLICE
-section_count: 58
+section_count: 60
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -41,6 +41,9 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 #### Effective Date of 1979 Amendment
 Pub. L. 96–152, § 7, Dec. 20, 1979, 93 Stat. 1100, provided that: “This Act [enacting [section 1902 of this title](./chapter-029-capitol-police.md#section-1902) and amending this section] shall take effect on the first day of the second month after the month in which this Act is enacted [Dec. 1979].”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–45, § 1, Aug. 4, 2017, 131 Stat. 956, provided that: “This Act [amending sections 1951, 1952, and 1954 of this title] may be cited as the ‘Wounded Officers Recovery Act of 2017’.”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–145, § 1, Mar. 4, 2010, 124 Stat. 49, provided that: “This Act [see Tables for classification] may be cited as the ‘United States Capitol Police Administrative Technical Corrections Act of 2009’.”
@@ -342,7 +345,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 <a id="section-1906"></a>
 ## § 1906. Disposal of surplus property
-**(a) In general** Within the limits of available appropriations, the Capitol Police may dispose of surplus or obsolete property of the Capitol Police by interagency transfer, donation, sale, trade-in, or other appropriate method.
+**(a) In general** Within the limits of available appropriations, the Capitol Police may dispose of surplus or obsolete property of the Capitol Police, and property which is in the possession of the Capitol Police because it has been disposed, forfeited, voluntarily abandoned, or unclaimed, by interagency transfer, donation, sale, trade-in, or other appropriate method.
 
 **(b) Amounts received** Any amounts received by the Capitol Police from the disposition of property under subsection (a) shall be credited to the account established for the general expenses of the Capitol Police, and shall be available to carry out the purposes of such account during the fiscal year in which the amounts are received and the following fiscal year.
 
@@ -352,6 +355,12 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–31 substituted “surplus or obsolete property of the Capitol Police, and property which is in the possession of the Capitol Police because it has been disposed, forfeited, voluntarily abandoned, or unclaimed,” for “surplus or obsolete property of the Capitol Police”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–31, div. I, title I, § 1001(c), May 5, 2017, 131 Stat. 578, provided that: “This section [enacting [section 1982 of this title](./chapter-029-capitol-police.md#section-1982) and amending this section] and the amendment made by this section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
 
 
 <a id="section-1907"></a>
@@ -1118,27 +1127,38 @@ Mar. 3, 1901, ch. 830, § 1, 31 Stat. 963.
 <a id="section-1951"></a>
 ## § 1951. Establishment of United States Capitol Police Memorial Fund
 
-There is hereby established in the Treasury of the United States the United States Capitol Police Memorial Fund (hereafter in this part referred to as the “Fund”). All amounts received by the Capitol Police Board which are designated for deposit into the Fund shall be deposited into the Fund.
+There is hereby established in the Treasury of the United States the United States Capitol Police Memorial Fund (hereafter in this part referred to as the “Fund”). All amounts received by the Capitol Police Board which are designated for deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017, shall be deposited into the Fund.
 
 ### Statutory Notes
 
 #### Codification
 Section was classified to section 207c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
+#### Amendments
+2017—Pub. L. 115–45 substituted “deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017,” for “deposit into the Fund”.
+
 
 <a id="section-1952"></a>
-## § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut
-
-Subject to the regulations issued under [section 1954 of this title](./chapter-029-capitol-police.md#section-1954), amounts in the Fund shall be paid to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police as follows:
+## § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees
+**(a) In general** Except to the extent used or reserved for use under subsection (b) and subject to the regulations issued under [section 1954 of this title](./chapter-029-capitol-police.md#section-1954), amounts in the Fund shall be paid to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police as follows:
 
 (1) Fifty percent of such amounts shall be paid to the widow and children of Detective Gibson.
 
 (2) Fifty percent of such amounts shall be paid to the widow and children of Private First Class Chestnut.
 
+**(b) Payments for employees killed in the line of duty or sustaining serious line-of-duty injuries** In addition to the amounts paid under subsection (a), and in accordance with the regulations issued under [section 1954(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1954/b&num=0&edition=prelim), amounts in the Fund may be paid to—
+
+(1) families of employees of the United States Capitol Police who were killed in the line of duty; or
+
+(2) employees of the United States Capitol Police who have sustained serious line-of-duty injuries.
+
 ### Statutory Notes
 
 #### Codification
 Section was classified to section 207c–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+2017—Pub. L. 115–45 inserted “and certain other United States Capitol Police employees” at end of section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “Except to the extent used or reserved for use under subsection (b) and subject to the regulations” for “Subject to the regulations”, and added subsec. (b).
 
 
 <a id="section-1953"></a>
@@ -1157,13 +1177,23 @@ Section was classified to section 207c–2 of former Title 40, prior to the enac
 
 <a id="section-1954"></a>
 ## § 1954. Administration by Capitol Police Board
+**(a) In general** The Capitol Police Board shall administer and manage the Fund (including establishing the timing and manner of making payments under [section 1952 of this title](./chapter-029-capitol-police.md#section-1952)) in accordance with regulations issued by the Board, subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives. Under such regulations, the Board shall pay any balance remaining in the Fund upon the expiration of the 6-month period which begins on August 7, 1998, to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut in accordance with [section 1952 of this title](./chapter-029-capitol-police.md#section-1952), and shall disburse any amounts in the Fund after the expiration of such period in such manner as the Board may establish. Under such regulations, and using amounts in the Fund, a financial adviser or trustee, as appropriate, for the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police shall be appointed to advise the families respecting disbursements to them of amounts in the Fund.
 
-The Capitol Police Board shall administer and manage the Fund (including establishing the timing and manner of making payments under [section 1952 of this title](./chapter-029-capitol-police.md#section-1952)) in accordance with regulations issued by the Board, subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives. Under such regulations, the Board shall pay any balance remaining in the Fund upon the expiration of the 6-month period which begins on August 7, 1998, to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut in accordance with [section 1952 of this title](./chapter-029-capitol-police.md#section-1952), and shall disburse any amounts in the Fund after the expiration of such period in such manner as the Board may establish. Under such regulations, and using amounts in the Fund, a financial adviser or trustee, as appropriate, for the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police shall be appointed to advise the families respecting disbursements to them of amounts in the Fund.
+**(b) Regulations governing payments for employees killed in the line of duty or sustaining serious line-of-duty injuries** In carrying out subsection (a), the Capitol Police Board shall issue specific regulations governing the use of the Fund for making payments to families of employees of the United States Capitol Police who were killed in the line of duty and employees of the United States Capitol Police who have sustained serious line-of-duty injuries (as authorized under [section 1952(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1952/b&num=0&edition=prelim)), including regulations—
+
+(1) establishing the conditions under which the family of an employee or an employee is eligible to receive such a payment;
+
+(2) providing for the amount, timing, and manner of such payments; and
+
+(3) ensuring that any such payment is in addition to, and does not otherwise affect, any other form of compensation payable to the family of an employee or the employee, including benefits for workers’ compensation under chapter 81 of title 5.
 
 ### Statutory Notes
 
 #### Codification
 Section was classified to section 207c–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+2017—Pub. L. 115–45 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
@@ -1720,6 +1750,33 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
 
+<a id="section-1975a"></a>
+## § 1975a. Overseas travel to accompany members of House leadership
+**(a) Travel authorized**
+
+(1) **In general** — A member of the Capitol Police may travel outside of the United States for official duty if—
+
+  (A) that travel is with, or in preparation for, travel of a Member of the House of Representatives who holds a position in a House Leadership Office, including travel of the Member as part of a congressional delegation; and
+
+  (B) the Sergeant at Arms of the House of Representatives gives prior approval to the travel of the member of the Capitol Police.
+
+(2) **Definitions** — In this subsection—
+
+  (A) the term “House Leadership office” 11 So in original. Probably should be capitalized. means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
+
+  (B) the term “Member of the House of Representatives” includes a Delegate or Resident Commissioner to the Congress; and
+
+  (C) the term “United States” means each of the several States of the United States, the District of Columbia, and the territories and possessions of the United States.
+
+**(b) Reimbursement from Sergeant at Arms**
+
+(1) **In general** — From amounts made available for salaries and expenses of the Office of the Sergeant at Arms of the House of Representatives, the Sergeant at Arms of the House of Representatives shall reimburse the Capitol Police for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section.
+
+(2) **Use of amounts received** — Any amounts received by the Capitol Police for reimbursements under paragraph (1) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
+
+**(c) Effective date** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+
 <a id="section-1976"></a>
 ## § 1976. Acceptance of donations of animals
 **(a) In general** The Capitol Police may accept the donation of animals to be used in the canine units of the Capitol Police.
@@ -1870,3 +1927,17 @@ Section is from the Legislative Branch Appropriations Act, 2008, which is div. H
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–145, § 2(d)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendment made by this subsection [amending this section] shall take effect 30 days after the date of enactment of this Act [Mar. 4, 2010] and apply to payments made on or after that effective date.”
+
+
+<a id="section-1982"></a>
+## § 1982. Acceptance of surplus or obsolete property
+
+Upon notifying the Committees of Appropriations of the House of Representatives and Senate, the United States Capitol Police may accept surplus or obsolete property offered by another Federal department, agency, or office.
+
+### Statutory Notes
+
+#### Codification
+Section is from the Legislative Branch Appropriations Act, 2017, which is div. I of the Consolidated Appropriations Act, 2017.
+
+#### Effective Date
+Section applicable with respect to fiscal year 2017 and each succeeding fiscal year, see section 1001(c) of Pub. L. 115–31, set out as an Effective Date of 2017 Amendment note under [section 1906 of this title](./chapter-029-capitol-police.md#section-1906).

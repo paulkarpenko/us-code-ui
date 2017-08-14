@@ -1901,6 +1901,12 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 
   (G) To a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–3&num=0&edition=prelim)), to the extent necessary to prevent misuse and diversion of prescription medicines.
 
+  (H)
+
+    (i) To a non-Department entity (including private entities and other Federal agencies) that provides hospital care or medical services to veterans as authorized by the Secretary.
+
+    (ii) An entity to which a record is disclosed under this subparagraph may not redisclose or use such record for a purpose other than that for which the disclosure was made.
+
 (3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to [section 7334 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7334).
 
 **(c)** Except as authorized by a court order granted under subsection (b)(2)(D), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against, or to conduct any investigation of, a patient or subject.
@@ -1928,6 +1934,8 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(2)(H). Pub. L. 115–26 added subpar. (H).
+
 2011—Subsec. (b)(2)(G). Pub. L. 112–74 added subpar. (G).
 
 2010—Subsec. (b)(2)(F). Pub. L. 111–163 added subpar. (F).

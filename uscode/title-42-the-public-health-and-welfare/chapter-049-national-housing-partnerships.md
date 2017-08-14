@@ -77,7 +77,7 @@ The corporation shall have the power to create and issue the number of shares st
 
 **(d) Labor standards** Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
 
-**(e) Maximum combined outstanding equity commitment** The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
+**(e) Maximum combined outstanding equity commitment** The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
 
 ### Statutory Notes
 

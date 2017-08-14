@@ -4818,7 +4818,7 @@ A prior section 6433, Pub. L. 89–10, title I, § 1413, as added Pub. L. 103–
 
 (18) describes any additional services to be provided to children and youth, such as career counseling, distance learning, and assistance in securing student loans and grants;
 
-(19) provides an assurance that the program under this subpart will be coordinated with any programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.) or other comparable programs, if applicable; and
+(19) provides an assurance that the program under this subpart will be coordinated with any programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.] or other comparable programs, if applicable; and
 
 (20) describes how the State agency will, to the extent feasible—
 
@@ -4831,7 +4831,7 @@ A prior section 6433, Pub. L. 89–10, title I, § 1413, as added Pub. L. 103–
 #### References in Text
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(8), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c)(19), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c)(19), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 6434, Pub. L. 89–10, title I, § 1414, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3593; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(B), (f)(13)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to State plan and State agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -5058,7 +5058,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 (9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] and career and technical education programs serving at-risk children and youth;
 
-(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.] and other comparable programs, if applicable;
+(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.] and other comparable programs, if applicable;
 
 (11) as appropriate, a description of how schools will work with probation officers to assist in meeting the needs of children and youth returning from correctional facilities;
 
@@ -5071,7 +5071,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 #### References in Text
 The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 6453, Pub. L. 89–10, title I, § 1423, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3598; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(C), (f)(13)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to local educational agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -5161,7 +5161,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 (9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.], and career and technical education funds;
 
-(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.] and other comparable programs, if applicable;
+(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.] and other comparable programs, if applicable;
 
 (11) if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth;
 
@@ -5176,7 +5176,7 @@ The Individuals with Disabilities Education Act, referred to in par. (1), is tit
 
 The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 6455, Pub. L. 89–10, title I, § 1425, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3599; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(D), (f)(13)(D)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to program requirements for correctional facilities receiving funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -16198,7 +16198,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d), is 
 Section 386 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is section 386 of Pub. L. 102–484, which is set out as a note below.
 
 #### Prior Provisions
-A prior section 7003 of Pub. L. 89—10 was classified to [section 3283 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3283&num=0&edition=prelim) prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+A prior section 7003 of Pub. L. 89–10 was classified to [section 3283 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3283&num=0&edition=prelim) prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
 2016—Subsec. (b)(2)(B)(i)(I). Pub. L. 114–328, § 579(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “is a local educational agency—

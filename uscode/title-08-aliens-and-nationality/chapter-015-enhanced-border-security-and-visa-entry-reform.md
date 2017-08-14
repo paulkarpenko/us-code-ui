@@ -2,7 +2,7 @@
 title: 8
 chapter: '15'
 heading: ENHANCED BORDER SECURITY AND VISA ENTRY REFORM
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8&num=0&edition=prelim
 ---
@@ -202,26 +202,54 @@ Pub. L. 108–458, title V, subtitle A, Dec. 17, 2004, 118 Stat. 3732, provided 
 
 **(c) Surcharge** The Department of State is authorized to charge a surcharge of $10, in addition to the machine-readable visa fee, for issuing a machine-readable visa in a nonmachine-readable passport.
 
-**(d) Availability of collected fees** Notwithstanding any other provision of law, amounts collected as fees described in this section shall be credited as an offsetting collection to any appropriation for the Department of State to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.
+**(d) Availability of collected fees** Notwithstanding any other provision of law, amounts collected as fees described in this section shall be deposited in the Consular and Border Security Programs account to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.
 
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 103 of Pub. L. 107–173. Subsec. (a) of section 103 of Pub. L. 107–173 amended provisions set out as a note under [section 1351 of this title](./chapter-012-immigration-and-nationality.md#section-1351).
 
+#### Amendments
+2017—Subsec. (d). Pub. L. 115–31 substituted “deposited in the Consular and Border Security Programs account” for “credited as an offsetting collection to any appropriation for the Department of State”.
 
-<a id="section-1721"></a>
-## § 1721. Surcharges related to consular services
 
-Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: Provided, That funds collected pursuant to this authority shall be credited to this account, and shall be available until expended for the purposes of such account: Provided further, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
+<a id="section-1715"></a>
+## § 1715. Surcharges related to consular services
+
+Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: Provided, That funds collected pursuant to this authority shall be deposited in the Consular and Border Security Programs account, and shall be available until expended for the purposes of such account: Provided further, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
 
 ### Statutory Notes
 
 #### Codification
 Section appears under the headings “Administration of Foreign Affairs” and “Diplomatic and Consular Programs” in title IV of div. B of Pub. L. 108–447. It was enacted as part of the Department of State and Related Agency Appropriations Act, 2005, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, and as part of the Consolidated Appropriations Act, 2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
+#### Amendments
+2017—Pub. L. 115–31 substituted “deposited in the Consular and Border Security Programs account” for “credited to this account”.
+
 #### Authority to Administratively Amend Surcharges
 Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In General.—Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph under the heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) [this section]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004. “(b) Requirements.—In carrying out subsection (a) and the provision of law described in such subsection, the Secretary shall meet the following requirements:“(1) The amounts of the surcharges shall be reasonably related to the costs of providing services in connection with the activity or item for which the surcharges are charged. “(2) The aggregate amount of surcharges collected may not exceed the aggregate amount obligated and expended for the costs related to consular services in support of enhanced border security incurred in connection with the activity or item for which the surcharges are charged. “(3) A surcharge may not be collected except to the extent the surcharge will be obligated and expended to pay the costs related to consular services in support of enhanced border security incurred in connection with the activity or item for which the surcharge is charged. “(4) A surcharge shall be available for obligation and expenditure only to pay the costs related to consular services in support of enhanced border security incurred in providing services in connection with the activity or item for which the surcharge is charged.”
+
+
+<a id="section-1721"></a>
+## § 1721. Consular and Border Security Programs
+**(a) Separate fund.—** There is established in the Treasury a separate fund to be known as the “Consular and Border Security Programs” account into which the following fees shall be deposited for the purposes of the consular and border security programs.
+
+**(b) to (g) Omitted**
+
+**(h) Transfer of funds**
+
+(1) The unobligated balances of amounts available from fees referenced under this section may be transferred to the Consular and Border Security Programs account.
+
+(2) Funds deposited in or transferred to the Consular and Border Security Programs account may be transferred between funds appropriated under the heading “Administration of Foreign Affairs”.
+
+(3) The transfer authorities in this section shall be in addition to any other transfer authority available to the Department of State.
+
+**(i) Effective date** The amendments made by this section shall take effect no later than October 1, 2018, and shall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section214&num=0&edition=prelim), Aliens and Nationality, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section214&num=0&edition=prelim).
 
 
 <a id="section-1722"></a>

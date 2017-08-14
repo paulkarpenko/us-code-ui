@@ -213,6 +213,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### References in Text
 The Patient Protection and Affordable Care Act, referred to in subsecs. (d)(2)(A), (e)(1)(A), (2), and (f)(5), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. Sections 1311(d)(4)(H) and 1412(b)(1)(B) of the Act are classified to sections 18031(d)(4)(H) and 18082(b)(1)(B), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
 

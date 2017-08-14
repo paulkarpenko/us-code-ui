@@ -116,7 +116,7 @@ Section 6(b)(3) of Pub. L. 100–430 provided that: “For the purposes of this 
 
 <a id="section-3603"></a>
 ## § 3603. Effective dates of certain prohibitions
-**(a) Application to certain described dwellings** Subject to the provisions of subsection (b) of this section and [section 3607 of this title](./chapter-045-fair-housing.md#section-3607), the prohibitions against discrimination in the sale or rental of housing set forth in [section 3604 of this title](./chapter-045-fair-housing.md#section-3604) shall apply:
+**(a) Application to certain described dwellings** Subject to the provisions of subsection (b) and [section 3607 of this title](./chapter-045-fair-housing.md#section-3607), the prohibitions against discrimination in the sale or rental of housing set forth in [section 3604 of this title](./chapter-045-fair-housing.md#section-3604) shall apply:
 
 (1) Upon enactment of this subchapter, to—
 
@@ -128,7 +128,7 @@ Section 6(b)(3) of Pub. L. 100–430 provided that: “For the purposes of this 
 
   (D) dwellings provided by the development or the redevelopment of real property purchased, rented, or otherwise obtained from a State or local public agency receiving Federal financial assistance for slum clearance or urban renewal with respect to such real property under loan or grant contracts entered into after November 20, 1962.
 
-(2) After December 31, 1968, to all dwellings covered by paragraph (1) and to all other dwellings except as exempted by subsection (b) of this section.
+(2) After December 31, 1968, to all dwellings covered by paragraph (1) and to all other dwellings except as exempted by subsection (b).
 
 **(b) Exemptions** Nothing in [section 3604 of this title](./chapter-045-fair-housing.md#section-3604) (other than subsection (c)) shall apply to—
 
@@ -136,7 +136,7 @@ Section 6(b)(3) of Pub. L. 100–430 provided that: “For the purposes of this 
 
 (2) rooms or units in dwellings containing living quarters occupied or intended to be occupied by no more than four families living independently of each other, if the owner actually maintains and occupies one of such living quarters as his residence.
 
-**(c) Business of selling or renting dwellings defined** For the purposes of subsection (b) of this section, a person shall be deemed to be in the business of selling or renting dwellings if—
+**(c) Business of selling or renting dwellings defined** For the purposes of subsection (b), a person shall be deemed to be in the business of selling or renting dwellings if—
 
 (1) he has, within the preceding twelve months, participated as principal in three or more transactions involving the sale or rental of any dwelling or any interest therein, or
 
@@ -391,9 +391,9 @@ Pub. L. 102–550, title IX, § 919, Oct. 28, 1992, 106 Stat. 3883, provided tha
 
 (5) administer the programs and activities relating to housing and urban development in a manner affirmatively to further the policies of this subchapter; and
 
-(6) annually report to the Congress, and make available to the public, data on the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) of this section which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
+(6) annually report to the Congress, and make available to the public, data on the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
 
-**(f) Provisions of law applicable to Department programs** The provisions of law and Executive orders to which subsection (e)(6) of this section applies are—
+**(f) Provisions of law applicable to Department programs** The provisions of law and Executive orders to which subsection (e)(6) applies are—
 
 (1) title VI of the Civil Rights Act of 1964 [[42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) et seq.];
 
@@ -629,7 +629,7 @@ William J. Clinton.
 ## § 3608a. Collection of certain data
 **(a) In general** To assess the extent of compliance with Federal fair housing requirements (including the requirements established under title VI of Public Law 88–352 [[42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) et seq.] and title VIII of Public Law 90–284 [[42 U.S.C. 3601](./chapter-045-fair-housing.md#section-3601) et seq.]), the Secretary of Agriculture shall collect, not less than annually, data on the racial and ethnic characteristics of persons eligible for, assisted, or otherwise benefiting under each community development, housing assistance, and mortgage and loan insurance and guarantee program administered by such Secretary. Such data shall be collected on a building by building basis if the Secretary determines such collection to be appropriate.
 
-**(b) Reports to Congress** The Secretary of Agriculture shall include in the annual report of such Secretary to the Congress a summary and evaluation of the data collected by such Secretary under subsection (a) of this section during the preceding year.
+**(b) Reports to Congress** The Secretary of Agriculture shall include in the annual report of such Secretary to the Congress a summary and evaluation of the data collected by such Secretary under subsection (a) during the preceding year.
 
 ### Statutory Notes
 
@@ -675,9 +675,9 @@ Immediately after April 11, 1968, the Secretary shall commence such educational 
 
     (iii) each respondent may file, not later than 10 days after receipt of notice from the Secretary, an answer to such complaint; and
 
-    (iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), unless it is impracticable to do so.
+    (iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), unless it is impracticable to do so.
 
-  (C) If the Secretary is unable to complete the investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
+  (C) If the Secretary is unable to complete the investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
   (D) Complaints and answers shall be under oath or affirmation, and may be reasonably and fairly amended at any time.
 
@@ -765,7 +765,7 @@ Immediately after April 11, 1968, the Secretary shall commence such educational 
 
 **(g) Reasonable cause determination and effect**
 
-(1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
+(1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
 (2)
 
@@ -777,7 +777,7 @@ Immediately after April 11, 1968, the Secretary shall commence such educational 
 
     (ii) shall be based on the final investigative report; and
 
-    (iii) need not be limited to the facts or grounds alleged in the complaint filed under subsection (a) of this section.
+    (iii) need not be limited to the facts or grounds alleged in the complaint filed under subsection (a).
 
   (C) If the Secretary determines that the matter involves the legality of any State or local zoning or other land use law or ordinance, the Secretary shall immediately refer the matter to the Attorney General for appropriate action under [section 3614 of this title](./chapter-045-fair-housing.md#section-3614), instead of issuing such charge.
 
@@ -811,11 +811,11 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 **(c) Criminal penalties**
 
-(1) Any person who willfully fails or neglects to attend and testify or to answer any lawful inquiry or to produce records, documents, or other evidence, if it is in such person’s power to do so, in obedience to the subpoena or other lawful order under subsection (a) of this section, shall be fined not more than $100,000 or imprisoned not more than one year, or both.
+(1) Any person who willfully fails or neglects to attend and testify or to answer any lawful inquiry or to produce records, documents, or other evidence, if it is in such person’s power to do so, in obedience to the subpoena or other lawful order under subsection (a), shall be fined not more than $100,000 or imprisoned not more than one year, or both.
 
 (2) Any person who, with intent thereby to mislead another person in any proceeding under this subchapter—
 
-  (A) makes or causes to be made any false entry or statement of fact in any report, account, record, or other document produced pursuant to subpoena or other lawful order under subsection (a) of this section;
+  (A) makes or causes to be made any false entry or statement of fact in any report, account, record, or other document produced pursuant to subpoena or other lawful order under subsection (a);
 
   (B) willfully neglects or fails to make or to cause to be made full, true, and correct entries in such reports, accounts, records, or other documents; or
 
@@ -833,9 +833,9 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 <a id="section-3612"></a>
 ## § 3612. Enforcement by Secretary
-**(a) Election of judicial determination** When a charge is filed under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610), a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under [section 3610(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3610/h&num=0&edition=prelim) or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
+**(a) Election of judicial determination** When a charge is filed under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610), a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) in lieu of a hearing under subsection (b). The election must be made not later than 20 days after the receipt by the electing person of service under [section 3610(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3610/h&num=0&edition=prelim) or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
 
-**(b) Administrative law judge hearing in absence of election** If an election is not made under subsection (a) of this section with respect to a charge filed under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610), the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610). The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim). The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
+**(b) Administrative law judge hearing in absence of election** If an election is not made under subsection (a) with respect to a charge filed under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610), the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under [section 3610 of this title](./chapter-045-fair-housing.md#section-3610). The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim). The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
 
 **(c) Rights of parties** At a hearing under this section, each party may appear in person, be represented by counsel, present evidence, cross-examine witnesses, and obtain the issuance of subpoenas under [section 3611 of this title](./chapter-045-fair-housing.md#section-3611). Any aggrieved person may intervene as a party in the proceeding. The Federal Rules of Evidence apply to the presentation of evidence in such hearing as they would in a civil action in a United States district court.
 
@@ -880,7 +880,7 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 **(h) Review by Secretary; service of final order**
 
-(1) The Secretary may review any finding, conclusion, or order issued under subsection (g) of this section. Such review shall be completed not later than 30 days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.
+(1) The Secretary may review any finding, conclusion, or order issued under subsection (g). Such review shall be completed not later than 30 days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.
 
 (2) The Secretary shall cause the findings of fact and conclusions of law made with respect to any final order for relief under this section, together with a copy of such order, to be served on each aggrieved person and each respondent in the proceeding.
 
@@ -898,7 +898,7 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 **(k) Relief which may be granted**
 
-(1) Upon the filing of a petition under subsection (i) or (j) of this section, the court may—
+(1) Upon the filing of a petition under subsection (i) or (j), the court may—
 
   (A) grant to the petitioner, or any other party, such temporary relief, restraining order, or other order as the court deems just and proper;
 
@@ -910,19 +910,19 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 (3) No objection not made before the administrative law judge shall be considered by the court, unless the failure or neglect to urge such objection is excused because of extraordinary circumstances.
 
-**(l) Enforcement decree in absence of petition for review** If no petition for review is filed under subsection (i) of this section before the expiration of 45 days after the date the administrative law judge’s order is entered, the administrative law judge’s findings of fact and order shall be conclusive in connection with any petition for enforcement—
+**(l) Enforcement decree in absence of petition for review** If no petition for review is filed under subsection (i) before the expiration of 45 days after the date the administrative law judge’s order is entered, the administrative law judge’s findings of fact and order shall be conclusive in connection with any petition for enforcement—
 
-(1) which is filed by the Secretary under subsection (j) of this section after the end of such day; or
+(1) which is filed by the Secretary under subsection (j) after the end of such day; or
 
-(2) under subsection (m) of this section.
+(2) under subsection (m).
 
-**(m) Court enforcement of administrative order upon petition of any person entitled to relief** If before the expiration of 60 days after the date the administrative law judge’s order is entered, no petition for review has been filed under subsection (i) of this section, and the Secretary has not sought enforcement of the order under subsection (j) of this section, any person entitled to relief under the order may petition for a decree enforcing the order in the United States court of appeals for the circuit in which the discriminatory housing practice is alleged to have occurred.
+**(m) Court enforcement of administrative order upon petition of any person entitled to relief** If before the expiration of 60 days after the date the administrative law judge’s order is entered, no petition for review has been filed under subsection (i), and the Secretary has not sought enforcement of the order under subsection (j), any person entitled to relief under the order may petition for a decree enforcing the order in the United States court of appeals for the circuit in which the discriminatory housing practice is alleged to have occurred.
 
-**(n) Entry of decree** The clerk of the court of appeals in which a petition for enforcement is filed under subsection (l) or (m) of this section shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
+**(n) Entry of decree** The clerk of the court of appeals in which a petition for enforcement is filed under subsection (l) or (m) shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
 
 **(o) Civil action for enforcement when election is made for such civil action**
 
-(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
+(1) If an election is made under subsection (a), the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 
 (2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 
@@ -960,13 +960,13 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 (1) appoint an attorney for such person; or
 
-(2) authorize the commencement or continuation of a civil action under subsection (a) of this section without the payment of fees, costs, or security, if in the opinion of the court such person is financially unable to bear the costs of such action.
+(2) authorize the commencement or continuation of a civil action under subsection (a) without the payment of fees, costs, or security, if in the opinion of the court such person is financially unable to bear the costs of such action.
 
 **(c) Relief which may be granted**
 
-(1) In a civil action under subsection (a) of this section, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may award to the plaintiff actual and punitive damages, and subject to subsection (d) of this section, may grant as relief, as the court deems appropriate, any permanent or temporary injunction, temporary restraining order, or other order (including an order enjoining the defendant from engaging in such practice or ordering such affirmative action as may be appropriate).
+(1) In a civil action under subsection (a), if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may award to the plaintiff actual and punitive damages, and subject to subsection (d), may grant as relief, as the court deems appropriate, any permanent or temporary injunction, temporary restraining order, or other order (including an order enjoining the defendant from engaging in such practice or ordering such affirmative action as may be appropriate).
 
-(2) In a civil action under subsection (a) of this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the same extent as a private person.
+(2) In a civil action under subsection (a), the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the same extent as a private person.
 
 **(d) Effect on certain sales, encumbrances, and rentals** Relief granted under this section shall not affect any contract, sale, encumbrance, or lease consummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the Secretary or civil action under this subchapter.
 
@@ -1003,7 +1003,7 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 **(d) Relief which may be granted in civil actions under subsections (a) and (b)**
 
-(1) In a civil action under subsection (a) or (b) of this section, the court—
+(1) In a civil action under subsection (a) or (b), the court—
 
   (A) may award such preventive relief, including a permanent or temporary injunction, restraining order, or other order against the person responsible for a violation of this subchapter as is necessary to assure the full enjoyment of the rights granted by this subchapter;
 
@@ -1017,7 +1017,7 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 (2) In a civil action under this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the extent provided by [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim).
 
-**(e) Intervention in civil actions** Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) of this section which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under [section 3613 of this title](./chapter-045-fair-housing.md#section-3613).
+**(e) Intervention in civil actions** Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under [section 3613 of this title](./chapter-045-fair-housing.md#section-3613).
 
 ### Statutory Notes
 
@@ -1137,7 +1137,7 @@ Pub. L. 100–242, title V, § 561, Feb. 5, 1988, 101 Stat. 1942, as amended, wh
 
 (2) **Activities** — The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housing enforcement organizations, a range of investigative and enforcement activities designed to—
 
-  (A) carry out testing and other investigative activities in accordance with subsection (b)(1) of this section, including building the capacity for housing investigative activities in unserved or underserved areas;
+  (A) carry out testing and other investigative activities in accordance with subsection (b)(1), including building the capacity for housing investigative activities in unserved or underserved areas;
 
   (B) discover and remedy discrimination in the public and private real estate markets and real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
 
@@ -1164,7 +1164,7 @@ Pub. L. 100–242, title V, § 561, Feb. 5, 1988, 101 Stat. 1942, as amended, wh
   (C) posters; and
 
   (D) pamphlets and brochures.
-  The Secretary shall designate a portion of the amounts provided in subsection (g)(4) of this section for a national program specifically for activities related to the annual national fair housing month. The Secretary shall encourage cooperation with real estate industry organizations in the national education and outreach program. The Secretary shall also encourage the dissemination of educational information and technical assistance to support compliance with the housing adaptability and accessibility guidelines contained in the Fair Housing Act Amendments of 1988.
+  The Secretary shall designate a portion of the amounts provided in subsection (g)(4) for a national program specifically for activities related to the annual national fair housing month. The Secretary shall encourage cooperation with real estate industry organizations in the national education and outreach program. The Secretary shall also encourage the dissemination of educational information and technical assistance to support compliance with the housing adaptability and accessibility guidelines contained in the Fair Housing Act Amendments of 1988.
 
 (2) **Regional and local programs** — The Secretary, through contracts with fair housing enforcement organizations, other nonprofit organizations representing groups of persons protected under title VIII of the Civil Rights Act of 1968 [[42 U.S.C. 3601](./chapter-045-fair-housing.md#section-3601) et seq.], State and local agencies certified by the Secretary under section 810(f) of the Fair Housing Act [[42 U.S.C. 3610(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3610/f&num=0&edition=prelim)], or other public or private entities that are formulating or carrying out programs to prevent or eliminate discriminatory housing practices, shall establish or support education and outreach programs at the regional and local levels.
 
@@ -1180,7 +1180,7 @@ Pub. L. 100–242, title V, § 561, Feb. 5, 1988, 101 Stat. 1942, as amended, wh
 
 (1) The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section.
 
-(2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) of this section shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,11 See References in Text note below. the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
+(2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,11 See References in Text note below. the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
 
 (3) Such regulations shall include provisions governing applications for assistance under this section, and shall require each such application to contain—
 
@@ -1202,13 +1202,13 @@ Pub. L. 100–242, title V, § 561, Feb. 5, 1988, 101 Stat. 1942, as amended, wh
 
 **(g) Authorization of appropriations** There are authorized to be appropriated to carry out the provisions of this section,22 So in original. The comma probably should not appear. $21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—
 
-(1) not less than $3,820,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for private enforcement initiatives authorized under subsection (b) of this section, divided equally between activities specified under subsection (b)(1) of this section and those specified under subsection (b)(2) of this section;
+(1) not less than $3,820,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for private enforcement initiatives authorized under subsection (b), divided equally between activities specified under subsection (b)(1) and those specified under subsection (b)(2);
 
-(2) not less than $2,230,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for qualified fair housing enforcement organizations authorized under subsection (c)(1) of this section;
+(2) not less than $2,230,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for qualified fair housing enforcement organizations authorized under subsection (c)(1);
 
-(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2) of this section; and
+(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2); and
 
-(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
+(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d), to be divided equally between activities specified under subsection (d)(1) and those specified under subsections (d)(2) and (d)(3).
 Any amount appropriated under this section shall remain available until expended.
 
 **(h) Qualified fair housing enforcement organization**
@@ -1230,7 +1230,7 @@ Any amount appropriated under this section shall remain available until expended
 
   (C) upon the receipt of funds under this section will become engaged in all of the activities specified in paragraph (1)(B); and
 
-  (D) for purposes of funding under subsection (b) of this section, has at least 1 year of experience in the activities specified in paragraph (1)(B).
+  (D) for purposes of funding under subsection (b), has at least 1 year of experience in the activities specified in paragraph (1)(B).
 
 **(i) Prohibition on use of funds** None of the funds authorized under this section may be used by the Secretary for purposes of settling claims, satisfying judgments or fulfilling court orders in any litigation action involving either the Department or housing providers funded by the Department. None of the funds authorized under this section may be used by the Department for administrative costs.
 
@@ -1327,11 +1327,11 @@ Whoever, whether or not acting under color of law, by force or threat of force w
 
 **(b)** any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
 
-(1) participating, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), familial status (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section; or
+(1) participating, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), familial status (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), or national origin, in any of the activities, services, organizations or facilities described in subsection (a); or
 
 (2) affording another person or class of persons opportunity or protection so to participate; or
 
-**(c)** any citizen because he is or has been, or in order to discourage such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), familial status (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section, or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
+**(c)** any citizen because he is or has been, or in order to discourage such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), familial status (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), or national origin, in any of the activities, services, organizations or facilities described in subsection (a), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 shall be fined under title 18 or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under title 18 or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under title 18 or imprisoned for any term of years or for life, or both.
 
 ### Statutory Notes

@@ -14,7 +14,7 @@ source: >-
 #### Codification
 Sections 1001 to 1008 were omitted in view of recognition of Philippine independence.
 
-Section 1001, act Aug. 29, 1916, § 1, 39 Stat. 545, defined Philippine Islands.
+Section 1001, act Aug. 29, 1916, ch. 416, § 1, 39 Stat. 545, defined Philippine Islands.
 
 Section 1002, act Aug. 29, 1916, ch. 416, § 2, 39 Stat. 546, related to Philippine citizenship.
 
@@ -363,7 +363,7 @@ Section, act June 14, 1935, ch. 240, §§ 1–5, 49 Stat. 340, which fixed the q
 #### Codification
 Sections 1236b to 1237c were omitted in view of recognition of Philippine independence.
 
-Section 1236b, act Dec. 22, 1941, ch. 617, § 1, 55 Stat. 352, related to export tax rate and temporary suspension.
+Section 1236b, act Dec. 22, 1941, ch. 617, § 1, 55 Stat. 852, related to export tax rate and temporary suspension.
 
 Section 1236c, act Dec. 22, 1941, ch. 617, § 2, 55 Stat. 852, related to reduction of export quotas and temporary suspension.
 

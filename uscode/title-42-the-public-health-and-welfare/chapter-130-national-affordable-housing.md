@@ -32,7 +32,7 @@ Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided for necessary
 Pub. L. 106–74, title II, § 206, Oct. 20, 1999, 113 Stat. 1070, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title X, § 1001], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, established the Millennial Housing Commission to study and report back to Congress on improving Federal housing policy.
 
 #### Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century
-Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided for necessary expenses of the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century and set a revised final report due date of June 30, 2002 and Commission termination date of Sept. 30, 2002.
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided for necessary expenses of the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century and set a revised final report due date of June 30, 2002, and Commission termination date of Sept. 30, 2002.
 
 Pub. L. 106–74, title V, § 525, Oct. 20, 1999, 113 Stat. 1106, as amended by Pub. L. 106–377, § 1(a)(1) [title II, § 230], Oct. 27, 2000, 114 Stat. 1441, 1441A–31, established the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century to study and report back to Congress on housing and health care facility needs for seniors.
 
@@ -2231,7 +2231,7 @@ Section applicable to unexpended funds allocated under subchapter II of this cha
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 101–625, title II, § 271, Nov. 28, 1990, 104 Stat. 4124; Pub. L. 108–186, title I, § 102, Dec. 16, 2003, 117 Stat. 2686; Pub. L. 111–8, div. I, title II, § 229(4), Mar. 11, 2009, 123 Stat. 978, which related to downpayment assistance toward the purchase of single family housing was omitted from the Code upon the expiration of Secretary’s authority on Dec. 31, 2011 to make grants to participating jurisdictions to assist low-income families to achieve homeownership.
+Section, Pub. L. 101–625, title II, § 271, Nov. 28, 1990, 104 Stat. 4124; Pub. L. 108–186, title I, § 102, Dec. 16, 2003, 117 Stat. 2686; Pub. L. 111–8, div. I, title II, § 229(4), Mar. 11, 2009, 123 Stat. 978, which related to downpayment assistance toward the purchase of single family housing, was omitted from the Code upon the expiration of Secretary’s authority on Dec. 31, 2011, to make grants to participating jurisdictions to assist low-income families to achieve homeownership.
 
 
 <a id="section-12836"></a>

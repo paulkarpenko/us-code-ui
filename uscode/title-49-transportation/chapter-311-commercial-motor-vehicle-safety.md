@@ -511,7 +511,7 @@ Pub. L. 106–159, title I, § 103(c), Dec. 9, 1999, 113 Stat. 1753, which relat
 Pub. L. 106–159, title I, § 103(e), Dec. 9, 1999, 113 Stat. 1754, which related to State compliance with CDL requirements and withholding of funds for noncompliance, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(9), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### Effects of MCSAP Grant Reductions
-Pub. L. 105–178, title IV, § 4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than two years after June 9, 1998 on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under [section 31103 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31103) based on the study.
+Pub. L. 105–178, title IV, § 4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than two years after June 9, 1998, on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under [section 31103 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31103) based on the study.
 
 
 <a id="section-31103"></a>
@@ -1407,7 +1407,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 (4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991; and
 
-(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state.11 So in original. Probably should be “State.”.
+(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state.11 So in original. Probably should be “State.”
 
 **(d) Additional Limitations.—**
 

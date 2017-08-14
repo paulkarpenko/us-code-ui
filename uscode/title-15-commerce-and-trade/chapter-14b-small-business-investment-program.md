@@ -328,7 +328,9 @@ Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, aut
 
     (iii) agrees to be limited to 1 tier of leverage available under [section 682(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/b&num=0&edition=prelim), until the applicant meets the requirements of [section 682(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/a&num=0&edition=prelim).
 
-**(e) 11 So in original. No subsec. (d) has been enacted. Fees**
+**(d) Repealed. Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742**
+
+**(e) Fees**
 
 (1) **In general** — The Administration may prescribe fees to be paid by each applicant for a license to operate as a small business investment company under this chapter.
 

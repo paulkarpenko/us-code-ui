@@ -600,7 +600,11 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
 
     (iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
-  (B) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+  (B)
+
+    (i) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+
+    (ii) If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board who was appointed, by and with the advice and consent of the Senate, may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
 
   (C) The Board shall allow any agency which is the subject of a stay to comment to the Board on any extension of stay proposed under subparagraph (B).
 
@@ -677,6 +681,8 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(1)(B). Pub. L. 115–42 designated existing provisions as cl. (i) and added cl. (ii).
+
 2012—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
 Subsec. (b)(4)(B)(i). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.

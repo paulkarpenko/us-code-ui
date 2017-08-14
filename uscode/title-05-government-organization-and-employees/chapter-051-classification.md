@@ -928,7 +928,7 @@ Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976,
 #### Effective Date of 1974 Amendments
 Amendment by Pub. L. 93–463 effective Oct. 23, 1974, see section 418 of Pub. L. 93–463, set out as a note under [section 2 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2&num=0&edition=prelim), Agriculture.
 
-Amendment by Pub. L. 93–415 effective Sept. 7, 1974, see section 263(a) of Pub. L. 93–415, set out as an Effective Date note under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim), The Public Health and Welfare.
+Amendment by Pub. L. 93–415 effective Sept. 7, 1974, see former section 263(a) of Pub. L. 93–415, which is classified as an Effective Date note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Amendment by Pub. L. 93–406, § 1051(b)(2), effective on 90th day after Sept. 2, 1974, see section 1051(d) of Pub. L. 93–406, set out as a note under [section 7802 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7802&num=0&edition=prelim), Internal Revenue Code.
 
@@ -963,7 +963,7 @@ Preference to be given to blind individuals in selection of additional personnel
 
 <a id="section-5109"></a>
 ## § 5109. Positions classified by statute
-**(a)** The position held by an employee of the Department of Agriculture while he, under [section 450d of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450d&num=0&edition=prelim), is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
+**(a)** The position held by an employee of the Department of Agriculture while he, under [section 450d of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450d&num=0&edition=prelim),11 See References in Text note below. is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
 
 **(b)**
 
@@ -985,6 +985,9 @@ In subsection (a), the words “[section 450d of title 7](https://uscode.house.g
 In subsection (c), the words “Notwithstanding any other law” were omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+[Section 450d of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450d&num=0&edition=prelim), referred to in subsec. (a), probably means section 2 of act Apr. 4, 1940, ch. 75, which was formerly classified to [section 450d of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450d&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as [section 2204–2 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204–2&num=0&edition=prelim).
 
 #### Amendments
 1998—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.”

@@ -2,7 +2,7 @@
 title: 2
 chapter: '17'
 heading: CONGRESSIONAL BUDGET OFFICE
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -410,3 +410,20 @@ Section was formerly set out as a note under [section 611 of this title](./chapt
 2009—Subsec. (b)(1), (2). Pub. L. 111–68, § 1201(1), substituted “5” for “3”.
 
 Subsecs. (d), (e). Pub. L. 111–68, § 1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
+
+
+<a id="section-613"></a>
+## § 613. Establishment of senior level positions
+**(a) In general** Notwithstanding the fourth sentence of [section 601(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section601/b&num=0&edition=prelim), the Director of the Congressional Budget Office may establish and fix the compensation of senior level positions in the Congressional Budget Office to meet critical scientific, technical, professional, or executive needs of the Office.
+
+**(b) Limitation on compensation** The annual rate of pay for any position established under this section may not exceed the annual rate of pay for level II of the Executive Schedule.
+
+**(c) Effective date** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### References in Text
+Level II of the Executive Schedule, referred to in subsec. (b), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Codification
+Section was enacted as part of the Legislative Branch Appropriations Act, 2017, which is div. I of the Consolidated Appropriations Act, 2017, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.

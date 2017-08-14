@@ -203,7 +203,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (2) A rehabilitation program described in this paragraph is a rehabilitation program pursued by a veteran under [section 3102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/b&num=0&edition=prelim).
 
-**(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
+**(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
 
 ### Statutory Notes
 
@@ -211,6 +211,8 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 Prior section 3103 was renumbered [section 5303 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5303).
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–48 substituted “12304, 12304a, or 12304b” for “or 12304”.
+
 2011—Subsec. (a). Pub. L. 112–56, § 233(b)(1), substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
 
 Subsecs. (e), (f). Pub. L. 112–56, § 233(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -298,7 +300,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (16) Other incidental goods and services determined by the Secretary to be necessary to accomplish the purposes of a rehabilitation program in an individual case.
 
-**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary. To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.
+**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
 
 **(c)**
 
@@ -307,6 +309,9 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 (2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan describing such changes.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (b)
+Pub. L. 114–315, title IV, § 402, Dec. 16, 2016, 130 Stat. 1553, provided that, applicable with respect to a course of education or training pursued by a veteran who first begins a program of rehabilitation under this chapter on or after the date that is 1 year after Dec. 16, 2016, subsection (b) of this section is amended by adding at the end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.” See 2016 Amendment note below.
 
 #### Prior Provisions
 Prior section 3104 was renumbered [section 5304 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5304).

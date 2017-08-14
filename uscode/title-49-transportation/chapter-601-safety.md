@@ -648,6 +648,8 @@ Subsec. (l). Pub. L. 104–304, § 4(f), added subsec. (l).
 Pub. L. 114–183, § 18, June 22, 2016, 130 Stat. 527, provided that: “Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall— “(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and “(2) include procedures and resources for responding to such discharge in the plan.”
 
 #### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 752, provided in part: “That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans no later than August 1, 2017”.
+
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in part: “That no later than 90 days after the date of enactment of this Act [Dec. 18, 2015], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act.”
 
 #### Standards To Implement NTSB Recommendations
@@ -2235,7 +2237,7 @@ In subsection (j), the words “by the Secretary or any officer, employee, or ag
 This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act of 1992 (Public Law 102–508, 106 Stat. 3308) as 49:60117(i)(2). RevisedSectionSource (U.S. Code)Source (Statutes at Large) 60117(i)(2)49 App.:1682 (note).Oct. 24, 1992, Pub. L. 102–508, § 304(c), 106 Stat. 3308.
 
 #### References in Text
-The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (o)(7), are the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
+The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (o)(7), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
 
 #### Amendments
 2016—Subsec. (o). Pub. L. 114–183 added subsec. (o).
@@ -2790,7 +2792,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (A) $124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;
 
-  (B) $128,000,000 for fiscal year 2017 of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
+  (B) $128,000,000 for fiscal year 2017 11 So in original. Probably should be followed by a comma. of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
 
   (C) $131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and
 

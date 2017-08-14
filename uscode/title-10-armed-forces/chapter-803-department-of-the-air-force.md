@@ -233,7 +233,7 @@ A prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8013; Aug.
 Another prior section 8014 was renumbered [section 8015 of this title](./chapter-803-department-of-the-air-force.md#section-8015) and subsequently repealed.
 
 #### Amendments
-2016—Subsec. (f)(4). Pub. L. 114–328, § 903(e)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.”.
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(e)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.”
 
 Subsec. (f)(5). Pub. L. 114–328, § 903(e)(2), added par. (5).
 
@@ -310,7 +310,7 @@ Pub. L. 114–328, § 502(ii), substituted “an officer” for “a lieutenant 
 
 Subsec. (b)(3). Pub. L. 100–456, § 702(c)[(1)], added par. (3).
 
-#### References
+#### Change of Name
 Pub. L. 114–328, div. A, title IX, § 934(b), Dec. 23, 2016, 130 Stat. 2365, provided that: “Any reference to the Assistant Secretary of the Air Force for Acquisition in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics.”
 
 #### Effective Date of 1988 Amendment

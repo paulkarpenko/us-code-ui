@@ -2,7 +2,7 @@
 title: 50
 chapter: '45'
 heading: MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES
-section_count: 41
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -76,7 +76,7 @@ Section was formerly classified to [section 403–2a of this title](./chapter-01
 
 (1) **In general** — Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
 
-(2) **Notification** — In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+(2) **Notification** — In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
 
 **(b) Exception**
 
@@ -111,6 +111,8 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 Section was formerly classified to [section 403–2b of this title](./chapter-015-national-security.md#section-403-2b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2017—Subsec. (a)(2). Pub. L. 115–31 substituted “project for the improvement, repair, or modification of” for “improvement project to”.
+
 2010—Subsecs. (a)(2), (b)(1), (2)(A), (B). Pub. L. 111–259, § 809(1), (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b)(3). Pub. L. 111–259, § 809(2)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
@@ -358,6 +360,90 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Definition
 For definition of “congressional intelligence committees” referred to in subsec. (a)(1), see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3312"></a>
+## § 3312. Congressional oversight of policy directives and guidance
+**(a) Covered policy document defined** In this section, the term “covered policy document” means any classified or unclassified Presidential Policy Directive, Presidential Policy Guidance, or other similar policy document issued by the President, including any classified or unclassified annex to such a Directive, Guidance, or other document, that assigns tasks, roles, or responsibilities to the intelligence community or an element of the intelligence community.
+
+**(b) Submissions to Congress** The Director of National Intelligence shall submit to the congressional intelligence committees the following:
+
+(1) Not later than 15 days after the date that a covered policy document is issued, a written notice of the issuance and a summary of the subject matter addressed by such covered policy document.
+
+(2) Not later than 15 days after the date that the Director issues any guidance or direction on implementation of a covered policy document or implements a covered policy document, a copy of such guidance or direction or a description of such implementation.
+
+(3) Not later than 15 days after May 5, 2017, for any covered policy document issued prior to such date that is being implemented by any element of the intelligence community or that is in effect on such date—
+
+  (A) a written notice that includes the date such covered policy document was issued and a summary of the subject matter addressed by such covered policy document; and
+
+  (B) if the Director has issued any guidance or direction on implementation of such covered policy document or is implementing such covered policy document, a copy of the guidance or direction or a written description of such implementation.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3313"></a>
+## § 3313. Notification of memoranda of understanding
+**(a) In general** The head of each element of the intelligence community shall submit to the congressional intelligence committees a copy of each memorandum of understanding or other agreement regarding significant operational activities or policy between or among such element and any other entity or entities of the United States Government—
+
+(1) for such a memorandum or agreement that is in effect on May 5, 2017, not later than 60 days after such date; and
+
+(2) for such a memorandum or agreement entered into after such date, in a timely manner and not more than 60 days after the date such memorandum or other agreement is entered into.
+
+**(b) Administrative memorandum or agreement** Nothing in this section may be construed to require an element of the intelligence community to submit to the congressional intelligence committees any memorandum or agreement that is solely administrative in nature, including a memorandum or agreement regarding joint duty or other routine personnel assignments.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3314"></a>
+## § 3314. Report on national security systems
+**(a) Appropriate committees of Congress defined** In this section, the term “appropriate committees of Congress” means—
+
+(1) the congressional intelligence committees;
+
+(2) the Committee on Appropriations and the Committee on Armed Services of the Senate; and
+
+(3) the Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
+
+**(b) Report** Not later than 120 days after May 5, 2017, and annually thereafter, the Director of the National Security Agency, in coordination with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit to the appropriate committees of Congress a report on national security systems.
+
+**(c) Content** Each report submitted under subsection (b) shall include information related to—
+
+(1) national security systems or components thereof that have been decertified and are still in operational use;
+
+(2) extension requests and the current status of any national security systems still in use or components thereof that have been decertified and are still in use;
+
+(3) national security systems known to not be in compliance with the policies, principles, standards, and guidelines issued by the Committee on National Security Systems established pursuant to National Security Directive 42, signed by the President on July 5, 1990; and
+
+(4) organizations which have not provided access or information to the Director of the National Security Agency that is adequate to enable the Director to make a determination as to whether such organizations are in compliance with the policies, principles, standards, and guidelines issued by such Committee on National Security Systems.
+
+### Statutory Notes
+
+#### Definitions
+For definition of “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3315"></a>
+## § 3315. Annual certification of controlled access programs
+(1) **In general** — Not less frequently than once each year, the Director of National Intelligence shall certify in writing to the congressional intelligence committees whether the creation, validation, or substantial modification, including termination, for all existing and proposed controlled access programs, and the compartments and subcompartments within each, are substantiated and justified based on the information required by paragraph (2).
+
+(2) **Information required** — Each certification pursuant to paragraph (1) shall include—
+
+  (A) the rationale for the revalidation, validation, or substantial modification, including termination, of each controlled access program, compartment and subcompartment;
+
+  (B) the identification of a control officer for each controlled access program; and
+
+  (C) a statement of protection requirements for each controlled access program.
+
+### Statutory Notes
+
+#### Definitions
+For definition of “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3321"></a>
@@ -627,6 +713,106 @@ Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that
 
 #### Definitions
 For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3331"></a>
+## § 3331. Management of intelligence community personnel
+**(a) Multi-sector workforce initiative**
+
+(1) **Requirement** — Beginning on October 1, 2018, the Director of National Intelligence shall improve management of the workforce of the intelligence community by enabling elements of the intelligence community to build and maintain an appropriate mix between employees of the United States Government and core contractors.
+
+(2) **Briefing to Congress** — Not later than July 1, 2017, and each 120 days thereafter until July 1, 2018, the Director of National Intelligence shall brief the congressional intelligence committees on the initiative required by paragraph (1).
+
+**(b) Management based on workload requirements and authorized funding**
+
+(1) **In general** — Beginning on October 1, 2018, the personnel levels of the intelligence community shall be managed each fiscal year on the basis of—
+
+  (A) the workload required to carry out the functions and activities of the intelligence community; and
+
+  (B) the funds made available to the intelligence community in accordance with [section 3094 of this title](./chapter-044-national-security.md#section-3094).
+
+(2) **Prohibition on constraints or limitations** — Beginning on October 1, 2018, the management of such personnel in the intelligence community in any fiscal year shall not be subject to an externally imposed constraint or limitation expressed in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
+
+**(c) Briefing and report to Congress** Not later than 180 days after May 5, 2017, the Director of National Intelligence shall issue a written report and provide a briefing to the congressional intelligence committees on—
+
+(1) the methodology used to calculate the number of civilian and contractor full-time equivalent positions in the intelligence community;
+
+(2) the cost analysis tool used to calculate personnel costs in the intelligence community; and
+
+(3) the plans of the Director of National Intelligence and the head of each element of the intelligence community to implement a multi-sector workforce as required by subsections (a) and (b).
+
+**(d) Report** Not later than 240 days after May 5, 2017, the Inspector General of the Intelligence Community shall submit to the congressional intelligence committees a written report on the accuracy of intelligence community data for the numbers and costs associated with the civilian and contractor workforce in each element of the intelligence community.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3332"></a>
+## § 3332. Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry
+**(a) Definitions** In this section:
+
+(1) **Engagement** — The term “engagement”—
+
+  (A) means any significant interaction between an element of the intelligence community and an entertainment industry entity for the purposes of contributing to an entertainment product intended to be heard, read, viewed, or otherwise experienced by the public; and
+
+  (B) does not include routine inquiries made by the press or news media to the public affairs office of an intelligence community.
+
+(2) **Entertainment industry entity** — The term “entertainment industry entity” means an entity that creates, produces, promotes, or distributes a work of entertainment intended to be heard, read, viewed, or otherwise experienced by an audience, including—
+
+  (A) theater productions, motion pictures, radio broadcasts, television broadcasts, podcasts, webcasts, other sound or visual recording, music, or dance;
+
+  (B) books and other published material; and
+
+  (C) such other entertainment activity, as determined by the Director of National Intelligence.
+
+**(b) Director of National Intelligence guidance**
+
+(1) **In general** — Not later than 180 days after May 5, 2017, the Director of National Intelligence shall issue, and release to the public, guidance regarding engagements by elements of the intelligence community with entertainment industry entities.
+
+(2) **Criteria** — The guidance required by paragraph (1) shall—
+
+  (A) permit an element of the intelligence community to conduct engagements, if the head of the element, or a designee of such head, provides prior approval; and
+
+  (B) require an unclassified annual report to the congressional intelligence committees regarding engagements.
+
+**(c) Annual report** Each report required by subsection (b)(2)(B) shall include the following:
+
+(1) A description of the nature and duration of each engagement included in the review.
+
+(2) The cost incurred by the United States Government for each such engagement.
+
+(3) A description of the benefits to the United States Government for each such engagement.
+
+(4) A determination of whether any information was declassified, and whether any classified information was improperly disclosed, or each such engagement.
+
+(5) A description of the work produced through each such engagement.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3333"></a>
+## § 3333. Joint facilities certification
+**(a) Findings** Congress finds the following:
+
+(1) The Director of National Intelligence set a strategic goal to use joint facilities as a means to save costs by consolidating administrative and support functions across multiple elements of the intelligence community.
+
+(2) The use of joint facilities provides more opportunities for operational collaboration and information sharing among elements of the intelligence community.
+
+**(b) Certification** Before an element of the intelligence community purchases, leases, or constructs a new facility that is 20,000 square feet or larger, the head of that element of the intelligence community shall submit to the Director of National Intelligence—
+
+(1) a written certification that, to the best of the knowledge of the head of such element, all prospective joint facilities in the vicinity have been considered and the element is unable to identify a joint facility that meets the operational requirements of such element; and
+
+(2) a written statement listing the reasons for not participating in the prospective joint facilities considered by the element.
+
+### Statutory Notes
+
+#### Definitions
+For definition of “intelligence community”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3341"></a>
@@ -1306,6 +1492,24 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 Pub. L. 112–277, § 2, Jan. 14, 2013, 126 Stat. 2469, provided that: “In this Act [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—“(A) the Select Committee on Intelligence of the Senate; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives. “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim)) [now [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)].”
 
 
+<a id="section-3350"></a>
+## § 3350. Maximum amount charged for declassification reviews
+
+In reviewing and processing a request by a person for the mandatory declassification of information pursuant to Executive Order No. 13526, a successor executive order, or any provision of law, the head of an element of the intelligence community—
+
+(1) may not charge the person reproduction fees in excess of the amount of fees that the head would charge the person for reproduction required in the course of processing a request for information under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly referred to as the “Freedom of Information Act”); and
+
+(2) may waive or reduce any processing fees in the same manner as the head waives or reduces fees under such section 552.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order No. 13526, referred to in text, is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+
+#### Definitions
+For definition of “intelligence community”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
 <a id="section-3361"></a>
 ## § 3361. National Virtual Translation Center
 **(a) Establishment** The Director of National Intelligence shall establish in the intelligence community an element with the function of connecting the elements of the intelligence community engaged in the acquisition, storage, translation, or analysis of voice or data in digital form.
@@ -1563,15 +1767,22 @@ The Director of National Intelligence shall ensure that the intelligence communi
 Section was formerly classified as a note under [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification as this section.
 
 
+<a id="section-3368"></a>
+## § 3368. Assistance for governmental entities and private entities in recognizing online violent extremist content
+**(a) Assistance to recognize online violent extremist content** Not later than 180 days after May 5, 2017, and consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall publish on a publicly available Internet website a list of all logos, symbols, insignia, and other markings commonly associated with, or adopted by, an organization designated by the Secretary of State as a foreign terrorist organization under [section 1189(a) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189/a&num=0&edition=prelim).
+
+**(b) Updates** The Director shall update the list published under subsection (a) every 180 days or more frequently as needed.
+
+
 <a id="section-3381"></a>
 ## § 3381. Coordination of counterintelligence activities
 **(a) Establishment of Counterintelligence Policy Board** There is established within the executive branch of Government a National Counterintelligence Policy Board (in this section referred to as the “Board”). The Board shall report to the President through the National Security Council.
 
-**(b) Chairperson** The National Counterintelligence Executive under section 902 of the Counterintelligence Enhancement Act of 2002 [[50 U.S.C. 3382](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3382)] shall serve as the chairperson of the Board.
+**(b) Chairperson** The Director of the National Counterintelligence and Security Center appointed under section 902 of the Counterintelligence Enhancement Act of 2002 ([50 U.S.C. 3382](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3382)) shall serve as the chairperson of the Board.
 
 **(c) Membership** The membership of the National Counterintelligence Policy Board shall consist of the following:
 
-(1) The National Counterintelligence Executive.
+(1) The Director of the National Counterintelligence and Security Center.
 
 (2) Senior personnel of departments and elements of the United States Government, appointed by the head of the department or element concerned, as follows:
 
@@ -1601,7 +1812,7 @@ Section was formerly classified as a note under [section 403–1 of this title](
 
     (i) ensure the discussion and review of matters relating to the implementation of the Counterintelligence Enhancement Act of 2002; and
 
-    (ii) provide advice to the National Counterintelligence Executive on priorities in the implementation of the National Counterintelligence Strategy produced by the Office of the National Counterintelligence Executive under section 904(e)(2) of that Act.11 See References in Text note below.
+    (ii) provide advice to the Director of the National Counterintelligence and Security Center on priorities in the implementation of the National Counterintelligence Strategy produced pursuant to section 904(d)(2) of that Act ([50 U.S.C. 3383(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3383/d/2&num=0&edition=prelim)).
 
 (2) The Board may, for purposes of carrying out its functions under this section, establish such interagency boards and working groups as the Board considers appropriate.
 
@@ -1644,12 +1855,18 @@ Section was formerly classified as a note under [section 403–1 of this title](
 ### Statutory Notes
 
 #### References in Text
-The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2432. Section 904(e)(2) of the Act was redesignated 904(d)(2) by Pub. L. 111–259, title IV, § 412(a)(2), Oct. 7, 2010, 124 Stat. 2725, and is classified to [section 3383(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3383/d/2&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2432. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 402a of this title](./chapter-015-national-security.md#section-402a) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–31, § 401(f)(1), substituted “Director of the National Counterintelligence and Security Center appointed under section 902 of the Counterintelligence Enhancement Act of 2002 ([50 U.S.C. 3382](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3382))” for “National Counterintelligence Executive under section 902 of the Counterintelligence Enhancement Act of 2002”.
+
+Subsec. (c)(1). Pub. L. 115–31, § 401(f)(2), substituted “Director of the National Counterintelligence and Security Center.” for “National Counterintelligence Executive.”
+
+Subsec. (d)(1)(B)(ii). Pub. L. 115–31, § 401(f)(3), substituted “Director of the National Counterintelligence and Security Center” for “National Counterintelligence Executive” and “pursuant to section 904(d)(2) of that Act ([50 U.S.C. 3383(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3383/d/2&num=0&edition=prelim))” for “by the Office of the National Counterintelligence Executive under section 904(e)(2) of that Act”.
+
 2004—Subsec. (c)(6)(C). Pub. L. 108–458, which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by Pub. L. 107–306, § 903(a)(2), and Pub. L. 108–177. See 2002 and 2003 Amendment notes below.
 
 2003—Subsec. (e). Pub. L. 108–177, which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by Pub. L. 107–306, § 903(a)(2), see below. Prior to amendment, par. (6) read as follows:
@@ -1701,20 +1918,20 @@ Pub. L. 105–107, title III, § 308, Nov. 20, 1997, 111 Stat. 2253, as amended 
 
 
 <a id="section-3382"></a>
-## § 3382. National Counterintelligence Executive
-**(a) Establishment** There shall be a National Counterintelligence Executive who shall be appointed by the President, by and with the advice and consent of the Senate.
+## § 3382. Director of the National Counterintelligence and Security Center
+**(a) Establishment** There shall be a Director of the National Counterintelligence and Security Center (referred to in this section as the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-**(b) Mission** The mission of the National Counterintelligence Executive shall be to serve as the head of national counterintelligence for the United States Government.
+**(b) Mission** The mission of the Director shall be to serve as the head of national counterintelligence for the United States Government.
 
-**(c) Duties** Subject to the direction and control of the Director of National Intelligence, the duties of the National Counterintelligence Executive are as follows:
+**(c) Duties** Subject to the direction and control of the Director of National Intelligence, the duties of the Director are as follows:
 
 (1) To carry out the mission referred to in subsection (b).
 
-(2) To act as chairperson of the National Counterintelligence Policy Board under [section 3381 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3381).
+(2) To act as chairperson of the National Counterintelligence Policy Board established under [section 3381 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3381).
 
-(3) To act as head of the Office of the National Counterintelligence Executive under [section 3383 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3383).
+(3) To act as head of the National Counterintelligence and Security Center established under [section 3383 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3383).
 
-(4) To participate as an observer on such boards, committees, and entities of the executive branch as the Director of National Intelligence considers appropriate for the discharge of the mission and functions of the Executive and the Office of the National Counterintelligence Executive under [section 3383 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3383).
+(4) To participate as an observer on such boards, committees, and entities of the executive branch as the Director of National Intelligence considers appropriate for the discharge of the mission and functions of the Director and the National Counterintelligence and Security Center under [section 3383 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3383).
 
 ### Statutory Notes
 
@@ -1722,11 +1939,17 @@ Pub. L. 105–107, title III, § 308, Nov. 20, 1997, 111 Stat. 2253, as amended 
 Section was formerly classified to [section 402b of this title](./chapter-015-national-security.md#section-402b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2015—Subsec. (a). Pub. L. 114–113 amended subsec. (a) generally. Prior to amendment, text read as follows:
+2017—Pub. L. 115–31, § 401(a)(1), amended section generally. Prior to amendment, section related to the National Counterintelligence Executive.
 
-“(1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
+Subsec. (a). Pub. L. 115–31, § 401(a)(3), provided that the amendment made by Pub. L. 114–113, § 401(a), was deemed to not have taken effect. See 2015 Amendment and Effective Date of 2015 Amendment notes below.
 
-“(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.”
+2015—Subsec. (a). Pub. L. 114–113, which directed that subsec. (a) be amended to read as follows:
+
+“(a) Establishment
+
+“There shall be a National Counterintelligence Executive who shall be appointed by the President, by and with the advice and consent of the Senate.”,
+
+was deemed to not have taken effect by Pub. L. 115–31, § 401(a)(3). See 2017 Amendment note above.
 
 2004—Subsec. (a)(1). Pub. L. 108–458, § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
 
@@ -1735,6 +1958,8 @@ Subsec. (a)(2). Pub. L. 108–458, § 1072(d)(1)(B), substituted “Director of 
 Subsec. (c). Pub. L. 108–458, § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President” in two places.
 
 #### Effective Date of 2015 Amendment
+Pub. L. 115–31, div. N, title IV, § 401(a)(3), May 5, 2017, 131 Stat. 817, provided that: “The amendment made by subsection (a) of section 401 of the Intelligence Authorization Act for Fiscal Year 2016 (division M of Public Law 114–113) [amending this section] shall not take effect, or, if the date of the enactment of this Act [May 5, 2017] is on or after the effective date specified in subsection (b) of such section [Dec. 18, 2016, see note below], such amendment shall be deemed to not have taken effect.”
+
 Pub. L. 114–113, div. M, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 2921, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2004 Amendment
@@ -1747,14 +1972,14 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 
 
 <a id="section-3383"></a>
-## § 3383. Office of the National Counterintelligence Executive
-**(a) Establishment** There shall be an Office of the National Counterintelligence Executive.
+## § 3383. National Counterintelligence and Security Center
+**(a) Establishment** There shall be a National Counterintelligence and Security Center.
 
-**(b) Head of Office** The National Counterintelligence Executive shall be the head of the Office of the National Counterintelligence Executive.
+**(b) Head of Center** The Director of the National Counterintelligence and Security Center shall be the head of the National Counterintelligence and Security Center.
 
-**(c) Location of Office** The Office of the National Counterintelligence Executive shall be located in the Office of the Director of National Intelligence.
+**(c) Location of Center** The National Counterintelligence and Security Center shall be located in the Office of the Director of National Intelligence.
 
-**(d) Functions** Subject to the direction and control of the National Counterintelligence Executive, the functions of the Office of the National Counterintelligence Executive shall be as follows:
+**(d) Functions** Subject to the direction and control of the Director of the National Counterintelligence and Security Center, the functions of the National Counterintelligence and Security Center shall be as follows:
 
 (1) **National threat identification and prioritization assessment** — Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
 
@@ -1768,7 +1993,7 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 
 (4) **National counterintelligence strategic analyses** — As directed by the Director of National Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategic analyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
 
-(5) **National counterintelligence program budget** — In consultation with the Director of National Intelligence—
+(5) **National counterintelligence program budget** — At the direction of the Director of National Intelligence—
 
   (A) to coordinate the development of budgets and resource allocation plans for the counterintelligence programs and activities of the Department of Defense, the Federal Bureau of Investigation, the Central Intelligence Agency, and other appropriate elements of the United States Government;
 
@@ -1776,7 +2001,7 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 
   (C) to submit to the National Security Council periodic reports on the activities undertaken by the Office under subparagraphs (A) and (B).
 
-(6) **National counterintelligence collection and targeting coordination** — To develop priorities for counterintelligence investigations and operations, and for collection of counterintelligence, for purposes of the National Counterintelligence Strategy, except that the Office may not—
+(6) **National counterintelligence collection and targeting coordination** — To develop priorities for counterintelligence investigations and operations, and for collection of counterintelligence, for purposes of the National Counterintelligence Strategy, except that the National Counterintelligence and Security Center may not—
 
   (A) carry out any counterintelligence investigations or operations; or
 
@@ -1808,17 +2033,17 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 
 **(f) Personnel**
 
-(1) Personnel of the Office of the National Counterintelligence Executive may consist of personnel employed by the Office or personnel on detail from any other department, agency, or element of the Federal Government. Any such detail may be on a reimbursable or nonreimbursable basis, at the election of the head of the agency detailing such personnel.
+(1) Personnel of the National Counterintelligence and Security Center may consist of personnel employed by the Center or personnel on detail from any other department, agency, or element of the Federal Government. Any such detail may be on a reimbursable or nonreimbursable basis, at the election of the head of the agency detailing such personnel.
 
-(2) Notwithstanding section 104(d) 11 See References in Text note below. or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
+(2) Notwithstanding section 104(d) 11 See References in Text note below. or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the Director of the National Counterintelligence and Security Center and the head of the department, agency, or element concerned consider appropriate.
 
-**(g) Treatment of activities under certain administrative laws** The files of the Office shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 431](./chapter-015-national-security.md#section-431)) [now [50 U.S.C. 3141](./chapter-044-national-security.md#section-3141)] to the extent such files meet criteria under subsection (b) of that section for treatment of files as operational files of an element of the Agency.
+**(g) Treatment of activities under certain administrative laws** The files of the National Counterintelligence and Security Center shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 3141](./chapter-044-national-security.md#section-3141)) to the extent such files meet criteria under subsection (b) of that section for treatment of files as operational files of an element of the Agency.
 
-**(h) Oversight by Congress** The location of the Office of the National Counterintelligence Executive within the Office of the Director of National Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to—
+**(h) Oversight by Congress** The location of the National Counterintelligence and Security Center within the Office of the Director of National Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to—
 
-(1) any information, document, record, or paper in the possession of the Office; or
+(1) any information, document, record, or paper in the possession of the Center; or
 
-(2) any personnel of the Office.
+(2) any personnel of the Center.
 
 **(i) Construction** Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
 
@@ -1833,6 +2058,26 @@ The National Security Act of 1947, referred to in subsec. (i), is act July 26, 1
 Section was formerly classified to [section 402c of this title](./chapter-015-national-security.md#section-402c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2017—Pub. L. 115–31, § 401(b)(1)(A), substituted “National Counterintelligence and Security Center” for “Office of the National Counterintelligence Executive” in section catchline.
+
+Subsecs. (a) to (c). Pub. L. 115–31, § 401(b)(1)(B), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to establishment of Office of the National Counterintelligence Executive, head of Office, and location of Office, respectively.
+
+Subsec. (d). Pub. L. 115–31, § 401(b)(2)(A), substituted “Director of the National Counterintelligence and Security Center, the functions of the National Counterintelligence and Security Center” for “National Counterintelligence Executive, the functions of the Office of the National Counterintelligence Executive” in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 115–31, § 401(b)(2)(B), substituted “At the direction of” for “In consultation with” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 115–31, § 401(b)(2)(C), substituted “National Counterintelligence and Security Center” for “Office” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 115–31, § 401(b)(3)(A), substituted “National Counterintelligence and Security Center may consist of personnel employed by the Center” for “Office of the National Counterintelligence Executive may consist of personnel employed by the Office”.
+
+Subsec. (f)(2). Pub. L. 115–31, § 401(b)(3)(B), substituted “Director of the National Counterintelligence and Security Center” for “National Counterintelligence Executive”.
+
+Subsec. (g). Pub. L. 115–31, § 401(b)(4), substituted “National Counterintelligence and Security Center shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 3141](./chapter-044-national-security.md#section-3141))” for “Office shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 431](./chapter-015-national-security.md#section-431))”.
+
+Subsec. (h). Pub. L. 115–31, § 401(b)(5)(A), substituted “National Counterintelligence and Security Center” for “Office of the National Counterintelligence Executive” in introductory provisions.
+
+Subsec. (h)(1), (2). Pub. L. 115–31, § 401(b)(5)(B), substituted “Center” for “Office”.
+
 2012—Subsec. (d)(1). Pub. L. 112–87 struck out “on an annual basis” after “to produce”.
 
 2011—Subsec. (d)(2). Pub. L. 112–18 inserted subpar. (A) designation and heading, struck out “on an annual basis” after “to produce”, and added subpar. (B).

@@ -2,7 +2,7 @@
 title: 7
 chapter: '55'
 heading: DEPARTMENT OF AGRICULTURE
-section_count: 139
+section_count: 150
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -33,7 +33,7 @@ Pub. L. 105–113, § 1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This A
 Pub. L. 96–355, § 1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act [enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, and [section 3122 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3122&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as a note under [section 2204b of this title](./chapter-055-department-of-agriculture.md#section-2204b)] may be cited as the ‘Rural Development Policy Act of 1980’.”
 
 #### Short Title of 1956 Amendment
-Act Aug. 3, 1956, § 1, provided that: “This Act [enacting sections 428a, 1040, 2228, 2229 and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
+Act Aug. 3, 1956, ch. 950, § 1, 70 Stat. 1032, provided that: “This Act [enacting sections 1040, 2228, 2229, 2268a, and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
 
 #### Short Title
 This section popularly known as the “Department of Agriculture Organic Act”.
@@ -632,6 +632,68 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 “Secretary” as meaning the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
+<a id="section-2204-1"></a>
+## § 2204–1. Delegation of regulatory functions of Secretary of Agriculture; definitions
+
+As used in sections 2204–1 to 2204–5 of this title—
+
+**(a)** The term “regulatory order” means an order, marketing agreement, standard, permit, license, registration, suspension or revocation of a permit, license, or registration, certificate, award, rule or regulation, if it has the force and effect of law, and if it may be made, prescribed, issued, or promulgated only after notice and hearing or opportunity for hearing have been given.
+
+**(b)** The term “regulatory function” means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450c of this title](./chapter-017-miscellaneous-matters.md#section-450c) prior to editorial reclassification and renumbering as this section, and to [section 516a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section516a&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-2204-2"></a>
+## § 2204–2. Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation
+
+Whenever the Secretary of Agriculture deems that the delegation of the whole or any part of any regulatory function which the Secretary is, now or after April 4, 1940, required or authorized to perform will result in the more expeditious discharge of the duties of the Department of Agriculture, he is authorized to make such delegation to any officer or employee designated under this section. The Secretary is authorized to designate officers or employees of the Department to whom functions may be delegated under this section and to assign appropriate titles to such officers or employees. There shall not be in the Department at any one time more than two officers or employees designated under this section and vested with a regulatory function or part thereof delegated under this section. The Secretary may at any time revoke the whole or any part of a delegation or designation made by him under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450d of this title](./chapter-017-miscellaneous-matters.md#section-450d) prior to editorial reclassification and renumbering as this section, and to [section 516b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section516b&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+#### Amendments
+1966—Pub. L. 89–554 repealed third sentence which related to grade of a position. See [section 5109 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5109&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-2204-3"></a>
+## § 2204–3. Authority of designated employees; retroactive revocation of delegation
+
+Whenever a delegation is made under [section 2204–2 of this title](./chapter-055-department-of-agriculture.md#section-2204-2), all provisions of law shall be construed as if the regulatory function or the part thereof delegated had (to the extent of the delegation) been vested by law in the individual to whom the delegation is made, instead of in the Secretary of Agriculture. A revocation of delegation shall not be retroactive, and each regulatory function or part thereof performed (within the scope of the delegation) by such individual prior to the revocation shall be considered as having been performed by the Secretary.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450e of this title](./chapter-017-miscellaneous-matters.md#section-450e) prior to editorial reclassification and renumbering as this section, and to [section 516c of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section516c&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-2204-4"></a>
+## § 2204–4. Delegation of functions under other laws as unaffected
+
+The provisions of [section 2204–2 of this title](./chapter-055-department-of-agriculture.md#section-2204-2) shall not be deemed to prohibit the delegation, under authority of any other provision of law, of the whole or any part of any regulatory function or other function to any officer or employee of the Department of Agriculture.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450f of this title](./chapter-017-miscellaneous-matters.md#section-450f) prior to editorial reclassification as this section, and to [section 516d of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section516d&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-2204-5"></a>
+## § 2204–5. Authorization of appropriations for cooperative research projects
+
+There is authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 2204–1 to 2204–5 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450g of this title](./chapter-017-miscellaneous-matters.md#section-450g) prior to editorial reclassification as this section, and to [section 516e of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section516e&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
 <a id="section-2205"></a>
 ## § 2205. Duties of former Commissioner of Agriculture transferred to Secretary
 
@@ -789,6 +851,25 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), 
 
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2207c"></a>
+## § 2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution
+
+There shall be prepared by the Department of Agriculture an annual report on the work and expenditures of the agricultural experiment stations established under the Act of Congress of March second, eighteen hundred and eighty-seven [[7 U.S.C. 361a](./chapter-014-agricultural-experiment-stations.md#section-361a) et seq.], on the work and expenditures of the Department of Agriculture in connection therewith, and on the cooperative agricultural extension work and expenditures of the Department of Agriculture and of agricultural colleges under the Act of May eighth, nineteen hundred and fourteen [[7 U.S.C. 341](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) et seq.], and there shall be printed annually eight thousand copies of said report, of which one thousand copies shall be for the use of the Senate, two thousand copies for the use of the House of Representatives, and five thousand copies for the use of the Department of Agriculture.
+
+### Statutory Notes
+
+#### References in Text
+The Act of Congress of March second, eighteen hundred and eighty-seven, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, known as the Hatch Act, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
+
+The Act of May eighth, nineteen hundred and fourteen, referred to in text, is act May 8, 1914, ch. 79, 38 Stat. 372, known as the “Smith-Lever Act”, and also known as the “Agricultural Work Extension Act”, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
+
+#### Codification
+Section was formerly classified to [section 418 of this title](./chapter-017-miscellaneous-matters.md#section-418) prior to editorial reclassification and renumbering as this section.
+
+#### Transfer of Functions
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-2208"></a>
@@ -1296,6 +1377,33 @@ Section was formerly classified to [section 521 of Title 5](https://uscode.house
 Provisions of this section were made applicable to such officers, agents, or employees of Department of the Interior performing functions of former Bureau of Biological Survey as are designated by Secretary of the Interior for purposes named herein by 1939 Reorg. Plan No. II, § 4(g), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds. Bureau of Biological Survey was subsequently consolidated with Bureau of Fisheries into Fish and Wildlife Service in Department of the Interior by 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, also set out in the Appendix to Title 5.
 
 
+<a id="section-2217a"></a>
+## § 2217a. Power to administer oaths, examine witnesses, or require production of books, etc.
+
+On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 [[7 U.S.C. 71](./chapter-003-grain-standards.md#section-71) et seq.]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 [[7 U.S.C. 241](./chapter-010-warehouses.md#section-241) et seq.]; Standard Container Act, Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
+
+### Statutory Notes
+
+#### References in Text
+The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
+
+The United States Grain Standards Act, referred to in text, is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, which is classified generally to chapter 3 (§ 71 et seq.) of this title. For complete classification of this Act to the Code, see [section 71 of this title](./chapter-003-grain-standards.md#section-71) and Tables.
+
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
+
+The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 39 Stat. 673, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320. For complete classification of this Act to the Code prior to its repeal, see Tables.
+
+#### Codification
+Section was formerly classified to [section 420 of this title](./chapter-017-miscellaneous-matters.md#section-420) prior to editorial reclassification and renumbering as this section.
+
+#### Transfer of Functions
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+
+Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary’s memorandum of Nov. 2, 1953.
+
+Act May 11, 1922, transferred powers of former “Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farm Economics” to “Bureau of Agricultural Economics”.
+
+
 <a id="section-2218"></a>
 ## § 2218. Fee for administering or taking oaths, affirmations, and affidavits
 
@@ -1345,7 +1453,7 @@ The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 8
 <a id="section-2220"></a>
 ## § 2220. Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees
 
-The officials and the employees of the Department of Agriculture engaged in the activities described in [section 450b of this title](./chapter-017-miscellaneous-matters.md#section-450b) and paid in whole or in part out of funds contributed as provided therein, and the persons, corporations, or associations making contributions as therein provided, shall not be subject to the provisions of [section 209 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section209&num=0&edition=prelim); nor shall any official or employee engaged in the cooperative activities of the Forest Service, or the persons, corporations, or associations contributing to such activities be subject to such section.
+The officials and the employees of the Department of Agriculture engaged in the activities described in [section 2279i of this title](./chapter-055-department-of-agriculture.md#section-2279i) and paid in whole or in part out of funds contributed as provided therein, and the persons, corporations, or associations making contributions as therein provided, shall not be subject to the provisions of [section 209 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section209&num=0&edition=prelim); nor shall any official or employee engaged in the cooperative activities of the Forest Service, or the persons, corporations, or associations contributing to such activities be subject to such section.
 
 ### Statutory Notes
 
@@ -1806,6 +1914,20 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
+<a id="section-2241b"></a>
+## § 2241b. Purchase of seeds and plants for distribution
+
+Purchase and distribution of vegetable, field, and flower seeds, plants, shrubs, vines, bulbs, and cuttings shall be of the freshest and best obtainable varieties and adapted to general cultivation.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 415 of this title](./chapter-017-miscellaneous-matters.md#section-415) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+1896—Act Apr. 25, 1896, struck out “by the Department of Agriculture” and “trees”, and inserted “vegetable, field, and flower seeds” and “bulbs”.
+
+
 <a id="section-2242"></a>
 ## § 2242. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(1), (2), Nov. 28, 1990, 104 Stat. 3715
 
@@ -1912,6 +2034,32 @@ The Secretary of Agriculture may furnish, upon application, samples of pure suga
 
 #### Codification
 Section was formerly classified to [section 555 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section555&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-2247a"></a>
+## § 2247a. Farm or food products; sale of samples, practical forms, etc.
+
+The Secretary of Agriculture is authorized to sell samples, illustrations, practical forms, or sets of the grades recommended or promulgated by him for farm or food products, under such rules and regulations as he may prescribe, and the receipts therefrom shall be deposited in the Treasury to the credit of miscellaneous receipts.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 415e of this title](./chapter-017-miscellaneous-matters.md#section-415e) prior to editorial reclassification and renumbering as this section.
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in the following Department of Agriculture appropriation acts:
+
+June 28, 1944, ch. 296, 58 Stat. 454.
+
+July 12, 1943, ch. 215, 57 Stat. 421.
+
+July 22, 1942, ch. 516, 56 Stat. 688.
+
+July 1, 1941, ch. 267, 55 Stat. 431.
+
+June 25, 1940, ch. 421, 54 Stat. 555.
+
+June 30, 1939, ch. 253, title I, 53 Stat. 968.
 
 
 <a id="section-2248"></a>
@@ -2058,6 +2206,8 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. A, title I, Dec. 18, 2015, 129 Stat. 2248.
 
 Pub. L. 113–235, div. A, title I, Dec. 16, 2014, 128 Stat. 2138.
 
@@ -2447,6 +2597,18 @@ Repeal effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 1
 ## § 2268. Public lands; relinquishment
 
 Notwithstanding any other provision of law, the Secretary of Agriculture may, whenever he considers it desirable, relinquish to a State all or part of the legislative jurisdiction of the United States over lands or interests under his control in that State. Relinquishment of legislative jurisdiction under this section may be accomplished (1) by filing with the Governor of the State concerned a notice of relinquishment to take effect upon acceptance thereof, or (2) as the laws of the State may otherwise provide.
+
+
+<a id="section-2268a"></a>
+## § 2268a. Acquisition of land; options
+**(a)** The Department of Agriculture is authorized to acquire land, or interest therein, by purchase, exchange or otherwise, as may be necessary to carry out its authorized work: Provided, That no acquisition shall be made under this authority unless provision is made therefor in the applicable appropriation or other law.
+
+**(b)** Appropriations for the Department of Agriculture which are available for the purchase of land may be expended for options to purchase land: Provided, That not to exceed $1 may be expended for each option to purchase any particular tract or tracts of land unless otherwise provided in appropriation or other law.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 428a of this title](./chapter-017-miscellaneous-matters.md#section-428a) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-2269"></a>
@@ -3322,6 +3484,17 @@ Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2080.
 Pub. L. 104–180, title I, Aug. 6, 1996, 110 Stat. 1570.
 
 Pub. L. 104–37, title I, Oct. 21, 1995, 109 Stat. 300.
+
+
+<a id="section-2279i"></a>
+## § 2279i. Cooperation with State and other agencies; expenditures
+
+In carrying on the activities of the Department of Agriculture involving cooperation with State, county, and municipal agencies, associations of farmers, individual farmers, universities, colleges, boards of trade, chambers of commerce, or other local associations of business men, business organizations, and individuals within the State, Territory, district, or insular possession in which such activities are to be carried on, moneys contributed from such outside sources, except in the case of the authorized activities of the Forest Service, shall be paid only through the Secretary of Agriculture or through State, county, or municipal agencies, or local farm bureaus or like organizations, cooperating for the purpose with the Secretary of Agriculture.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450b of this title](./chapter-017-miscellaneous-matters.md#section-450b) prior to editorial reclassification and renumbering as this section, and to [section 563 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section563&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 
 <a id="section-2279-1"></a>

@@ -253,15 +253,15 @@ The Congress finds—
 ## § 6722. Financial assistance
 **(a) Payments to State and local governments** The Secretary of the Treasury (hereafter in this subchapter referred to as the “Secretary”) shall, in accordance with the provisions of this subchapter, make payments to States and to local governments to coordinate budget-related actions by such governments with Federal Government efforts to stimulate economic recovery.
 
-**(b) Authorization of appropriations** Subject to the provisions of subsections (c) and (d) of this section, there are authorized to be appropriated for each of the five succeeding calendar quarters (beginning with the calendar quarter which begins on July 1, 1977) for the purpose of payments under this subchapter—
+**(b) Authorization of appropriations** Subject to the provisions of subsections (c) and (d), there are authorized to be appropriated for each of the five succeeding calendar quarters (beginning with the calendar quarter which begins on July 1, 1977) for the purpose of payments under this subchapter—
 
 (1) $125,000,000, plus
 
 (2) $30,000,000 multiplied by the number of whole one-tenth percentage points by which the rate of seasonally adjusted national unemployment for the most recent calendar quarter which ended three months before the beginning of such quarter exceeded 6 per centum.
 
-**(c) Aggregate authorization** In no case shall the aggregate amount authorized to be appropriated under the provisions of subsection (b) of this section for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
+**(c) Aggregate authorization** In no case shall the aggregate amount authorized to be appropriated under the provisions of subsection (b) for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
 
-**(d) Termination** No amount is authorized to be appropriated under the provisions of subsection (b) of this section for any calendar quarter if—
+**(d) Termination** No amount is authorized to be appropriated under the provisions of subsection (b) for any calendar quarter if—
 
 (1) the average rate of national unemployment during the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
 
@@ -281,13 +281,13 @@ Subsec. (c). Pub. L. 95–30, § 602(b), substituted “five successive calendar
 ## § 6723. Allocation of amounts
 **(a) Reservations for eligible States and units of local government**
 
-(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under [section 6722 of this title](./chapter-080-public-works-employment.md#section-6722) for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b) of this section.
+(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under [section 6722 of this title](./chapter-080-public-works-employment.md#section-6722) for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b).
 
-(2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c) of this section.
+(2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c).
 
 **(b) State allocation; percentage; definitions**
 
-(1) The Secretary shall allocate from amounts reserved under subsection (a)(1) of this section an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) of this section for the calendar quarter multiplied by the applicable State percentage.
+(1) The Secretary shall allocate from amounts reserved under subsection (a)(1) an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) for the calendar quarter multiplied by the applicable State percentage.
 
 (2) For purposes of this subsection, the applicable State percentage is equal to the quotient resulting from the division of the product of—
 
@@ -307,7 +307,7 @@ Subsec. (c). Pub. L. 95–30, § 602(b), substituted “five successive calendar
 
 **(c) Local government allocation; percentage; definitions; special limitation**
 
-(1) The Secretary shall allocate from amounts reserved under subsection (a)(2) of this section an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
+(1) The Secretary shall allocate from amounts reserved under subsection (a)(2) an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
 
 (2) For purposes of this subsection, the local government percentage is equal to the quotient resulting from the division of the product of—
 
@@ -532,7 +532,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b) Allocations**
 
-(1) The Secretary shall allocate from the amount authorized under subsection (a) of this section an amount for the purpose of making payments to such governments equal to the total authorized for the calendar quarter multiplied by the applicable territorial percentage.
+(1) The Secretary shall allocate from the amount authorized under subsection (a) an amount for the purpose of making payments to such governments equal to the total authorized for the calendar quarter multiplied by the applicable territorial percentage.
 
 (2) For the purposes of this subsection, the applicable territorial percentage is equal to the quotient resulting from the division of the territorial population by the sum of the territorial population for all territories.
 

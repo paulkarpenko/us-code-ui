@@ -216,7 +216,7 @@ It is the sense of the Congress that any durable solution for Puerto Rico’s fi
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 Pub. L. 114–187, § 1(a), June 30, 2016, 130 Stat. 549, provided that: “This Act [enacting this chapter, amending sections 1469e and 1492a of this title, sections 632 and 644 of Title 15, Commerce and Trade, and [section 206 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim), Labor, and enacting provisions set out as a note under [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)] may be cited as the ‘Puerto Rico Oversight, Management, and Economic Stability Act’ or ‘PROMESA’.”
@@ -231,7 +231,7 @@ Pub. L. 114–187, § 1(a), June 30, 2016, 130 Stat. 549, provided that: “This
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2123"></a>
@@ -242,7 +242,7 @@ The provisions of this chapter shall prevail over any general or specific provis
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2124"></a>
@@ -319,7 +319,7 @@ In this chapter—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2125"></a>
@@ -330,7 +330,7 @@ The Law Revision Counsel is directed to place this Act as chapter 20 of title 48
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This Act, referred to in text, is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2126"></a>
@@ -341,7 +341,7 @@ Except as otherwise provided in this chapter, nothing in this chapter shall be c
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2127"></a>
@@ -368,11 +368,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (B) *Budgets and reports* — The Oversight Board may require, in its sole discretion, the Governor to submit to the Oversight Board such budgets and monthly or quarterly reports regarding a covered territorial instrumentality as the Oversight Board determines to be necessary and may designate any covered territorial instrumentality to be included in the Territory Budget; except that the Oversight Board may not designate a covered territorial instrumentality to be included in the Territory Budget if applicable territory law does not require legislative approval of such covered territorial instrumentality’s budget.
 
-  (C) *Separate instrumentality budgets and reports* — The Oversight Board in its sole discretion may or, if it requires a budget from a covered territorial instrumentality whose budget does not require legislative approval under applicable territory law, shall designate a covered territorial instrumentality to be the subject of an Instrumentality Budget separate from the applicable Territory Budget and require that the Governor develop such an Instrumentality Budget.
+  (C) *Separate Instrumentality Budgets and reports* — The Oversight Board in its sole discretion may or, if it requires a budget from a covered territorial instrumentality whose budget does not require legislative approval under applicable territory law, shall designate a covered territorial instrumentality to be the subject of an Instrumentality Budget separate from the applicable Territory Budget and require that the Governor develop such an Instrumentality Budget.
 
-  (D) *Inclusion in territory fiscal plan* — The Oversight Board may require, in its sole discretion, the Governor to include a covered territorial instrumentality in the applicable Territory Fiscal Plan. Any covered territorial instrumentality submitting a separate Instrumentality Fiscal Plan must also submit a separate Instrumentality Budget.
+  (D) *Inclusion in Territory Fiscal Plan* — The Oversight Board may require, in its sole discretion, the Governor to include a covered territorial instrumentality in the applicable Territory Fiscal Plan. Any covered territorial instrumentality submitting a separate Instrumentality Fiscal Plan must also submit a separate Instrumentality Budget.
 
-  (E) *Separate instrumentality fiscal plans* — The Oversight Board may designate, in its sole discretion, a covered territorial instrumentality to be the subject of an Instrumentality Fiscal Plan separate from the applicable Territory Fiscal Plan and require that the Governor develop such an Instrumentality Fiscal Plan. Any covered territorial instrumentality submitting a separate Instrumentality Fiscal Plan shall also submit a separate Instrumentality Budget.
+  (E) *Separate Instrumentality Fiscal Plans* — The Oversight Board may designate, in its sole discretion, a covered territorial instrumentality to be the subject of an Instrumentality Fiscal Plan separate from the applicable Territory Fiscal Plan and require that the Governor develop such an Instrumentality Fiscal Plan. Any covered territorial instrumentality submitting a separate Instrumentality Fiscal Plan shall also submit a separate Instrumentality Budget.
 
 (2) **Exclusion**
 
@@ -461,7 +461,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(2), (d)(1)(A), (2)(A), (e)(4), and (h)(1), (3), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (b)(2), (d)(1)(A), (2)(A), (e)(4), and (h)(1), (3), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2128"></a>
@@ -489,7 +489,7 @@ Subchapter V of this chapter, referred to in subsec. (b), was in the original �
 
 The Intergovernmental Personnel Act of 1970, referred to in subsec. (d), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended [section 1304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1304&num=0&edition=prelim) and [section 246 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section246&num=0&edition=prelim), repealed sections 1881 to 1888 of Title 7, Agriculture, and [section 869b of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section869b&num=0&edition=prelim), Education, and enacted provisions set out as notes under [section 3371 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3371&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsecs. (d) and (e), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2141"></a>
@@ -589,7 +589,7 @@ This chapter, referred to in subsecs. (d) and (e), was in the original “this A
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (c), (g), (h), (k), and (n), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (a), (c), (g), (h), (k), and (n), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2142"></a>
@@ -600,7 +600,7 @@ The Oversight Board, its members, and its employees shall not be liable for any 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2143"></a>
@@ -613,12 +613,12 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(d) Expedited consideration** It shall be the duty of the applicable United States District Court, the applicable United States Court of Appeals, and, as applicable, the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under this chapter.
 
-**(e) Review of oversight board certifications** There shall be no jurisdiction in any United States district court to review challenges to the Oversight Board’s certification determinations under this chapter.
+**(e) Review of Oversight Board certifications** There shall be no jurisdiction in any United States district court to review challenges to the Oversight Board’s certification determinations under this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2144"></a>
@@ -651,7 +651,7 @@ This chapter, referred to in subsecs. (a), (d), and (e), was in the original “
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2146"></a>
@@ -663,11 +663,11 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act”,
 ### Statutory Notes
 
 #### References in Text
-Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b), is section 102 of Pub. L. 95–521, which is set out in the Appendix to Title 5.
+Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b), is section 102 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2147"></a>
-## § 2147. Approval of fiscal plans
+## § 2147. Approval of Fiscal Plans
 **(a) In general** As soon as practicable after all of the members and the Chair have been appointed to the Oversight Board in accordance with [section 2121(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2121/e&num=0&edition=prelim) in the fiscal year in which the Oversight Board is established, and in each fiscal year thereafter during which the Oversight Board is in operation, the Oversight Board shall deliver a notice to the Governor providing a schedule for the process of development, submission, approval, and certification of Fiscal Plans. The notice may also set forth a schedule for revisions to any Fiscal Plan that has already been certified, which revisions must be subject to subsequent approval and certification by the Oversight Board. The Oversight Board shall consult with the Governor in establishing a schedule, but the Oversight Board shall retain sole discretion to set or, by delivery of a subsequent notice to the Governor, change the dates of such schedule as it deems appropriate and reasonably feasible.
 
 **(b) Requirements**
@@ -708,11 +708,11 @@ Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b),
 
 (2) **Term** — A Fiscal Plan developed under this section shall cover a period of fiscal years as determined by the Oversight Board in its sole discretion but in any case a period of not less than 5 fiscal years from the fiscal year in which it is certified by the Oversight Board.
 
-**(c) Development, review, approval, and certification of fiscal plans**
+**(c) Development, review, approval, and certification of Fiscal Plans**
 
 (1) **Timing requirement** — The Governor may not submit to the Legislature a Territory Budget under [section 2142 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2142) for a fiscal year unless the Oversight Board has certified the Territory Fiscal Plan for that fiscal year in accordance with this subsection, unless the Oversight Board in its sole discretion waives this requirement.
 
-(2) **Fiscal plan developed by Governor** — The Governor shall submit to the Oversight Board any proposed Fiscal Plan required by the Oversight Board by the time specified in the notice delivered under subsection (a).
+(2) **Fiscal Plan developed by Governor** — The Governor shall submit to the Oversight Board any proposed Fiscal Plan required by the Oversight Board by the time specified in the notice delivered under subsection (a).
 
 (3) **Review by the Oversight Board** — The Oversight Board shall review any proposed Fiscal Plan to determine whether it satisfies the requirements set forth in subsection (b) and, if the Oversight Board determines in its sole discretion that the proposed Fiscal Plan—
 
@@ -724,7 +724,7 @@ Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b),
 
     (ii) an opportunity to correct the violation in accordance with subsection (d)(1).
 
-**(d) Revised fiscal plan**
+**(d) Revised Fiscal Plan**
 
 (1) **In general** — If the Governor receives a notice of violation under subsection (c)(3), the Governor shall submit to the Oversight Board a revised proposed Fiscal Plan in accordance with subsection (b) by the time specified in the notice delivered under subsection (a). The Governor may submit as many revised Fiscal Plans to the Oversight Board as the schedule established in the notice delivered under subsection (a) permits.
 
@@ -732,11 +732,11 @@ Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b),
 
 **(e) Approval and certification**
 
-(1) **Approval of fiscal plan developed by Governor** — If the Oversight Board approves a Fiscal Plan under subsection (c)(3), it shall deliver a compliance certification for such Fiscal Plan to the Governor and the Legislature.
+(1) **Approval of Fiscal Plan developed by Governor** — If the Oversight Board approves a Fiscal Plan under subsection (c)(3), it shall deliver a compliance certification for such Fiscal Plan to the Governor and the Legislature.
 
-(2) **Deemed approval of fiscal plan developed by Oversight Board** — If the Oversight Board develops a Fiscal Plan under subsection (d)(2), such Fiscal Plan shall be deemed approved by the Governor, and the Oversight Board shall issue a compliance certification for such Fiscal Plan to the Governor and the Legislature.
+(2) **Deemed approval of Fiscal Plan developed by Oversight Board** — If the Oversight Board develops a Fiscal Plan under subsection (d)(2), such Fiscal Plan shall be deemed approved by the Governor, and the Oversight Board shall issue a compliance certification for such Fiscal Plan to the Governor and the Legislature.
 
-**(f) Joint development of fiscal plan** Notwithstanding any other provision of this section, if the Governor and the Oversight Board jointly develop a Fiscal Plan for the fiscal year that meets the requirements under this section, and that the Governor and the Oversight Board certify that the fiscal plan reflects a consensus between the Governor and the Oversight Board, then such Fiscal Plan shall serve as the Fiscal Plan for the territory or territorial instrumentality for that fiscal year.
+**(f) Joint development of Fiscal Plan** Notwithstanding any other provision of this section, if the Governor and the Oversight Board jointly develop a Fiscal Plan for the fiscal year that meets the requirements under this section, and that the Governor and the Oversight Board certify that the fiscal plan 11 So in original. Probably should be “Fiscal Plan”. reflects a consensus between the Governor and the Oversight Board, then such Fiscal Plan shall serve as the Fiscal Plan for the territory or territorial instrumentality for that fiscal year.
 
 ### Statutory Notes
 
@@ -745,8 +745,8 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
 
 <a id="section-2148"></a>
-## § 2148. Approval of budgets
-**(a) Reasonable schedule for development of budgets** As soon as practicable after all of the members and the Chair have been appointed to the Oversight Board in the fiscal year in which the Oversight Board is established, and in each fiscal year thereafter during which the Oversight Board is in operation, the Oversight Board shall deliver a notice to the Governor and the Legislature providing a schedule for developing, submitting, approving, and certifying Budgets for a period of fiscal years as determined by the Oversight Board in its sole discretion but in any case a period of not less than one fiscal year following the fiscal year in which the notice is delivered. The notice may also set forth a schedule for revisions to Budgets that have already been certified, which revisions must be subject to subsequent approval and certification by the Oversight Board. The Oversight Board shall consult with the Governor and the Legislature in establishing a schedule, but the Oversight Board shall retain sole discretion to set or, by delivery of a subsequent notice to the Governor and the Legislature, change the dates of such schedule as it deems appropriate and reasonably feasible.
+## § 2148. Approval of Budgets
+**(a) Reasonable schedule for development of Budgets** As soon as practicable after all of the members and the Chair have been appointed to the Oversight Board in the fiscal year in which the Oversight Board is established, and in each fiscal year thereafter during which the Oversight Board is in operation, the Oversight Board shall deliver a notice to the Governor and the Legislature providing a schedule for developing, submitting, approving, and certifying Budgets for a period of fiscal years as determined by the Oversight Board in its sole discretion but in any case a period of not less than one fiscal year following the fiscal year in which the notice is delivered. The notice may also set forth a schedule for revisions to Budgets that have already been certified, which revisions must be subject to subsequent approval and certification by the Oversight Board. The Oversight Board shall consult with the Governor and the Legislature in establishing a schedule, but the Oversight Board shall retain sole discretion to set or, by delivery of a subsequent notice to the Governor and the Legislature, change the dates of such schedule as it deems appropriate and reasonably feasible.
 
 **(b) Revenue forecast** The Oversight Board shall submit to the Governor and Legislature a forecast of revenues for the period covered by the Budgets by the time specified in the notice delivered under subsection (a), for use by the Governor in developing the Budget under subsection (c).
 
@@ -782,13 +782,13 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
 (2) **Legislature’s revisions** — The Legislature may correct any violations identified by the Oversight Board and submit a revised Territory Budget to the Oversight Board in accordance with the process established under paragraph (1) and by the time specified in the notice delivered under subsection (a). The Legislature may submit as many revised adopted Territory Budgets to the Oversight Board as the schedule established in the notice delivered under subsection (a) permits. If the Legislature fails to adopt a Territory Budget that the Oversight Board determines is a compliant budget by the time specified in the notice delivered under subsection (a), the Oversight Board shall develop a revised Territory Budget that is a compliant budget and submit it to the Governor and the Legislature.
 
-**(e) Certification of budgets**
+**(e) Certification of Budgets**
 
-(1) **Certification of developed and approved territory budgets** — If the Governor and the Legislature develop and approve a Territory Budget that is a compliant budget by the day before the first day of the fiscal year for which the Territory Budget is being developed and in accordance with the process established under subsections (c) and (d), the Oversight Board shall issue a compliance certification to the Governor and the Legislature for such Territory Budget.
+(1) **Certification of developed and approved Territory Budgets** — If the Governor and the Legislature develop and approve a Territory Budget that is a compliant budget by the day before the first day of the fiscal year for which the Territory Budget is being developed and in accordance with the process established under subsections (c) and (d), the Oversight Board shall issue a compliance certification to the Governor and the Legislature for such Territory Budget.
 
-(2) **Certification of developed instrumentality budgets** — If the Governor develops an Instrumentality Budget that is a compliant budget by the day before the first day of the fiscal year for which the Instrumentality Budget is being developed and in accordance with the process established under subsection (c), the Oversight Board shall issue a compliance certification to the Governor for such Instrumentality Budget.
+(2) **Certification of developed Instrumentality Budgets** — If the Governor develops an Instrumentality Budget that is a compliant budget by the day before the first day of the fiscal year for which the Instrumentality Budget is being developed and in accordance with the process established under subsection (c), the Oversight Board shall issue a compliance certification to the Governor for such Instrumentality Budget.
 
-(3) **Deemed certification of territory budgets** — If the Governor and the Legislature fail to develop and approve a Territory Budget that is a compliant budget by the day before the first day of the fiscal year for which the Territory Budget is being developed, the Oversight Board shall submit a Budget to the Governor and the Legislature (including any revision to the Territory Budget made by the Oversight Board pursuant to subsection (d)(2)) and such Budget shall be—
+(3) **Deemed certification of Territory Budgets** — If the Governor and the Legislature fail to develop and approve a Territory Budget that is a compliant budget by the day before the first day of the fiscal year for which the Territory Budget is being developed, the Oversight Board shall submit a Budget to the Governor and the Legislature (including any revision to the Territory Budget made by the Oversight Board pursuant to subsection (d)(2)) and such Budget shall be—
 
   (A) deemed to be approved by the Governor and the Legislature;
 
@@ -796,7 +796,7 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
   (C) in full force and effect beginning on the first day of the applicable fiscal year.
 
-(4) **Deemed certification of instrumentality budgets** — If the Governor fails to develop an Instrumentality Budget that is a compliant budget by the day before the first day of the fiscal year for which the Instrumentality Budget is being developed, the Oversight Board shall submit an Instrumentality Budget to the Governor (including any revision to the Instrumentality Budget made by the Oversight Board pursuant to subsection (c)(2)) and such Budget shall be—
+(4) **Deemed certification of Instrumentality Budgets** — If the Governor fails to develop an Instrumentality Budget that is a compliant budget by the day before the first day of the fiscal year for which the Instrumentality Budget is being developed, the Oversight Board shall submit an Instrumentality Budget to the Governor (including any revision to the Instrumentality Budget made by the Oversight Board pursuant to subsection (c)(2)) and such Budget shall be—
 
   (A) deemed to be approved by the Governor;
 
@@ -804,11 +804,11 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
   (C) in full force and effect beginning on the first day of the applicable fiscal year.
 
-**(f) Joint development of budgets** Notwithstanding any other provision of this section, if, in the case of a Territory Budget, the Governor, the Legislature, and the Oversight Board, or in the case of an Instrumentality Budget, the Governor and the Oversight Board, jointly develop such Budget for the fiscal year that meets the requirements under this section, and that the relevant parties certify that such budget reflects a consensus among them, then such Budget shall serve as the Budget for the territory or territorial instrumentality for that fiscal year.
+**(f) Joint development of Budgets** Notwithstanding any other provision of this section, if, in the case of a Territory Budget, the Governor, the Legislature, and the Oversight Board, or in the case of an Instrumentality Budget, the Governor and the Oversight Board, jointly develop such Budget for the fiscal year that meets the requirements under this section, and that the relevant parties certify that such budget reflects a consensus among them, then such Budget shall serve as the Budget for the territory or territorial instrumentality for that fiscal year.
 
 
 <a id="section-2149"></a>
-## § 2149. Effect of finding of noncompliance with budget
+## § 2149. Effect of finding of noncompliance with Budget
 **(a) Submission of reports** Not later than 15 days after the last day of each quarter of a fiscal year (beginning with the fiscal year determined by the Oversight Board), the Governor shall submit to the Oversight Board a report, in such form as the Oversight Board may require, describing—
 
 (1) the actual cash revenues, cash expenditures, and cash flows of the territorial government for the preceding quarter, as compared to the projected revenues, expenditures, and cash flows contained in the certified Budget for such preceding quarter; and
@@ -845,12 +845,12 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
     (ii) prohibit the covered territorial instrumentality from entering into any contract or engaging in any financial or other transactions, unless the contract or transaction was previously approved by the Oversight Board.
 
-**(e) Termination of budget reductions** The Oversight Board shall cancel the reductions, hiring freezes, or prohibition on contracts and financial transactions under subsection (d) if the Oversight Board determines that the territorial government or covered territorial instrumentality, as applicable, has initiated appropriate measures to reduce expenditures or increase revenues to ensure that the territorial government or covered territorial instrumentality is in compliance with the applicable certified Budget or, in the case of the fiscal year in which the Oversight Board is established, the budget adopted by the Governor and the Legislature.
+**(e) Termination of Budget reductions** The Oversight Board shall cancel the reductions, hiring freezes, or prohibition on contracts and financial transactions under subsection (d) if the Oversight Board determines that the territorial government or covered territorial instrumentality, as applicable, has initiated appropriate measures to reduce expenditures or increase revenues to ensure that the territorial government or covered territorial instrumentality is in compliance with the applicable certified Budget or, in the case of the fiscal year in which the Oversight Board is established, the budget adopted by the Governor and the Legislature.
 
 
 <a id="section-2150"></a>
-## § 2150. Review of activities to ensure compliance with fiscal plan
-**(a) Submission of Legislative acts to Oversight Board**
+## § 2150. Review of activities to ensure compliance with Fiscal Plan
+**(a) Submission of legislative acts to Oversight Board**
 
 (1) **Submission of acts** — Except to the extent that the Oversight Board may provide otherwise in its bylaws, rules, and procedures, not later than 7 business days after a territorial government duly enacts any law during any fiscal year in which the Oversight Board is in operation, the Governor shall submit the law to the Oversight Board.
 
@@ -874,7 +874,7 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
   (A) *Failure to provide estimate or certification* — After sending a notification to the Governor and the Legislature under paragraph (3)(A) or (3)(B) with respect to a law, the Oversight Board may direct the Governor to provide the missing estimate or certification (as the case may be), in accordance with such procedures as the Oversight Board may establish.
 
-  (B) *Submission of certification of significant inconsistency with fiscal plan and budget* — In accordance with such procedures as the Oversight Board may establish, after sending a notification to the Governor and Legislature under paragraph (3)(C) that a law is significantly inconsistent with the Fiscal Plan, the Oversight Board shall direct the territorial government to—
+  (B) *Submission of certification of significant inconsistency with Fiscal Plan and Budget* — In accordance with such procedures as the Oversight Board may establish, after sending a notification to the Governor and Legislature under paragraph (3)(C) that a law is significantly inconsistent with the Fiscal Plan, the Oversight Board shall direct the territorial government to—
 
     (i) correct the law to eliminate the inconsistency; or
 
@@ -884,7 +884,7 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 
 (6) **Preliminary review of proposed acts** — At the request of the Legislature, the Oversight Board may conduct a preliminary review of proposed legislation before the Legislature to determine whether the legislation as proposed would be consistent with the applicable Fiscal Plan under this subtitle,11 See References in Text note below. except that any such preliminary review shall not be binding on the Oversight Board in reviewing any law subsequently submitted under this subsection.
 
-**(b) Effect of approved fiscal plan on contracts, rules, and regulations**
+**(b) Effect of approved Fiscal Plan on contracts, rules, and regulations**
 
 (1) **Transparency in contracting** — The Oversight Board shall work with a covered territory’s office of the comptroller or any functionally equivalent entity to promote compliance with the applicable law of any covered territory that requires agencies and instrumentalities of the territorial government to maintain a registry of all contracts executed, including amendments thereto, and to remit a copy to the office of the comptroller for inclusion in a comprehensive database available to the public. With respect to Puerto Rico, the term “applicable law” refers to 2 L.P.R.A. 97, as amended.
 
@@ -926,7 +926,7 @@ Subchapter IV, referred to in subsec. (b)(1)(E), was in the original a reference
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(5) and (d), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (a)(5) and (d), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 This subtitle, referred to in subsec. (a)(6), probably should be a reference to “this title”, meaning title II of Pub. L. 114–187, June 30, 2016, 130 Stat. 563, which is classified generally to this subchapter. Pub. L. 114–187 does not contain subtitles.
 
@@ -1022,7 +1022,7 @@ For so long as the Oversight Board remains in operation, no territorial governme
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1)–(3) and (b)(1), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (a)(1) to (3) and (b)(1), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2163"></a>
@@ -1050,7 +1050,7 @@ An Oversight Board shall terminate upon certification by the Oversight Board tha
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2165"></a>
@@ -1103,7 +1103,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
   (B) with reference to Insured Bonds, shall mean the monoline insurer insuring such Insured Bond to the extent such insurer is granted the right to vote Insured Bonds for purposes of directing remedies or consenting to proposed amendments or modifications as provided in the applicable documents pursuant to which such Insured Bond was issued and insured.
 
-(4) **Insured bond** — The term “Insured Bond” means a bond subject to a financial guarantee or similar insurance contract, policy and/or surety issued by a monoline insurer.
+(4) **Insured Bond** — The term “Insured Bond” means a bond subject to a financial guarantee or similar insurance contract, policy and/or surety issued by a monoline insurer.
 
 (5) **Property of the estate** — The term “property of the estate”, when used in a section of title 11 made applicable in a case under this subchapter by subsection (a), means property of the debtor.
 
@@ -1148,7 +1148,7 @@ Subject to the limitations set forth in subchapters I and II of this chapter, th
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in par. (3), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in par. (3), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2170"></a>
@@ -1174,7 +1174,7 @@ This chapter, referred to in par. (3), was in the original “this Act”, meani
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (h), was in the original “This Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsec. (h), was in the original “This Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2171"></a>
@@ -1409,7 +1409,7 @@ Nothing in this chapter is intended, or may be construed—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in par. (3), is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of this title](./chapter-017-northern-mariana-islands.md#section-1801).
 
@@ -1422,9 +1422,9 @@ Nothing in this chapter shall be interpreted to restrict Puerto Rico’s right t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
-Public Law 113–76, referred to in text, is Pub. L. 113–76, Jan. 17, 2014, 128 Stat. 5, known as the Consolidated Appropriations Act, 2014. For complete classification of this Act to the Code, see Tables.
+Public Law 113–76, referred to in text, is Pub. L. 113–76, Jan. 17, 2014, 128 Stat. 5, known as the Consolidated Appropriations Act, 2014. Provisions relating to appropriations for a plebiscite on Puerto Rico’s future political status appear at 128 Stat. 61. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-2199"></a>
@@ -1552,7 +1552,7 @@ Public Law 113–76, referred to in text, is Pub. L. 113–76, Jan. 17, 2014, 12
 
 **(k) Effect** This section does not discharge an obligation of the Government of Puerto Rico or release, invalidate, or impair any security interest or lien securing such obligation. This section does not impair or affect the implementation of any restructuring support agreement executed by the Government of Puerto Rico to be implemented pursuant to Puerto Rico law specifically enacted for that purpose prior to the enactment of this chapter or the obligation of the Government of Puerto Rico to proceed in good faith as set forth in any such agreement.
 
-**(l) Payments on liabilities** Nothing in this section shall be construed to prohibit the Government of Puerto Rico from making any payment on any Liability when such payment becomes due during the term of the stay, and to the extent the Oversight Board, in its sole discretion, determines it is feasible, the Government of Puerto Rico shall make interest payments on outstanding indebtedness when such payments become due during the length of the stay.
+**(l) Payments on Liabilities** Nothing in this section shall be construed to prohibit the Government of Puerto Rico from making any payment on any Liability when such payment becomes due during the term of the stay, and to the extent the Oversight Board, in its sole discretion, determines it is feasible, the Government of Puerto Rico shall make interest payments on outstanding indebtedness when such payments become due during the length of the stay.
 
 **(m) Findings** Congress finds the following:
 
@@ -1591,7 +1591,7 @@ Public Law 113–76, referred to in text, is Pub. L. 113–76, Jan. 17, 2014, 12
 #### References in Text
 The enactment of this chapter, referred to in text, means the enactment of Pub. L. 114–187, which was approved June 30, 2016.
 
-This chapter, referred to in subsec. (m)(5), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in subsec. (m)(5), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2211"></a>
@@ -1723,7 +1723,7 @@ Nothing in this chapter shall be interpreted to restrict—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as the PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101) and Tables.
 
 
 <a id="section-2217"></a>

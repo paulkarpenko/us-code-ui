@@ -351,6 +351,8 @@ Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, provided that: “SECTION 1. SHO
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. J, title VII, § 7034(k)(1), May 5, 2017, 131 Stat. 671.
+
 Pub. L. 114–113, div. K, title VII, § 7042(k)(1), Dec. 18, 2015, 129 Stat. 2783.
 
 Pub. L. 113–235, div. J, title VII, § 7042(m)(1), Dec. 16, 2014, 128 Stat. 2644.
@@ -3997,7 +3999,13 @@ Subsec. (c)(3). Pub. L. 114–113, § 7034(q)(3)(B)–(D), added par. (3).
 Subsec. (e)(3). Pub. L. 114–113, § 7034(q)(3)(E), substituted “20” for “12” and “administrative expenses, and other necessary support associated with managing and strengthening” for “administrative and oversight expenses associated with managing”.
 
 #### Definitions
-Pub. L. 114–113, div. K, title VII, § 7034(q)(4), Dec. 18, 2015, 129 Stat. 2768, provided that: “For the purposes of section 7080 of Public Law 113–235 [[22 U.S.C. 2152i](./chapter-032-foreign-assistance.md#section-2152i)], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
+Pub. L. 115–31, div. J, title VII, § 7034(r)(5), May 5, 2017, 131 Stat. 654, provided that: “In this Act [div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification], the term ‘USAID’ means the United States Agency for International Development.”
+
+Pub. L. 115–31, div. J, title VII, § 7034(p)(2), May 5, 2017, 131 Stat. 653, provided that: “For the purposes of section 7080 of division J of Public Law 113–235 [[22 U.S.C. 2152i](./chapter-032-foreign-assistance.md#section-2152i)], “‘eligible entities”’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 from USAID over the previous 5 fiscal years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 114–113, div. K, title VII, § 7034(q)(4), Dec. 18, 2015, 129 Stat. 2768.
 
 Pub. L. 113–235, div. J, title VII, § 7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: “Unless otherwise defined in this Act [div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification], for purposes of this Act the term ‘appropriate congressional committees’ shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives.”
 
@@ -5122,9 +5130,11 @@ Pub. L. 106–31, title VI, § 6001, May 21, 1999, 113 Stat. 112, provided that 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Extension of OPIC Authority
-Pub. L. 114–113, div. K, title VII, § 7061(b), Dec. 18, 2015, 129 Stat. 2810, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2195(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a/2&num=0&edition=prelim)], the authority of subsections (a) through (c) of section 234 of such Act [[22 U.S.C. 2194(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim)–(c)] shall remain in effect until September 30, 2016.”
+Pub. L. 115–31, div. J, title VII, § 7061(b), May 5, 2017, 131 Stat. 702, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2195(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a/2&num=0&edition=prelim)], the authority of subsections (a) through (c) of section 234 of such Act [[22 U.S.C. 2194(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim)–(c)] shall remain in effect until September 30, 2017.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 114–113, div. K, title VII, § 7061(b), Dec. 18, 2015, 129 Stat. 2810.
 
 Pub. L. 113–235, div. J, title VII, § 7073(b), Dec. 16, 2014, 128 Stat. 2679.
 
@@ -9269,7 +9279,7 @@ Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, as amended by Pub. L.
 #### Reports to Congress
 Pub. L. 101–513, title V, § 562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 [this part] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include— “(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 [[22 U.S.C. 2293(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/e/1&num=0&edition=prelim), (f)]; “(2) the degree of involvement of local people in the implementation of projects having a local focus; “(3) the extent to which there has been expansion of the participation and integration of African women in each of the critical sectors specified in section 496(i); “(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section 496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and “(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated.”
 
-#### Ex. Ord. No. 13746. Advancing the Goals of the Power Africa Initiative to Expand Access to Electricity in Sub-Saharan Africa Through the Establishment of the President’s Power Africa Working Group
+#### Ex. Ord. No. 13746. Advancing the Goals of the Power Africa Initiative To Expand Access to Electricity in Sub-Saharan Africa Through the Establishment of the President’s Power Africa Working Group
 Ex. Ord. No. 13746, Nov. 3, 2016, 81 F.R. 78697, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
@@ -10849,7 +10859,7 @@ Section 1–501(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oc
 
 (2)
 
-  (A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, and 2017.
+  (A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, 2017, and 2018.
 
   (B) Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 
@@ -10872,6 +10882,8 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 Amendment by Pub. L. 98–473 is based on section 116(a) of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+2017—Subsec. (b)(2)(A). Pub. L. 115–31 substituted “2017, and 2018” for “and 2017”.
+
 2015—Subsec. (b)(2)(A). Pub. L. 114–113 substituted “2015, 2016, and 2017” for “and 2015”.
 
 2014—Subsec. (b)(2)(A). Pub. L. 113–296 substituted “, 2014, and 2015” for “and 2014”.
@@ -12993,9 +13005,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Separate Accounts for Local Currencies and Cash Transfers
-Pub. L. 114–113, div. K, title VII, § 7026, Dec. 18, 2015, 129 Stat. 2748, provided that: “(a) Separate Accounts for Local Currencies.—“(1) Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development (USAID) shall—“(A) require that local currencies be deposited in a separate account established by that government; “(B) enter into an agreement with that government which sets forth—“(i) the amount of the local currencies to be generated; and “(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and “(C) establish by agreement with that government the responsibilities of USAID and that government to monitor and account for deposits into and disbursements from the separate account. “(2) Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), for such purposes as—“(i) project and sector assistance activities; or “(ii) debt and deficit financing; or “(B) for the administrative requirements of the United States Government. “(3) Programming accountability.—USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2). “(4) Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government. “(5) Reporting requirement.—The USAID Administrator shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used or to be used for such purpose in each applicable country. “(b) Separate Accounts for Cash Transfers.—“(1) In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle [them] with any other funds. “(2) Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159). “(3) Notification.—At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by the assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance). “(4) Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations.”
+Pub. L. 115–31, div. J, title VII, § 7026, May 5, 2017, 131 Stat. 633, provided that: “(a) Separate Accounts for Local Currencies.—“(1) Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—“(A) require that local currencies be deposited in a separate account established by that government; “(B) enter into an agreement with that government which sets forth—“(i) the amount of the local currencies to be generated; and “(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and “(C) establish by agreement with that government the responsibilities of USAID and that government to monitor and account for deposits into and disbursements from the separate account. “(2) Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), for such purposes as—“(i) project and sector assistance activities; or “(ii) debt and deficit financing; or “(B) for the administrative requirements of the United States Government. “(3) Programming accountability.—USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2). “(4) Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government. “(5) Reporting requirement.—The USAID Administrator shall report as part of the congressional budget justification submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used or to be used for such purpose in each applicable country. “(b) Separate Accounts for Cash Transfers.—“(1) In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle with any other funds. “(2) Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159). “(3) Notification.—At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by such assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance). “(4) Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. K, title VII, § 7026, Dec. 18, 2015, 129 Stat. 2748.
 
 Pub. L. 113–235, div. J, title VII, § 7026, Dec. 16, 2014, 128 Stat. 2614.
 
@@ -13796,7 +13810,7 @@ In sections 2370c to 2370c–2 of this title:
 ### Statutory Notes
 
 #### References in Text
-Sections 2370c to 2370c–2 of this title, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of title IV to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+Sections 2370c to 2370c–2 of this title, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Section was enacted as part of the Child Soldiers Prevention Act of 2008, and also as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
@@ -13842,7 +13856,7 @@ Pub. L. 110–457, title IV, § 407, Dec. 23, 2008, 122 Stat. 5091, provided tha
 ### Statutory Notes
 
 #### References in Text
-Sections 2370c to 2370c–2 of this title, referred to in subsecs. (a) and (b)(1), was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of title IV to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+Sections 2370c to 2370c–2 of this title, referred to in subsecs. (a) and (b)(1), was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Section was enacted as part of the Child Soldiers Prevention Act of 2008, and also as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
@@ -13879,7 +13893,7 @@ Section effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110�
 ### Statutory Notes
 
 #### References in Text
-Sections 2370c to 2370c–2 of this title, referred to in subsec. (c)(1), (2), (4), was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of title IV to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+Sections 2370c to 2370c–2 of this title, referred to in subsec. (c)(1), (2), (4), was in the original “this title”, meaning title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, known as the Child Soldiers Prevention Act of 2008, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Section was enacted as part of the Child Soldiers Prevention Act of 2008, and also as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
@@ -15124,9 +15138,11 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Extension of Authority
-Pub. L. 114–113, div. K, title VII, § 7034(k)(6), Dec. 18, 2015, 129 Stat. 2765, provided that: “Section 625(j)(1) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2010’ in subparagraph (B).”
+Pub. L. 115–31, div. J, title VII, § 7034(k)(3), May 5, 2017, 131 Stat. 651, provided that: “Section 625(j)(1) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2017’ for ‘October 1, 2010’ in subparagraph (B).”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 114–113, div. K, title VII, § 7034(k)(6), Dec. 18, 2015, 129 Stat. 2765.
 
 Pub. L. 113–235, div. J, title VII, § 7034(l)(6), Dec. 16, 2014, 128 Stat. 2625.
 
@@ -17148,7 +17164,7 @@ Section, Pub. L. 87–195, pt. III, § 659, as added Pub. L. 93–559, § 29(a),
 
 **(b) Exception; qualification** Subsection (a) of this section shall not apply—
 
-(1) with respect to assistance rendered under section 3763(c) 11 See References in Text note below. of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under [section 2291a of this title](./chapter-032-foreign-assistance.md#section-2291a);
+(1) with respect to assistance rendered under section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968,11 See References in Text note below. with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under [section 2291a of this title](./chapter-032-foreign-assistance.md#section-2291a);
 
 (2) to any contract entered into prior to December 30, 1974, with any person, organization, or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
 
@@ -17172,7 +17188,7 @@ Notwithstanding clause (2), subsection (a) shall apply to any renewal or extensi
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-[Section 3763(c) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3763/c&num=0&edition=prelim), referred to in subsec. (b)(1), was in the original section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968 [title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 207]. Section 515 was omitted in the general revision of title I of Pub. L. 90–351 by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167.
+Section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(1), is section 515(c) of title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 207, which was formerly classified to [section 3763(c) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3763/c&num=0&edition=prelim), The Public Health and Welfare. Section 515 was omitted in the general revision of title I of Pub. L. 90–351 by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167.
 
 #### Amendments
 1999—Subsec. (b)(7). Pub. L. 106–113 added par. (7).

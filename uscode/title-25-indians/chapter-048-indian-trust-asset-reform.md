@@ -40,11 +40,11 @@ Pursuant to the constitutionally vested authority of Congress over Indian affair
 
 In this subchapter:
 
-(1) **Indian tribe** — The term ‘Indian tribe’ has the meaning given the term in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).11 See References in Text note below.
+(1) **Indian tribe** — The term “Indian tribe” has the meaning given the term in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).11 See References in Text note below.
 
-(2) **Project** — The term ‘Project’ means the Indian trust asset management demonstration project established under [section 5612(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5612/a&num=0&edition=prelim).
+(2) **Project** — The term “Project” means the Indian trust asset management demonstration project established under [section 5612(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5612/a&num=0&edition=prelim).
 
-(3) **Secretary** — The term ‘Secretary’ means the Secretary of the Interior.
+(3) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 
 ### Statutory Notes
 
@@ -221,7 +221,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 **(e) Federal environmental review** Notwithstanding subsection (b), if an Indian tribe carries out a project or activity funded by a Federal agency, the Indian tribe shall have the authority to rely on the environmental review process of the applicable Federal agency, rather than any tribal environmental review process under this section.
 
-**(f) Documentation** If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary
+**(f) Documentation** If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary 22 So in original. Probably should be followed by a dash.
 
 (1) a copy of the surface leasing transaction or forest land management activity documents, including any amendments to, or renewals of, the applicable transaction; and
 

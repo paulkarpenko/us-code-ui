@@ -172,7 +172,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Part B of title IV of the Act is classified generally to part B (§ 658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
 
 #### Effective Date
-Pub. L. 104–4, title I, § 110, Mar. 22, 1995, 109 Stat. 64, provided that: “This title [enacting this subchapter and sections 658 to 658g of this title and amending sections 602, 632, and 653 of this title] shall take effect on January 1, 1996 or on the date 90 days after appropriations are made available as authorized under section 109 [[section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516)], whichever is earlier and shall apply to legislation considered on and after such date.”
+Pub. L. 104–4, title I, § 110, Mar. 22, 1995, 109 Stat. 64, provided that: “This title [enacting this subchapter and sections 658 to 658g of this title and amending sections 602, 632, and 653 of this title] shall take effect on January 1, 1996 or on the date 90 days after appropriations are made available as authorized under section 109 [[2 U.S.C. 1516](./chapter-025-unfunded-mandates-reform.md#section-1516)], whichever is earlier and shall apply to legislation considered on and after such date.”
 
 
 <a id="section-1516"></a>
@@ -260,7 +260,7 @@ There are authorized to be appropriated to the Congressional Budget Office $4,50
 This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 50, which enacted this subchapter and sections 658 to 658g of this title, amended sections 602, 632, and 653 of this title, and enacted provisions set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 #### Effective Date
-Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under this section, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-1535"></a>

@@ -624,7 +624,7 @@ Subsec. (e). Pub. L. 103–322, § 32001(2), added subsec. (e).
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 #### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 17504 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17504&num=0&edition=prelim), The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3622"></a>
@@ -844,7 +844,7 @@ Pub. L. 99–646, § 17(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 #### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 17504 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17504&num=0&edition=prelim), The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3625"></a>

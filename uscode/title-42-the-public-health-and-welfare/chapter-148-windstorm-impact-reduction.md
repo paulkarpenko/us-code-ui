@@ -190,7 +190,7 @@ This chapter, referred to in subsec. (b)(1)(C), was in the original “this Act�
 This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
 
 #### Amendments
-2015—Subsecs. (a), (b). Pub. L. 114–52, § 3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program, respectively.
+2015—Subsecs. (a), (b). Pub. L. 114–52, § 3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program.
 
 Subsec. (c). Pub. L. 114–52, § 3(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which established an Interagency Working Group.
 

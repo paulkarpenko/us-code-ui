@@ -5281,13 +5281,15 @@ Pub. L. 85–162, title II, § 203, Aug. 21, 1957, 71 Stat. 410, directed Atomic
 
   (D) are discharging the official duties of the security personnel in transferring, receiving, possessing, transporting, or importing the weapons, ammunition, or devices.
 
-**(c) Background checks** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159; [18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note) to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
+**(c) Background checks** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159; [18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note) 11 See References in Text note below. to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
 
 **(d) Effective date** This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
+Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (c), is section 103 of Pub. L. 103–159, which was classified as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification as [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement.
+
 Guidelines to carry out this section, referred to in subsec. (d), were issued effective Sept. 11, 2009, see 74 F.R. 46800.
 
 

@@ -268,7 +268,7 @@ Par. (1)(E), (F). Pub. L. 114–329, § 105(c)(2)(E), (G), redesignated subpars.
 
 Par. (1)(G), (H). Pub. L. 114–329, § 105(c)(2)(E), (H), redesignated subpar. (H) as (G) and substituted “high-end” for “high-performance”. Former subpar. (G) redesignated (F).
 
-Par. (2). Pub. L. 114–329, § 105(c)(3), substituted “high-performance computing and” for “high-performance computing and” and “high-performance computing network” for “high-performance computing network”.
+Par. (2). Pub. L. 114–329, § 105(c)(3), substituted “networking and information technology and” for “high-performance computing and” and “networking and information technology” for “high-performance computing network”.
 
 1998—Pub. L. 105–305, § 3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
@@ -338,7 +338,7 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 <a id="section-5521"></a>
 ## § 5521. Networking and Information Technology Research and Development Program
-**(a) Networking and Information Technology Research and Development**
+**(a) Networking and Information Technology research and development**
 
 (1) The President shall implement a Networking and Information Technology Research and Development Program, which shall—
 
@@ -516,7 +516,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3),
 #### Amendments
 2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
 
-Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology Research and Development” for “National High-Performance Computing Program” in heading.
+Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology research and development” for “National High-Performance Computing Program” in heading.
 
 Subsec. (a)(1). Pub. L. 114–329, § 105(f)(2)(B)(i), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in introductory provisions.
 
@@ -655,7 +655,7 @@ Sec. 4. General. (a) Notwithstanding any other Executive order, the functions of
 
 
 <a id="section-5522"></a>
-## § 5522. Grand challenges in areas of national importance
+## § 5522. Grand Challenges in areas of national importance
 **(a) In general** The Program shall encourage the participating agencies to support foundational, large-scale, long-term, interdisciplinary, and interagency information technology research and development activities in networking and information technology directed toward agency mission areas that have the potential for significant contributions to national economic competitiveness and for other significant societal benefits. Such activities, ranging from basic research to the demonstration of technical solutions, shall be designed to advance the development of fundamental discoveries. The advisory committee established under [section 5511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) shall make recommendations to the Program for candidate research and development areas for support under this section.
 
 **(b) Characteristics**
@@ -818,4 +818,4 @@ Subsec. (b). Pub. L. 114–329, § 105(p)(2), substituted “networking and info
 
 ### Statutory Notes
 
-Section Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.
+Section, Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.

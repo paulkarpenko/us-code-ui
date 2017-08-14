@@ -1725,7 +1725,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 ### Statutory Notes
 
-Section 1050, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, § 905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
+Section, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, § 905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:

@@ -2,7 +2,7 @@
 title: 7
 chapter: '51'
 heading: SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -1694,6 +1694,17 @@ Pub. L. 96–243, May 16, 1980, 94 Stat. 345, directed the Department of Agricul
 
 #### Study and Report of Impact and Advisability of Counting for Income Eligibility in Food Stamp Program Educational Loans, etc. Received by Individual or Household
 Pub. L. 96–243, May 16, 1980, 94 Stat. 345, provided for the Secretary of Agriculture to study the impact and advisability of counting, for the purposes of income in determining eligibility: all educational loans on which payment is deferred; grants, fellowships, scholarships, and veteran’s educational benefits used for the payment of tuition and mandatory fees at any educational institution of higher learning; and all housing subsidies including, but not limited to payments made by an outside party on behalf of an individual or household, and further provided for the Department of Agriculture to report to Congress its findings in this matter not later than Jan. 15, 1981.
+
+
+<a id="section-2014a"></a>
+## § 2014a. Notice of change in State of residence of certified household
+
+Beginning on May 5, 2017, in fiscal year 2017 and each fiscal year hereafter, notwithstanding any other provision of law, a household certified to participate in the Supplemental Nutrition Assistance Program is required to report in a manner prescribed by the Secretary if the household no longer resides in the State in which it is certified.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Food and Nutrition Act of 2008 which comprises this chapter.
 
 
 <a id="section-2015"></a>

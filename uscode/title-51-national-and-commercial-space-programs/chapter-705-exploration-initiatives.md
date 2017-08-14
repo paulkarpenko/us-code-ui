@@ -8,9 +8,13 @@ source: >-
 ---
 <a id="section-70501"></a>
 ## § 70501. Space shuttle follow-on
-**(a) Policy Statement.—** It is the policy of the United States to possess the capability for human access to space on a continuous basis.
+**(a) Policy Statement.—** In order to ensure continuous United States participation and leadership in the exploration and utilization of space and as an essential instrument of national security, it is the policy of the United States to maintain an uninterrupted capability for human space flight and operations—
 
-**(b) Annual Report.—** The Administrator shall transmit an annual report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle and the estimated time before they will demonstrate crewed, orbital spaceflight.
+(1) in low-Earth orbit; and
+
+(2) beyond low-Earth orbit once the capabilities described in section 421(f) of the National Aeronautics and Space Administration Transition Authorization Act of 2017 become available.
+
+**(b) Annual Report.—** The Administrator shall transmit an annual report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion and the estimated time before they will demonstrate crewed, orbital spaceflight.
 
 ### Statutory Notes
 
@@ -23,6 +27,14 @@ source: >-
 In subsection (b), the words “The Administrator shall transmit an annual report” are substituted for “Not later than 180 days after the date of enactment of this Act [December 30, 2005] and annually thereafter, the Administrator shall transmit a report” to eliminate obsolete language.
 
 In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### References in Text
+Section 421(f) of the National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (a)(2), is section 421(f) of Pub. L. 115–10, which is set out as a note under [section 20301 of this title](./chapter-203-responsibilities-and-vision.md#section-20301).
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–10, § 417(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “It is the policy of the United States to possess the capability for human access to space on a continuous basis.”
+
+Subsec. (b). Pub. L. 115–10, § 417(2), substituted “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion” for “Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle”.
 
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
@@ -42,7 +54,7 @@ The Administrator shall—
 
 (1) construct an architecture and implementation plan for the Administration’s human exploration program that is not critically dependent on the achievement of milestones by fixed dates;
 
-(2) implement an exploration technology development program to enable lunar human and robotic operations consistent with [section 20302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20302/b&num=0&edition=prelim), including surface power to use on the Moon and other locations;
+(2) implement an exploration research and technology development program to enable human and robotic operations consistent with [section 20302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20302/b&num=0&edition=prelim);
 
 (3) conduct an in-situ resource utilization technology program to develop the capability to use space resources to increase independence from Earth, and sustain exploration beyond low-Earth orbit; and
 
@@ -54,6 +66,9 @@ The Administrator shall—
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 70502 | [42 U.S.C. 16763](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16763&num=0&edition=prelim). | Pub. L. 109–155, title V, § 503, Dec. 30, 2005, 119 Stat. 2929. |
+
+#### Amendments
+2017—Par. (2). Pub. L. 115–10 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “implement an exploration technology development program to enable lunar human and robotic operations consistent with [section 20302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20302/b&num=0&edition=prelim), including surface power to use on the Moon and other locations;”.
 
 
 <a id="section-70503"></a>
@@ -80,8 +95,17 @@ The Administrator shall—
 
 <a id="section-70504"></a>
 ## § 70504. Stepping stone approach to exploration
+**(a) In General.—** The Administration—
 
-In order to maximize the cost-effectiveness of the long-term exploration and utilization activities of the United States, the Administrator shall take all necessary steps, including engaging international partners, to ensure that activities in its lunar exploration program shall be designed and implemented in a manner that gives strong consideration to how those activities might also help meet the requirements of future exploration and utilization activities beyond the Moon. The timetable of the lunar phase of the long-term international exploration initiative shall be determined by the availability of funding. However, once an exploration-related project enters its development phase, the Administrator shall seek, to the maximum extent practicable, to complete that project without undue delays.
+(1) may conduct missions to intermediate destinations in sustainable steps in accordance with [section 20302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20302/b&num=0&edition=prelim), and on a timetable determined by the availability of funding, in order to achieve the objective of human exploration of Mars specified in section 202(b)(5) of the National Aeronautics and Space Administration Authorization Act of 2010 ([42 U.S.C. 18312(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18312/b/5&num=0&edition=prelim)); and
+
+(2) shall incorporate any such missions into the human exploration roadmap under section 432 of the National Aeronautics and Space Administration Transition Authorization Act of 2017.
+
+**(b) Cost-effectiveness.—** In order to maximize the cost-effectiveness of the long-term space exploration and utilization activities of the United States, the Administrator shall take all necessary steps, including engaging international, academic, and industry partners, to ensure that activities in the Administration’s human space exploration program balance how those activities might also help meet the requirements of future exploration and utilization activities leading to human habitation on the surface of Mars.
+
+**(c) Completion.—** Within budgetary considerations, once an exploration-related project enters its development phase, the Administrator shall seek, to the maximum extent practicable, to complete that project without undue delays.
+
+**(d) International Participation.—** In order to achieve the goal of successfully conducting a crewed mission to the surface of Mars, the President may invite the United States partners in the ISS program and other nations, as appropriate, to participate in an international initiative under the leadership of the United States.
 
 ### Statutory Notes
 
@@ -89,6 +113,12 @@ In order to maximize the cost-effectiveness of the long-term exploration and uti
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 70504 | [42 U.S.C. 17731](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17731&num=0&edition=prelim). | Pub. L. 110–422, title IV, § 403, Oct. 15, 2008, 122 Stat. 4789. |
+
+#### References in Text
+Section 432 of the National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (a)(2), is section 432 of Pub. L. 115–10, which is set out in a note under [section 20302 of this title](./chapter-203-responsibilities-and-vision.md#section-20302).
+
+#### Amendments
+2017—Pub. L. 115–10 amended section generally. Prior to amendment, text read as follows: “In order to maximize the cost-effectiveness of the long-term exploration and utilization activities of the United States, the Administrator shall take all necessary steps, including engaging international partners, to ensure that activities in its lunar exploration program shall be designed and implemented in a manner that gives strong consideration to how those activities might also help meet the requirements of future exploration and utilization activities beyond the Moon. The timetable of the lunar phase of the long-term international exploration initiative shall be determined by the availability of funding. However, once an exploration-related project enters its development phase, the Administrator shall seek, to the maximum extent practicable, to complete that project without undue delays.”
 
 
 <a id="section-70505"></a>

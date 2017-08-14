@@ -2425,7 +2425,7 @@ Every Federal reserve bank shall have power to establish accounts with other Fed
 Section is comprised of subsec. (e) of section 14 of act Dec. 23, 1913. For classification to this title of remainder of section 14, see Codification note under [section 353 of this title](./chapter-003-federal-reserve-system.md#section-353).
 
 #### Amendments
-1941—Act Apr. 7, 1941, inserted in first sentence “and which bear the signature of two or more responsible parties” and “or for foreign states as defined in [section 632 of this title](./chapter-006-foreign-banking.md#section-632)”.
+1941—Act Apr. 7, 1941, inserted in first sentence “, or for foreign banks or bankers, or for foreign states as defined in [section 632 of this title](./chapter-006-foreign-banking.md#section-632)” after “foreign correspondents or agencies”.
 
 #### Change of Name
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.

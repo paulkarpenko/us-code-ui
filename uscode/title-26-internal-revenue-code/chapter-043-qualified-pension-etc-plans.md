@@ -3424,7 +3424,7 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 #### References in Text
 The Social Security Act, referred to in subsec. (f)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-Section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (f)(3), is classified to [section 3796b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim), The Public Health and Welfare.
+Section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (f)(3), is classified to [section 10284 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)(3), is classified to [section 203(y) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/y&num=0&edition=prelim), Labor.
 

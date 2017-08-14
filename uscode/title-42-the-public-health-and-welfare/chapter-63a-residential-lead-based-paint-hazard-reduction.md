@@ -215,7 +215,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 (26) **Secretary** — The term “Secretary” means the Secretary of Housing and Urban Development.
 
-(27) **Target housing** — The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary’s discretion, may designate an earlier date.
+(27) **Target housing** — The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary’s discretion, may designate an earlier date.
 
 ### Statutory Notes
 
@@ -223,6 +223,11 @@ For the purposes of this chapter, the following definitions shall apply:
 This chapter, referred to in text, was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 4851 of this title](./chapter-63a-residential-lead-based-paint-hazard-reduction.md#section-4851) and Tables.
 
 Section 1 of the Housing and Urban Development Act of 1965, referred to in par. (7)(B), is section 1 of Pub. L. 89–117, which is set out as a Short Title of 1965 Amendment note under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking.
+
+#### Amendments
+2017—Par. (27). Pub. L. 115–31, § 237(b)(1), which directed insertion of “or any 0-bedroom dwelling” after “disabilities,”, was executed by making the insertion after “disabilities” the first place appearing to reflect the probable intent of Congress.
+
+Pub. L. 115–31, § 237(b)(2), which directed substitution of “housing)” for ““housing for the elderly or persons with disabilities) or any 0 bedroom dwelling”, was executed by making the substitution for “housing for the elderly or persons with disabilities) or any 0-bedroom dwelling” to reflect the probable intent of Congress.
 
 
 <a id="section-4852c"></a>
@@ -289,7 +294,7 @@ Section 1 of the Housing and Urban Development Act of 1965, referred to in par. 
 
 (1) **In general** — The Secretary shall develop the capacity of eligible applicants to carry out the requirements of section 12705(b)(16) 1 of this title and to carry out activities under this section. In fiscal years 1993 and 1994, the Secretary may make grants of up to $200,000 for the purpose of establishing State training, certification or accreditation programs that meet the requirements of [section 2682 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2682&num=0&edition=prelim).
 
-(2) **Set-aside** — Of the total amount approved in appropriation Acts under subsection (o) of this section, there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
+(2) **Set-aside** — Of the total amount approved in appropriation Acts under subsection (o), there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
 
 **(h) Matching requirement** Each recipient of a grant under this section shall make contributions toward the cost of activities that receive assistance under this section in an amount not less than 10 percent of the total grant amount under this section.
 

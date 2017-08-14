@@ -291,11 +291,14 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
   (C) any administrative or judicial proceeding in relation to such property,
   if not inconsistent with this subsection.
 
-(4) Notwithstanding [section 524(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c&num=0&edition=prelim), there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
+(4) Notwithstanding [section 524(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c&num=0&edition=prelim), there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) 11 See References in Text note below. all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
 (5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 ### Statutory Notes
+
+#### References in Text
+Section 1402 of the Victims of Crime Act of 1984, referred to in subsec. (d)(4), is section 1402 of chapter XIV of title II of Pub. L. 98–473, which was classified to [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Codification
 Another section 798 was renumbered [section 798A of this title](./chapter-037-espionage-and-censorship.md#section-798a).

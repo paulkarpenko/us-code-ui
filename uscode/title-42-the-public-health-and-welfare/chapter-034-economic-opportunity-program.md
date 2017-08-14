@@ -528,7 +528,7 @@ Repeal effective Oct. 1, 1981, see [section 9912(a) of this title](https://uscod
 
 (2) For the purpose of carrying out the programs authorized under [section 2808 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2808&num=0&edition=prelim) there is authorized to be appropriated $330,000,000 for the fiscal year 1975 and such sums as may be necessary for each of the two succeeding fiscal years.
 
-**(b)** Unless the Congress has passed or formally rejected legislation extending the authorizations of appropriations for carrying out any subchapter of this chapter specified in subsection (a) of this section, or adopts a concurrent resolution providing that the provisions of this subsection shall not apply, the authorizations of appropriations specified in subsection (a) of this section are hereby automatically extended for one additional fiscal year beyond the terminal year specified in this chapter or in this section.
+**(b)** Unless the Congress has passed or formally rejected legislation extending the authorizations of appropriations for carrying out any subchapter of this chapter specified in subsection (a) of this section, or adopts a concurrent resolution providing that the provisions of this subsection shall not apply, the authorizations of appropriations specified in subsection (a) are hereby automatically extended for one additional fiscal year beyond the terminal year specified in this chapter or in this section.
 
 **(c)** Any funds appropriated to carry out any program under subchapters I to X of this chapter which are not obligated prior to the end of the fiscal year for which such funds were appropriated shall remain available for obligation during the succeeding fiscal year.
 
@@ -1754,13 +1754,13 @@ Amendment by sections 502(1) and 504(a) of Pub. L. 100–175 effective Oct. 1, 1
 
 **(b) Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending**
 
-(1) The Office may make a loan or loan guarantee to a borrower under subsection (a)(1)(A) of this section only if the Office determines that—
+(1) The Office may make a loan or loan guarantee to a borrower under subsection (a)(1)(A) only if the Office determines that—
 
   (A) the borrower is unable to obtain financing from other sources on reasonable terms and conditions; and
 
   (B) there is a reasonable prospect that the borrower will repay the loan.
 
-(2) Each loan or loan guarantee made under subsection (a)(1)(A) of this section shall be—
+(2) Each loan or loan guarantee made under subsection (a)(1)(A) shall be—
 
   (A) for a term that does not exceed 7 years; and
 
@@ -1770,19 +1770,19 @@ Amendment by sections 502(1) and 504(a) of Pub. L. 100–175 effective Oct. 1, 1
 
     (II) 3 percentage points.
 
-(3) The Office may require any borrower of a loan made under subsection (a)(1)(A) of this section to provide such collateral as the Office determines to be necessary to secure the loan.
+(3) The Office may require any borrower of a loan made under subsection (a)(1)(A) to provide such collateral as the Office determines to be necessary to secure the loan.
 
-(4) Prior to making loans under subsection (a)(1)(A) of this section, the Office shall establish written procedures and definitions pertaining to defaults and collections of payments under the loans which shall be subject to the review and approval of the Commissioner. Such Office shall provide to each applicant for a loan under subsection (a)(1)(A) of this section, at the time application for the loan is made, a written copy of such procedures and definitions.
+(4) Prior to making loans under subsection (a)(1)(A), the Office shall establish written procedures and definitions pertaining to defaults and collections of payments under the loans which shall be subject to the review and approval of the Commissioner. Such Office shall provide to each applicant for a loan under subsection (a)(1)(A), at the time application for the loan is made, a written copy of such procedures and definitions.
 
 (5) The Office may not lend to itself any of the funds awarded under the grant.
 
 **(c) Notice to Commissioner of loans in default and uncollectability of such loans; instructions by Commissioner**
 
-(1) The Office shall provide the Commissioner at regular intervals written notice of each loan made under subsection (a)(1)(A) of this section that is in default and the status of such loan.
+(1) The Office shall provide the Commissioner at regular intervals written notice of each loan made under subsection (a)(1)(A) that is in default and the status of such loan.
 
 (2)
 
-  (A) After making reasonable efforts to collect all amounts payable under a loan made under subsection (a)(1)(A) of this section that is in default, the Office shall notify the Commissioner that such loan is uncollectable or collectable only at an unreasonable cost. Such notice shall include recommendations for future action to be taken by the Office.
+  (A) After making reasonable efforts to collect all amounts payable under a loan made under subsection (a)(1)(A) that is in default, the Office shall notify the Commissioner that such loan is uncollectable or collectable only at an unreasonable cost. Such notice shall include recommendations for future action to be taken by the Office.
 
   (B) Upon receiving such notice, the Commissioner shall instruct the Office—
 
@@ -1800,28 +1800,28 @@ Amendment by sections 502(1) and 504(a) of Pub. L. 100–175 effective Oct. 1, 1
 
   (A) pay expenses incurred by the Office in administering the revolving loan fund; and
 
-  (B) provide competent management and technical assistance to borrowers of loans made under subsection (a)(1)(A) of this section to assist the borrowers to achieve the purposes of such loans.
+  (B) provide competent management and technical assistance to borrowers of loans made under subsection (a)(1)(A) to assist the borrowers to achieve the purposes of such loans.
 
 (2) The Commissioner shall provide to the Office such management and technical assistance as the Office may request in order to carry out the provisions of this section.
 
 **(e) Regulations** Not later than 120 days after November 29, 1987, the Commissioner, in consultation with appropriate agencies of the State of Hawaii and community-based Native Hawaiian organizations, shall prescribe regulations which set forth the procedures and criteria to be used—
 
-(1) in making loans under subsection (a)(1)(A) of this section; and
+(1) in making loans under subsection (a)(1)(A); and
 
-(2) in canceling, adjusting, compromising, and reducing under subsection (c) of this section the outstanding amounts of such loans.
+(2) in canceling, adjusting, compromising, and reducing under subsection (c) the outstanding amounts of such loans.
 The Commissioner may prescribe such other regulations as may be necessary to carry out the purposes of this section, including regulations involving reporting and auditing.
 
 **(f) Authorization of appropriations; investment in obligations of United States**
 
 (1) There is authorized to be appropriated for each of the fiscal years 2000 and 2001, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated under this paragraph shall remain available for expenditure without fiscal year limitation.
 
-(2) The revolving loan fund that is required to be established under subsection (a)(1) of this section shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
+(2) The revolving loan fund that is required to be established under subsection (a)(1) shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
 
 **(g) Reports to Congress; contents**
 
 (1) The Commissioner, in consultation with the Office, shall submit a report to the President pro tempore of the Senate and the Speaker of the House of Representatives not later than January 1 following each fiscal year, regarding the administration of this section in such fiscal year.
 
-(2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) of this section and with respect to loans made from such fund, and shall—
+(2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) and with respect to loans made from such fund, and shall—
 
   (A) describe the effectiveness of the operation of such fund in improving the economic and social self-sufficiency of Native Hawaiians;
 
@@ -1906,7 +1906,7 @@ Section effective upon expiration of 90-day period beginning Nov. 29, 1987, see 
 
 (2) serve as the effective and visible advocate on behalf of Native Americans within the Department, and with other departments and agencies of the Federal Government regarding all Federal policies affecting Native Americans;
 
-(3) with the assistance of the Intra-Departmental Council on Native American Affairs established by subsection (d)(1) of this section, coordinate activities within the Department leading to the development of policies, programs, and budgets, and their administration affecting Native Americans, and provide quarterly reports and recommendations to the Secretary;
+(3) with the assistance of the Intra-Departmental Council on Native American Affairs established by subsection (d)(1), coordinate activities within the Department leading to the development of policies, programs, and budgets, and their administration affecting Native Americans, and provide quarterly reports and recommendations to the Secretary;
 
 (4) collect and disseminate information related to the social and economic conditions of Native Americans, and assist the Secretary in preparing an annual report to the Congress about such conditions;
 
@@ -1920,7 +1920,7 @@ Section effective upon expiration of 90-day period beginning Nov. 29, 1987, see 
 
 (2) The membership of the Council shall be the heads of principal operating divisions within the Department, as determined by the Secretary, and such persons in the Office of the Secretary as the Secretary may designate.
 
-(3) In addition to the duties described in subsection (c)(3) of this section, the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow tribal governments and other organizations described in [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
+(3) In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow tribal governments and other organizations described in [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
 
 **(e) Staffing levels** The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
 
@@ -1938,10 +1938,10 @@ Subsec. (c)(6). Pub. L. 103–171, § 5(4)(B), substituted “Native Americans,�
 
 (1) eligible for financial assistance under [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim); and
 
-(2) selected under subsection (c) of this section;
+(2) selected under subsection (c);
 to be used to assist Native Americans in ensuring the survival and continuing vitality of Native American languages.
 
-**(b) Purposes for which grants may be used** The purposes for which each grant awarded under subsection (a) of this section may be used include, but are not limited to—
+**(b) Purposes for which grants may be used** The purposes for which each grant awarded under subsection (a) may be used include, but are not limited to—
 
 (1) the establishment and support of a community Native American language project to bring older and younger Native Americans together to facilitate and encourage the transfer of Native American language skills from one generation to another;
 
@@ -2001,13 +2001,13 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
       (III) the development of Native American language materials, such as books, audio and visual tools, and interactive media programs.
 
-**(c) Applications** For the purpose of making grants under subsection (a) of this section, the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
+**(c) Applications** For the purpose of making grants under subsection (a), the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
 
-(1) a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) of this section is requested, including a description of existing programs and projects, if any, in support of such language;
+(1) a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) is requested, including a description of existing programs and projects, if any, in support of such language;
 
 (2) a detailed description of the project for which such grant is requested;
 
-(3) a statement of objectives that are consonant with the purpose described in subsection (a) of this section;
+(3) a statement of objectives that are consonant with the purpose described in subsection (a);
 
 (4) a detailed description of a plan to be carried out by the applicant to evaluate such project, consonant with the purpose for which such grant is made;
 
@@ -2017,11 +2017,11 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
 (7) in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
 
-**(d) Participating organizations** If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c) of this section.
+**(d) Participating organizations** If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
 
 **(e) Limitations on funding**
 
-(1) **Share** — Notwithstanding any other provision of this subchapter, a grant made under subsection (a) of this section may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
+(1) **Share** — Notwithstanding any other provision of this subchapter, a grant made under subsection (a) may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
 
   (A) shall be in cash or in kind, fairly evaluated, including plant, equipment, or services; and
 
@@ -2037,7 +2037,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
       (III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.) 11 See References in Text note below. or tribal budget priority system.
 
-(2) **Duration** — The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
+(2) **Duration** — The Secretary may make grants made under subsection (a) on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
 
 **(f) Administration**
 
@@ -2047,11 +2047,11 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
   (A) Not later than 180 days after October 26, 1992, the Secretary shall appoint a panel of experts for the purpose of assisting the Secretary to review—
 
-    (i) applications submitted under subsection (a) of this section;
+    (i) applications submitted under subsection (a);
 
-    (ii) evaluations carried out to comply with subsection (c)(4) of this section; and
+    (ii) evaluations carried out to comply with subsection (c)(4); and
 
-    (iii) the preservation of products required by subsection (c)(5) of this section.
+    (iii) the preservation of products required by subsection (c)(5).
 
   (B) Such panel shall include, but not be limited to—
 
@@ -2068,7 +2068,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
     (i) making recommendations regarding the development and implementation of regulations, policies, procedures, and rules of general applicability with respect to the administration of this section;
 
-    (ii) reviewing applications received under subsection (c) of this section;
+    (ii) reviewing applications received under subsection (c);
 
     (iii) providing to the Secretary a list of recommendations for the approval of such applications—
 
@@ -2076,11 +2076,11 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
       (II) the relative need for the project; and
 
-    (iv) reviewing evaluations submitted to comply with subsection (c)(4) of this section.
+    (iv) reviewing evaluations submitted to comply with subsection (c)(4).
 
   (D)
 
-    (i) Subject to clause (ii), a copy of the products of the Native American language project for which a grant is made under subsection (a) of this section—
+    (i) Subject to clause (ii), a copy of the products of the Native American language project for which a grant is made under subsection (a)—
 
       (I) shall be transmitted to the Institute of American Indian and Alaska Native Culture and Arts Development; and
 
@@ -2141,7 +2141,7 @@ A prior section 2991d, Pub. L. 88–452, title VIII, § 805, as added Pub. L. 89
 
 (2) To implement the process established under paragraph (1), the Commissioner shall appoint members of review panels from among individuals who are not officers or employees of the Administration for Native Americans. In making appointments to such panels, the Commissioner shall give preference to American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives.
 
-**(b) Duties of panel** Each review panel appointed under subsection (a)(2) of this section that reviews any application for financial assistance shall—
+**(b) Duties of panel** Each review panel appointed under subsection (a)(2) that reviews any application for financial assistance shall—
 
 (1) determine the merit of each project described in such application;
 
@@ -2153,7 +2153,7 @@ A prior section 2991d, Pub. L. 88–452, title VIII, § 805, as added Pub. L. 89
 
 (1) identifying such application;
 
-(2) containing a copy of the list submitted to the Commissioner under subsection (b)(3) of this section in which such application is ranked;
+(2) containing a copy of the list submitted to the Commissioner under subsection (b)(3) in which such application is ranked;
 
 (3) specifying which other applications ranked in such list have been approved by the Commissioner under sections 2991b and 2991d of this title; and
 
@@ -2196,7 +2196,7 @@ Enactment and amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section
 
 (2) except in cases in which the Commissioner determines that it would not be consistent with the purposes of this subchapter, the results, findings, data, or recommendations made or reported as a result of such activities.
 
-**(b)** The public announcements required by subsection (a) of this section shall be made within thirty days of making such grants or contracts, and the public announcements required by subsection (b) of this section shall be made within thirty days of the receipt of such results.
+**(b)** The public announcements required by subsection (a) shall be made within thirty days of making such grants or contracts, and the public announcements required by subsection (b) of this section shall be made within thirty days of the receipt of such results.
 
 ### Statutory Notes
 
@@ -2403,9 +2403,9 @@ may take effect until 30 days after the publication required under the first 2 s
 
 **(d) Statutory citation required** Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
 
-**(e) Rule or general statement of policy necessary as result of legislation; time for issuance** Except as provided in subsection (c) of this section, if as a result of the enactment of any law affecting the administration of this subchapter it is necessary or appropriate for the Secretary to issue any rule (including any interpretative rule) or a general statement of policy, the Secretary shall issue such rule or such general statement of policy not later than 180 days after the date of the enactment of such law.
+**(e) Rule or general statement of policy necessary as result of legislation; time for issuance** Except as provided in subsection (c), if as a result of the enactment of any law affecting the administration of this subchapter it is necessary or appropriate for the Secretary to issue any rule (including any interpretative rule) or a general statement of policy, the Secretary shall issue such rule or such general statement of policy not later than 180 days after the date of the enactment of such law.
 
-**(f) Copy of rule or general statement of policy to Congressional leaders** Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) of this section applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
+**(f) Copy of rule or general statement of policy to Congressional leaders** Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
 ### Statutory Notes
 

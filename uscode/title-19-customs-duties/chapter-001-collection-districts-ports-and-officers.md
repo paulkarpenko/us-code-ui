@@ -1053,7 +1053,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2025.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after January 14, 2026.
 
   (B)
 
@@ -1151,6 +1151,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2017—Subsec. (j)(3)(A). Pub. L. 115–31 substituted “January 14, 2026” for “September 30, 2025”.
+
 2016—Subsec. (e)(1). Pub. L. 114–125, § 908, designated existing provisions as subpar. (A), inserted “subparagraph (B) and” before “paragraph (2))”, and added subpar. (B).
 
 Subsec. (f)(4)(B). Pub. L. 114–125, § 106(a), substituted “2016 through 2018 not less than $153,736,000 to complete the development and implementation” for “2003 through 2005 such amounts as are available in that Account for the development”.

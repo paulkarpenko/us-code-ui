@@ -1698,12 +1698,12 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is c
 
 
 <a id="section-5326"></a>
-## § 5326. Records of certain domestic coin and currency transactions
-**(a) In General.—** If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
+## § 5326. Records of certain domestic transactions
+**(a) In General.—** If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle or to prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
 (1) to obtain such information as the Secretary may describe in such order concerning—
 
-  (A) any transaction in which such financial institution or nonfinancial trade or business is involved for the payment, receipt, or transfer of United States coins or currency (or such other monetary instruments as the Secretary may describe in such order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
+  (A) any transaction in which such financial institution or nonfinancial trade or business is involved for the payment, receipt, or transfer of funds (as the Secretary may describe in such order), the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
 
   (B) any other person participating in such transaction;
 
@@ -1715,11 +1715,11 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is c
 
 (1) **In general.—** — The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
 
-  (A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
+  (A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the funds which are involved in the reportable transaction with the depository institution; and
 
   (B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
 
-(2) **Reportable transaction defined.—** — For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+(2) **Reportable transaction defined.—** — For purposes of this subsection, the term “reportable transaction” means any transaction involving funds (as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 
 **(c) Nondisclosure of Orders.—** No financial institution or nonfinancial trade or business or officer, director, employee or agent of a financial institution or nonfinancial trade or business subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
 
@@ -1731,6 +1731,16 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is c
 Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1), is classified to [section 1813(c) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2017—Pub. L. 115–44, § 275(a)(1), struck out “coin and currency” before “transactions” in section catchline.
+
+Subsec. (a). Pub. L. 115–44, § 275(a)(2)(A), substituted “subtitle or to” for “subtitle and” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 115–44, § 275(a)(2)(B), substituted “funds (as the Secretary may describe in such order),” for “United States coins or currency (or such other monetary instruments as the Secretary may describe in such order)”.
+
+Subsec. (b)(1)(A). Pub. L. 115–44, § 275(a)(3)(A), substituted “funds” for “coins or currency (or monetary instruments)”.
+
+Subsec. (b)(2). Pub. L. 115–44, § 275(a)(3)(B), substituted “funds (as the Secretary may describe in the regulation or order)” for “coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order)”.
+
 2001—Subsec.(a). Pub. L. 107–56, § 365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–56, § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.

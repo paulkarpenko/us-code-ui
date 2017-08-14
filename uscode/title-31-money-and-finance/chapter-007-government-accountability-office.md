@@ -2,7 +2,7 @@
 title: 31
 chapter: '7'
 heading: GOVERNMENT ACCOUNTABILITY OFFICE
-section_count: 42
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -30,6 +30,9 @@ In this chapter—
 | 701(2) | 31:2(last par.). | June 10, 1921, ch. 18, 42 Stat. 20, § 2(last par.); added Sept. 12, 1950, ch. 946, § 101, 64 Stat. 832. |
 
 In clause (1), “agency” (which is defined for purposes of this title in section 101 to mean a department, agency, or instrumentality of the United States) is coextensive with and substituted for the term “department or establishment” which was defined in 31:2 as in part meaning “any executive department, independent commission, board, bureau, office, agency, or other establishment of the Government, including any independent regulatory commission or board”. This definition merely restates and continues, and does not in any way change or expand, the definition in 31:2. Under that definition, entities such as the Tennessee Valley Authority that have been interpreted to be outside the purview of the definition will continue to be outside the purview in the same manner and to the same extent that they were under 31:2. The words “includes the District of Columbia government” are used because of existing law but the inclusion of these words is not to be interpreted as construing the extent to which the District of Columbia Self-Government and Governmental Reorganizational Act (Pub. L. 93–198, 87 Stat. 774) supersedes the provisions codified in this title. The words “of the United States” are omitted as surplus. The text of 31:2 (2d–4th pars.) is omitted as unnecessary because of the restatement. The text of section 2 (3d par.) of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 20), is omitted as obsolete because of section 501 of the revised title.
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–3, § 1, Jan. 31, 2017, 131 Stat. 7, provided that: “This Act [enacting [section 721 of this title](./chapter-007-government-accountability-office.md#section-721) and amending sections 716 and 720 of this title] may be cited as the ‘GAO Access and Oversight Act of 2017’.”
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–323, § 1(a), Sept. 22, 2008, 122 Stat. 3539, provided that: “This Act [enacting [section 705 of this title](./chapter-007-government-accountability-office.md#section-705), amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a note under [section 3523 of this title](./chapter-035-accounting-and-collection.md#section-3523)] may be cited as the ‘Government Accountability Office Act of 2008’.”
@@ -668,7 +671,11 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 <a id="section-716"></a>
 ## § 716. Availability of information and inspection of records
-**(a)** Each agency shall give the Comptroller General information the Comptroller General requires about the duties, powers, activities, organization, and financial transactions of the agency. The Comptroller General may inspect an agency record to get the information. This subsection does not apply to expenditures made under section 3524 or 3526(e) of this title.
+**(a)**
+
+(1) The Comptroller General is authorized to obtain such agency records as the Comptroller General requires to discharge the duties of the Comptroller General (including audit, evaluation, and investigative duties), including through the bringing of civil actions under this section. In reviewing a civil action under this section, the court shall recognize the continuing force and effect of the authorization in the preceding sentence until such time as the authorization is repealed pursuant to law.
+
+(2) Each agency shall give the Comptroller General information the Comptroller General requires about the duties, powers, activities, organization, and financial transactions of the agency. The Comptroller General may inspect an agency record to get the information. This subsection does not apply to expenditures made under section 3524 or 3526(e) of this title.
 
 **(b)**
 
@@ -746,6 +753,8 @@ In subsection (d)(1), before clause (A), the words “requiring the production o
 In subsection (e)(1), the words “the head of” are added for consistency. The words “from which such material was obtained” are omitted as surplus.
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–3 added par. (1) and redesignated existing provisions as par. (2).
+
 2004—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 
@@ -1003,9 +1012,9 @@ Pub. L. 106–303, § 6, Oct. 13, 2000, 114 Stat. 1069, provided that: “(a) An
 ## § 720. Agency reports
 **(a)** In this section, “agency” means a department, agency, or instrumentality of the United States Government (except a mixed-ownership Government corporation) or the District of Columbia government.
 
-**(b)** When the Comptroller General makes a report that includes a recommendation to the head of an agency, the head of the agency shall submit a written statement on action taken on the recommendation by the head of the agency. The statement shall be submitted to—
+**(b)** When the Comptroller General makes a report that includes a recommendation to the head of an agency, the head of the agency shall submit a written statement on action taken or planned on the recommendation by the head of the agency. The statement shall be submitted to—
 
-(1) the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and
+(1) the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, the congressional committees with jurisdiction over the agency program or activity that is the subject of the recommendation, and the Government Accountability Office before the 61st day after the date of the report; and
 
 (2) the Committees on Appropriations of both Houses of Congress in the first request for appropriations submitted more than 60 days after the date of the report.
 
@@ -1021,10 +1030,22 @@ In subsection (a), the words “As used . . . the term”, “Federal”, and �
 
 In subsection (b), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office”, and the words “head of the” are added, for consistency. The word “written” is omitted as surplus. In clause (1), the words “Governmental Affairs of the Senate” are substituted for “Government Operations of the . . . Senate” because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.). In clause (2), the words “both Houses of Congress” are substituted for “the House of Representatives and the Senate” for consistency. The words “connection with”, “for that agency”, and “to the Congress” are omitted as surplus.
 
-#### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+#### Amendments
+2017—Subsec. (b). Pub. L. 115–3, § 2(b)(1), inserted “or planned” after “action taken” in introductory provisions.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Subsec. (b)(1). Pub. L. 115–3, § 2(b)(2), added par. (1) and struck out former par. (1) which read as follows: “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and”.
+
+
+<a id="section-721"></a>
+## § 721. Access to certain information
+**(a)** No provision of the Social Security Act, including section 453(l) of that Act ([42 U.S.C. 653](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653&num=0&edition=prelim)(l)), shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information or to inspect any record under [section 716 of this title](./chapter-007-government-accountability-office.md#section-716).
+
+**(b)** The specific reference to a statute in subsection (a) shall not be construed to affect access by the Government Accountability Office to information under statutes that are not so referenced.
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-731"></a>

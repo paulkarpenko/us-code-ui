@@ -99,7 +99,7 @@ Section, Pub. L. 96–205, title II, § 201(a), Mar. 12, 1980, 94 Stat. 85, rela
 ### Statutory Notes
 
 #### Codification
-Section, act Oct. 5, 1992, Pub. L. 102–381, title I, 106 Stat. 1393, which authorized government of Trust Territory of Pacific Islands to make purchases through General Services Administration, was from the Department of the Interior and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts. See [section 1469e of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469e). Similar provisions were contained in the following prior appropriation acts:
+Section, act Oct. 5, 1992, Pub. L. 102–381, title I, 106 Stat. 1393, which authorized government of Trust Territory of Pacific Islands to make purchases through General Services Administration, was from the Department of the Interior and Related Agencies Appropriations Act, 1993, and was not repeated in subsequent appropriation acts. See [section 1469e of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469e). Similar provisions were contained in the following prior appropriation acts:
 
 Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1008.
 

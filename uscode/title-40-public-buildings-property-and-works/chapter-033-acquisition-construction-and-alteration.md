@@ -698,7 +698,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (1) **Baby changing facility.—** — The term “baby changing facility” means a table or other device suitable for changing the diaper of a child age 3 or under.
 
-(2) **Pubic building.—** — The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
+(2) **Pubic 11 So in original. Probably should be “Public”. building.—** — The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
 
 ### Statutory Notes
 

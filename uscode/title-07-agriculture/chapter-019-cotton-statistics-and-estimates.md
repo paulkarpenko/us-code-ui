@@ -214,7 +214,7 @@ The Secretary of Agriculture shall cause to be issued a report on or before the 
 #### Codification
 Section was not enacted as part of the Cotton Statistics and Estimates Act which enacted sections 471 to 474 of this title and amended sections 475 and 476 of this title.
 
-Section was formerly classified to [section 412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section412&num=0&edition=prelim).
+Section was formerly classified to [section 412 of this title](./chapter-017-miscellaneous-matters.md#section-412).
 
 #### Amendments
 1972—Pub. L. 92–331 substituted “12th” for “10th”, “on or before the 12th day of August” for “on August 1”, and “on or before the 12th day of December” for “on December 1”.

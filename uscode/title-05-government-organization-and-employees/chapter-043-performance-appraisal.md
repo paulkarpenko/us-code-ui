@@ -208,9 +208,11 @@ and who has been reduced in grade or removed under this section is entitled to a
 
 (1) the reduction to the grade previously held of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3321/a/2&num=0&edition=prelim),
 
-(2) the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less, or
+(2) the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less,
 
-(3) the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions.
+(3) the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions, or
+
+(4) any removal or demotion under [section 714 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section714&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -224,6 +226,8 @@ The words “required by this chapter” are omitted as unnecessary.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2017—Subsec. (f)(4). Pub. L. 115–41 added par. (4).
+
 1990—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under [section 7701 of this title](./chapter-077-appeals.md#section-7701).”
 
 1978—Pub. L. 95–454 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for” in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.

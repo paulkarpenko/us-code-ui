@@ -2,7 +2,7 @@
 title: 7
 chapter: '15'
 heading: BUREAU OF ANIMAL INDUSTRY
-section_count: 8
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -92,7 +92,7 @@ July 12, 1943, ch. 215, 57 Stat. 401.
 July 22, 1942, ch. 516, 56 Stat. 674.
 
 #### Authorization of Appropriation
-Act Sept. 21, 1944, ch. 412, title I, § 101(g), 58 Stat. 735, provided that: “There are hereby authorized to be appropriated for the purposes of this section [enacting this section, section 396, former section 429, and sections 430 and 431 of this title, and former [section 114a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section114a&num=0&edition=prelim), Food and Drugs] such sums as the Congress may from time to time determine to be necessary.”
+Act Sept. 21, 1944, ch. 412, title I, § 101(g), 58 Stat. 735, provided that: “There are hereby authorized to be appropriated for the purposes of this section [enacting this section, sections 396 and 398 of this title, former [section 429 of this title](./chapter-017-miscellaneous-matters.md#section-429), [section 626 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section626&num=0&edition=prelim), Food and Drugs, and former [section 114a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section114a&num=0&edition=prelim)] such sums as the Congress may from time to time determine to be necessary.”
 
 
 <a id="section-396"></a>
@@ -137,3 +137,42 @@ Authorization of appropriation of sums necessary for the purposes of this sectio
 
 #### Codification
 Section, acts Aug. 28, 1954, ch. 1041, title II, § 204(e), 68 Stat. 900; Apr. 2, 1956, ch. 159, § 2, 70 Stat. 87, authorized transfer of Commodity Credit Corporation funds not to exceed $17,000,000 for fiscal year ending June 30, 1956 and not to exceed $20,000,000 for each of fiscal years 1957 and 1958 for brucellosis eradication, indemnification for destroyed cattle and administrative expenses and authorized appropriations to reimburse the Commodity Credit Corporation for the expenditures.
+
+
+<a id="section-398"></a>
+## § 398. Purchase and testing of serums or analogous products; dissemination of test results
+
+The Secretary of Agriculture may purchase in the open market from applicable appropriations samples of all tuberculin, serums, antitoxins, or analogous products, of foreign or domestic manufacture, which are sold in the United States, for the detection, prevention, treatment, or cure of diseases of domestic animals, test the same, and disseminate the results of said tests in such manner as he may deem best.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 430 of this title](./chapter-017-miscellaneous-matters.md#section-430) prior to editorial reclassification and renumbering as this section.
+
+#### Authorization of Appropriation
+Authorization of appropriation of sums necessary for the purposes of this section, see note under [section 395 of this title](./chapter-015-bureau-of-animal-industry.md#section-395).
+
+
+<a id="section-399"></a>
+## § 399. Domestic raising of fur-bearing animals; classification
+
+For the purposes of all classification and administration of Acts of Congress, Executive orders, administrative orders, and regulations pertaining to—
+
+**(a)** fox, rabbit, mink, chinchilla, marten, fisher, muskrat, karakul and all other fur-bearing animals, raised in captivity for breeding or other useful purposes shall be deemed domestic animals;
+
+**(b)** such animals and the products thereof shall be deemed agricultural products; and
+
+**(c)** the breeding, raising, producing, or marketing of such animals or their products by the producer shall be deemed an agricultural pursuit.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 433 of this title](./chapter-017-miscellaneous-matters.md#section-433) prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Act Apr. 30, 1946, ch. 242, § 3, 60 Stat. 128, provided that: “This Act [enacting this section and provisions set out as a note below] shall take effect sixty days after the date of its enactment [Apr. 30, 1946].”
+
+#### Transfer of Functions
+Act Apr. 30, 1946, ch. 242, § 2, 60 Stat. 127; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, provided that: “(a) All the functions of the Secretary of the Interior and the Fish and Wildlife Service of the Department of the Interior, which affect the breeding, raising, producing, marketing, or any other phase of the production or distribution, of domestically raised fur-bearing animals, or products thereof, are hereby transferred to and vested in the Secretary of Agriculture. “(b) Appropriations and unexpended balances of appropriations, or parts thereof, which the Director of the Office of Management and Budget determines to be available for expenditure for the administration of any function transferred by this Act [enacting this section and provisions set out as a note above], shall be available for expenditure for the continued administration of such function by the officer to whom such function is so transferred. “(c) All records and property (including office furniture and equipment) under the jurisdiction of the Secretary of the Interior and the Fish and Wildlife Service of the Department of the Interior used primarily in connection with the administration of functions transferred by this Act are hereby transferred to the jurisdiction of the Secretary of Agriculture.”
+
+[Section 2 of act Apr. 30, 1946, ch. 242, set out above, was formerly classified to [section 434 of this title](./chapter-017-miscellaneous-matters.md#section-434) prior to editorial reclassification as this note.]

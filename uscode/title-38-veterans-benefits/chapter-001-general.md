@@ -349,6 +349,13 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2017 Amendment
+Pub. L. 115–48, § 1(a), Aug. 16, 2017, 131 Stat. 973, provided that: “This Act [see Tables for classification] may be cited as the ‘Harry W. Colmery Veterans Educational Assistance Act of 2017’.”
+
+Pub. L. 115–46, § 1(a), Aug. 12, 2017, 131 Stat. 958, provided that: “This Act [enacting subchapter III of chapter 7 and [section 725 of this title](./chapter-007-employees.md#section-725), amending sections 3729, 5317, 5503, 7412, and 7451 of this title and [section 3304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under sections 701, 741, and 7401 of this title] may be cited as the ‘VA Choice and Quality Employment Act of 2017’.”
+
+Pub. L. 115–41, § 1(a), June 23, 2017, 131 Stat. 862, provided that: “This Act [see Tables for classification] may be cited as the ‘Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–315, § 1(a), Dec. 16, 2016, 130 Stat. 1536, provided that: “This Act [see Tables for classification] may be cited as the ‘Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016’.”
 
@@ -1912,7 +1919,7 @@ Subsec. (b). Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of
 
 Subsec. (c). Pub. L. 113–235, § 244(a)(1), (3)(A), (G), in heading, substituted “Covered Accounts of the Department” for “Medical Care Accounts” and, in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
-Subsec. (c). Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–315 applicable to fiscal years beginning on and after Oct. 1, 2017, see section 601(c) of Pub. L. 114–315, set out as a note under [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), Money and Finance.

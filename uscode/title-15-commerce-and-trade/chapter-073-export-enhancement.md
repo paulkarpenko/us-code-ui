@@ -227,7 +227,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (g) of this se
 ## § 4721a. State trade coordination
 **(a) Omitted**
 
-**(b) Federal and State Export Promotion Coordination Plan**
+**(b) Federal and State export promotion coordination plan**
 
 (1) **In general** — The Secretary of Commerce, acting through the Trade Promotion Coordinating Committee and in coordination with representatives of State trade promotion agencies, shall develop a comprehensive plan to integrate the resources and strategies of State trade promotion agencies into the overall Federal trade promotion program.
 

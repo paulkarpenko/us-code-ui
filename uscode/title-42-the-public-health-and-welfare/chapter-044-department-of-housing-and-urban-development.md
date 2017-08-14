@@ -251,7 +251,7 @@ Ex. Ord. No. 13602, Mar. 15, 2012, 77 F.R. 16131, which established a White Hous
 
 (1) **Position** — There shall be in the Office of the Secretary a Special Assistant for Veterans Affairs, who shall report directly to the Secretary.
 
-(2) **Appointment** — The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, governing appointments in the competitive service.
+(2) **Appointment** — The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5 governing appointments in the competitive service.
 
 (3) **Responsibilities** — The Special Assistant for Veterans Affairs shall be responsible for—
 
@@ -754,7 +754,7 @@ Section was formerly classified to section 624f of former Title 5, Executive Dep
 ## § 3537a. Prohibition of advance disclosure of funding decisions
 **(a) Prohibited actions** During any selection process, no officer or employee of the Department of Housing and Urban Development shall knowingly disclose any covered selection information regarding such selection, directly or indirectly, to any person other than a person authorized by the Secretary to receive such information.
 
-**(b) Administrative remedies** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (a) of this section has occurred, the Secretary shall—
+**(b) Administrative remedies** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (a) has occurred, the Secretary shall—
 
 (1) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 
@@ -770,7 +770,7 @@ Section was formerly classified to section 624f of former Title 5, Executive Dep
 
 **(c) Civil money penalties**
 
-(1) **In general** — Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
+(1) **In general** — Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a), the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
 
 (2) **Amount** — The amount of the penalty, as determined by the Secretary, may not exceed $10,000 for each violation.
 
@@ -806,7 +806,7 @@ Section was formerly classified to section 624f of former Title 5, Executive Dep
 
 (7) **Deposit of penalties** — The Secretary shall deposit all civil money penalties collected under this subsection into miscellaneous receipts of the Treasury.
 
-**(d) Criminal penalties** Whoever willfully violates subsection (a) of this section by making a disclosure prohibited by subsection (a) of this section to any applicant, or any officer, employee, representative, agent, or consultant of any applicant, shall be imprisoned not more than 5 years, or fined in accordance with title 18, or both.
+**(d) Criminal penalties** Whoever willfully violates subsection (a) by making a disclosure prohibited by subsection (a) to any applicant, or any officer, employee, representative, agent, or consultant of any applicant, shall be imprisoned not more than 5 years, or fined in accordance with title 18, or both.
 
 **(e) Definitions** For purposes of this section:
 
@@ -944,9 +944,9 @@ Section, Pub. L. 95–128, title IX, § 904, Oct. 12, 1977, 91 Stat. 1149, requi
 
 (2) The Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs shall, consistent with provisions of law governing their respective programs, provide by regulation for the elimination of forms which solicit information which is already available from other available sources through indexing or other means of identifying such forms.
 
-(3) Each agency referred to in subsection (b) of this section may employ riders, addenda, or similar forms of modification agreements to adapt such uniform forms to its respective programs and policies, consistent with the goals of minimizing the use and extent of such modification agreements and maximizing the suitability of such forms for the use of all participants, public and private.
+(3) Each agency referred to in subsection (b) may employ riders, addenda, or similar forms of modification agreements to adapt such uniform forms to its respective programs and policies, consistent with the goals of minimizing the use and extent of such modification agreements and maximizing the suitability of such forms for the use of all participants, public and private.
 
-**(c) Coordination and reports by Director of Office of Management and Budget** The Director of the Office of Management and Budget shall coordinate and monitor the development and implementation by Federal departments and agencies of the efforts required by subsection (b) of this section and shall report to the Congress on such development and implementation and with respect to any provisions of law which unnecessarily prevent such departments and agencies from carrying out the provisions of this section as part of each report required under Public Law 93–556. Such report shall include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
+**(c) Coordination and reports by Director of Office of Management and Budget** The Director of the Office of Management and Budget shall coordinate and monitor the development and implementation by Federal departments and agencies of the efforts required by subsection (b) and shall report to the Congress on such development and implementation and with respect to any provisions of law which unnecessarily prevent such departments and agencies from carrying out the provisions of this section as part of each report required under Public Law 93–556. Such report shall include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
 
 ### Statutory Notes
 
@@ -1168,9 +1168,9 @@ Pub. L. 102–550, title IX, § 903(b), Oct. 28, 1992, 106 Stat. 3868, directed 
 
 **(c) Updating of disclosure** During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
-**(d) Limitation of assistance** The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act ([12 U.S.C. 1707](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1707&num=0&edition=prelim) et seq.) 11 So in original. Probably should be followed by a comma. to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
+**(d) Limitation of assistance** The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act ([12 U.S.C. 1707](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1707&num=0&edition=prelim) et seq.) 11 So in original. Probably should be followed by a comma. to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1). The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c).
 
-**(e) Administrative remedies** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) of this section has occurred, the Secretary shall—
+**(e) Administrative remedies** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) has occurred, the Secretary shall—
 
 (1) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 
@@ -1189,13 +1189,13 @@ The Secretary shall publish in the Federal Register a descriptive statement of e
 
 **(f) Civil money penalties**
 
-(1) **In general** — Whenever any person knowingly and materially violates any provision of subsection (b) or (c) of this section, the Secretary may impose a civil money penalty on that person in accordance with the provisions of this section. This penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
+(1) **In general** — Whenever any person knowingly and materially violates any provision of subsection (b) or (c), the Secretary may impose a civil money penalty on that person in accordance with the provisions of this section. This penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 (2) **Amount of penalty** — The amount of the penalty, as determined by the Secretary, may not exceed $10,000 for each violation.
 
 **(g) Agency procedures**
 
-(1) **In general** — The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (f) of this section. These standards and procedures—
+(1) **In general** — The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (f). These standards and procedures—
 
   (A) shall provide for the Secretary to make the determination to impose the penalty or to use an administrative entity to make the determination;
 
@@ -1204,21 +1204,21 @@ The Secretary shall publish in the Federal Register a descriptive statement of e
   (C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
   If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order, the determination or order shall be final.
 
-(2) **Factors in determining amount of penalty** — In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+(2) **Factors in determining amount of penalty** — In determining the amount of a penalty under subsection (f), consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
-(3) **Reviewability of imposition of a penalty** — The Secretary’s determination or order imposing a penalty under subsection (f) of this section shall not be subject to review, except as provided in subsection (h) of this section.
+(3) **Reviewability of imposition of a penalty** — The Secretary’s determination or order imposing a penalty under subsection (f) shall not be subject to review, except as provided in subsection (h).
 
 **(h) Judicial review of agency determination**
 
-(1) **In general** — After exhausting all administrative remedies established by the Secretary under subsection (g)(1) of this section, a person against whom the Secretary has imposed a civil money penalty under subsection (f) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
+(1) **In general** — After exhausting all administrative remedies established by the Secretary under subsection (g)(1), a person against whom the Secretary has imposed a civil money penalty under subsection (f) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
 
-(2) **Objections not raised in hearing** — The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+(2) **Objections not raised in hearing** — The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 (3) **Scope of review** — The decisions, findings, and determinations of the Secretary shall be reviewed pursuant to [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
 
 (4) **Order to pay penalty** — Notwithstanding any other provision of law, in any such review, the court shall have the power to order payment of the penalty imposed by the Secretary.
 
-**(i) Action to collect penalty** If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
+**(i) Action to collect penalty** If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f), after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
 
 **(j) Settlement by Secretary** The Secretary may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 
@@ -1267,6 +1267,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. K, title II, § 220, May 5, 2017, 131 Stat. 784.
 
 Pub. L. 114–113, div. L, title II, § 221, Dec. 18, 2015, 129 Stat. 2893.
 

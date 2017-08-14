@@ -416,7 +416,12 @@ The Secretary may authorize transfers of title or changes in use in accordance w
 <a id="section-869-4"></a>
 ## § 869–4. Disposition of moneys received from or on account of revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands
 
-All moneys received from or on account of any revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands under sections 869 to 869–4 of this title shall be deposited respectively in the Oregon and California land-grant fund and the Coos Bay Wagon Road grant fund, and shall be applied in the manner prescribed respectively by [section 1181f of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181f), and by sections 1181f–1 to 1181f–4 of this title.
+All moneys received from or on account of any revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands under sections 869 to 869–4 of this title shall be deposited respectively in the Oregon and California land-grant fund and the Coos Bay Wagon Road grant fund, and shall be applied in the manner prescribed respectively by title II of the Act of August 28, 1937 (50 Stat. 875), as amended ([43 U.S.C. 1181f](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181f)),11 See References in Text note below. and by subchapter II of chapter 44 of this title.
+
+### Statutory Notes
+
+#### References in Text
+Act of August 28, 1937, referred to in text, is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Title II of the Act enacted [section 2605 of this title](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2605) (formerly classified to [section 1181f of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181f)), repealed [section 1174 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1174), and enacted provisions set out as a note under [section 2601 of this title](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2601). For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-870"></a>

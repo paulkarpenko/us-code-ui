@@ -70,7 +70,7 @@ Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified
 
 Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to [section 1516 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516&num=0&edition=prelim), Customs Duties.
 
-Section 516A or section 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
+Sections 516A and 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
 The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to [section 2371b of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2371b&num=0&edition=prelim), was repealed by Pub. L. 112–40, title II, § 222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
@@ -103,6 +103,9 @@ Subsec. (i). Pub. L. 103–182, § 414(a)(1), inserted “the North American Fre
 1984—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker’s license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker’s permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker’s license under section 641(a) of the Tariff Act of 1930”.
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker’s license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker’s license under section 641(b) of the Tariff Act of 1930”.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–125 effective 180 days after Feb. 24, 2016, see section 421(c) of Pub. L. 114–125, set out as an Effective Date note under [section 1517 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1517&num=0&edition=prelim), Customs Duties.
 
 #### Effective Date of 2009 Amendment
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim), Customs Duties.

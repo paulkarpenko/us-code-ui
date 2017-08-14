@@ -7480,9 +7480,9 @@ shall disclose any return or return information obtained by him in any manner in
 
     (ii) *Limitation on use of information* — Information disclosed under this subparagraph shall be solely for the use of such officers and employees in locating the missing child, in a grand jury proceeding, or in any preparation for, or investigation which may result in, a judicial or administrative proceeding.
 
-    (iii) *Missing child* — For purposes of this subparagraph, the term “missing child” shall have the meaning given such term by section 403 of the Missing Children’s Assistance Act ([42 U.S.C. 5772](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim)).
+    (iii) *Missing child* — For purposes of this subparagraph, the term “missing child” shall have the meaning given such term by section 403 of the Missing Children’s Assistance Act ([42 U.S.C. 5772](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim)).11 See References in Text note below.
 
-    (iv) *Exploited child* — For purposes of this subparagraph, the term “exploited child” means a minor with respect to whom there is reason to believe that a specified offense against a minor (as defined by section 111(7) of the Sex Offender Registration and Notification Act ([42 U.S.C. 16911(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16911/7&num=0&edition=prelim))) has or is occurring.
+    (iv) *Exploited child* — For purposes of this subparagraph, the term “exploited child” means a minor with respect to whom there is reason to believe that a specified offense against a minor (as defined by section 111(7) of the Sex Offender Registration and Notification Act ([42 U.S.C. 16911(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16911/7&num=0&edition=prelim))) 1 has or is occurring.
 
 (2) **Disclosure of return information other than taxpayer return information for use in criminal investigations**
 
@@ -7789,7 +7789,7 @@ shall disclose any return or return information obtained by him in any manner in
 
   (C) *Restriction on disclosure* — Information may be disclosed under this paragraph only for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
 
-(7) **Disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food and Nutrition Act of 2008 of 1977,11 So in original. See 2008 Amendment note below. or title 38, United States Code, or certain housing assistance programs**
+(7) **Disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food and Nutrition Act of 2008 of 1977,22 So in original. See 2008 Amendment note below. or title 38, United States Code, or certain housing assistance programs**
 
   (A) *Return information from Social Security Administration* — The Commissioner of Social Security shall, upon written request, disclose return information from returns with respect to net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income, which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5) of this subsection, to any Federal, State, or local agency administering a program listed in subparagraph (D).
 
@@ -7843,7 +7843,7 @@ shall disclose any return or return information obtained by him in any manner in
 
 (10) **Disclosure of certain information to agencies requesting a reduction under subsection (c), (d), (e), or (f) of section 6402**
 
-  (A) *Return information from Internal Revenue Service* — The Secretary may, upon receiving a written request, disclose to officers and employees of any agency seeking a reduction under subsection (c), (d), (e), or (f) of section 6402, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) 22 So in original. Subsection (f)(5) does not relate to requests. of section 6402, and to officers and employees of the Department of the Treasury in connection with such reduction—
+  (A) *Return information from Internal Revenue Service* — The Secretary may, upon receiving a written request, disclose to officers and employees of any agency seeking a reduction under subsection (c), (d), (e), or (f) of section 6402, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) 33 So in original. Subsection (f)(5) does not relate to requests. of section 6402, and to officers and employees of the Department of the Treasury in connection with such reduction—
 
     (i) taxpayer identity information with respect to the taxpayer against whom such a reduction was made or not made and with respect to any other person filing a joint return with such taxpayer,
 
@@ -7857,7 +7857,7 @@ shall disclose any return or return information obtained by him in any manner in
 
   (B)
 
-    (i) *33 So in original. Cl. (i) designation probably should precede “Any”. Restriction on use of disclosed information* — Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
+    (i) *44 So in original. Cl. (i) designation probably should precede “Any”. Restriction on use of disclosed information* — Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
 
     (ii) Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
 
@@ -7946,7 +7946,7 @@ shall disclose any return or return information obtained by him in any manner in
 
 (16) **Disclosure of return information for purposes of administering the District of Columbia Retirement Protection Act of 1997**
 
-  (A) *In general* — Upon written request available return information (including such information disclosed to the Social Security Administration under paragraph (1) or (5) of this subsection), relating to the amount of wage income (as defined in section 3121(a) or 3401(a)), the name, address, and identifying number assigned under section 6109, of payors of wage income, taxpayer identity (as defined in subsection 44 So in original. Probably should be “section”. 6103(b)(6)), and the occupational status reflected on any return filed by, or with respect to, any individual with respect to whom eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997, is sought to be determined, shall be disclosed by the Commissioner of Social Security, or to the extent not available from the Social Security Administration, by the Secretary, to any duly authorized officer or employee of the Department of the Treasury, or a Trustee or any designated officer or employee of a Trustee (as defined in the District of Columbia Retirement Protection Act of 1997), or any actuary engaged by a Trustee under the terms of the District of Columbia Retirement Protection Act of 1997, whose official duties require such disclosure, solely for the purpose of, and to the extent necessary in, determining an individual’s eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997.
+  (A) *In general* — Upon written request available return information (including such information disclosed to the Social Security Administration under paragraph (1) or (5) of this subsection), relating to the amount of wage income (as defined in section 3121(a) or 3401(a)), the name, address, and identifying number assigned under section 6109, of payors of wage income, taxpayer identity (as defined in subsection 55 So in original. Probably should be “section”. 6103(b)(6)), and the occupational status reflected on any return filed by, or with respect to, any individual with respect to whom eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997, is sought to be determined, shall be disclosed by the Commissioner of Social Security, or to the extent not available from the Social Security Administration, by the Secretary, to any duly authorized officer or employee of the Department of the Treasury, or a Trustee or any designated officer or employee of a Trustee (as defined in the District of Columbia Retirement Protection Act of 1997), or any actuary engaged by a Trustee under the terms of the District of Columbia Retirement Protection Act of 1997, whose official duties require such disclosure, solely for the purpose of, and to the extent necessary in, determining an individual’s eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997.
 
   (B) *Disclosure for use in judicial or administrative proceedings* — Return information disclosed to any person under this paragraph may be disclosed in a judicial or administrative proceeding relating to the determination of an individual’s eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997.
 
@@ -8074,13 +8074,13 @@ shall disclose any return or return information obtained by him in any manner in
 
 (5) **Individuals who have defaulted on student loans administered by the Department of Health and Human Services**
 
-  (A) *In general* — Upon written request by the Secretary of Health and Human Services, the Secretary may disclose the mailing address of any taxpayer who has defaulted on a loan made under part C 55 See References in Text note below. of title VII of the Public Health Service Act or under subpart II of part B of title VIII of such Act, for use only by officers, employees, or agents of the Department of Health and Human Services for purposes of locating such taxpayer for purposes of collecting such loan.
+  (A) *In general* — Upon written request by the Secretary of Health and Human Services, the Secretary may disclose the mailing address of any taxpayer who has defaulted on a loan made under part C 1 of title VII of the Public Health Service Act or under subpart II of part B of title VIII of such Act, for use only by officers, employees, or agents of the Department of Health and Human Services for purposes of locating such taxpayer for purposes of collecting such loan.
 
   (B) *Disclosure to schools and eligible lenders* — Any mailing address disclosed under subparagraph (A) may be disclosed by the Secretary of Health and Human Services to—
 
-    (i) any school with which the Secretary of Health and Human Services has an agreement under subpart II 5 of part C of title VII of the Public Health Service Act or subpart II 5 of part B of title VIII of such Act, or
+    (i) any school with which the Secretary of Health and Human Services has an agreement under subpart II 1 of part C of title VII of the Public Health Service Act or subpart II 1 of part B of title VIII of such Act, or
 
-    (ii) any eligible lender (within the meaning of section 737(4) 5 of such Act) participating under subpart I 5 of part C of title VII of such Act,
+    (ii) any eligible lender (within the meaning of section 737(4) 1 of such Act) participating under subpart I 1 of part C of title VII of such Act,
     for use only by officers, employees, or agents of such school or eligible lender whose duties relate to the collection of student loans for purposes of locating individuals who have defaulted on student loans made under such subparts for the purposes of collecting such loans.
 
 (6) **Blood Donor Locator Service**
@@ -8189,6 +8189,10 @@ shall disclose any return or return information obtained by him in any manner in
 
 #### References in Text
 The Federal Rules of Criminal Procedure, referred to in subsecs. (h)(4)(D) and (i)(4)(A)(ii), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+Section 403 of the Missing Children’s Assistance Act, referred to in subsec. (i)(1)(C)(iii), is section 403 of title IV of Pub. L. 93–415, which was formerly classified to [section 5772 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 11292 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11292&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+Section 111 of the Sex Offender Registration and Notification Act, referred to in subsec. (i)(1)(C)(iv), is section 111 of title I of Pub. L. 109–248, which was classified to [section 16911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16911&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20911 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20911&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 The District of Columbia Retirement Protection Act of 1997, referred to in subsecs. (i)(7)(B)(i) and (l)(16), is subtitle A (§§ 11001–11087) of title XI of Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 715, which amended this section and [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213) and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Tables.
 

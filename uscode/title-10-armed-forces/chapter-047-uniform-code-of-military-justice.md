@@ -55,7 +55,7 @@ In this chapter:
 
 ### Statutory Notes
 
-#### Amendment of Paragraphs (10) and (13)
+#### Amendment of Clauses (10) and (13)
 Pub. L. 114–328, div. E, title LI, § 5101, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2894, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended as follows:
 
 (1) Clause (10) is amended to read as follows:
@@ -125,7 +125,7 @@ Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
 1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
 
 #### Effective Date of 2016 Amendment
-Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967, provided that: “(a) In General.—Except as otherwise provided in this division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification], the amendments made by this division shall take effect on the date designated by the President, which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Implementing Regulations.—The President shall prescribe regulations implementing this division and the amendments made by this division by not later than one year after the date of the enactment of this Act, except as otherwise provided in this division. “(c) Applicability.—“(1) In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments. “(2) Inapplicability to cases in which charges already referred to trial on effective date.—Except as otherwise provided in this division or the amendments made by this division, the amendments made by this division shall not apply to any case in which charges are referred to trial by court-martial before the effective date of such amendments. Proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted. “(3) Punitive article amendments.—“(A) In general.—The amendments made by title LX [§§ 5401–5452 of Pub. L. 114–328, see Tables for classification] shall not apply to any offense committed before the effective date of such amendments. “(B) Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments. “(4) Sentencing amendments.—The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII [§§ 5301–5303 of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed.”
+Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967, provided that: “(a) In General.—Except as otherwise provided in this division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification], the amendments made by this division [enacting, amending, and transferring numerous sections throughout this chapter] shall take effect on the date designated by the President, which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Implementing Regulations.—The President shall prescribe regulations implementing this division and the amendments made by this division by not later than one year after the date of the enactment of this Act, except as otherwise provided in this division. “(c) Applicability.—“(1) In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments. “(2) Inapplicability to cases in which charges already referred to trial on effective date.—Except as otherwise provided in this division or the amendments made by this division, the amendments made by this division shall not apply to any case in which charges are referred to trial by court-martial before the effective date of such amendments. Proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted. “(3) Punitive article amendments.—“(A) In general.—The amendments made by title LX [§§ 5401–5452 of div. E of Pub. L. 114–328, enacting, amending, and transferring numerous sections within subchapter X of this chapter, see Tables for classification] shall not apply to any offense committed before the effective date of such amendments. “(B) Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments. “(4) Sentencing amendments.—The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII [§§ 5301–5303 of div. E of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -1556,7 +1556,7 @@ Subject to [section 817 of this title](./chapter-047-uniform-code-of-military-ju
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LI, § 5163, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2898, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LIV, § 5163, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2898, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 819. Art. 19. Jurisdiction of special courts-martial
 
@@ -1625,7 +1625,7 @@ See 2016 Amendment note below.
 The word “shall” in the first sentence is omitted as surplusage. The word “may” is substituted for the word “shall” in the second sentence. The words “the provisions of” are omitted as surplusage. The word “If” is substituted for the word “Where”. The words “for more than” are substituted for the words “in excess of”. The words “more than” are substituted for the words “pay in excess of”.
 
 #### Amendments
-2016—Pub. L. 114–328 designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+2016—Pub. L. 114–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1968—Pub. L. 90–632 substituted provisions prohibiting trial by summary court-martial in all cases if the person objects thereto for provisions allowing such trial over the person’s objection if he has previously been offered and has refused article 15 punishment.
 
@@ -1681,7 +1681,7 @@ The words “do not deprive” are substituted for the words “shall not be con
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(6)
-Pub. L. 114–328, div. E, title LV, § 5181, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2894, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (a)(6) is amended by striking “in chief”. See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LV, § 5181, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2899, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (a)(6) is amended by striking “in chief”. See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1791,7 +1791,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LV, § 5182, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2899, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LV, § 5182, title LVI, § 5203(e)(2), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2899, 2906, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 825. Art. 25. Who may serve on courts-martial
 
@@ -1894,7 +1894,7 @@ In a case in which the accused may be sentenced to a penalty of death, the numbe
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, div. E, title LV, § 5183, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2900, 2967,provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LV, § 5183, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2900, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 825a. Art. 25a. Number of court-martial members in capital cases
 
@@ -1933,7 +1933,7 @@ Section applicable with respect to offenses committed after Dec. 31, 2002, see s
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LV, § 5184, title LVI, § 5203(e)(3), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2901, 2906, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LV, § 5184, title LVI, § 5203(e)(3), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2901, 2906, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 826. Art. 26. Military judge of a general or special court-martial
 
@@ -2054,7 +2054,7 @@ Section effective on the date designated by the President, not later than the fi
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LV, § 5186, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2902, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LV, § 5186, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2902, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 827. Art. 27. Detail of trial counsel and defense counsel
 
@@ -2165,7 +2165,7 @@ The words “Secretary concerned” are substituted for the words “Secretary o
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LV, § 5187, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2902, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LV, § 5187, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2902, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 829. Art 29. Assembly and impaneling of members; detail of new members and military judges
 
@@ -2270,7 +2270,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVI, § 5201, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2904, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVI, § 5201, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2904, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 830. Art 30. Charges and specifications
 
@@ -2426,7 +2426,7 @@ The word “may” is substituted for the word “shall” throughout the revise
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVI, § 5203(a)–(d), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2905, 2906, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVI, § 5203(a)–(d), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2905, 2906, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 832. Art. 32. Preliminary hearing required before referral to general court-martial
 
@@ -2510,7 +2510,7 @@ In subsection (d), the word “are” is substituted for the words “shall be.�
 #### Amendments
 2016—Pub. L. 114–328, § 5203(a), substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 114–328, § 5203(a), substituted subsecs. (a) to (c) for former subsecs. (a) to (c) which related to requirement of preliminary hearing, hearing officer, and report of hearing results, respectively.
+Subsecs. (a) to (c). Pub. L. 114–328, § 5203(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to requirement of preliminary hearing, hearing officer, and report of hearing results, respectively.
 
 Subsec. (d)(1). Pub. L. 114–328, § 5203(b)(1), substituted “this section” for “subsection (a)”.
 
@@ -2550,7 +2550,7 @@ When a person is held for trial by general court-martial the commanding officer 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVI, § 5204, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2906, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVI, § 5204, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2906, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 833. Art 33. Disposition guidance
 
@@ -2592,7 +2592,7 @@ If the specification is referred for trial, the recommendation of the staff judg
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVI, § 5205, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2907, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVI, § 5205, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2907, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 834. Art. 34. Advice to convening authority before referral for trial
 
@@ -2661,7 +2661,7 @@ The trial counsel to whom court-martial charges are referred for trial shall cau
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVI, § 5206, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2908, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVI, § 5206, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2908, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 835. Art. 35. Service of charges; commencement of trial
 
@@ -2790,7 +2790,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Subsection (e)
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5221, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (e) is amended by striking “, under the direction” and all that follows through “(article 27),”. See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVII, § 5221, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (e) is amended by striking “, under the direction” and all that follows through “(article 27),”. See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2863,7 +2863,7 @@ Amendment by Pub. L. 90–632 effective on first day of tenth month following Oc
 ### Statutory Notes
 
 #### Amendment of Subsections (a) and (c)
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5222, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section is amended as follows:
+Pub. L. 114–328, div. E, title LVII, § 5222, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended as follows:
 
 (1) in subsection (a)—
 
@@ -2879,7 +2879,7 @@ Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5222, title LXIII, § 5
 
 “(4) conducting a sentencing proceeding and sentencing the accused in non-capital cases unless the accused requests sentencing by members under [section 825 of this title](./chapter-047-uniform-code-of-military-justice.md#section-825) (article 25); and”; and
 
-(2) in the second sentence of subsection (c), by striking “, in cases in which a military judge has been detailed to the court,”.
+(2) in subsection (c), by striking “, in cases in which a military judge has been detailed to the court,” in the second sentence.
 
 See 2016 Amendment notes below.
 
@@ -2923,7 +2923,7 @@ The military judge or a court-martial without a military judge may, for reasonab
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5223, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended by striking “court-martial without a military judge” and inserting “summary court-martial”. See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVII, § 5223, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended by striking “court-martial without a military judge” and inserting “summary court-martial”. See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2961,7 +2961,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Subsections (a) and (b)(2)
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5224, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended:
+Pub. L. 114–328, div. E, title LVII, § 5224, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended:
 
 (1) in subsection (a)(1), by striking “, or, if none, the court,” in the second sentence;
 
@@ -3107,69 +3107,23 @@ is suspended until three years after the termination of hostilities as proclaime
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5225(a)–(e), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2909, 2910, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5225(e), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2910, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended as follows:
 
-§ 843. Art. 43. Statute of limitations
+(1) in subsection (a), by inserting “No Limitation for Certain Offenses.—” after “(a)”;
 
-(a) No Limitation for Certain Offenses.—A person charged with absence without leave or missing movement in time of war, with murder, rape or sexual assault, or rape or sexual assault of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
+(2) in subsection (b), by inserting “Five-year Limitation for Trial by Court-martial.—” after “(b)”;
 
-(b) Five-year Limitation for Trial by Court-martial.—(1) Except as otherwise provided in this section (article), a person charged with an offense is not liable to be tried by court-martial if the offense was committed more than five years before the receipt of sworn charges and specifications by an officer exercising summary court-martial jurisdiction over the command.
+(3) in subsection (c), by inserting “Tolling for Absence Without Leave or Flight From Justice.—” after “(c)”;
 
-(2)(A) A person charged with having committed a child abuse offense against a child is liable to be tried by court-martial if the sworn charges and specifications are received during the life of the child or within ten years after the date on which the offense was committed, whichever provides a longer period, by an officer exercising summary court-martial jurisdiction with respect to that person.
+(4) in subsection (d), by inserting “Tolling for Absence From US or Military Jurisdiction.—” after “(d)”;
 
-(B) In subparagraph (A), the term “child abuse offense” means an act that involves abuse of a person who has not attained the age of 16 years and constitutes any of the following offenses:
+(5) in subsection (e), by inserting “Extension for Offenses in Time of War Detrimental to Prosecution of War.—” after “(e)”;
 
-(i) Any offense in violation of section 920, 920a, 920b, 920c, or 930 of this title (article 120, 120a, 120b, 120c, or 130), unless the offense is covered by subsection (a).
+(6) in subsection (f), by inserting “Extension for Other Offenses in Time of War.—” after “(f)”; and
 
-(ii) Maiming in violation of [section 928a of this title](./chapter-047-uniform-code-of-military-justice.md#section-928a) (article 128a).
+(7) in subsection (g), by inserting “Defective or Insufficient Charges.—” after “(g)”.
 
-(iii) Aggravated assault, assault consummated by a battery, or assault with intent to commit specified offenses in violation of [section 928 of this title](./chapter-047-uniform-code-of-military-justice.md#section-928) (article 128).
-
-(iv) Kidnapping in violation of [section 925 of this title](./chapter-047-uniform-code-of-military-justice.md#section-925) (article 125).
-
-(C) In subparagraph (A), the term “child abuse offense” includes an act that involves abuse of a person who has not attained the age of 18 years and would constitute an offense under chapter 110 or 117 of title 18 or under section 1591 of that title.
-
-(3) A person charged with an offense is not liable to be punished under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15) if the offense was committed more than two years before the imposition of punishment.
-
-(c) Tolling for Absence Without Leave or Flight From Justice.—Periods in which the accused is absent without authority or fleeing from justice shall be excluded in computing the period of limitation prescribed in this section (article).
-
-(d) Tolling for Absence From US or Military Jurisdiction.—Periods in which the accused was absent from territory in which the United States has the authority to apprehend him, or in the custody of civil authorities, or in the hands of the enemy, shall be excluded in computing the period of limitation prescribed in this article.
-
-(e) Extension for Offenses in Time of War Detrimental to Prosecution of War.—For an offense the trial of which in time of war is certified to the President by the Secretary concerned to be detrimental to the prosecution of the war or inimical to the national security, the period of limitation prescribed in this article is extended to six months after the termination of hostilities as proclaimed by the President or by a joint resolution of Congress.
-
-(f) Extension for Other Offenses in Time of War.—When the United States is at war, the running of any statute of limitations applicable to any offense under this chapter—
-
-(1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not;
-
-(2) committed in connection with the acquisition, care, handling, custody, control, or disposition of any real or personal property of the United States; or
-
-(3) committed in connection with the negotiation, procurement, award, performance, payment, interim financing, cancellation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency;
-
-is suspended until three years after the termination of hostilities as proclaimed by the President or by a joint resolution of Congress.
-
-(g) Defective or Insufficient Charges.—(1) If charges or specifications are dismissed as defective or insufficient for any cause and the period prescribed by the applicable statute of limitations—
-
-(A) has expired; or
-
-(B) will expire within 180 days after the date of dismissal of the charges and specifications,
-
-trial and punishment under new charges and specifications are not barred by the statute of limitations if the conditions specified in paragraph (2) are met.
-
-(2) The conditions referred to in paragraph (1) are that the new charges and specifications must—
-
-(A) be received by an officer exercising summary court-martial jurisdiction over the command within 180 days after the dismissal of the charges or specifications; and
-
-(B) allege the same acts or omissions that were alleged in the dismissed charges or specifications (or allege acts or omissions that were included in the dismissed charges or specifications).
-
-(h) Fraudulent Enlistment or Appointment.—A person charged with fraudulent enlistment or fraudulent appointment under [section 904a(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section904a/1&num=0&edition=prelim) (article 104a(1)) may be tried by court-martial if the sworn charges and specifications are received by an officer exercising summary court-martial jurisdiction with respect to that person, as follows:
-
-(1) In the case of an enlisted member, during the period of the enlistment or five years, whichever provides a longer period.
-
-(2) In the case of an officer, during the period of the appointment or five years, whichever provides a longer period.
-
-(i) Dna Evidence.—If DNA testing implicates an identified person in the commission of an offense punishable by confinement for more than one year, no statute of limitations that would otherwise preclude prosecution of the offense shall preclude such prosecution until a period of time following the implication of the person by DNA testing has elapsed that is equal to the otherwise applicable limitation period.
-
-See 2016 Amendment notes below.
+See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -3189,9 +3143,7 @@ In subsection (e), the words “For an” are substituted for the words “In th
 In subsection (f), the word “is” is substituted for the words “shall be”.
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–328, § 5225(e)(1), inserted heading.
-
-Subsec. (b). Pub. L. 114–328, § 5225(e)(2), inserted heading.
+2016—Pub. L. 114–328, § 5225(e), inserted headings in subsecs. (a) to (g).
 
 Subsec. (b)(2)(A). Pub. L. 114–328, § 5225(a), substituted “ten years” for “five years”.
 
@@ -3206,16 +3158,6 @@ Subsec. (b)(2)(B)(i) to (v). Pub. L. 114–328, § 5225(d), added pars. (i) to (
 “(iv) Aggravated assault or assault consummated by a battery in violation of [section 928 of this title](./chapter-047-uniform-code-of-military-justice.md#section-928) (article 128).
 
 “(v) Kidnaping, assault with intent to commit murder, voluntary manslaughter, rape, or forcible sodomy, or indecent acts in violation of [section 934 of this title](./chapter-047-uniform-code-of-military-justice.md#section-934) (article 134).”
-
-Subsec. (c). Pub. L. 114–328, § 5225(e)(3), inserted heading.
-
-Subsec. (d). Pub. L. 114–328, § 5225(e)(4), inserted heading.
-
-Subsec. (e). Pub. L. 114–328, § 5225(e)(5), inserted heading.
-
-Subsec. (f). Pub. L. 114–328, § 5225(e)(6), inserted heading.
-
-Subsec. (g). Pub. L. 114–328, § 5225(e)(7), inserted heading.
 
 Subsec. (h). Pub. L. 114–328, § 5225(b), added subsec. (h).
 
@@ -3268,9 +3210,9 @@ Pub. L. 109–163, § 553(b)(3), added subpar. (C).
 Subsec. (g). Pub. L. 99–661, § 805(b), added subsec. (g).
 
 #### Effective Date of 2016 Amendment
-Pub. L. 114–328, title LVII, § 5225(f), Dec. 23, 2016, 130 Stat. 2910, provided that: “The amendments made by subsections (a), (b), (c), and (d) shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this subsection [probably means “this section”; Dec. 23, 2016] if the applicable limitation period has not yet expired.”
+Pub. L. 114–328, div. E, title LVII, § 5225(f), Dec. 23, 2016, 130 Stat. 2910, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this subsection [probably means “this section”; Dec. 23, 2016] if the applicable limitation period has not yet expired.”
 
-Except as otherwise provided, amendment by Pub. L. 114–328, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+Amendment by section 5225(e) of Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–66, div. A, title XVII, § 1703(c), Dec. 26, 2013, 127 Stat. 958, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to an offense covered by section 920(b) or 920b(b) of title 10, United States Code (article 120(b) or 120b(b) of the Uniform Code of Military Justice), that is committed on or after that date.”
@@ -3296,7 +3238,7 @@ Pub. L. 99–661, div. A, title VIII, § 805(c), Nov. 14, 1986, 100 Stat. 3908, 
 ### Statutory Notes
 
 #### Amendment of Subsection (c)
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5226, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2910, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended to read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5226, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2910, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended to read as follows:
 
 (c)(1) A court-martial with a military judge alone is a trial in the sense of this section (article) if, without fault of the accused—
 
@@ -3343,7 +3285,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5227, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2911, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5227, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2911, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 845. Art. 45. Pleas of the accused
 
@@ -3403,7 +3345,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5228(a), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2911, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5228(a), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2911, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 846. Art. 46. Opportunity to obtain witnesses and other evidence in trials by court-martial
 
@@ -3503,7 +3445,7 @@ is guilty of an offense against the United States.
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5229, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2913, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5229, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2913, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 847. Art. 47. Refusal of person not subject to chapter to appear, testify, or produce evidence
 
@@ -3557,7 +3499,7 @@ Subsec. (a). Pub. L. 114–328, § 5229(a), amended subsec. (a) generally. Prior
 
 “(3) willfully neglects or refuses to appear, or refuses to qualify as a witness or to testify or to produce any evidence which that person may have been legally subpoenaed to produce;
 
-“is guilty of an offense against the United States.”
+is guilty of an offense against the United States.”
 
 2013—Subsec. (a)(1). Pub. L. 113–66 substituted “a preliminary hearing pursuant to [section 832 of this title](./chapter-047-uniform-code-of-military-justice.md#section-832) (article 32)” for “an investigation pursuant to [section 832(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section832/b&num=0&edition=prelim) (article 32(b))”.
 
@@ -3600,7 +3542,7 @@ Pub. L. 112–81, div. A, title V, § 542(c), Dec. 31, 2011, 125 Stat. 1411, pro
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5230, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2913, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5230, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2913, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 848. Art. 48. Contempt
 
@@ -3700,7 +3642,7 @@ Pub. L. 111–383, div. A, title V, § 542(b), Jan. 7, 2011, 124 Stat. 4218, pro
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5231, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2914, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5231, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2914, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 849. Art. 49. Depositions
 
@@ -3773,7 +3715,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5232, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5232, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry
 
@@ -3849,10 +3791,10 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 ### Statutory Notes
 
 #### Amendment of Subsection (c)
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5233, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking “, or the president of a court-martial without a military judge,”. See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVII, § 5233, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking “, or the president of a court-martial without a military judge,”. See 2016 Amendment note below.
 
 #### Amendments
-2016—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out “, or the president of a court-martial without a military judge,’ after “the military judge”.
+2016—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out “, or the president of a court-martial without a military judge,” after “the military judge”.
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3882,7 +3824,7 @@ Pub. L. 99–661, div. A, title VIII, § 802(b), Nov. 14, 1986, 100 Stat. 3906, 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5234, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5234, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2915, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 851. Art. 51. Voting and rulings
 
@@ -3959,7 +3901,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5235, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2916, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5235, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2916, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 852. Art. 52. Votes required for conviction, sentencing, and other matters
 
@@ -4013,7 +3955,7 @@ A court-martial shall announce its findings and sentence to the parties as soon 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5236, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2916, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5236, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2916, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 § 853. Art. 53. Findings and sentencing
 
@@ -4115,7 +4057,7 @@ Section effective on the date designated by the President, not later than the fi
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, § 5238, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2918, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
+Pub. L. 114–328, div. E, title LVII, § 5238, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2918, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read as follows:
 
 § 854. Art. 54. Record of trial
 
@@ -4740,7 +4682,7 @@ Pub. L. 114–328, div. E, title LIX, § 5321, title LXIII, § 5542, Dec. 23, 20
 
 § 860. Art 60. Post-trial processing in general and special courts-martial
 
-(a) Statement of Trial Results.—(1) The military judge of a general or special court-martial shall enter into the record of trial a document entitled ‘Statement of Trial Results’, which shall set forth—
+(a) Statement of Trial Results.—(1) The military judge of a general or special court-martial shall enter into the record of trial a document entitled “Statement of Trial Results”, which shall set forth—
 
 (A) each plea and finding;
 
@@ -6526,7 +6468,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-887a"></a>
-## § 887a. ]
+## § 887a. Art. 87a]
 
 ### Statutory Notes
 
@@ -6535,7 +6477,7 @@ For text of new section 887a as transferred by Pub. L. 114–328, see Amendment 
 
 
 <a id="section-887b"></a>
-## § 887b. ]
+## § 887b. Art. 87b]
 
 ### Statutory Notes
 
@@ -6682,7 +6624,7 @@ Any person subject to this chapter who is guilty of cruelty toward, or oppressio
 
 
 <a id="section-893a"></a>
-## § 893a. ]
+## § 893a. Art. 93a]
 
 ### Statutory Notes
 
@@ -6746,7 +6688,7 @@ Transfers and amendment by Pub. L. 114–328 effective on the date designated by
 
 
 <a id="section-895a"></a>
-## § 895a. ]
+## § 895a. Art. 95a]
 
 ### Statutory Notes
 
@@ -6916,7 +6858,7 @@ Transfers and amendment by Pub. L. 114–328 effective on the date designated by
 
 
 <a id="section-903a"></a>
-## § 903a. ]
+## § 903a. Art. 103a]
 
 ### Statutory Notes
 
@@ -6925,7 +6867,7 @@ For text of new section 903a as transferred by Pub. L. 114–328, see Amendment 
 
 
 <a id="section-903b"></a>
-## § 903b. ]
+## § 903b. Art. 103b]
 
 ### Statutory Notes
 
@@ -6961,7 +6903,7 @@ Transfer of current section and enactment of new section 904 by Pub. L. 114–32
 
 
 <a id="section-904a"></a>
-## § 904a. ]
+## § 904a. Art. 104a]
 
 ### Statutory Notes
 
@@ -6970,7 +6912,7 @@ For text of new section 904a as transferred by Pub. L. 114–328, see Amendment 
 
 
 <a id="section-904b"></a>
-## § 904b. ]
+## § 904b. Art. 104b]
 
 ### Statutory Notes
 
@@ -7003,7 +6945,7 @@ Transfers by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-905a"></a>
-## § 905a. ]
+## § 905a. Art. 105a]
 
 ### Statutory Notes
 
@@ -7120,7 +7062,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-907a"></a>
-## § 907a. ]
+## § 907a. Art. 107a]
 
 ### Statutory Notes
 
@@ -7149,7 +7091,7 @@ any military property of the United States, shall be punished as a court-martial
 
 
 <a id="section-908a"></a>
-## § 908a. ]
+## § 908a. Art. 108a]
 
 ### Statutory Notes
 
@@ -7171,7 +7113,7 @@ Any person subject to this chapter who willfully or recklessly wastes, spoils, o
 
 
 <a id="section-909a"></a>
-## § 909a. ]
+## § 909a. Art. 109a]
 
 ### Statutory Notes
 
@@ -7523,7 +7465,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-919b"></a>
-## § 919b. ]
+## § 919b. Art. 119b]
 
 ### Statutory Notes
 
@@ -7918,7 +7860,7 @@ In subsection (a), the words “whatever” and “true” are omitted as surplu
 
 
 <a id="section-921a"></a>
-## § 921a. ]
+## § 921a. Art. 121a]
 
 ### Statutory Notes
 
@@ -7927,7 +7869,7 @@ For text of new section 921a as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-921b"></a>
-## § 921b. ]
+## § 921b. Art. 121b]
 
 ### Statutory Notes
 
@@ -7958,7 +7900,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-922a"></a>
-## § 922a. ]
+## § 922a. Art. 122a]
 
 ### Statutory Notes
 
@@ -8033,7 +7975,7 @@ Transfers by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-924a"></a>
-## § 924a. ]
+## § 924a. Art. 124a]
 
 ### Statutory Notes
 
@@ -8042,7 +7984,7 @@ For text of new section 924a as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-924b"></a>
-## § 924b. ]
+## § 924b. Art. 124b]
 
 ### Statutory Notes
 
@@ -8152,7 +8094,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 
 <a id="section-928a"></a>
-## § 928a. ]
+## § 928a. Art. 128a]
 
 ### Statutory Notes
 
@@ -8227,7 +8169,7 @@ The words “in a” are inserted before the words “course of justice”.
 
 
 <a id="section-931a"></a>
-## § 931a. ]
+## § 931a. Art. 131a]
 
 ### Statutory Notes
 
@@ -8236,7 +8178,7 @@ For text of new section 931a as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-931b"></a>
-## § 931b. ]
+## § 931b. Art. 131b]
 
 ### Statutory Notes
 
@@ -8245,7 +8187,7 @@ For text of new section 931b as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-931c"></a>
-## § 931c. ]
+## § 931c. Art. 131c]
 
 ### Statutory Notes
 
@@ -8254,7 +8196,7 @@ For text of new section 931c as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-931d"></a>
-## § 931d. ]
+## § 931d. Art. 131d]
 
 ### Statutory Notes
 
@@ -8263,7 +8205,7 @@ For text of new section 931d as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-931e"></a>
-## § 931e. ]
+## § 931e. Art. 131e]
 
 ### Statutory Notes
 
@@ -8272,7 +8214,7 @@ For text of new section 931e as enacted by Pub. L. 114–328, see Amendment of A
 
 
 <a id="section-931f"></a>
-## § 931f. ]
+## § 931f. Art. 131f]
 
 ### Statutory Notes
 
@@ -8281,7 +8223,7 @@ For text of new section 931f as transferred by Pub. L. 114–328, see Amendment 
 
 
 <a id="section-931g"></a>
-## § 931g. ]
+## § 931g. Art. 131g]
 
 ### Statutory Notes
 
@@ -8947,7 +8889,7 @@ The United States Court of Appeals for the Armed Forces may prescribe its rules 
 ### Statutory Notes
 
 #### References in Text
-Section 301(a)(2) and (d) of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (i), is section 301(a)(2) and (d) of Pub. L. 99–335, which is set out in a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
+Section 301(a)(2) and (d) of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (h), is section 301(a)(2) and (d) of Pub. L. 99–335, which is set out in a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 2016—Subsec. (d). Pub. L. 114–328, § 541(e)(1), substituted “subsection (f)(1)(B)” for “subsection (g)(1)(B)”.

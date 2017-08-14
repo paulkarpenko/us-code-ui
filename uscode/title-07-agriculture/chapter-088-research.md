@@ -2,7 +2,7 @@
 title: 7
 chapter: '88'
 heading: RESEARCH
-section_count: 47
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -156,6 +156,9 @@ Subsec. (b)(8). Pub. L. 110–246, § 7101(b)(5)(C), substituted “section 3103
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Short Title of 1976 Amendment
+Pub. L. 94–214, § 1, Feb. 16, 1976, 90 Stat. 181, provided that: “This Act [see Tables for classification] may be cited as the ‘Rice Production Act of 1975’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -1161,7 +1164,7 @@ A prior section 5923, Pub. L. 101–624, title XVI, § 1670, Nov. 28, 1990, 104 
 
 (3) **Consortia** — The Secretary shall encourage awards under this section to consortia of eligible entities.
 
-**(d) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of a grant or cooperative agreement under this section.
+**(d) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of a grant or cooperative agreement under this section.
 
 **(e) Consultation with National Academy of Sciences** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
@@ -1190,7 +1193,7 @@ Subsec. (b)(7), (8). Pub. L. 107–171, § 7208(a)(2)–(4), added par. (7) and 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i).
+Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
 
 <a id="section-5925"></a>
@@ -1199,7 +1202,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
 **(b) Administration**
 
-(1) **In general** — Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of grants under this section.
+(1) **In general** — Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
 
 (2) **Use of task forces** — To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 
@@ -1269,7 +1272,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
     (ii) establishing an educational program to encourage pulse crop consumption in the United States.
 
-(3) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of a competitive grant under this subsection.
+(3) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of a competitive grant under this subsection.
 
 (4) **Priorities** — In making competitive grants under this subsection, the Secretary shall provide a higher priority to projects that—
 
@@ -1637,7 +1640,7 @@ Pub. L. 107–171, title VII, § 7411, May 13, 2002, 116 Stat. 462, provided tha
 
 (8) developing new and improved seed varieties that are particularly suited for organic agriculture.
 
-**(b) Grant types and process, prohibition on construction** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of grants under this section.
+**(b) Grant types and process, prohibition on construction** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
 
 **(c) Partnerships encouraged** Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 
@@ -1707,7 +1710,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-Amendment by section 7406(d)(3) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i).
+Amendment by section 7406(d)(3) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
 #### Coordination of Projects and Activities
 Pub. L. 110–234, title VII, § 7206(b), May 22, 2008, 122 Stat. 1239, and Pub. L. 110–246, § 4(a), title VII, § 7206(b), June 18, 2008, 122 Stat. 1664, 2000, provided that: “In carrying out the amendment made by this section [amending this section], the Secretary [of Agriculture] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6971](./chapter-098-department-of-agriculture-reorganization.md#section-6971)) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
@@ -1819,7 +1822,7 @@ Section, Pub. L. 101–624, title XVI, § 1672C, as added Pub. L. 110–234, tit
 
 (4) use and support the national farm financial management database.
 
-**(c) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of grants under this section.
+**(c) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
 
@@ -1843,7 +1846,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ## § 5926. Centers of excellence
 **(a) Funding priorities** The Secretary shall prioritize centers of excellence established for purposes of carrying out research, extension, and education activities relating to the food and agricultural sciences (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)) for the receipt of funding for any competitive research or extension program administered by the Secretary.
 
-**(b) Composition** A center of excellence is composed of 1 or more of the eligible entities specified in subsection (b)(7) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) that provide financial or in-kind support to the center of excellence.
+**(b) Composition** A center of excellence is composed of 1 or more of the eligible entities specified in subsection (b)(7) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) that provide financial or in-kind support to the center of excellence.
 
 **(c) Criteria for centers of excellence**
 
@@ -2431,3 +2434,61 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
+
+<a id="section-5941"></a>
+## § 5941. Purchase of cultures for soil and fertilizer investigations
+
+The Secretary of Agriculture may purchase from applicable appropriations cultures in the open market for use in connection with soil and fertilizer investigations.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 432 of this title](./chapter-017-miscellaneous-matters.md#section-432) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+
+<a id="section-5942"></a>
+## § 5942. Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations
+
+In order to reduce fertilizer and herbicide usage in excess of production needs, to develop wheat and feed grain varieties more susceptible to complete fertilizer utilization, and to improve the resistance of wheat and feed grain plants to disease and to enhance their conservation and environmental qualities, the Secretary of Agriculture is authorized and directed to carry out regional and national research programs.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 428b of this title](./chapter-017-miscellaneous-matters.md#section-428b) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Agricultural Act of 1970, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+
+<a id="section-5943"></a>
+## § 5943. Rice research
+**(a) Regional and national research programs; rules; purposes** The Secretary of Agriculture may, under rules prescribed by such Secretary, carry out regional and national research programs with regard to rice for the following purposes:
+
+(1) to reduce fertilizer and herbicide usage in excess of production needs;
+
+(2) to develop varieties of rice more susceptible to complete fertilizer utilization;
+
+(3) to improve the resistance of rice plants to disease and to enhance their conservation and environmental qualities;
+
+(4) to increase the usage of rice and its processing byproducts;
+
+(5) to develop better husbandry practices in production and conservation of rice;
+
+(6) to develop more efficient rice storage practices;
+
+(7) to improve domestic and international marketing of rice; and
+
+(8) to benefit the general welfare.
+
+**(b) Utilization of services of Federal, State, local governmental and private agencies; priority consideration** The Secretary shall, in implementing the program authorized in subsection (a), utilize the technical and related services of appropriate Federal, State, local governmental, and private agencies, with priority consideration for land grant universities, State experiment stations, and other agricultural institutions of higher learning.
+
+**(c) Authorization of appropriations; use restriction** There is authorized to be appropriated not more than $1,000,000 for the period ending September 30, 1976, to carry out the provisions of this section. No funds authorized by this section shall be used for advertising or promotional activities.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 428c of this title](./chapter-017-miscellaneous-matters.md#section-428c) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Rice Production Act of 1975, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.

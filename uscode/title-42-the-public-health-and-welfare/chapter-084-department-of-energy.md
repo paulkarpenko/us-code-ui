@@ -299,7 +299,7 @@ Substantially identical provisions were contained in Pub. L. 106–377, § 1(a)(
 
 (11) Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
 
-**(b)** At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
+**(b)** At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) (or any portion thereof) for which such individual will be responsible.
 
 ### Statutory Notes
 
@@ -446,7 +446,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (3) in carrying out this subsection, take into account reporting burdens and the protection of proprietary information as required by law.
 
-**(l) Data collection** In order to improve the ability to evaluate the effectiveness of the Nation’s energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+**(l) Data collection** In order to improve the ability to evaluate the effectiveness of the Nation’s energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k), consider—
 
 (1) expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
 
@@ -631,7 +631,7 @@ There is established a Leasing Liaison Committee which shall be composed of an e
 
 (3) “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e) of this section.
+**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e).
 
 ### Statutory Notes
 
@@ -758,15 +758,15 @@ Section was enacted as part of the Miscellaneous Appropriations Act, 2001, and a
 
 **(b) Status of volunteers**
 
-(1) **In general** — Except as provided in paragraph (2), service by a volunteer under subsection (a) of this section shall not be considered Federal employment.
+(1) **In general** — Except as provided in paragraph (2), service by a volunteer under subsection (a) shall not be considered Federal employment.
 
 (2) **Exceptions**
 
-  (A) *Federal Tort Claims Act* — For purposes of chapter 171 of title 28, a volunteer under subsection (a) of this section shall be treated as an employee of the Government (as defined in section 2671 of that title).
+  (A) *Federal Tort Claims Act* — For purposes of chapter 171 of title 28, a volunteer under subsection (a) shall be treated as an employee of the Government (as defined in section 2671 of that title).
 
-  (B) *Compensation for work injuries* — For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection (a) of this section shall be treated as an employee (as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim)).
+  (B) *Compensation for work injuries* — For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection (a) shall be treated as an employee (as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim)).
 
-**(c) Compensation** A volunteer under subsection (a) of this section shall serve without pay, but may receive nominal awards and reimbursement for incidental expenses, including expenses for a uniform or transportation in furtherance of Museum activities.
+**(c) Compensation** A volunteer under subsection (a) shall serve without pay, but may receive nominal awards and reimbursement for incidental expenses, including expenses for a uniform or transportation in furtherance of Museum activities.
 
 ### Statutory Notes
 
@@ -950,7 +950,7 @@ Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as
 
   (E) alternative energy, including wind, geothermal, and fuel cells.
 
-**(c) Location** The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b) of this section.
+**(c) Location** The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b).
 
 ### Statutory Notes
 
@@ -1288,6 +1288,8 @@ Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 17
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. D, title III, May 5, 2017, 131 Stat. 319.
+
 Pub. L. 114–113, div. D, title III, Dec. 18, 2015, 129 Stat. 2415.
 
 Pub. L. 113–235, div. D, title III, Dec. 16, 2014, 128 Stat. 2322.
@@ -1410,9 +1412,9 @@ Pub. L. 102–486, title XVIII, Oct. 24, 1992, 106 Stat. 3010, provided that: �
 ## § 7174. Initiation of rulemaking procedures before Commission
 **(a) Proposal of rules, regulations, and statements of policy of general applicability by Secretary and Commission** The Secretary and the Commission are authorized to propose rules, regulations, and statements of policy of general applicability with respect to any function within the jurisdiction of the Commission under [section 7172 of this title](./chapter-084-department-of-energy.md#section-7172).
 
-**(b) Consideration and final action on proposals of Secretary** The Commission shall have exclusive jurisdiction with respect to any proposal made under subsection (a) of this section, and shall consider and take final action on any proposal made by the Secretary under such subsection in an expeditious manner in accordance with such reasonable time limits as may be set by the Secretary for the completion of action by the Commission on any such proposal.
+**(b) Consideration and final action on proposals of Secretary** The Commission shall have exclusive jurisdiction with respect to any proposal made under subsection (a), and shall consider and take final action on any proposal made by the Secretary under such subsection in an expeditious manner in accordance with such reasonable time limits as may be set by the Secretary for the completion of action by the Commission on any such proposal.
 
-**(c) Utilization of rulemaking procedures for establishment of rates and charges under Federal Power Act and Natural Gas Act** Any function described in [section 7172 of this title](./chapter-084-department-of-energy.md#section-7172) which relates to the establishment of rates and charges under the Federal Power Act [[16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.] or the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.], may be conducted by rulemaking procedures. Except as provided in subsection (d) of this section, the procedures in such a rulemaking proceeding shall assure full consideration of the issues and an opportunity for interested persons to present their views.
+**(c) Utilization of rulemaking procedures for establishment of rates and charges under Federal Power Act and Natural Gas Act** Any function described in [section 7172 of this title](./chapter-084-department-of-energy.md#section-7172) which relates to the establishment of rates and charges under the Federal Power Act [[16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.] or the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.], may be conducted by rulemaking procedures. Except as provided in subsection (d), the procedures in such a rulemaking proceeding shall assure full consideration of the issues and an opportunity for interested persons to present their views.
 
 **(d) Submission of written questions by interested persons** With respect to any rule or regulation promulgated by the Commission to establish rates and charges for the first sale of natural gas by a producer or gatherer to a natural gas pipeline under the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.], the Commission may afford any interested person a reasonable opportunity to submit written questions with respect to disputed issues of fact to other interested persons participating in the rulemaking proceedings. The Commission may establish a reasonable time for both the submission of questions and responses thereto.
 
@@ -1439,9 +1441,9 @@ The Commission shall promptly publish its recommendations, adopted under this su
 
 **(c) Options of Secretary; final agency action** Following publication of the Commission’s recommendations the Secretary shall have the option of—
 
-(1) issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1) of this section;
+(1) issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1);
 
-(2) issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2) of this section; or
+(2) issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2); or
 
 (3) ordering that the rule shall not be issued.
 The action taken by the Secretary pursuant to this subsection shall constitute a final agency action for purposes of [section 704 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section704&num=0&edition=prelim).
@@ -1512,17 +1514,17 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1986, an
 
 **(b) Substantial issue of fact or law or likelihood of substantial impact on Nation’s economy, etc.; oral presentation**
 
-(1) If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a) of this section) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
+(1) If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a)) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
 
 (2) Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, and arguments, may submit material supporting the existence of such substantial issues or such impact.
 
-(3) A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a) of this section.
+(3) A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a).
 
 **(c) Waiver of requirements** The requirements of subsection (b) of this section may be waived where strict compliance is found by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
 
 **(d) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation**
 
-(1) With respect to any rule, regulation, or order described in subsection (a) of this section, the effects of which, except for indirect effects of an inconsequential nature, are confined to—
+(1) With respect to any rule, regulation, or order described in subsection (a), the effects of which, except for indirect effects of an inconsequential nature, are confined to—
 
   (A) a single unit of local government or the residents thereof;
 
@@ -1616,7 +1618,7 @@ Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section
 
 **(b)**
 
-(1) If any person is aggrieved or adversely affected by a denial of a request for adjustment under subsection (a) of this section such person may request a review of such denial by the Commission and may obtain judicial review in accordance with this subchapter when such a denial becomes final.
+(1) If any person is aggrieved or adversely affected by a denial of a request for adjustment under subsection (a) such person may request a review of such denial by the Commission and may obtain judicial review in accordance with this subchapter when such a denial becomes final.
 
 (2) The Commission shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of [section 704 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section704&num=0&edition=prelim) and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
 
@@ -1705,7 +1707,7 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 
 **(d) Appointment of additional scientific, engineering, etc., personnel without regard to civil service laws; compensation** In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
-**(e) Determination of maximum aggregate number of positions** For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under [section 5108(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108/a&num=0&edition=prelim), 63 percent of the positions established under subsections (b) and (c) of this section shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
+**(e) Determination of maximum aggregate number of positions** For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under [section 5108(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108/a&num=0&edition=prelim), 63 percent of the positions established under subsections (b) and (c) shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 
 **(f) Intelligence and intelligence-related positions exempt from competitive service** All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
 
@@ -1815,13 +1817,13 @@ Section, Pub. L. 101–189, div. C, title XXXI, § 3142, Nov. 29, 1989, 103 Stat
 
 **(b) Priority placement and retraining program** Not later than 30 days after September 30, 1996, the United States Department of Energy shall establish an agency-wide priority placement and retraining program for eligible employees.
 
-**(c) Filling vacancy from outside agency** The priority placement program established under subsection (b) of this section shall include provisions under which a vacant position shall not be filled by the appointment or transfer of any individual from outside of the agency if—
+**(c) Filling vacancy from outside agency** The priority placement program established under subsection (b) shall include provisions under which a vacant position shall not be filled by the appointment or transfer of any individual from outside of the agency if—
 
 (1) there is then available any eligible employee who applies for the position within 30 days of the agency issuing a job announcement and is qualified (or can be trained or retrained to become qualified within 90 days of assuming the position) for the position; and
 
 (2) the position is within the same commuting area as the eligible employee’s last-held position or residence.
 
-**(d) Job placement and counseling services** The head of the agency may establish a program to provide job placement and counseling services to eligible employees. A program established under subsection (d) of this section may include, but is not limited to, such services as—
+**(d) Job placement and counseling services** The head of the agency may establish a program to provide job placement and counseling services to eligible employees. A program established under subsection (d) may include, but is not limited to, such services as—
 
 (1) career and personal counseling;
 
@@ -1894,11 +1896,11 @@ Pub. L. 104–201, div. C, title XXXI, § 3140, Sept. 23, 1996, 110 Stat. 2833, 
 
 <a id="section-7254"></a>
 ## § 7254. Reorganization
-**(a)** Subject to subsection (b) of this section, the Secretary is authorized to establish, alter, consolidate or discontinue such organizational units or components within the Department as he may deem to be necessary or appropriate. Such authority shall not extend to the abolition of organizational units or components established by this chapter, or to the transfer of functions vested by this chapter in any organizational unit or component.
+**(a)** Subject to subsection (b), the Secretary is authorized to establish, alter, consolidate or discontinue such organizational units or components within the Department as he may deem to be necessary or appropriate. Such authority shall not extend to the abolition of organizational units or components established by this chapter, or to the transfer of functions vested by this chapter in any organizational unit or component.
 
 **(b)** The authority of the Secretary to establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the National Nuclear Security Administration is governed by the provisions of [section 2409 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2409&num=0&edition=prelim).
 
-**(c)** The authority of the Secretary under subsection (a) of this section does not apply to the National Nuclear Security Administration. The corresponding authority that applies to the Administration is set forth in section 2402(e) 11 See References in Text note below. of title 50.
+**(c)** The authority of the Secretary under subsection (a) does not apply to the National Nuclear Security Administration. The corresponding authority that applies to the Administration is set forth in section 2402(e) 11 See References in Text note below. of title 50.
 
 ### Statutory Notes
 
@@ -1910,9 +1912,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 #### Amendments
 2013—Subsecs. (b), (c). Pub. L. 112–239 redesignated subsec. (b) relating to nonapplicability of authority of Secretary to National Nuclear Security Administration as (c).
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3159(b)(1)], which directed amendment of section by substituting “(a) Except as provided in subsection (b) of this section, the Secretary” for “The Secretary”, could not be executed because the words “The Secretary” did not appear after execution of the amendment by Pub. L. 106–377, § 1(a)(2) [title III, § 314(b)(1)]. See below.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3159(b)(1)], which directed amendment of section by substituting “(a) Except as provided in subsection (b), the Secretary” for “The Secretary”, could not be executed because the words “The Secretary” did not appear after execution of the amendment by Pub. L. 106–377, § 1(a)(2) [title III, § 314(b)(1)]. See below.
 
-Pub. L. 106–377, § 1(a)(2) [title III, § 314(b)(1)], designated existing provisions as subsec. (a) and substituted “Subject to subsection (b) of this section, the Secretary” for “The Secretary”.
+Pub. L. 106–377, § 1(a)(2) [title III, § 314(b)(1)], designated existing provisions as subsec. (a) and substituted “Subject to subsection (b), the Secretary” for “The Secretary”.
 
 Subsec. (b). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3159(b)(2)], added subsec. (b) relating to nonapplicability of authority of Secretary under subsec. (a) of this section to National Nuclear Security Administration.
 
@@ -1957,17 +1959,17 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 **(d) Terms of lease**
 
-(1) A lease entered into under subsection (c) of this section may not be for a term of more than 10 years, except that the Secretary may enter into a lease that includes an option to renew for a term of more than 10 years if the Secretary determines that entering into such a lease will promote the national security or be in the public interest.
+(1) A lease entered into under subsection (c) may not be for a term of more than 10 years, except that the Secretary may enter into a lease that includes an option to renew for a term of more than 10 years if the Secretary determines that entering into such a lease will promote the national security or be in the public interest.
 
-(2) A lease entered into under subsection (c) of this section may provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is less than the fair market rental value of the leasehold interest. Services relating to the protection and maintenance of the leased property may constitute all or part of such consideration.
+(2) A lease entered into under subsection (c) may provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is less than the fair market rental value of the leasehold interest. Services relating to the protection and maintenance of the leased property may constitute all or part of such consideration.
 
 **(e) Environmental concerns**
 
-(1) Before entering into a lease under subsection (c) of this section, the Secretary shall consult with the Administrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is not listed on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
+(1) Before entering into a lease under subsection (c), the Secretary shall consult with the Administrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is not listed on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
 
-(2) Before entering into a lease under subsection (c) of this section, the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) of this section without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual’s concurrence with, or rejection of, the determination.
+(2) Before entering into a lease under subsection (c), the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual’s concurrence with, or rejection of, the determination.
 
-**(f) Retention and use of rentals; report** To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) of this section in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
+**(f) Retention and use of rentals; report** To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
 
 **(g) Additional authorities**
 
@@ -2105,7 +2107,7 @@ Section 7257c, Pub. L. 105–85, div. C, title XXXI, § 3137, Nov. 18, 1997, 111
 
   (C) carrying out other research activities in relevant areas.
 
-(3) **Report** — Not later than 180 days after June 12, 2002, the Administrator of the National Nuclear Security Administration shall submit to the Committee on Energy and Natural Resources and the Committee on Armed Services of the Senate, and the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives, a report setting forth the programs and projects that will be funded prior to the obligation of funds appropriated under subsection (b) of this section.
+(3) **Report** — Not later than 180 days after June 12, 2002, the Administrator of the National Nuclear Security Administration shall submit to the Committee on Energy and Natural Resources and the Committee on Armed Services of the Senate, and the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives, a report setting forth the programs and projects that will be funded prior to the obligation of funds appropriated under subsection (b).
 
 **(b) Authorization** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary in each of fiscal years 2002 through 2006.
 
@@ -2133,7 +2135,7 @@ Section was enacted as part of the Public Health Security and Bioterrorism Prepa
 
 (7) Transportation of schoolage dependents of employees to the nearest appropriate educational facilities.
 
-**(b) Medical treatment at reasonable prices** The furnishing of medical treatment under paragraph (1) of subsection (a) of this section and the furnishing of services and supplies under paragraphs (2) and (3) of subsection (a) of this section shall be at prices reflecting reasonable value as determined by the Secretary.
+**(b) Medical treatment at reasonable prices** The furnishing of medical treatment under paragraph (1) of subsection (a) and the furnishing of services and supplies under paragraphs (2) and (3) of subsection (a) shall be at prices reflecting reasonable value as determined by the Secretary.
 
 **(c) Use of reimbursement proceeds** Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Secretary to pay directly the cost of such work or services, to repay or make advances to appropriations of funds which will initially bear all or a part of such cost, or to refund excess sums when necessary. Such payments may be credited to a working capital fund otherwise established by law, including the fund established pursuant to [section 7263 of this title](./chapter-084-department-of-energy.md#section-7263), and used under the law governing such fund, if the fund is available for use by the Department for performing the work or services for which payment is received.
 
@@ -2168,7 +2170,7 @@ In subsec. (b), “[section 102(3) of title 40](https://uscode.house.gov/view.xh
 
 **(b) Charges**
 
-(1) The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out under subsection (a) of this section a charge for such research and activities in carrying out such research and activities, which shall include—
+(1) The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out under subsection (a) a charge for such research and activities in carrying out such research and activities, which shall include—
 
   (A) the direct cost incurred in carrying out such research and activities; and
 
@@ -2233,7 +2235,7 @@ The Secretary is authorized to acquire any of the following described rights if 
 
 (1) Whenever any contractor makes an invention or discovery to which the title vests in the Department of Energy pursuant to exercise of section 202(a)(ii) or (iv) of title 35, or pursuant to [section 2182 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2182) or [section 5908 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5908) in the course of or under any Government contract or subcontract of the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy and the contractor requests waiver of any or all of the Government’s property rights, the Secretary of Energy may decide to waive the Government’s rights and assign the rights in such invention or discovery.
 
-(2) Such decision shall be made within 150 days after the date on which a complete request for waiver of such rights has been submitted to the Secretary by the contractor. For purposes of this paragraph, a complete request includes such information, in such detail and form, as the Secretary by regulation prescribes as necessary to allow the Secretary to take into consideration the matters described in subsection (b) of this section in making the decision.
+(2) Such decision shall be made within 150 days after the date on which a complete request for waiver of such rights has been submitted to the Secretary by the contractor. For purposes of this paragraph, a complete request includes such information, in such detail and form, as the Secretary by regulation prescribes as necessary to allow the Secretary to take into consideration the matters described in subsection (b) in making the decision.
 
 (3) If the Secretary fails to make the decision within such 150-day period, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate, within 10 days after the end of the 150-day period, a report on the reasons for such failure. The submission of such report shall not relieve the Secretary of the requirement to make the decision under this section. The Secretary shall, at the end of each 30-day period after submission of the first report during which the Secretary continues to fail to make the decision required by this section, submit another report on the reasons for such failure to the committees listed in this paragraph.
 
@@ -2275,9 +2277,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 ## § 7262. Technology partnerships ombudsman
 **(a) Appointment of ombudsman** The Secretary of Energy shall direct the director of each national laboratory of the Department of Energy, and may direct the director of each facility under the jurisdiction of the Department of Energy, to appoint a technology partnership ombudsman to hear and help resolve complaints from outside organizations regarding the policies and actions of each such laboratory or facility with respect to technology partnerships (including cooperative research and development agreements), patents, and technology licensing.
 
-**(b) Qualifications** An ombudsman appointed under subsection (a) of this section shall be a senior official of the national laboratory or facility who is not involved in day-to-day technology partnerships, patents, or technology licensing, or, if appointed from outside the laboratory or facility, function as such a senior official.
+**(b) Qualifications** An ombudsman appointed under subsection (a) shall be a senior official of the national laboratory or facility who is not involved in day-to-day technology partnerships, patents, or technology licensing, or, if appointed from outside the laboratory or facility, function as such a senior official.
 
-**(c) Duties** Each ombudsman appointed under subsection (a) of this section shall—
+**(c) Duties** Each ombudsman appointed under subsection (a) shall—
 
 (1) serve as the focal point for assisting the public and industry in resolving complaints and disputes with the national laboratory or facility regarding technology partnerships, patents, and technology licensing;
 
@@ -2328,9 +2330,9 @@ The Secretary shall cause a seal of office to be made for the Department of such
 
 **(b) Observers** Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the Coast Guard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act [[42 U.S.C. 3181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3181&num=0&edition=prelim) et seq.] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
 
-**(c) Recommendations of Board** Each Board established pursuant to subsection (a) of this section may make such recommendations as it determines to be appropriate to programs of the Department having a direct effect on the region.
+**(c) Recommendations of Board** Each Board established pursuant to subsection (a) may make such recommendations as it determines to be appropriate to programs of the Department having a direct effect on the region.
 
-**(d) Notice of reasons not to adopt recommendations** If any Regional Advisory Board makes specific recommendations pursuant to subsection (c) of this section, the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
+**(d) Notice of reasons not to adopt recommendations** If any Regional Advisory Board makes specific recommendations pursuant to subsection (c), the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
 
 ### Statutory Notes
 
@@ -2477,7 +2479,7 @@ The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163
 ## § 7270c. Trespass on Strategic Petroleum Reserve facilities
 **(a)** The Secretary may issue regulations relating to the entry upon or carrying, transporting, or otherwise introducing or causing to be introduced any dangerous weapon, explosive, or other dangerous instrument or material likely to produce substantial injury or damage to persons or property into or onto the Strategic Petroleum Reserve, its storage or related facilities, or real property subject to the jurisdiction, administration, or in the custody of the Secretary under part B of title I of the Energy Policy and Conservation Act ([42 U.S.C. 6231–624](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6231–624&num=0&edition=prelim)7). The Secretary shall post conspicuously, on the property subject to the regulations, notification that the property is subject to the regulations.
 
-**(b)** Whoever willfully violates a regulation of the Secretary issued under subsection (a) of this section shall be guilty of a misdemeanor and punished upon conviction by a fine of not more than $5,000, imprisonment for not more than one year, or both.
+**(b)** Whoever willfully violates a regulation of the Secretary issued under subsection (a) shall be guilty of a misdemeanor and punished upon conviction by a fine of not more than $5,000, imprisonment for not more than one year, or both.
 
 ### Statutory Notes
 
@@ -2489,7 +2491,7 @@ The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 9
 ## § 7271. Annual assessment and report on vulnerability of facilities to terrorist attack
 **(a)** The Secretary shall, on an annual basis, conduct a comprehensive assessment of the vulnerability of Department facilities to terrorist attack.
 
-**(b)** Not later than January 31 each year, the Secretary shall submit to Congress a report on the assessment conducted under subsection (a) of this section during the preceding year. Each report shall include the results of the assessment covered by such report, together with such findings and recommendations as the Secretary considers appropriate.
+**(b)** Not later than January 31 each year, the Secretary shall submit to Congress a report on the assessment conducted under subsection (a) during the preceding year. Each report shall include the results of the assessment covered by such report, together with such findings and recommendations as the Secretary considers appropriate.
 
 
 <a id="section-7271a"></a>
@@ -2612,7 +2614,7 @@ Section 7274d, Pub. L. 102–190, div. C, title XXXI, § 3131, Dec. 5, 1991, 105
 
 (2) be pursuing a program of education that leads to an appropriate higher education degree in a qualifying field of study, as determined by the Secretary;
 
-(3) sign an agreement described in subsection (c) of this section;
+(3) sign an agreement described in subsection (c);
 
 (4) be a citizen or national of the United States or be an alien lawfully admitted to the United States for permanent residence; and
 
@@ -2628,7 +2630,7 @@ Section 7274d, Pub. L. 102–190, div. C, title XXXI, § 3131, Dec. 5, 1991, 105
 
 (1) Any person participating in a scholarship or fellowship program established under this section shall agree to pay to the United States the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), if the person—
 
-  (A) does not complete the course of education as agreed to pursuant to subsection (c) of this section, or completes the course of education but declines to serve in a position in the Department of Energy as agreed to pursuant to subsection (c) of this section; or
+  (A) does not complete the course of education as agreed to pursuant to subsection (c), or completes the course of education but declines to serve in a position in the Department of Energy as agreed to pursuant to subsection (c); or
 
   (B) is voluntarily separated from service or involuntarily separated for cause from the Department of Energy before the end of the period for which the person has agreed to continue in the service of the Department of Energy.
 
@@ -2727,13 +2729,13 @@ Section, Pub. L. 102–190, div. C, title XXXI, § 3134, Dec. 5, 1991, 105 Stat.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 
-**(b) Treatment of plans under section 4332** The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) of this section shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of [section 4332(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2&num=0&edition=prelim). Nothing in this subsection shall affect the Department of Energy’s ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
+**(b) Treatment of plans under section 4332** The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of [section 4332(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2&num=0&edition=prelim). Nothing in this subsection shall affect the Department of Energy’s ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
 
 **(c) Grants** The Secretary of Energy is authorized to award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to assist such States and tribes in participating in the development of the annual five-year plan (including the preliminary form of such plan).
 
-**(d) Funding** Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c) of this section.
+**(d) Funding** Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c).
 
-**(e) Budget reports** Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+**(e) Budget reports** Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1), in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
 
 ### Statutory Notes
 
@@ -2795,13 +2797,13 @@ Pub. L. 104–106, div. C, title XXXI, § 3156, Feb. 10, 1996, 110 Stat. 625, wh
 ## § 7274m to 7274o. Authority to transfer certain Department of Energy property
 **(a) Authority to transfer**
 
-(1) Notwithstanding any other provision of law, the Secretary of Energy may transfer, for consideration, all right, title, and interest of the United States in and to the property referred to in subsection (b) of this section to any person if the Secretary determines that such transfer will mitigate the adverse economic consequences that might otherwise arise from the closure of a Department of Energy facility.
+(1) Notwithstanding any other provision of law, the Secretary of Energy may transfer, for consideration, all right, title, and interest of the United States in and to the property referred to in subsection (b) to any person if the Secretary determines that such transfer will mitigate the adverse economic consequences that might otherwise arise from the closure of a Department of Energy facility.
 
 (2) The amount of consideration received by the United States for a transfer under paragraph (1) may be less than the fair market value of the property transferred if the Secretary determines that the receipt of such lesser amount by the United States is in accordance with the purpose of such transfer under this section.
 
 (3) The Secretary may require any additional terms and conditions with respect to a transfer of property under paragraph (1) that the Secretary determines appropriate to protect the interests of the United States.
 
-**(b) Covered property** Property referred to in subsection (a) of this section is the following property of the Department of Energy that is located at a Department of Energy facility to be closed or reconfigured:
+**(b) Covered property** Property referred to in subsection (a) is the following property of the Department of Energy that is located at a Department of Energy facility to be closed or reconfigured:
 
 (1) The personal property and equipment at the facility that the Secretary determines to be excess to the needs of the Department of Energy.
 
@@ -2901,7 +2903,7 @@ A prior section 7275, Pub. L. 98–381, title II, § 201, Aug. 17, 1984, 98 Stat
 ## § 7276a. Regulations to require integrated resource planning
 **(a) Regulations** Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer purchasing electric energy under a long-term firm power service contract with the Western Area Power Administration to implement, within 3 years after October 24, 1992, integrated resource planning in accordance with the requirements of sections 7275 to 7276c of this title.
 
-**(b) Certain small customers** Notwithstanding subsection (a) of this section, for customers with total annual energy sales or usage of 25 Gigawatt Hours or less which are not members of a joint action agency or a generation and transmission cooperative with power supply responsibility, the Administrator may establish different regulations and apply such regulations to customers that the Administrator finds have limited economic, managerial, and resource capability to conduct integrated resource planning. The regulations under this subsection shall require such customers to consider all reasonable opportunities to meet their future energy service requirements using demand-side techniques, new renewable resources and other programs that will provide retail customers with electricity at the lowest possible cost, and minimize, to the extent practicable, adverse environmental effects.
+**(b) Certain small customers** Notwithstanding subsection (a), for customers with total annual energy sales or usage of 25 Gigawatt Hours or less which are not members of a joint action agency or a generation and transmission cooperative with power supply responsibility, the Administrator may establish different regulations and apply such regulations to customers that the Administrator finds have limited economic, managerial, and resource capability to conduct integrated resource planning. The regulations under this subsection shall require such customers to consider all reasonable opportunities to meet their future energy service requirements using demand-side techniques, new renewable resources and other programs that will provide retail customers with electricity at the lowest possible cost, and minimize, to the extent practicable, adverse environmental effects.
 
 ### Statutory Notes
 
@@ -2927,7 +2929,7 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 ## § 7276c. Integrated resource plans
 **(a) Review by Western Area Power Administration** Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to submit an integrated resource plan to the Administrator within 12 months after such regulations are amended. The regulation shall require a revision of such plan to be submitted every 5 years after the initial submission. The Administrator shall review the initial plan in accordance with a schedule established by the Administrator (which schedule will provide for the review of all initial plans within 24 months after such regulations are amended), and each revision thereof within 120 days after his receipt of the plan or revision and determine whether the customer has in the development of the plan or revision, complied with sections 7275 to 7276c of this title. Plan amendments may be submitted to the Administrator at any time and the Administrator shall review each such amendment within 120 days after receipt thereof to determine whether the customer in amending its plan has complied with sections 7275 to 7276c of this title. If the Administrator determines that the customer, in developing its plan, revision, or amendment, has not complied with the requirements of sections 7275 to 7276c of this title, the customer shall resubmit the plan at any time thereafter. Whenever a plan or revision or amendment is resubmitted the Administrator shall review the plan or revision or amendment within 120 days after his receipt thereof to determine whether the customer has complied with sections 7275 to 7276c of this title.
 
-**(b) Criteria for approval of integrated resource plans** The Administrator shall approve an integrated resource plan submitted as required under subsection (a) of this section if, in developing the plan, the customer has:
+**(b) Criteria for approval of integrated resource plans** The Administrator shall approve an integrated resource plan submitted as required under subsection (a) if, in developing the plan, the customer has:
 
 (1) Identified and accurately compared all practicable energy efficiency and energy supply resource options available to the customer.
 
@@ -2947,7 +2949,7 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 
 **(c) Use of other integrated resource plans** Where a customer or group of customers are implementing integrated resource planning under a program responding to Federal, State, or other initiatives, including integrated resource planning considered and implemented pursuant to [section 2621(d) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), in evaluating that customer’s integrated resource plan under sections 7275 to 7276c of this title, the Administrator shall accept such plan as fulfillment of the requirements of sections 7275 to 7276c of this title to the extent such plan substantially complies with the requirements of sections 7275 to 7276c of this title.
 
-**(d) Compliance with integrated resource plans** Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to fully comply with the applicable integrated resource plan and submit an annual report to the Administrator (in such form and containing such information as the Administrator may require) describing the customer’s progress to the goals established in such plan. After the initial review under subsection (a) of this section the Administrator shall periodically conduct reviews of a representative sample of applicable integrated resource plans and the customer’s implementation of the applicable integrated resource plan to determine if the customers are in compliance with their plans. If the Administrator finds a customer out-of-compliance, the Administrator shall impose a surcharge under this section on all electric energy purchased by the customer from the Western Area Power Administration or reduce such customer’s power allocation by 10 percent, unless the Administrator finds that a good faith effort has been made to comply with the approved plan.
+**(d) Compliance with integrated resource plans** Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to fully comply with the applicable integrated resource plan and submit an annual report to the Administrator (in such form and containing such information as the Administrator may require) describing the customer’s progress to the goals established in such plan. After the initial review under subsection (a) the Administrator shall periodically conduct reviews of a representative sample of applicable integrated resource plans and the customer’s implementation of the applicable integrated resource plan to determine if the customers are in compliance with their plans. If the Administrator finds a customer out-of-compliance, the Administrator shall impose a surcharge under this section on all electric energy purchased by the customer from the Western Area Power Administration or reduce such customer’s power allocation by 10 percent, unless the Administrator finds that a good faith effort has been made to comply with the approved plan.
 
 **(e) Enforcement**
 
@@ -2961,7 +2963,7 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 
 **(g) Customers with more than 1 contract** If more than one long-term firm power service contract exists between the Administrator and a customer, only one integrated resource plan shall be required for that customer under sections 7275 to 7276c of this title.
 
-**(h) Program review** Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) of this section to reflect changes, if any, in technology, needs, or other developments.
+**(h) Program review** Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) to reflect changes, if any, in technology, needs, or other developments.
 
 ### Statutory Notes
 
@@ -3220,7 +3222,7 @@ shall continue in effect according to their terms until modified, terminated, su
 
 (2) The Secretary and the Commission are authorized to promulgate regulations providing for the orderly transfer of such proceedings to the Department or the Commission.
 
-**(c) Suits commenced prior to effective date of this chapter** Except as provided in subsection (e) of this section—
+**(c) Suits commenced prior to effective date of this chapter** Except as provided in subsection (e)—
 
 (1) the provisions of this chapter shall not affect suits commenced prior to October 1, 1977, and
 
@@ -3316,7 +3318,7 @@ The transfer of functions under subchapters III and IV of this chapter shall not
 ## § 7322. National Energy Policy Plan
 **(a) Preparation by President and submission to Congress; formulation and review** The President shall—
 
-(1) prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b) of this section;
+(1) prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b);
 
 (2) seek the active participation by regional, State, and local agencies and instrumentalities and the private sector through public hearings in cities and rural communities and other appropriate means to insure that the views and proposals of all segments of the economy are taken into account in the formulation and review of such proposed Plan;
 
@@ -3594,13 +3596,13 @@ For termination, effective May 15, 2000, of reporting provisions in par. (2) of 
 
 (2) to initiate and encourage energy self-sufficiency at appropriate levels of government;
 
-(3) to stimulate private industry participation in the realization of the objective stated in subsection (a) of this section; and
+(3) to stimulate private industry participation in the realization of the objective stated in subsection (a); and
 
 (4) to stimulate the utilization of abandoned or underutilized industrial facilities for the generation of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
 
-**(c) Implementation of subprograms; preparation of plan of program and additional Federal actions** In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b) of this section. In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of June 30, 1980, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
+**(c) Implementation of subprograms; preparation of plan of program and additional Federal actions** In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b). In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of June 30, 1980, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
 
-**(d) Submission of plan and implementation report to Congress** The Secretary shall submit to the Congress, within one year after June 30, 1980, the plan prepared under the second sentence of subsection (c) of this section along with a report suggesting the legislative initiatives needed to fully implement such plan.
+**(d) Submission of plan and implementation report to Congress** The Secretary shall submit to the Congress, within one year after June 30, 1980, the plan prepared under the second sentence of subsection (c) along with a report suggesting the legislative initiatives needed to fully implement such plan.
 
 
 <a id="section-7381"></a>
@@ -3697,7 +3699,7 @@ Pub. L. 105–85, div. C, title XXXI, § 3155, Nov. 18, 1997, 111 Stat. 2044, wh
 
 (6) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-**(c) Relationship to other Department activities** The programs described in subsection (a) of this section shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
+**(c) Relationship to other Department activities** The programs described in subsection (a) shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
 
 **(d) Science, Engineering, and Mathematics Education Fund** The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
 
@@ -3709,7 +3711,7 @@ Pub. L. 105–85, div. C, title XXXI, § 3155, Nov. 18, 1997, 111 Stat. 2044, wh
 
 (3) a description of how the funds set aside under subsection (d) were allocated for the prior fiscal year and will be allocated for the following fiscal year.
 
-**(f) Programs for students from under-represented groups** In carrying out a program under subsection (a) of this section, the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
+**(f) Programs for students from under-represented groups** In carrying out a program under subsection (a), the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
 
 ### Statutory Notes
 
@@ -3767,9 +3769,9 @@ Subsec. (d). Pub. L. 109–58, § 1105(a), added subsec. (d).
 
 (17) Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
 
-**(b) Use of facilities** Any of the activities authorized by subsection (a) of this section may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
+**(b) Use of facilities** Any of the activities authorized by subsection (a) may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
 
-**(c) Funding** The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a) of this section.
+**(c) Funding** The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a).
 
 ### Statutory Notes
 
@@ -3788,7 +3790,7 @@ Amendment by Pub. L. 102–25 applicable as if included in enactment of Pub. L. 
 ## § 7381d. Education partnerships
 **(a) Education partnerships** The Secretary may authorize each Department research and development facility, to the extent practicable and consistent with the provisions of the laboratory’s management and operating contract, to enter into education partnership agreements with educational institutions in the United States (including local educational agencies, colleges, and universities) for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education.
 
-**(b) Types of assistance** Under a partnership agreement entered into with an educational institution under subsection (a) of this section and as authorized by the Secretary, a Department research and development facility may provide assistance to the educational institution by—
+**(b) Types of assistance** Under a partnership agreement entered into with an educational institution under subsection (a) and as authorized by the Secretary, a Department research and development facility may provide assistance to the educational institution by—
 
 (1) loaning or transferring equipment to the institution;
 
@@ -3828,7 +3830,7 @@ Subsec. (b)(7). Pub. L. 109–58, § 1102(c)(2)–(4), added par. (7).
 
 **(b) Education partnership** The Secretary shall require the director of each National Laboratory, and may require the head of any science facility, to increase the participation of historically Black colleges or universities, Hispanic-serving institutions, or tribal colleges in any activity that increases the capacity of the historically Black colleges or universities, Hispanic-serving institutions, or tribal colleges to train personnel in science or engineering.
 
-**(c) Activities** An activity described in subsection (b) of this section includes—
+**(c) Activities** An activity described in subsection (b) includes—
 
 (1) collaborative research;
 
@@ -4201,7 +4203,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **(b) Administration** The Secretary shall—
 
-(1) provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
+(1) provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c);
 
 (2) provide for the publication of information on the Program in appropriate professional publications, including an invitation for applications from teachers listed in the directories of national and State recognition programs;
 
@@ -4462,9 +4464,9 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 **(b) Head** The head of the Office shall be the Ombudsman. The individual serving as Ombudsman shall be either of the following:
 
-(1) An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
+(1) An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 
-(2) An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
+(2) An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 
 **(c) Duties** The duties of the Office shall be as follows:
 
@@ -4703,11 +4705,11 @@ Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2
 
 (1) Amounts appropriated to the compensation fund pursuant to the authorization of appropriations in [section 7384g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7384g/b&num=0&edition=prelim).
 
-(2) Amounts transferred to the compensation fund under subsection (c) of this section.
+(2) Amounts transferred to the compensation fund under subsection (c).
 
 **(c) Financing of compensation fund** Upon the exhaustion of amounts in the compensation fund attributable to the authorization of appropriations in [section 7384g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7384g/b&num=0&edition=prelim), the Secretary of the Treasury shall transfer directly to the compensation fund from the General Fund of the Treasury, without further appropriation, such amounts as are further necessary to carry out the compensation program.
 
-**(d) Use of compensation fund** Subject to subsection (e) of this section, amounts in the compensation fund shall be used to carry out the compensation program.
+**(d) Use of compensation fund** Subject to subsection (e), amounts in the compensation fund shall be used to carry out the compensation program.
 
 **(e) Administrative costs not paid from compensation fund** No cost incurred in carrying out the compensation program, or in administering the compensation fund, shall be paid from the compensation fund or set off against or otherwise deducted from any payment to any individual under the compensation program.
 
@@ -4726,7 +4728,7 @@ Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2
 
 (4) Whether to expand the class of individuals who are members of the Special Exposure Cohort (as defined in section 7384l(14) of this title).
 
-**(b) Assessment of potential covered employees and required amounts** The President shall include with the proposal for legislation under subsection (a) of this section the following:
+**(b) Assessment of potential covered employees and required amounts** The President shall include with the proposal for legislation under subsection (a) the following:
 
 (1) An estimate of the number of covered employees that the President determines were exposed in the performance of duty.
 
@@ -4968,11 +4970,11 @@ For delegation of certain functions of the President under this section, see Ex.
 (2) present at a Department of Energy facility, or a facility owned and operated by a beryllium vendor, because of employment by the United States, a beryllium vendor, or a contractor or subcontractor of the Department of Energy,
 during a period when beryllium dust, particles, or vapor may have been present at such facility.
 
-**(b) Cancer** An individual with cancer specified in subclause (I), (II), or (III) of section 7384l(9)(B)(ii) of this title shall be determined to have sustained that cancer in the performance of duty for purposes of the compensation program if, and only if, the cancer specified in that subclause was at least as likely as not related to employment at the facility specified in that subclause, as determined in accordance with the guidelines established under subsection (c) of this section.
+**(b) Cancer** An individual with cancer specified in subclause (I), (II), or (III) of section 7384l(9)(B)(ii) of this title shall be determined to have sustained that cancer in the performance of duty for purposes of the compensation program if, and only if, the cancer specified in that subclause was at least as likely as not related to employment at the facility specified in that subclause, as determined in accordance with the guidelines established under subsection (c).
 
 **(c) Guidelines**
 
-(1) For purposes of the compensation program, the President shall by regulation establish guidelines for making the determinations required by subsection (b) of this section.
+(1) For purposes of the compensation program, the President shall by regulation establish guidelines for making the determinations required by subsection (b).
 
 (2) The President shall establish such guidelines after technical review by the Advisory Board on Radiation and Worker Health under section 7384o of this title.
 
@@ -4980,7 +4982,7 @@ during a period when beryllium dust, particles, or vapor may have been present a
 
   (A) be based on the radiation dose received by the employee (or a group of employees performing similar work) at such facility and the upper 99 percent confidence interval of the probability of causation in the radioepidemiological tables published under section 7(b) of the Orphan Drug Act ([42 U.S.C. 241](./chapter-6a-public-health-service.md#section-241) note), as such tables may be updated under section 7(b)(3) of such Act from time to time;
 
-  (B) incorporate the methods established under subsection (d) of this section; and
+  (B) incorporate the methods established under subsection (d); and
 
   (C) take into consideration the type of cancer, past health-related activities (such as smoking), information on the risk of developing a radiation-related cancer from workplace exposure, and other relevant factors.
 
@@ -5008,9 +5010,9 @@ during a period when beryllium dust, particles, or vapor may have been present a
 
 **(e) Information on radiation doses**
 
-(1) The Secretary of Energy shall provide, to each covered employee with cancer specified in section 7384l(9)(B) of this title, information specifying the estimated radiation dose of that employee during each employment specified in section 7384l(9)(B) of this title, whether established by a dosimetry reading, by a method established under subsection (d) of this section, or by both a dosimetry reading and such method.
+(1) The Secretary of Energy shall provide, to each covered employee with cancer specified in section 7384l(9)(B) of this title, information specifying the estimated radiation dose of that employee during each employment specified in section 7384l(9)(B) of this title, whether established by a dosimetry reading, by a method established under subsection (d), or by both a dosimetry reading and such method.
 
-(2) The Secretary of Health and Human Services and the Secretary of Energy shall each make available to researchers and the general public information on the assumptions, methodology, and data used in establishing radiation doses under subsection (d) of this section. The actions taken under this paragraph shall be consistent with the protection of private medical records.
+(2) The Secretary of Health and Human Services and the Secretary of Energy shall each make available to researchers and the general public information on the assumptions, methodology, and data used in establishing radiation doses under subsection (d). The actions taken under this paragraph shall be consistent with the protection of private medical records.
 
 ### Statutory Notes
 
@@ -5098,7 +5100,7 @@ The Secretary of Health and Human Services shall carry out that Secretary’s re
 
 (2)
 
-  (A) Upon receipt by the President of a recommendation of the Advisory Board on Radiation and Worker Health that the President should determine in the affirmative that paragraphs (1) and (2) of subsection (b) of this section apply to a class, the President shall have a period of 30 days in which to determine whether such paragraphs apply to the class and to submit that determination (whether affirmative or negative) to Congress.
+  (A) Upon receipt by the President of a recommendation of the Advisory Board on Radiation and Worker Health that the President should determine in the affirmative that paragraphs (1) and (2) of subsection (b) apply to a class, the President shall have a period of 30 days in which to determine whether such paragraphs apply to the class and to submit that determination (whether affirmative or negative) to Congress.
 
   (B) If the determination submitted by the President under subparagraph (A) is in the affirmative, the President shall also submit a report meeting the requirements of section 7384l(14)(C)(ii) of this title.
 
@@ -5122,7 +5124,7 @@ The Secretary of Health and Human Services shall carry out that Secretary’s re
 
 **(c) Exposure to silica in the performance of duty** A covered employee shall, in the absence of substantial evidence to the contrary, be determined to have been exposed to silica in the performance of duty for the purposes of the compensation program if, and only if, the employee was present for a number of work days aggregating at least 250 work days during the mining of tunnels at a Department of Energy facility located in Nevada or Alaska for tests or experiments related to an atomic weapon.
 
-**(d) Covered employee with chronic silicosis** For purposes of this subchapter, the term “covered employee with chronic silicosis” means a Department of Energy employee, or a Department of Energy contractor employee, with chronic silicosis who was exposed to silica in the performance of duty as determined under subsection (c) of this section.
+**(d) Covered employee with chronic silicosis** For purposes of this subchapter, the term “covered employee with chronic silicosis” means a Department of Energy employee, or a Department of Energy contractor employee, with chronic silicosis who was exposed to silica in the performance of duty as determined under subsection (c).
 
 **(e) Chronic silicosis** For purposes of this subchapter, the term “chronic silicosis” means a nonmalignant lung disease if—
 
@@ -5148,7 +5150,7 @@ The Secretary of Health and Human Services shall carry out that Secretary’s re
 
 (1) Except as provided in paragraph (2), a covered employee, or the survivor of that covered employee if the employee is deceased, shall receive compensation for the disability or death of that employee from that employee’s occupational illness in the amount of $150,000.
 
-(2) A covered employee shall, to the extent that employee’s occupational illness is established beryllium sensitivity, receive beryllium sensitivity monitoring under subsection (c) of this section in lieu of compensation under paragraph (1).
+(2) A covered employee shall, to the extent that employee’s occupational illness is established beryllium sensitivity, receive beryllium sensitivity monitoring under subsection (c) in lieu of compensation under paragraph (1).
 
 **(b) Medical benefits** A covered employee shall receive medical benefits under [section 7384t of this title](./chapter-084-department-of-energy.md#section-7384t) for that employee’s occupational illness.
 
@@ -5235,7 +5237,7 @@ Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D)
 
 **(b) Medical benefits** A covered uranium employee shall receive medical benefits under [section 7384t of this title](./chapter-084-department-of-energy.md#section-7384t) for the illness for which that employee received $100,000 under section 5 of that Act.
 
-**(c) Coordination with RECA** The compensation and benefits provided in subsections (a) and (b) of this section are separate from any compensation or benefits provided under that Act.
+**(c) Coordination with RECA** The compensation and benefits provided in subsections (a) and (b) are separate from any compensation or benefits provided under that Act.
 
 **(d) Payment from compensation fund** The compensation provided under this section and the compensation provided under section 5 of the Radiation Exposure Compensation Act, when authorized or approved by the President, shall be paid from the compensation fund established under [section 7384e of this title](./chapter-084-department-of-energy.md#section-7384e).
 
@@ -5316,7 +5318,7 @@ Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D)
 
 (3) provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
 
-**(c) Information from beryllium vendors and other contractors** As part of the assistance program provided under subsections (a) and (b) of this section, and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
+**(c) Information from beryllium vendors and other contractors** As part of the assistance program provided under subsections (a) and (b), and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
 
 ### Statutory Notes
 
@@ -5423,13 +5425,13 @@ because of the cancer (including a specified cancer), chronic silicosis, covered
 ## § 7385f. Election of remedy for beryllium employees and atomic weapons employees
 **(a) Effect of tort cases filed before enactment of original law**
 
-(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort case specified in subsection (d) of this section before October 30, 2000, such individual shall be eligible for compensation and benefits under part B.
+(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort case specified in subsection (d) before October 30, 2000, such individual shall be eligible for compensation and benefits under part B.
 
 (2) If such tort case remained pending as of December 28, 2001, and such individual does not dismiss such tort case before December 31, 2003, such individual shall not be eligible for such compensation or benefits.
 
 **(b) Effect of tort cases filed between enactment of original law and enactment of 2001 amendments**
 
-(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort case specified in subsection (d) of this section during the period beginning on October 30, 2000, and ending on December 28, 2001, such individual shall not be eligible for such compensation or benefits.
+(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort case specified in subsection (d) during the period beginning on October 30, 2000, and ending on December 28, 2001, such individual shall not be eligible for such compensation or benefits.
 
 (2) If such individual dismisses such tort case on or before the last permissible date specified in paragraph (3), such individual shall be eligible for such compensation or benefits.
 
@@ -5441,7 +5443,7 @@ because of the cancer (including a specified cancer), chronic silicosis, covered
 
 **(c) Effect of tort cases filed after enactment of 2001 amendments**
 
-(1) If an otherwise eligible individual files a tort case specified in subsection (d) of this section after December 28, 2001, such individual shall not be eligible for such compensation or benefits if a final court decision is entered against such individual in such tort case.
+(1) If an otherwise eligible individual files a tort case specified in subsection (d) after December 28, 2001, such individual shall not be eligible for such compensation or benefits if a final court decision is entered against such individual in such tort case.
 
 (2) If such a final court decision is not entered, such individual shall nonetheless not be eligible for such compensation or benefits, except as follows: If such individual dismisses such tort case on or before the last permissible date specified in paragraph (3), such individual shall be eligible for such compensation and benefits.
 
@@ -5490,9 +5492,9 @@ Compensation or benefits provided to an individual under this subchapter—
 
 <a id="section-7385i"></a>
 ## § 7385i. Attorney fees
-**(a) General rule** Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of this section of a payment made under part B on such claim.
+**(a) General rule** Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.
 
-**(b) Applicable percentage limitations** The percentage referred to in subsection (a) of this section is—
+**(b) Applicable percentage limitations** The percentage referred to in subsection (a) is—
 
 (1) 2 percent for the filing of an initial claim for payment of lump-sum compensation; and
 
@@ -5623,7 +5625,7 @@ Part D, referred to in subsecs. (f)(2), (3) and (g), was repealed by Pub. L. 108
 ## § 7385s–13. Coordination of benefits with respect to State workers compensation
 **(a) In general** An individual who has been awarded compensation under this part, and who has also received benefits from a State workers compensation system by reason of the same covered illness, shall receive compensation specified in this part reduced by the amount of any workers compensation benefits, other than medical benefits and benefits for vocational rehabilitation, that the individual has received under the State workers compensation system by reason of the covered illness, after deducting the reasonable costs, as determined by the Secretary, of obtaining those benefits under the State workers compensation system.
 
-**(b) Waiver** The Secretary may waive the provisions of subsection (a) of this section if the Secretary determines that the administrative costs and burdens of implementing subsection (a) of this section with respect to a particular case or class of cases justifies such a waiver.
+**(b) Waiver** The Secretary may waive the provisions of subsection (a) if the Secretary determines that the administrative costs and burdens of implementing subsection (a) with respect to a particular case or class of cases justifies such a waiver.
 
 **(c) Information** Notwithstanding any other provision of law, each State workers compensation authority shall, upon request of the Secretary, provide to the Secretary on a quarterly basis information concerning workers compensation benefits received by any covered DOE contractor employee entitled to compensation or benefits under this part, which shall include the name, Social Security number, and nature and amount of workers compensation benefits for each such employee for which the request was made.
 
@@ -5706,7 +5708,7 @@ Subject to the other provisions of this part:
 
     (ii) $15,000 multiplied by the number referred to in clause (iii)(II) of subparagraph (A).
 
-**(b) Determination of minimum impairment rating** For purposes of subsection (a) of this section, a minimum impairment rating shall be determined in accordance with the American Medical Association’s Guides to the Evaluation of Permanent Impairment.
+**(b) Determination of minimum impairment rating** For purposes of subsection (a), a minimum impairment rating shall be determined in accordance with the American Medical Association’s Guides to the Evaluation of Permanent Impairment.
 
 ### Statutory Notes
 
@@ -5728,9 +5730,9 @@ The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 
 
 (3) **Category three** — The survivor shall receive the amount of $175,000, if paragraph (1) applies to the employee and the Secretary also determines that there was an aggregate period of not less than 20 years, before the employee attained normal retirement age (for purposes of the Social Security Act [[42 U.S.C. 301](./chapter-007-social-security.md#section-301) et seq.]), during which, as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility, the employee’s annual wage did not exceed 50 percent of the average annual wage of that employee, as determined under [section 7385s–2(a)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7385s–2/a/2/A/ii&num=0&edition=prelim).
 
-**(b) One amount only** The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) of this section applies shall receive only the highest such amount.
+**(b) One amount only** The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) applies shall receive only the highest such amount.
 
-**(c) Determination and allocation of shares** The amount under subsection (a) of this section shall be paid only as follows:
+**(c) Determination and allocation of shares** The amount under subsection (a) shall be paid only as follows:
 
 (1) If a covered spouse is alive at the time of payment, such payment shall be made to such surviving spouse.
 
@@ -5801,7 +5803,7 @@ Section 7385o of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 (2) The terms “section 5 exposure”, “section 5 facility”, and “section 5 illness” mean the exposure, facility, and illness, respectively, to which an individual’s status as a section 5 payment recipient relates.
 
-(3) The term “section 5 uranium worker” means an individual to whom subsection (a)(1)(A)(i) of section 5 of the Radiation Exposure Compensation Act applies (whether directly or by reason of subsection (a)(2) of this section).
+(3) The term “section 5 uranium worker” means an individual to whom subsection (a)(1)(A)(i) of section 5 of the Radiation Exposure Compensation Act applies (whether directly or by reason of subsection (a)(2)).
 
 (4) The term “section 5 mine or mill” means the mine or mill to which an individual’s status as a section 5 uranium worker relates.
 

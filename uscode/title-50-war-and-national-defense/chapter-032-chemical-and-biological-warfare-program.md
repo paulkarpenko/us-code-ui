@@ -877,7 +877,7 @@ Section was enacted as part of the Arms Control and Nonproliferation Act of 1999
 
 <a id="section-1527"></a>
 ## § 1527. Improved biosafety for handling of select agents and toxins
-**(a) Quality Control and Quality Assurance Program** The Secretary of Defense, acting through the executive agent for the biological select agent and toxin biosafety program of the Department of Defense, shall carry out a program to implement certain quality control and quality assurance measures at each covered facility.
+**(a) Quality control and quality assurance program** The Secretary of Defense, acting through the executive agent for the biological select agent and toxin biosafety program of the Department of Defense, shall carry out a program to implement certain quality control and quality assurance measures at each covered facility.
 
 **(b) Quality control and quality assurance measures** Subject to subsection (c), the quality control and quality assurance measures implemented at each covered facility under subsection (a) shall include the following:
 

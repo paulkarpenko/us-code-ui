@@ -40,7 +40,7 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in opening phrase, was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (d), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-088-international-antitrust-enforcement-assistance.md#section-6201) and Tables.
 
@@ -179,7 +179,7 @@ Any such demand which is an express demand for any product of discovery shall no
 #### References in Text
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-088-international-antitrust-enforcement-assistance.md#section-6201) and Tables.
 
-This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
+This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
 
 [Section 30 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-30), referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, § 14102(f), Nov. 2, 2002, 116 Stat. 1922.
 
@@ -244,7 +244,7 @@ the custodian shall, upon written request of the person who produced such materi
 #### References in Text
 [Section 1314(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1314/d&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 1314(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1314/e&num=0&edition=prelim) by Pub. L. 96–349.
 
-This chapter, referred to in subsecs. (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
+This chapter, referred to in subsecs. (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
 
 #### Amendments
 1980—Subsec. (c)(2). Pub. L. 96–349, § 7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
@@ -294,7 +294,7 @@ Amendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title](./chapter-034-antitrust-civil-process.md#section-1311) and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

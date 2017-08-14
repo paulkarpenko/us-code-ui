@@ -2,7 +2,7 @@
 title: 33
 chapter: '25'
 heading: PORTS AND WATERWAYS SAFETY PROGRAM
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -117,7 +117,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (1) he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
 
-(2) he determines that such vessel does not satisfy the conditions for port entry set forth in [section 1228 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1228); or
+(2) he determines that such vessel does not satisfy the conditions for port entry set forth in section 1228 or 1232c of this title; or
 
 (3) by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, he is satisfied that such directive is justified in the interest of safety.
 
@@ -169,6 +169,8 @@ The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably me
 The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
 
 #### Amendments
+2017—Subsec. (b)(2). Pub. L. 115–44 inserted “or 1232c” after “section 1228”.
+
 2006—Subsecs. (a)(6), (e). Pub. L. 109–241 amended directory language of Pub. L. 108–293, § 302. See 2004 Amendment note below.
 
 2004—Subsec. (a)(6). Pub. L. 108–293, § 302(1), as amended by Pub. L. 109–241, added par. (6).
@@ -523,7 +525,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) Injunction** The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
 
-**(e) Denial of entry** Except as provided in [section 1228 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1228), the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+**(e) Denial of entry** Except as provided in section 1228 or 1232c of this title, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 
 **(f) Withholding of clearance**
 
@@ -537,6 +539,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 In subsec. (f)(1), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–44 substituted “section 1228 or 1232c” for “section 1228”.
+
 1996—Subsec. (f). Pub. L. 104–324 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by [section 91 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim), Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 
 1990—Subsec. (b)(1). Pub. L. 101–380, § 4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
@@ -575,6 +579,65 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 **(a) Requirement** As soon as a person has knowledge of any release from a vessel or facility into the navigable waters of the United States of any object that creates an obstruction prohibited under [section 403 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-403), such person shall notify the Secretary and the Secretary of the Army of such release.
 
 **(b) Restriction on use of notification** Any notification provided by an individual in accordance with subsection (a) may not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.
+
+
+<a id="section-1232c"></a>
+## § 1232c. Prohibition on entry and operation
+**(a) Prohibition**
+
+(1) **In general** — Except as otherwise provided in this section, no vessel described in subsection (b) may enter or operate in the navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States.
+
+(2) **Limitations on application**
+
+  (A) *In general* — The prohibition under paragraph (1) shall not apply with respect to—
+
+    (i) a vessel described in subsection (b)(1), if the Secretary of State determines that—
+
+      (I) the vessel is owned or operated by or on behalf of a country the government of which the Secretary of State determines is closely cooperating with the United States with respect to implementing the applicable United Nations Security Council resolutions (as such term is defined in [section 9202 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9202&num=0&edition=prelim)); or
+
+      (II) it is in the national security interest not to apply the prohibition to such vessel; or
+
+    (ii) a vessel described in subsection (b)(2), if the Secretary of State determines that the vessel is no longer registered as described in that subsection.
+
+  (B) *Notice* — Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
+
+  (C) *Publication* — The Secretary of State shall publish a notice in the Federal Register of each determination made under subparagraph (A).
+
+**(b) Vessels described** A vessel referred to in subsection (a) is a foreign vessel for which a notice of arrival is required to be filed under [section 1223(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/5&num=0&edition=prelim), and that—
+
+(1) is on the most recent list of vessels published in Federal 11 So in original. Probably should be preceded by “the”. Register under subsection (c)(2); or
+
+(2) more than 180 days after the publication of such list, is knowingly registered, pursuant to the 1958 Convention on the High Seas entered into force on September 30, 1962, by a government the agents or instrumentalities of which are maintaining a registration of a vessel that is included on such list.
+
+**(c) Information and publication** The Secretary of the department in which the Coast Guard is operating, with the concurrence of the Secretary of State, shall—
+
+(1) maintain timely information on the registrations of all foreign vessels over 300 gross tons that are known to be—
+
+  (A) owned or operated by or on behalf of the Government of North Korea or a North Korean person;
+
+  (B) owned or operated by or on behalf of any country in which a sea port is located, the operator of which the President has identified in the most recent report submitted under [section 9225(a)(1)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9225/a/1/A&num=0&edition=prelim); or
+
+  (C) owned or operated by or on behalf of any country identified by the President as a country that has not complied with the applicable United Nations Security Council resolutions (as such term is defined in [section 9202 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9202&num=0&edition=prelim)); and
+
+(2) not later than 180 days after August 2, 2017, and periodically thereafter, publish in the Federal Register a list of the vessels described in paragraph (1).
+
+**(d) Notification of governments**
+
+(1) **In general** — The Secretary of State shall notify each government, the agents or instrumentalities of which are maintaining a registration of a foreign vessel that is included on a list published under subsection (c)(2), not later than 30 days after such publication, that all vessels registered under such government’s authority are subject to subsection (a).
+
+(2) **Additional notification** — In the case of a government that continues to maintain a registration for a vessel that is included on such list after receiving an initial notification under paragraph (1), the Secretary shall issue an additional notification to such government not later than 120 days after the publication of a list under subsection (c)(2).
+
+**(e) Notification of vessels** Upon receiving a notice of arrival under [section 1223(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/5&num=0&edition=prelim) from a vessel described in subsection (b), the Secretary of the department in which the Coast Guard is operating shall notify the master of such vessel that the vessel may not enter or operate in the navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, unless—
+
+(1) the Secretary of State has made a determination under subsection (a)(2); or
+
+(2) the Secretary of the department in which the Coast Guard is operating allows provisional entry of the vessel, or transfer of cargo from the vessel, under subsection (f).
+
+**(f) Provisional entry or cargo transfer** Notwithstanding any other provision of this section, the Secretary of the department in which the Coast Guard is operating may allow provisional entry of, or transfer of cargo from, a vessel, if such entry or transfer is necessary for the safety of the vessel or persons aboard.
+
+**(g) Right of innocent passage and right of transit passage** This section shall not be construed as authority to restrict the right of innocent passage or the right of transit passage as recognized under international law.
+
+**(h) Foreign vessel defined** In this section, the term “foreign vessel” has the meaning given that term in [section 110 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section110&num=0&edition=prelim).
 
 
 <a id="section-1233"></a>

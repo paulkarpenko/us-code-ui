@@ -257,7 +257,7 @@ Other provisions of [section 71 of title 28](https://uscode.house.gov/view.xhtml
 Changes were made in phraseology.
 
 #### References in Text
-Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. (d), is classified to [section 13981 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13981&num=0&edition=prelim), The Public Health and Welfare.
+Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. (d), is section 40302 of title IV of Pub. L. 103–322, which is classified to [section 12361 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12361&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 ([45 U.S.C. 51–54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51–54&num=0&edition=prelim), 55–60)” for “sections 51–60 of Title 45”.

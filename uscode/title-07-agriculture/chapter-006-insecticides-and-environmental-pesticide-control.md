@@ -3139,7 +3139,7 @@ A prior section 31 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 ## § 136w–7. Department of Agriculture minor use program
 **(a) In general** The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
 
-(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ([7 U.S.C. 450i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/e&num=0&edition=prelim)) and the national pesticide resistance monitoring program established under section 1651 11 See References in Text note below. of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 5882](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5882&num=0&edition=prelim));
+(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ([7 U.S.C. 450i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/e&num=0&edition=prelim)) 11 See References in Text note below. and the national pesticide resistance monitoring program established under section 1651 1 of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 5882](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5882&num=0&edition=prelim));
 
 (2) supporting integrated pest management research;
 
@@ -3172,6 +3172,8 @@ A prior section 31 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 ### Statutory Notes
 
 #### References in Text
+Section 2 of Public Law 89–106, referred to in subsec. (a)(1), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
+
 Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to [section 5882 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5882&num=0&edition=prelim) prior to repeal by Pub. L. 104–127, title VIII, § 862(a), Apr. 4, 1996, 110 Stat. 1174.
 
 
@@ -3285,7 +3287,7 @@ Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
   (E) *IR–4 exemption* — The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
 
-    (i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ([7 U.S.C. 450i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/e&num=0&edition=prelim)); and
+    (i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ([7 U.S.C. 450i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/e&num=0&edition=prelim)); 11 See References in Text note below. and
 
     (ii) the exemption is in the public interest.
 
@@ -3311,7 +3313,7 @@ Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
 (8) **Refunds**
 
-  (A) *Early withdrawals* — If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.11 So in original. The period probably should not appear. of the total registration service fee payable under paragraph (3) for the application.
+  (A) *Early withdrawals* — If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.22 So in original. The period probably should not appear. of the total registration service fee payable under paragraph (3) for the application.
 
   (B) *Withdrawals after the first 60 days of decision review time period*
 
@@ -3651,6 +3653,8 @@ Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under [section 136a of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a).
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
 The effective date of the Pesticide Registration Improvement Extension Act of 2012, referred to in subsecs. (e) and (f)(1), probably means the effective date of section 2 of Pub. L. 112–177, which is Oct. 1, 2012, see section 2(c) of Pub. L. 112–177, set out as a note under [section 136a–1 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a-1).
 

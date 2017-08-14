@@ -1899,7 +1899,7 @@ A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)
 #### Amendments
 2016—Par. (4). Pub. L. 114–322, § 5006(a)(2), added par. (4). Former par. (4) redesignated (5).
 
-Pars. (5) to (9). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (4) to (8) as as (5) to (9), respectively. Former par. (9) redesignated (11).
+Pars. (5) to (9). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (4) to (8) as (5) to (9), respectively. Former par. (9) redesignated (11).
 
 Par. (10). Pub. L. 114–322, § 5006(a)(3), added par. (10). Former par. (10) redesignated (13).
 
@@ -2477,7 +2477,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 ### Statutory Notes
 
 #### References in Text
-The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Rulemaking
 Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that: “(1) Proposed rulemaking.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Federal Emergency Management Agency shall issue a notice of proposed rulemaking regarding applications for grants of assistance under the amendments made by subsection (b) to the National Dam Safety Program Act ([33 U.S.C. 467](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467) et seq.) [enacting this section]. “(2) Final rule.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall promulgate a final rule regarding the amendments described in paragraph (1).”

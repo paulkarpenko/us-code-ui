@@ -37,25 +37,25 @@ Pub. L. 108–369, § 2(b), Oct. 25, 2004, 118 Stat. 1749, provided that: “The
 #### Effective Date of 2003 Amendment
 Pub. L. 108–73, § 2(b), Aug. 15, 2003, 117 Stat. 891, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] take effect on July 1, 2003.”
 
-#### Effective Date of 2002 Amendments
+#### Effective Date of 2002 Amendment
 Pub. L. 107–377, § 2(b), Dec. 19, 2002, 116 Stat. 3115, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on January 1, 2003.”
 
 Pub. L. 107–171, title X, § 10814(b), May 13, 2002, 116 Stat. 532, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2002.”
 
 Pub. L. 107–170, § 2, May 7, 2002, 116 Stat. 133, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 2001.”
 
-#### Effective Date of 2001 Amendments
+#### Effective Date of 2001 Amendment
 Pub. L. 107–17, § 2, June 26, 2001, 115 Stat. 151, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2001.”
 
 Pub. L. 107–8, § 2, May 11, 2001, 115 Stat. 10, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on July 1, 2000.”
 
-#### Effective Date of 1999 Amendments
+#### Effective Date of 1999 Amendment
 Pub. L. 106–70, § 2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 1999.”
 
 Pub. L. 106–5, § 2, Mar. 30, 1999, 113 Stat. 9, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on April 1, 1999.”
 
 #### Effective Date
-Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
+Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Repeal, Reenactment, and Termination of Chapter
 Pub. L. 109–8, title X, § 1001(a), (b), Apr. 20, 2005, 119 Stat. 185, 186, provided that: “(a) Reenactment.—“(1) In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) [set out as a note below], and as in effect on June 30, 2005, is hereby reenacted. “(2) Effective date of reenactment.—Paragraph (1) shall take effect on July 1, 2005. “(b) Amendments—Chapter 12 of title 11, United States Code, as reenacted by subsection (a), is amended by this Act [see Tables for classification].”
@@ -175,8 +175,10 @@ See section 586(b) and (e) of Title 28, Judiciary and Judicial Procedure.
 #### Effective Date of 2005 Amendment
 Amendment by section 219(c) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
-#### Effective Date
-Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out as an Effective Date of 1986 Amendment note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554.
 
@@ -187,7 +189,7 @@ Until the amendments made by subtitle A (§§ 201 to 231) of title II of Pub. L.
 
 (2) any reference to [section 586(b) of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section586/b&num=0&edition=prelim), Judiciary and Judicial Procedure, is deemed to be a reference to subsec. (c) of this section,
 
-see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out as an Effective Date note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim).
+see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim).
 
 
 <a id="section-1203"></a>
@@ -206,6 +208,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 #### Effective Date of 2005 Amendment
 Amendment by section 1007(c)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1204"></a>
 ## § 1204. Removal of debtor as debtor in possession
@@ -217,6 +222,9 @@ Amendment by section 1007(c)(2) of Pub. L. 109–8 effective 180 days after Apr.
 
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1205"></a>
@@ -238,6 +246,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1206"></a>
 ## § 1206. Sales free of interests
@@ -255,6 +266,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 #### Effective Date of 2005 Amendment
 Amendment by section 1007(c)(3) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1207"></a>
 ## § 1207. Property of the estate
@@ -270,6 +284,9 @@ Amendment by section 1007(c)(3) of Pub. L. 109–8 effective 180 days after Apr.
 
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1208"></a>
@@ -315,6 +332,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 #### Effective Date of 2005 Amendment
 Amendment by section 213(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1221"></a>
 ## § 1221. Filing of plan
@@ -331,6 +351,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Effective Date of 1993 Amendment
 Pub. L. 103–65, § 3, Aug. 6, 1993, 107 Stat. 311, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [amending this section and provisions set out as a note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Aug. 6, 1993]. “(b) Application of Amendment Made by Section 2.—The amendment made by section 2 [amending this section] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1222"></a>
@@ -401,6 +424,9 @@ Amendment by section 213(3), (4) of Pub. L. 109–8 effective 180 days after Apr
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1223"></a>
 ## § 1223. Modification of plan before confirmation
@@ -415,6 +441,9 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to a
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1224"></a>
 ## § 1224. Confirmation hearing
@@ -425,6 +454,9 @@ After expedited notice, the court shall hold a hearing on confirmation of the pl
 
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1225"></a>
@@ -488,6 +520,9 @@ Subsec. (b)(2)(A). Pub. L. 109–8, § 218, inserted “or for a domestic suppor
 #### Effective Date of 2005 Amendment
 Amendment by sections 213(5), 218, and 1006(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1226"></a>
 ## § 1226. Payments
@@ -524,6 +559,9 @@ Amendment by section 1502(a)(9) of Pub. L. 109–8 effective 180 days after Apr.
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1227"></a>
 ## § 1227. Effect of confirmation
@@ -537,6 +575,9 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1228"></a>
@@ -594,6 +635,9 @@ Subsec. (f). Pub. L. 109–8, § 330(c)(3), added subsec. (f).
 #### Effective Date of 2005 Amendment
 Amendments by sections 213(6) and 330(c) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendment by section 213(6) of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(c) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1229"></a>
 ## § 1229. Modification of plan after confirmation
@@ -632,6 +676,9 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 #### Effective Date of 2005 Amendment
 Amendment by section 1006(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
 
 <a id="section-1230"></a>
 ## § 1230. Revocation of an order of confirmation
@@ -643,6 +690,9 @@ Amendment by section 1006(b) of Pub. L. 109–8 effective 180 days after Apr. 20
 
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 
 <a id="section-1231"></a>
@@ -673,3 +723,6 @@ Subsecs. (c), (d). Pub. L. 109–8, § 719(b)(4)(B), redesignated subsecs. (c) a
 Amendment by section 1003(b) of Pub. L. 109–8 effective Apr. 20, 2005, and not applicable with respect to cases commenced under this title before Apr. 20, 2005, see section 1003(c) of Pub. L. 109–8, set out as a note under [section 1222 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1222).
 
 Amendment by section 719(b)(4) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+#### Effective Dates
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).

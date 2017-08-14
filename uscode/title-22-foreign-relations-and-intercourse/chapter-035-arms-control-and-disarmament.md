@@ -800,7 +800,7 @@ Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as
 
 <a id="section-2593e"></a>
 ## § 2593e. Measures against persons involved in activities that violate arms control treaties or agreements with the United States
-**(a) Reports on Persons that violate treaties or agreements**
+**(a) Reports on persons that violate treaties or agreements**
 
 (1) **In general** — Not later than 30 days after the submittal to Congress of an annual report on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament pursuant to [section 2593a of this title](./chapter-035-arms-control-and-disarmament.md#section-2593a), the Secretary of the Treasury shall submit to the appropriate congressional committees a report, consistent with the protection of intelligence sources and methods, identifying every person with respect to whom there is credible information indicating that—
 

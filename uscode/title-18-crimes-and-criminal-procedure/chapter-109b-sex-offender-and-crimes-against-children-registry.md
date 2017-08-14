@@ -23,7 +23,7 @@ shall be fined under this title or imprisoned not more than 10 years, or both.
 
 **(b) International Travel Reporting Violations.—** Whoever—
 
-(1) is required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.);
+(1) is required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.); 11 See References in Text note below.
 
 (2) knowingly fails to provide information required by the Sex Offender Registration and Notification Act relating to intended travel in foreign commerce; and
 
@@ -47,7 +47,7 @@ shall be fined under this title, imprisoned not more than 10 years, or both.
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3), and (b)(1), (2), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3) and (b)(1), (2), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 

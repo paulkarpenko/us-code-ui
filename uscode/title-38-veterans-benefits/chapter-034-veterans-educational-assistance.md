@@ -79,10 +79,21 @@ For the purposes of this chapter and chapter 36 of this title—
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–48, title I, § 108(c), (d), Aug. 16, 2017, 131 Stat. 978, provided that, applicable to a test taken on or after Aug. 1, 2018, subsection (b) of this section is amended—
+
+(1) by striking “and national tests providing” and inserting “, national tests providing”; and
+
+(2) by inserting before the period at the end the following: “, and national tests that evaluate prior learning and knowledge and provides an opportunity for course credit at an institution of higher learning”.
+
+See 2017 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those comprising subsecs. (a) to (d) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, 1176, which was classified to former sections 1601(a)(2) and 1611(a)(1), and 1601(a)(3), (5), and (6) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–48, substituted “, national tests providing” for “and national tests providing” and inserted before period at end “, and national tests that evaluate prior learning and knowledge and provides an opportunity for course credit at an institution of higher learning”.
+
 2013—Subsec. (h). Pub. L. 112–239 substituted “any small business development center described in section 21 of the Small Business Act ([15 U.S.C. 648](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section648&num=0&edition=prelim)), insofar as such center offers, sponsors, or cosponsors an entrepreneurship course, as that term is defined in section 3675(c)(2).” for “any of the following entities insofar as such entity offers, sponsors, or cosponsors an entrepreneurship course (as defined in [section 3675(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3675/c/2&num=0&edition=prelim)):
 
 “(1) Any small business development center described in section 21 of the Small Business Act ([15 U.S.C. 648](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section648&num=0&edition=prelim)).
@@ -158,6 +169,9 @@ Pub. L. 91–219, § 201(a), provided that a program of education may include mo
 Subsec. (c). Pub. L. 91–219, § 201(b), included within the term “educational institution” any public or private “elementary” school, and substituted “other institution furnishing education for adults”, for “any other institution if it furnishes education at the secondary school level or above”.
 
 1967—Subsec. (e). Pub. L. 90–77 added subsec. (e).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–48 applicable to a test taken on or after Aug. 1, 2018, see section 108(d) of Pub. L. 115–48, set out as a note under [section 3315 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3315).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–183, title III, § 301(b), Dec. 16, 2003, 117 Stat. 2658, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is six months after the date of the enactment of this Act [Dec. 16, 2003] and shall apply to self-employment on-job training approved and pursued on or after that date.”
@@ -881,17 +895,17 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 (4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
-  (A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+  (A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, or any time on or after June 30, 2017, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
   (B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-  (C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, the provision of such care to veterans in a State home for which payment is made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).
+  (C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, or any time on or after June 30, 2017, the provision of such care to veterans in a State home for which payment is made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).
 
   (D) Any other activity of the Department as the Secretary determines appropriate.
 
   (E) In the case of an individual who is receiving educational assistance under chapter 1606 or 1607 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
 
-  (F) During the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+  (F) During the period preceding June 30, 2013, or any time on or after June 30, 2017, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
 
   (G) Any activity of a State veterans agency related to providing assistance to veterans in obtaining any benefit under the laws administered by the Secretary or the laws of the State.
 
@@ -949,6 +963,8 @@ The Higher Education Act of 1965, referred to in subsec. (a)(4)(H), is Pub. L. 8
 [Section 2135 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2135&num=0&edition=prelim), referred to in subsec. (e)(1), was renumbered [section 16135 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16135&num=0&edition=prelim), Armed Forces, by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+2017—Subsec. (a)(4)(A), (C), (F). Pub. L. 115–48, § 201, substituted “any time on or after June 30, 2017,” for “the period beginning on June 30, 2017, and ending on June 30, 2022,”.
+
 2016—Subsec. (a)(4)(A), (C), (F). Pub. L. 114–315 substituted “June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022” for “June 30, 2013”.
 
 2010—Subsec. (a)(4)(A), (C), (F). Pub. L. 111–275, § 101(a), substituted “June 30, 2013” for “June 30, 2010”.

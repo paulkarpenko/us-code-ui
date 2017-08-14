@@ -32,7 +32,7 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 ### Statutory Notes
 
 #### Codification
-Section, act Mar. 3, 1891, ch. 561, § 7, 26 Stat. 1098, which related to suspension of entries for correction of clerical errors, was transferred to [section 1165 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1165).
+Section, act Mar. 3, 1891, ch. 561, § 7, 26 Stat. 1098, which related to suspension of entries for correction of clerical errors, was transferred to [section 1165 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1165), prior to editorial reclassification as [section 2505 of this title](./chapter-043-suspended-entries-and-claims-patents.md#section-2505).
 
 
 <a id="section-166-to-175"></a>

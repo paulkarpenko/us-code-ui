@@ -10,7 +10,7 @@ source: >-
 ## § 3121. Authorization of appropriations for defense conversion activities
 **(a) In general** In addition to amounts made available under [section 3231 of this title](./chapter-038-public-works-and-economic-development.md#section-3231), there are authorized to be appropriated such sums as are necessary to carry out [section 3149(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3149/c/1&num=0&edition=prelim), to remain available until expended.
 
-**(b) Pilot projects** Funds made available under subsection (a) of this section may be used for activities including pilot projects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.
+**(b) Pilot projects** Funds made available under subsection (a) may be used for activities including pilot projects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.
 
 ### Statutory Notes
 
@@ -24,7 +24,7 @@ A prior section 702 of Pub. L. 89–136 was classified to [section 3212 of this 
 ## § 3122. Authorization of appropriations for disaster economic recovery activities
 **(a) In general** In addition to amounts made available under [section 3231 of this title](./chapter-038-public-works-and-economic-development.md#section-3231), there are authorized to be appropriated such sums as are necessary to carry out [section 3149(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3149/c/2&num=0&edition=prelim), to remain available until expended.
 
-**(b) Federal share** The Federal share of the cost of activities funded with amounts made available under subsection (a) of this section shall be up to 100 percent.
+**(b) Federal share** The Federal share of the cost of activities funded with amounts made available under subsection (a) shall be up to 100 percent.
 
 ### Statutory Notes
 
@@ -367,7 +367,7 @@ A prior section 3132, Pub. L. 89–136, title I, § 102, Aug. 26, 1965, 79 Stat.
 ## § 3143. Coordination
 **(a) In general** The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, Indian tribes, and other appropriate planning and development organizations.
 
-**(b) Meetings** To carry out subsection (a) of this section, or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+**(b) Meetings** To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
 
 ### Statutory Notes
 
@@ -492,7 +492,7 @@ Subsec. (d)(4)(D) to (F). Pub. L. 108–373, § 201(3), added subpars. (D) and (
 
 <a id="section-3147"></a>
 ## § 3147. Cost sharing
-**(a) Federal share** Except as provided in subsection (c) of this section, the Federal share of the cost of any project carried out under this subchapter shall not exceed—
+**(a) Federal share** Except as provided in subsection (c), the Federal share of the cost of any project carried out under this subchapter shall not exceed—
 
 (1) 50 percent; plus
 
@@ -506,11 +506,11 @@ Subsec. (d)(4)(D) to (F). Pub. L. 108–373, § 201(3), added subpars. (D) and (
 
 **(c) Increase in Federal share**
 
-(1) **Indian tribes** — In the case of a grant to an Indian tribe for a project under this subchapter, the Secretary may increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project.
+(1) **Indian tribes** — In the case of a grant to an Indian tribe for a project under this subchapter, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
 
-(2) **Certain States, political subdivisions, and nonprofit organizations** — In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project.
+(2) **Certain States, political subdivisions, and nonprofit organizations** — In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
 
-(3) **Training, research, and technical assistance** — In the case of a grant provided under [section 3147 of this title](./chapter-038-public-works-and-economic-development.md#section-3147), the Secretary may increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project if the Secretary determines that the project funded by the grant merits, and is not feasible without, such an increase.
+(3) **Training, research, and technical assistance** — In the case of a grant provided under [section 3147 of this title](./chapter-038-public-works-and-economic-development.md#section-3147), the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project if the Secretary determines that the project funded by the grant merits, and is not feasible without, such an increase.
 
 ### Statutory Notes
 
@@ -539,7 +539,7 @@ Subsec. (c). Pub. L. 108–373, § 202(c), added subsec. (c).
 
   (B) consistent with a comprehensive economic development strategy.
 
-**(b) Supplementary grants** Subject to subsection (c) of this section, in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
+**(b) Supplementary grants** Subject to subsection (c), in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
 
 **(c) Requirements applicable to supplementary grants**
 
@@ -638,7 +638,7 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 (3) **Cooperation requirement** — In the case of a project assisted under this section that is national or regional in scope, the Secretary may waive the provision in [section 3122(4)(A)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3122/4/A/vi&num=0&edition=prelim) requiring a nonprofit organization or association to act in cooperation with officials of a political subdivision of a State.
 
-**(b) Methods of provision of assistance** In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a) of this section, may—
+**(b) Methods of provision of assistance** In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a), may—
 
 (1) provide research and technical assistance through officers or employees of the Department;
 
@@ -750,11 +750,11 @@ For the effective date of the Economic Development Administration Reform Act of 
 
 (2) to improve the project.
 
-**(b) Other uses of excess funds** Any amount of excess funds remaining after application of subsection (a) of this section may be used by the Secretary for providing assistance under this chapter.
+**(b) Other uses of excess funds** Any amount of excess funds remaining after application of subsection (a) may be used by the Secretary for providing assistance under this chapter.
 
-**(c) Transferred funds** In the case of excess funds described in subsection (a) of this section in projects using funds transferred from other Federal agencies pursuant to [section 3214 of this title](./chapter-038-public-works-and-economic-development.md#section-3214), the Secretary shall—
+**(c) Transferred funds** In the case of excess funds described in subsection (a) in projects using funds transferred from other Federal agencies pursuant to [section 3214 of this title](./chapter-038-public-works-and-economic-development.md#section-3214), the Secretary shall—
 
-(1) use the funds in accordance with subsection (a) of this section, with the approval of the originating agency; or
+(1) use the funds in accordance with subsection (a), with the approval of the originating agency; or
 
 (2) return the funds to the originating agency.
 
@@ -806,7 +806,7 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 ## § 3154c. Special impact areas
 **(a) In general** On the application of an eligible recipient that is determined by the Secretary to be unable to comply with the requirements of [section 3162 of this title](./chapter-038-public-works-and-economic-development.md#section-3162), the Secretary may waive, in whole or in part, the requirements of [section 3162 of this title](./chapter-038-public-works-and-economic-development.md#section-3162) and designate the area represented by the recipient as a special impact area.
 
-**(b) Conditions** The Secretary may make a designation under subsection (a) of this section only after determining that—
+**(b) Conditions** The Secretary may make a designation under subsection (a) only after determining that—
 
 (1) the project will fulfill a pressing need of the area; and
 
@@ -816,7 +816,7 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
   (B) assist in providing useful employment opportunities for the unemployed or underemployed residents in the area.
 
-**(c) Notification** At the time of the designation under subsection (a) of this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notice of the designation, including a justification for the designation.
+**(c) Notification** At the time of the designation under subsection (a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notice of the designation, including a justification for the designation.
 
 
 <a id="section-3154d"></a>
@@ -825,7 +825,7 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 **(b) Performance measures**
 
-(1) **Regulations** — The Secretary shall promulgate regulations to establish performance measures for making performance awards under subsection (a) of this section.
+(1) **Regulations** — The Secretary shall promulgate regulations to establish performance measures for making performance awards under subsection (a).
 
 (2) **Considerations** — In promulgating regulations under paragraph (1), the Secretary shall consider the inclusion of performance measures that assess—
 
@@ -839,17 +839,17 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 **(c) Amount of awards**
 
-(1) **In general** — The Secretary shall base the amount of a performance award made under subsection (a) of this section in connection with a grant on the extent to which a recipient meets or exceeds performance measures established in connection with the grant.
+(1) **In general** — The Secretary shall base the amount of a performance award made under subsection (a) in connection with a grant on the extent to which a recipient meets or exceeds performance measures established in connection with the grant.
 
 (2) **Maximum amount** — The amount of a performance award may not exceed 10 percent of the amount of the grant.
 
-**(d) Use of awards** A recipient of a performance award under subsection (a) of this section may use the award for any eligible purpose under this chapter, in accordance with [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) and such regulations as the Secretary may promulgate.
+**(d) Use of awards** A recipient of a performance award under subsection (a) may use the award for any eligible purpose under this chapter, in accordance with [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) and such regulations as the Secretary may promulgate.
 
 **(e) Federal share** Notwithstanding [section 3144 of this title](./chapter-038-public-works-and-economic-development.md#section-3144), the funds of a performance award may be used to pay up to 100 percent of the cost of an eligible project or activity.
 
 **(f) Treatment in meeting non-Federal share requirements** For the purposes of meeting the non-Federal share requirements under this, or any other, Act the funds of a performance award shall be treated as funds from a non-Federal source.
 
-**(g) Terms and conditions** In making performance awards under subsection (a) of this section, the Secretary shall establish such terms and conditions as the Secretary considers to be appropriate.
+**(g) Terms and conditions** In making performance awards under subsection (a), the Secretary shall establish such terms and conditions as the Secretary considers to be appropriate.
 
 **(h) Funding** The Secretary shall use any amounts made available for economic development assistance programs to carry out this section.
 
@@ -866,7 +866,7 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 ## § 3161. Planning performance awards
 **(a) In general** The Secretary may make a planning performance award in connection with a grant made, on or after October 27, 2004, to an eligible recipient for a project under this subchapter located in an economic development district.
 
-**(b) Eligibility** The Secretary may make a planning performance award to an eligible recipient under subsection (a) of this section in connection with a grant for a project if the Secretary determines before closeout of the project that—
+**(b) Eligibility** The Secretary may make a planning performance award to an eligible recipient under subsection (a) in connection with a grant for a project if the Secretary determines before closeout of the project that—
 
 (1) the recipient actively participated in the economic development activities of the economic development district in which the project is located;
 
@@ -876,9 +876,9 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 (4) the project was completed in accordance with the comprehensive economic development strategy of the district.
 
-**(c) Maximum amount** The amount of a planning performance award made under subsection (a) of this section in connection with a grant may not exceed 5 percent of the amount of the grant.
+**(c) Maximum amount** The amount of a planning performance award made under subsection (a) in connection with a grant may not exceed 5 percent of the amount of the grant.
 
-**(d) Use of awards** A recipient of a planning performance award under subsection (a) of this section shall use the award to increase the Federal share of the cost of a project under this subchapter.
+**(d) Use of awards** A recipient of a planning performance award under subsection (a) shall use the award to increase the Federal share of the cost of a project under this subchapter.
 
 **(e) Federal share** Notwithstanding [section 3144 of this title](./chapter-038-public-works-and-economic-development.md#section-3144), the funds of a planning performance award may be used to pay up to 100 percent of the cost of a project under this subchapter.
 
@@ -887,13 +887,13 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 <a id="section-3162"></a>
 ## § 3162. Direct expenditure or redistribution by recipient
-**(a) In general** Subject to subsection (b) of this section, a recipient of a grant under section 3141, 3143, or 3147 of this title may directly expend the grant funds or may redistribute the funds in the form of a subgrant to other eligible recipients to fund required components of the scope of work approved for the project.
+**(a) In general** Subject to subsection (b), a recipient of a grant under section 3141, 3143, or 3147 of this title may directly expend the grant funds or may redistribute the funds in the form of a subgrant to other eligible recipients to fund required components of the scope of work approved for the project.
 
 **(b) Limitation** A recipient may not redistribute grant funds received under section 3141 or 3143 of this title to a for-profit entity.
 
-**(c) Economic adjustment** Subject to subsection (d) of this section, a recipient of a grant under [section 3149 of this title](./chapter-038-public-works-and-economic-development.md#section-3149) may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
+**(c) Economic adjustment** Subject to subsection (d), a recipient of a grant under [section 3149 of this title](./chapter-038-public-works-and-economic-development.md#section-3149) may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
 
-**(d) Limitation** Under subsection (c) of this section, a recipient may not provide any grant to a private for-profit entity.
+**(d) Limitation** Under subsection (c), a recipient may not provide any grant to a private for-profit entity.
 
 
 <a id="section-3171"></a>
@@ -906,7 +906,7 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 (2) improve the commercial and economic opportunities in the area in which the project is located.
 
-**(c) Savings clause** To the extent that any portion of a grant awarded under subsection (b) of this section involves remediation, the remediation shall be subject to [section 3222 of this title](./chapter-038-public-works-and-economic-development.md#section-3222).
+**(c) Savings clause** To the extent that any portion of a grant awarded under subsection (b) involves remediation, the remediation shall be subject to [section 3222 of this title](./chapter-038-public-works-and-economic-development.md#section-3222).
 
 **(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008, to remain available until expended.
 
@@ -921,11 +921,11 @@ A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93�
 
 (3) **Unemployment or economic adjustment problems** — The area is an area that the Secretary determines has experienced or is about to experience a special need arising from actual or threatened severe unemployment or economic adjustment problems resulting from severe short-term or long-term changes in economic conditions.
 
-**(b) Political boundaries of areas** An area that meets 1 or more of the criteria of subsection (a) of this section, including a small area of poverty or high unemployment within a larger community in less economic distress, shall be eligible for assistance under section 3141 or 3149 of this title without regard to political or other subdivisions or boundaries.
+**(b) Political boundaries of areas** An area that meets 1 or more of the criteria of subsection (a), including a small area of poverty or high unemployment within a larger community in less economic distress, shall be eligible for assistance under section 3141 or 3149 of this title without regard to political or other subdivisions or boundaries.
 
 **(c) Documentation**
 
-(1) **In general** — A determination of eligibility under subsection (a) of this section shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
+(1) **In general** — A determination of eligibility under subsection (a) shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
 
 (2) **Acceptance by Secretary** — The documentation shall be accepted by the Secretary unless the Secretary determines that the documentation is inaccurate.
 
@@ -959,7 +959,7 @@ A prior section 301 of Pub. L. 89–136 was classified to [section 3151 of this 
 
   (B) a description of how the strategy will solve the problems.
 
-**(b) Approval of comprehensive economic development strategy** The Secretary shall approve a comprehensive economic development strategy that meets the requirements of subsection (a) of this section to the satisfaction of the Secretary.
+**(b) Approval of comprehensive economic development strategy** The Secretary shall approve a comprehensive economic development strategy that meets the requirements of subsection (a) to the satisfaction of the Secretary.
 
 **(c) Approval of other plan**
 
@@ -1183,19 +1183,19 @@ A prior section 505 of Pub. L. 89–136 was classified to [section 3185 of this 
 ## § 3212. Performance evaluations of grant recipients
 **(a) In general** The Secretary shall conduct an evaluation of each university center and each economic development district that receives grant assistance under this chapter (each referred to in this section as a “grantee”) to assess the grantee’s performance and contribution toward retention and creation of employment.
 
-**(b) Purpose of evaluations of university centers** The purpose of the evaluations of university centers under subsection (a) of this section shall be to determine which university centers are performing well and are worthy of continued grant assistance under this chapter, and which should not receive continued assistance, so that university centers that have not previously received assistance may receive assistance.
+**(b) Purpose of evaluations of university centers** The purpose of the evaluations of university centers under subsection (a) shall be to determine which university centers are performing well and are worthy of continued grant assistance under this chapter, and which should not receive continued assistance, so that university centers that have not previously received assistance may receive assistance.
 
-**(c) Timing of evaluations** Evaluations under subsection (a) of this section shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
+**(c) Timing of evaluations** Evaluations under subsection (a) shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
 
 **(d) Evaluation criteria**
 
-(1) **Establishment** — The Secretary shall establish criteria for use in conducting evaluations under subsection (a) of this section.
+(1) **Establishment** — The Secretary shall establish criteria for use in conducting evaluations under subsection (a).
 
 (2) **Evaluation criteria for university centers** — The criteria for evaluation of a university center shall, at a minimum, provide for an assessment of the center’s contribution to providing technical assistance, conducting applied research, program performance, and disseminating results of the activities of the center.
 
 (3) **Evaluation criteria for economic development districts** — The criteria for evaluation of an economic development district shall, at a minimum, provide for an assessment of management standards, financial accountability, and program performance.
 
-**(e) Peer review** In conducting an evaluation of a university center or economic development district under subsection (a) of this section, the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
+**(e) Peer review** In conducting an evaluation of a university center or economic development district under subsection (a), the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
 
 ### Statutory Notes
 
@@ -1279,7 +1279,7 @@ Section 3204, Pub. L. 89–136, title VI, § 604, as added Pub. L. 90–103, tit
 
 (14) establish such rules, regulations, and procedures as the Secretary considers appropriate for carrying out this chapter.
 
-**(b) Deficiency judgments** The authority under subsection (a)(7) of this section to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
+**(b) Deficiency judgments** The authority under subsection (a)(7) to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
 
 **(c) Inapplicability of certain other requirements** [Section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
@@ -1352,7 +1352,7 @@ Amendment by Pub. L. 105–393 effective on date determined by Secretary of Comm
 ## § 3216. Annual report to Congress
 **(a) In general** Not later than July 1, 2000, and July 1 of each year thereafter, the Secretary shall submit to Congress a comprehensive and detailed annual report on the activities of the Secretary under this chapter during the most recently completed fiscal year.
 
-**(b) Inclusions** Each report required under subsection (a) of this section shall—
+**(b) Inclusions** Each report required under subsection (a) shall—
 
 (1) include a list of all grant recipients by State, including the projected private sector dollar to Federal dollar investment ratio for each grant recipient;
 
@@ -1461,7 +1461,7 @@ A prior section 3216, Pub. L. 89–136, title VII, § 706, Aug. 26, 1965, 79 Sta
 
 (2) make the list available for public inspection during the regular business hours of the Department.
 
-**(b) Additions to list** The following information shall be added to the list maintained under subsection (a) of this section as soon as an application described in subsection (a)(1) of this section is approved:
+**(b) Additions to list** The following information shall be added to the list maintained under subsection (a) as soon as an application described in subsection (a)(1) is approved:
 
 (1) The name of the applicant and, in the case of a corporate application, the name of each officer and director of the corporation.
 

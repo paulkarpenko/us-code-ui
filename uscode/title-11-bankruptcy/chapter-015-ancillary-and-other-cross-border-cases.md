@@ -58,9 +58,12 @@ Section 151302, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656; Pub. L. 98–353,
 
 Section 151326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2657, related to payments.
 
-Effective date and applicability of repeal by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as an Effective Date note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
+Effective date and applicability of repeal by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the repeal of prior chapter 15 at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1502"></a>
@@ -110,7 +113,7 @@ The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), i
 A prior section 1501, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
 
 #### Effective Date
-Chapter effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1503"></a>
@@ -134,11 +137,21 @@ For the purposes of this chapter, the term—
 
 (8) “within the territorial jurisdiction of the United States”, when used with reference to property of a debtor, refers to tangible property located within the territory of the United States and intangible property deemed under applicable nonbankruptcy law to be located within that territory, including any property subject to attachment or garnishment that may properly be seized or garnished by an action in a Federal or State court in the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1504"></a>
 ## § 1504. International obligations of the United States
 
 To the extent that this chapter conflicts with an obligation of the United States arising out of any treaty or other form of agreement to which it is a party with one or more other countries, the requirements of the treaty or agreement prevail.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1505"></a>
@@ -146,17 +159,32 @@ To the extent that this chapter conflicts with an obligation of the United State
 
 A case under this chapter is commenced by the filing of a petition for recognition of a foreign proceeding under section 1515.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1506"></a>
 ## § 1506. Authorization to act in a foreign country
 
 A trustee or another entity (including an examiner) may be authorized by the court to act in a foreign country on behalf of an estate created under section 541. An entity authorized to act under this section may act in any way permitted by the applicable foreign law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1507"></a>
 ## § 1507. Public policy exception
 
 Nothing in this chapter prevents the court from refusing to take an action governed by this chapter if the action would be manifestly contrary to the public policy of the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1508"></a>
@@ -175,11 +203,21 @@ Nothing in this chapter prevents the court from refusing to take an action gover
 
 (5) if appropriate, the provision of an opportunity for a fresh start for the individual that such foreign proceeding concerns.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1509"></a>
 ## § 1509. Interpretation
 
 In interpreting this chapter, the court shall consider its international origin, and the need to promote an application of this chapter that is consistent with the application of similar statutes adopted by foreign jurisdictions.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1510"></a>
@@ -202,11 +240,21 @@ In interpreting this chapter, the court shall consider its international origin,
 
 **(f)** Notwithstanding any other provision of this section, the failure of a foreign representative to commence a case or to obtain recognition under this chapter does not affect any right the foreign representative may have to sue in a court in the United States to collect or recover a claim which is the property of the debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1511"></a>
 ## § 1511. Limited jurisdiction
 
 The sole fact that a foreign representative files a petition under section 1515 does not subject the foreign representative to the jurisdiction of any court in the United States for any other purpose.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1512"></a>
@@ -224,11 +272,19 @@ The sole fact that a foreign representative files a petition under section 1515 
 #### Amendments
 2010—Pub. L. 111–327 inserted “, 302,” after “301” in section catchline.
 
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1513"></a>
 ## § 1513. Participation of a foreign representative in a case under this title
 
 Upon recognition of a foreign proceeding, the foreign representative in the recognized proceeding is entitled to participate as a party in interest in a case regarding the debtor under this title.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1514"></a>
@@ -244,6 +300,11 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
   (A) Subsection (a) and paragraph (1) do not change or codify present law as to the allowability of foreign revenue claims or other foreign public law claims in a proceeding under this title.
 
   (B) Allowance and priority as to a foreign tax claim or other foreign public law claim shall be governed by any applicable tax treaty of the United States, under the conditions and circumstances specified therein.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1515"></a>
@@ -262,6 +323,11 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
 
 **(d)** Any rule of procedure or order of the court as to notice or the filing of a proof of claim shall provide such additional time to creditors with foreign addresses as is reasonable under the circumstances.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1516"></a>
 ## § 1516. Application for recognition
@@ -279,6 +345,11 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
 
 **(d)** The documents referred to in paragraphs (1) and (2) of subsection (b) shall be translated into English. The court may require a translation into English of additional documents.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1517"></a>
 ## § 1517. Presumptions concerning recognition
@@ -287,6 +358,11 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
 **(b)** The court is entitled to presume that documents submitted in support of the petition for recognition are authentic, whether or not they have been legalized.
 
 **(c)** In the absence of evidence to the contrary, the debtor’s registered office, or habitual residence in the case of an individual, is presumed to be the center of the debtor’s main interests.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1518"></a>
@@ -309,6 +385,11 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
 
 **(d)** The provisions of this subchapter do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have ceased to exist, but in considering such action the court shall give due weight to possible prejudice to parties that have relied upon the order granting recognition. A case under this chapter may be closed in the manner prescribed under section 350.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1519"></a>
 ## § 1519. Subsequent information
@@ -318,6 +399,11 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 (1) any substantial change in the status of such foreign proceeding or the status of the foreign representative’s appointment; and
 
 (2) any other foreign proceeding regarding the debtor that becomes known to the foreign representative.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1520"></a>
@@ -345,6 +431,9 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 #### Amendments
 2010—Subsec. (f). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
 
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1521"></a>
 ## § 1521. Effects of recognition of a foreign main proceeding
@@ -361,6 +450,11 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 **(b)** Subsection (a) does not affect the right to commence an individual action or proceeding in a foreign country to the extent necessary to preserve a claim against the debtor.
 
 **(c)** Subsection (a) does not affect the right of a foreign representative or an entity to file a petition commencing a case under this title or the right of any party to file claims or take other proper actions in such a case.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1522"></a>
@@ -396,6 +490,9 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 #### Amendments
 2010—Subsec. (f). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
 
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1523"></a>
 ## § 1523. Protection of creditors and other interested persons
@@ -407,6 +504,11 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 
 **(d)** Section 1104(d) shall apply to the appointment of an examiner under this chapter. Any examiner shall comply with the qualification requirements imposed on a trustee by section 322.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1524"></a>
 ## § 1524. Actions to avoid acts detrimental to creditors
@@ -414,11 +516,21 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 
 **(b)** When a foreign proceeding is a foreign nonmain proceeding, the court must be satisfied that an action under subsection (a) relates to assets that, under United States law, should be administered in the foreign nonmain proceeding.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1525"></a>
 ## § 1525. Intervention by a foreign representative
 
 Upon recognition of a foreign proceeding, the foreign representative may intervene in any proceedings in a State or Federal court in the United States in which the debtor is a party.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1526"></a>
@@ -427,12 +539,22 @@ Upon recognition of a foreign proceeding, the foreign representative may interve
 
 **(b)** The court is entitled to communicate directly with, or to request information or assistance directly from, a foreign court or a foreign representative, subject to the rights of a party in interest to notice and participation.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1527"></a>
 ## § 1527. Cooperation and direct communication between the trustee and foreign courts or foreign representatives
 **(a)** Consistent with section 1501, the trustee or other person, including an examiner, authorized by the court, shall, subject to the supervision of the court, cooperate to the maximum extent possible with a foreign court or a foreign representative.
 
 **(b)** The trustee or other person, including an examiner, authorized by the court is entitled, subject to the supervision of the court, to communicate directly with a foreign court or a foreign representative.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1528"></a>
@@ -450,11 +572,21 @@ Cooperation referred to in sections 1525 and 1526 may be implemented by any appr
 
 (5) coordination of concurrent proceedings regarding the same debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1529"></a>
 ## § 1529. Commencement of a case under this title after recognition of a foreign main proceeding
 
 After recognition of a foreign main proceeding, a case under another chapter of this title may be commenced only if the debtor has assets in the United States. The effects of such case shall be restricted to the assets of the debtor that are within the territorial jurisdiction of the United States and, to the extent necessary to implement cooperation and coordination under sections 1525, 1526, and 1527, to other assets of the debtor that are within the jurisdiction of the court under sections 541(a) of this title, and 1334(e) of title 28, to the extent that such other assets are not subject to the jurisdiction and control of a foreign proceeding that has been recognized under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 
 <a id="section-1530"></a>
@@ -483,6 +615,9 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 #### Amendments
 2010—Par. (1). Pub. L. 111–327, which directed amendment of par. (1) by inserting “is” after “States”, was executed by making the insertion only in introductory provisions to reflect the probable intent of Congress.
 
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1531"></a>
 ## § 1531. Coordination of more than 1 foreign proceeding
@@ -495,8 +630,18 @@ In matters referred to in section 1501, with respect to more than 1 foreign proc
 
 (3) If, after recognition of a foreign nonmain proceeding, another foreign nonmain proceeding is recognized, the court shall grant, modify, or terminate relief for the purpose of facilitating coordination of the proceedings.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 
 <a id="section-1532"></a>
 ## § 1532. Presumption of insolvency based on recognition of a foreign main proceeding
 
 In the absence of evidence to the contrary, recognition of a foreign main proceeding is, for the purpose of commencing a proceeding under section 303, proof that the debtor is generally not paying its debts as such debts become due.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

@@ -255,9 +255,9 @@ Said sections have been divided. The provisions of the proviso of title 14, U.S.
 The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
 #### Amendments
-2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in heading.
+2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in section catchline.
 
-Pub. L. 114–120, § 201(b), substituted “admiral” for “vice admiral”.
+Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade of vice admiral”.
 
 2010—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
 
@@ -732,5 +732,5 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
-#### Effective Date of 2017 Amendment
+#### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 429, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under [section 1151 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1151&num=0&edition=prelim), Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”

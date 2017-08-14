@@ -2672,9 +2672,9 @@ unless the Commission, by rules and regulations or order in the public interest 
 
 (2)
 
-  (A) Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person or any director, officer, employee, or member of an advisory board of the business development company.
+  (A) Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person of any director, officer, employee, or member of an advisory board of the business development company.
 
-  (B) Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
+  (B) Any person who is, within the meaning of section 80a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
 
   (C) Any person who is, within the meaning of [section 80a–2(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a/3/C&num=0&edition=prelim), an affiliated person of any person who is an affiliated person of the business development company within the meaning of [section 80a–2(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a/3/A&num=0&edition=prelim).
 

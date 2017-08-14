@@ -324,9 +324,11 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 114–113, div. C, title VIII, § 8046(b), Dec. 18, 2015, 129 Stat. 2362, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 115–31, div. C, title VIII, § 8047(b), May 5, 2017, 131 Stat. 259, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. C, title VIII, § 8046(b), Dec. 18, 2015, 129 Stat. 2362.
 
 Pub. L. 113–235, div. C, title VIII, § 8045(b), Dec. 16, 2014, 128 Stat. 2264.
 
@@ -552,31 +554,21 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 
 <a id="section-3511"></a>
-## § 3511. Authority to pay death gratuities
-**(a)**
+## § 3511. Benefits available in event of the death of personnel
+**(a) Authority** The Director may pay death benefits substantially similar to those authorized for members of the Foreign Service pursuant to the Foreign Service Act of 1980 ([22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.) or any other provision of law. The Director may adjust the eligibility for death benefits as necessary to meet the unique requirements of the mission of the Agency.
 
-(1) The Director may pay a gratuity to the surviving dependents of any officer or employee of the Agency who dies as a result of injuries (other than from disease) sustained outside the United States and whose death—
-
-  (A) resulted from hostile or terrorist activities; or
-
-  (B) occurred in connection with an intelligence activity having a substantial element of risk.
-
-(2) The provisions of this subsection shall apply with respect to deaths occurring after June 30, 1974.
-
-**(b)** Any payment under subsection (a)—
-
-(1) shall be in an amount equal to the amount of the annual salary of the officer or employee concerned at the time of death;
-
-(2) shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by any other Federal law; and
-
-(3) shall be made under the same conditions as apply to payments authorized by [section 3973 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973&num=0&edition=prelim).
+**(b) Regulations** Regulations issued pursuant to this section shall be submitted to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before such regulations take effect.
 
 ### Statutory Notes
+
+#### References in Text
+The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 403k of this title](./chapter-015-national-security.md#section-403k) prior to editorial reclassification and renumbering as this section.
 
-In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973&num=0&edition=prelim)” substituted for “section 14 of the Act of August 1, 1956 ([22 U.S.C. 2679a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2679a&num=0&edition=prelim))” on authority of section 2401(c) of the Foreign Service Act of 1980 ([22 U.S.C. 4172(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4172/c&num=0&edition=prelim)), section 2205(10) of which repealed section 14 of the 1956 Act ([22 U.S.C. 2679a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2679a&num=0&edition=prelim)).
+#### Amendments
+2017—Pub. L. 115–31 amended section generally. Prior to amendment, section related to Director’s authority to pay death gratuities.
 
 
 <a id="section-3512"></a>
@@ -629,6 +621,8 @@ In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.x
 
 (2) In this subsection, the term “fundraising” means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
 
+(3) Not later than the date that is 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives of the fundraising.
+
 **(g) Regulations** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
 
 (1) the avoidance of any prohibited conflict of interest or appearance of impropriety; and
@@ -641,6 +635,8 @@ In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.x
 Section was formerly classified to section 403l of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2017—Subsec. (f)(3). Pub. L. 115–31 added par. (3).
+
 2014—Pub. L. 113–126, § 421(1), substituted “Gifts, devises, and bequests” for “Authority to accept gifts, devises, and bequests” in section catchline.
 
 Subsec. (a)(2). Pub. L. 113–126, § 421(2), in introductory provisions, inserted “by the Director as a gift to the Agency” after “accepted” and substituted “this subsection” for “this section”.
@@ -1041,6 +1037,14 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
     (ii) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
+  (C)
+
+    (i) The Inspector General may designate an officer or employee appointed in accordance with subparagraph (A) as a law enforcement officer solely for purposes of subchapter III of chapter 83 or chapter 84 of title 5 if such officer or employee is appointed to a position with responsibility for investigating suspected offenses against the criminal laws of the United States.
+
+    (ii) In carrying out clause (i), the Inspector General shall ensure that any authority under such clause is exercised in a manner consistent with [section 3307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3307&num=0&edition=prelim) as it relates to law enforcement officers.
+
+    (iii) For purposes of applying sections 3307(d), 8335(b), and 8425(b) of title 5, the Inspector General may exercise the functions, powers, and duties of an agency head or appointing authority with respect to the Office.
+
 (8)
 
   (A) The Inspector General shall—
@@ -1112,6 +1116,8 @@ The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26
 Section was formerly classified to [section 403q of this title](./chapter-015-national-security.md#section-403q) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2017—Subsec. (e)(7)(C). Pub. L. 115–31 added subpar. (C).
+
 2015—Subsec. (e)(7). Pub. L. 114–113, § 411(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (e)(9). Pub. L. 114–113, § 411(a), amended par. (9) generally. Prior to amendment, par. (9) related to authority of Inspector General to request from any Government agency information or assistance necessary for carrying out his duties and responsibilities.
@@ -1210,6 +1216,9 @@ Subsec. (e)(6). Pub. L. 103–359, § 402(6), substituted “the Inspector Gener
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
+
+#### Construction of 2017 Amendment
+Pub. L. 115–31, div. N, title IV, § 412(b), May 5, 2017, 131 Stat. 821, provided that: “Subparagraph (C) of section 17(e)(7) of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3517(e)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3517/e/7&num=0&edition=prelim)), as added by subsection (a), may not be construed to confer on the Inspector General of the Central Intelligence Agency, or any other officer or employee of the Agency, any police or law enforcement or internal security functions or authorities.”
 
 #### Construction of 2010 Amendment
 Pub. L. 111–259, title IV, § 425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: “Nothing in the amendment made by paragraph (1)(C) [amending this section] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency.”
@@ -1572,9 +1581,11 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 114–113, div. C, title VIII, § 8035, Dec. 18, 2015, 129 Stat. 2358, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 115–31, div. C, title VIII, § 8036, May 5, 2017, 131 Stat. 254, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. C, title VIII, § 8035, Dec. 18, 2015, 129 Stat. 2358.
 
 Pub. L. 113–235, div. C, title VIII, § 8033, Dec. 16, 2014, 128 Stat. 2260.
 

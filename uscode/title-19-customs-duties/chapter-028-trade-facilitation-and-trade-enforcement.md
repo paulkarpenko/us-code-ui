@@ -1,7 +1,7 @@
 ---
 title: 19
 chapter: '28'
-heading: TRADE FACILITATION AND TRADE ENFORCEMENT ACT OF 2015
+heading: TRADE FACILITATION AND TRADE ENFORCEMENT
 section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
@@ -96,7 +96,7 @@ The Trade Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–618, Jan. 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(2)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Delegation of Functions
-Functions of President under subsec. (d) of this section assigned to the Administrator of the United States Agency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, § 1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under [section 4421 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4421).
+Functions of President under subsec. (d) of this section assigned to the Administrator of the United States Agency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, § 1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under [section 4421 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4421).
 
 
 <a id="section-4311"></a>
@@ -116,7 +116,7 @@ In this chapter:
 
     (i) investigations relating to trade enforcement; and
 
-    (ii) the development and implementation of the joint strategic plan required by [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4314);
+    (ii) the development and implementation of the joint strategic plan required by [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4314);
 
   (D) coordinating, on behalf of the Department of Homeland Security, efforts among Federal agencies to facilitate legitimate trade and to enforce the customs and trade laws of the United States, including representing the Department of Homeland Security in interagency fora addressing such efforts;
 
@@ -128,7 +128,7 @@ In this chapter:
 
     (ii) to facilitate the legitimate international trade of such cargo;
 
-  (G) soliciting and considering on a regular basis input from private sector entities, including the Commercial Customs Operations Advisory Committee established by [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316) and the Trade Support Network, with respect to, as appropriate—
+  (G) soliciting and considering on a regular basis input from private sector entities, including the Commercial Customs Operations Advisory Committee established by [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4316) and the Trade Support Network, with respect to, as appropriate—
 
     (i) the implementation of changes to the customs and trade laws of the United States; and
 
@@ -221,7 +221,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–125, which is classified principally to this chapter. For complete classification of Pub. L. 114–125 to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 122, known as the Trade Facilitation and Trade Enforcement Act of 2015, which, for purposes of defined terms, is classified principally to this chapter. For complete classification of Pub. L. 114–125 to the Code, see Short Title note set out below and Tables.
 
 The Tariff Act of 1930, referred to in par. (4)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
@@ -326,7 +326,7 @@ Pub. L. 114–125, title VIII, § 811, Feb. 24, 2016, 130 Stat. 217, provided th
 ### Statutory Notes
 
 #### References in Text
-The Security and Accountability for Every Port Act of 2006, referred to in subsec. (a), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim), Domestic Security, and Tables.
+The Security and Accountability for Every Port Act of 2006, referred to in subsec. (a), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4313"></a>
@@ -341,9 +341,9 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 (1) The Automated Commercial Environment.
 
-(2) Each of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322).
+(2) Each of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322).
 
-(3) The Centers of Excellence and Expertise described in [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4317).
+(3) The Centers of Excellence and Expertise described in [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4317).
 
 (4) Drawback for exported merchandise under section 313 of the Tariff Act of 1930 ([19 U.S.C. 1313](./chapter-004-tariff-act-of-1930.md#section-1313)), as amended by section 906 of this Act.
 
@@ -366,7 +366,7 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsec. (b)(4), (6), is act June 17, 1930, ch. 497, 46 Stat. 590. Section 313 of the Tariff Act of 1930, as amended by section 906 of this Act, is [section 1313 of this title](./chapter-004-tariff-act-of-1930.md#section-1313), as amended by section 906 of Pub. L. 114–125. Subtitles A and B of title VII of the Act are classified generally to parts I and II (§ 1671 et seq. and 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsec. (b)(4), (6), is act June 17, 1930, ch. 497, 46 Stat. 590. Section 313 of the Tariff Act of 1930, as amended by section 906 of this Act, is [section 1313 of this title](./chapter-004-tariff-act-of-1930.md#section-1313), as amended by section 906 of Pub. L. 114–125. Subtitles A and B of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and II (§ 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 
 <a id="section-4314"></a>
@@ -440,7 +440,7 @@ The Tariff Act of 1930, referred to in subsec. (b)(4), (6), is act June 17, 1930
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsec. (b)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I and II (§ 1671 et seq. and 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsec. (b)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I (§ 671 et seq.) and II (§ 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
@@ -455,7 +455,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(
 
 (2) a statement of objectives and plans for further improving trade enforcement and trade facilitation;
 
-(3) a specific identification of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322) that can be addressed in order to enhance trade enforcement and trade facilitation, and a description of strategies and plans for addressing each such issue, including—
+(3) a specific identification of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322) that can be addressed in order to enhance trade enforcement and trade facilitation, and a description of strategies and plans for addressing each such issue, including—
 
   (A) a description of the targeting methodologies used for enforcement activities with respect to each such issue;
 
@@ -465,7 +465,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(
 
 (4) a description of efforts made to improve consultation and coordination among and within Federal agencies, and in particular between U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, regarding trade enforcement and trade facilitation;
 
-(5) a description of the training that has occurred to date within U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to improve trade enforcement and trade facilitation, including training at educational seminars carried out under [section 4313 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4313);
+(5) a description of the training that has occurred to date within U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to improve trade enforcement and trade facilitation, including training at educational seminars carried out under [section 4313 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4313);
 
 (6) a description of efforts to work with the World Customs Organization and other international organizations, in consultation with other Federal agencies as appropriate, with respect to enhancing trade enforcement and trade facilitation;
 
@@ -501,7 +501,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(
 
     (ix) the Office of the United States Trade Representative; and
 
-  (B) the Commercial Customs Operations Advisory Committee established by [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316).
+  (B) the Commercial Customs Operations Advisory Committee established by [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4316).
 
 (2) **Other consultations** — In developing the joint strategic plan required under this section, the Commissioner and the Director shall seek to consult with—
 
@@ -525,7 +525,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(
 ### Statutory Notes
 
 #### References in Text
-The Security and Accountability for Every Port Act of 2006, referred to in subsec. (b), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim), Domestic Security, and Tables.
+The Security and Accountability for Every Port Act of 2006, referred to in subsec. (b), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4317"></a>
@@ -554,7 +554,7 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
   (C) *Terms* — Each individual appointed to the Advisory Committee under this paragraph shall be appointed for a term of not more than 3 years, and may be reappointed to subsequent terms, but may not serve more than 2 terms sequentially.
 
-(3) **Transfer of membership** — The Secretary of the Treasury and the Secretary of Homeland Security may transfer members serving on the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) on the day before February 24, 2016, to the Advisory Committee established under subsection (a).
+(3) **Transfer of membership** — The Secretary of the Treasury and the Secretary of Homeland Security may transfer members serving on the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) 11 See References in Text note below. on the day before February 24, 2016, to the Advisory Committee established under subsection (a).
 
 **(c) Duties** The Advisory Committee established under subsection (a) shall—
 
@@ -580,26 +580,26 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 (1) **Omitted**
 
-(2) **Reference.—** — Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).
+(2) **Reference** — Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).
 
 ### Statutory Notes
 
 #### References in Text
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsecs. (b)(3) and (g)(2), is section 9503(c) of title IX of Pub. L. 100–203, which is set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071).
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsecs. (b)(3) and (g)(2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. See Codification note below.
 
 Sections 10(f) and 14(a)(2) of the Federal Advisory Committee Act, referred to in subsecs. (d) and (f), are sections 10(f) and 14(a)(2), respectively, of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, which is set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), effective on the date on which the Advisory Committee is established under subsection (a) of this section.
+Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, formerly set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
 
 
 <a id="section-4318"></a>
 ## § 4318. Centers of Excellence and Expertise
-**(a) In general** The Commissioner shall, in consultation with the appropriate congressional committees and the Commercial Customs Operations Advisory Committee established under [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316), develop and implement Centers of Excellence and Expertise throughout U.S. Customs and Border Protection that—
+**(a) In general** The Commissioner shall, in consultation with the appropriate congressional committees and the Commercial Customs Operations Advisory Committee established under [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4316), develop and implement Centers of Excellence and Expertise throughout U.S. Customs and Border Protection that—
 
 (1) enhance the economic competitiveness of the United States by consistently enforcing the laws and regulations of the United States at all ports of entry of the United States and by facilitating the flow of legitimate trade through increasing industry-based knowledge;
 
-(2) improve enforcement efforts, including enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322), in specific industry sectors through the application of targeting information from the National Targeting Center under [section 4318 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4318) and from other means of verification;
+(2) improve enforcement efforts, including enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322), in specific industry sectors through the application of targeting information from the National Targeting Center under [section 4318 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4318) and from other means of verification;
 
 (3) build upon the expertise of U.S. Customs and Border Protection in particular industry operations, supply chains, and compliance requirements;
 
@@ -619,7 +619,7 @@ Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of sect
 
 (1) the scope, functions, and structure of each Center of Excellence and Expertise developed and implemented under subsection (a);
 
-(2) the effectiveness of each such Center of Excellence and Expertise in improving enforcement efforts, including enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322), and facilitating legitimate trade;
+(2) the effectiveness of each such Center of Excellence and Expertise in improving enforcement efforts, including enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322), and facilitating legitimate trade;
 
 (3) the quantitative and qualitative benefits of each such Center of Excellence and Expertise to the trade community, including through fostering partnerships through the expansion of trade programs such as the Importer Self Assessment program and other trusted partner programs;
 
@@ -636,7 +636,7 @@ Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of sect
 
 (1) establish targeted risk assessment methodologies and standards—
 
-  (A) for evaluating the risk that cargo destined for the United States may violate the customs and trade laws of the United States, particularly those laws applicable to merchandise subject to the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322); and
+  (A) for evaluating the risk that cargo destined for the United States may violate the customs and trade laws of the United States, particularly those laws applicable to merchandise subject to the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322); and
 
   (B) for issuing, as appropriate, Trade Alerts described in subsection (b);
 
@@ -648,7 +648,7 @@ Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of sect
 
   (C) information made available to the National Targeting Center, including information provided by private sector entities;
 
-(3) provide for the receipt and transmission to the appropriate U.S. Customs and Border Protection offices of allegations from interested parties in the private sector of violations of customs and trade laws of the United States with respect to merchandise relating to the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322); and
+(3) provide for the receipt and transmission to the appropriate U.S. Customs and Border Protection offices of allegations from interested parties in the private sector of violations of customs and trade laws of the United States with respect to merchandise relating to the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322); and
 
 (4) notify, on a timely basis, each interested party in the private sector that has submitted an allegation of any violation of the customs and trade laws of the United States of any civil or criminal actions taken by U.S. Customs and Border Protection or any other Federal agency resulting from the allegation.
 
@@ -709,7 +709,7 @@ Section is comprised of section 111 of Pub. L. 114–125. Subsec. (c) of section
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsec. (a)(1)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I and II (§ 1671 et seq. and 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsec. (a)(1)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and II (§ 1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 
 <a id="section-4321"></a>
@@ -751,9 +751,9 @@ The Tariff Act of 1930, referred to in subsec. (a)(1)(A), is act June 17, 1930, 
 
   (B) to increase screening of imported products of such importers;
 
-(2) develops procedures to ensure increased oversight of imported products of new importers, including nonresident importers, relating to the enforcement of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322);
+(2) develops procedures to ensure increased oversight of imported products of new importers, including nonresident importers, relating to the enforcement of the priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322);
 
-(3) develops procedures to ensure increased oversight of imported products of new importers, including new nonresident importers, by Centers of Excellence and Expertise established under [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4317); and
+(3) develops procedures to ensure increased oversight of imported products of new importers, including new nonresident importers, by Centers of Excellence and Expertise established under [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4317); and
 
 (4) establishes a centralized database of new importers, including new nonresident importers, to ensure accuracy of information that is required to be provided by such importers to U.S. Customs and Border Protection.
 
@@ -763,9 +763,9 @@ The Tariff Act of 1930, referred to in subsec. (a)(1)(A), is act June 17, 1930, 
 
 (1) the risk assessment guidelines developed under subsection (b)(1);
 
-(2) the procedures developed under subsection (b)(2) to ensure increased oversight of imported products of new importers, including new nonresident importers, relating to the enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4322);
+(2) the procedures developed under subsection (b)(2) to ensure increased oversight of imported products of new importers, including new nonresident importers, relating to the enforcement of priority trade issues described in [section 4322 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322);
 
-(3) the procedures developed under subsection (b)(3) to ensure increased oversight of imported products of new importers, including new nonresident importers, by Centers of Excellence and Expertise established under [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4317); and
+(3) the procedures developed under subsection (b)(3) to ensure increased oversight of imported products of new importers, including new nonresident importers, by Centers of Excellence and Expertise established under [section 4317 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4317); and
 
 (4) the number of bonds adjusted based on the risk assessment guidelines developed under subsection (b)(1).
 
@@ -782,7 +782,7 @@ The Tariff Act of 1930, referred to in subsec. (a)(1)(A), is act June 17, 1930, 
 ### Statutory Notes
 
 #### References in Text
-The Security and Accountability for Every Port Act of 2006, referred to in subsec. (c), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim), Domestic Security, and Tables.
+The Security and Accountability for Every Port Act of 2006, referred to in subsec. (c), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901&num=0&edition=prelim) and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (e)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
@@ -863,7 +863,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **(c) Duties** The duties of the interagency Import Safety Working Group shall include—
 
-(1) consulting on the development of the joint import safety rapid response plan required by [section 4332 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4332);
+(1) consulting on the development of the joint import safety rapid response plan required by [section 4332 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4332);
 
 (2) periodically evaluating the adequacy of the plans, practices, and resources of the Federal Government dedicated to ensuring the safety of merchandise imported into the United States and the expeditious entry of such merchandise, including—
 
@@ -888,7 +888,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 <a id="section-4333"></a>
 ## § 4333. Joint import safety rapid response plan
-**(a) In general** Not later than December 31, 2016, the Secretary of Homeland Security, in consultation with the interagency Import Safety Working Group established under [section 4331 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4331), shall develop a plan (to be known as the “joint import safety rapid response plan”) that sets forth protocols and defines practices for U.S. Customs and Border Protection to use—
+**(a) In general** Not later than December 31, 2016, the Secretary of Homeland Security, in consultation with the interagency Import Safety Working Group established under [section 4331 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4331), shall develop a plan (to be known as the “joint import safety rapid response plan”) that sets forth protocols and defines practices for U.S. Customs and Border Protection to use—
 
 (1) in taking action in response to, and coordinating Federal responses to, an incident in which cargo destined for or merchandise entering the United States has been identified as posing a threat to the health or safety of consumers in the United States; and
 
@@ -928,7 +928,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 (4) **Dissemination of recommendations and best practices** — The Secretary and the Commissioner shall—
 
-  (A) share the recommendations or best practices identified under paragraph (3)(B) among the members of the interagency Import Safety Working Group established under [section 4331 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4331) and with, as appropriate—
+  (A) share the recommendations or best practices identified under paragraph (3)(B) among the members of the interagency Import Safety Working Group established under [section 4331 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4331) and with, as appropriate—
 
     (i) State, local, and tribal governments;
 
@@ -957,8 +957,8 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 
 <a id="section-4343"></a>
-## § 4343. Notification of Persons Injured by Circumvention Devices
-(1) **In general** — Not later than the date that is 30 business days after seizing merchandise pursuant to subparagraph (G) of [section 1596a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1596a/c/2&num=0&edition=prelim), the Commissioner shall provide to any person identified under paragraph (2) information regarding the merchandise seized that is equivalent to information provided to copyright owners under regulations of U.S. Customs and Border Protection for merchandise seized for violation of the copyright laws.
+## § 4343. Notification of persons injured by circumvention devices
+(1) **In general** — Not later than the date that is 30 business days after seizing merchandise pursuant to subparagraph (G) of [section 1595a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1595a/c/2&num=0&edition=prelim), the Commissioner shall provide to any person identified under paragraph (2) information regarding the merchandise seized that is equivalent to information provided to copyright owners under regulations of U.S. Customs and Border Protection for merchandise seized for violation of the copyright laws.
 
 (2) **Persons to be provided information** — Any person injured by the violation of subsection (a)(2) or (b)(1) of [section 1201 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section1201&num=0&edition=prelim) that resulted in the seizure of the merchandise shall be provided information under paragraph (1), if that person is included on a list to be established and maintained by the Commissioner. The Commissioner shall publish notice of the establishment of and revisions to the list in the Federal Register.
 
@@ -1033,7 +1033,7 @@ Not later than the date that is 180 days after February 24, 2016, the Secretary 
 <a id="section-4346"></a>
 ## § 4346. Joint strategic plan for the enforcement of intellectual property rights
 
-The Commissioner and the Director of U.S. Immigration and Customs Enforcement shall include in the joint strategic plan required by [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4314)—
+The Commissioner and the Director of U.S. Immigration and Customs Enforcement shall include in the joint strategic plan required by [section 4314 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4314)—
 
 (1) a description of the efforts of the Department of Homeland Security to enforce intellectual property rights;
 
@@ -1048,7 +1048,7 @@ The Commissioner and the Director of U.S. Immigration and Customs Enforcement sh
 
 **(b) Staffing of National Intellectual Property Rights Coordination Center** The Commissioner shall—
 
-(1) assign not fewer than 3 full-time employees of U.S. Customs and Border Protection to the National Intellectual Property Rights Coordination Center established under [section 4344 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4344); and
+(1) assign not fewer than 3 full-time employees of U.S. Customs and Border Protection to the National Intellectual Property Rights Coordination Center established under [section 4344 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4344); and
 
 (2) ensure that sufficient personnel are assigned to United States ports of entry to carry out the directives of the Center.
 
@@ -1112,7 +1112,7 @@ Not later than September 30, 2016, and annually thereafter, the Commissioner and
 
 (4) A summary of the efforts of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to address the challenges with respect to the enforcement of intellectual property rights presented by Internet commerce and the transit of small packages and an identification of the volume, value, and type of merchandise seized for infringing intellectual property rights as a result of such efforts.
 
-(5) A summary of training relating to the enforcement of intellectual property rights conducted under [section 4347 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4347) and expenditures for such training.
+(5) A summary of training relating to the enforcement of intellectual property rights conducted under [section 4347 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4347) and expenditures for such training.
 
 
 <a id="section-4361"></a>
@@ -1174,7 +1174,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title of 2016 Amendment note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301), and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 The Tariff Act of 1930, referred to in par. (7), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
@@ -1187,7 +1187,7 @@ Pursuant to article 1902 of the North American Free Trade Agreement and [section
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title of 2016 Amendment note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301), and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 
 <a id="section-4374"></a>
@@ -1234,7 +1234,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
   (E) upon request, providing technical assistance and advice to eligible small businesses to enable such businesses to prepare and submit such an allegation of evasion, except that the Director may deny technical assistance if the Director concludes that the allegation, if submitted, would not lead to the initiation of an administrative inquiry or any other action to address the allegation;
 
-  (F) in cooperation with the public, the Commercial Customs Operations Advisory Committee established under [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316), the Trade Support Network, and any other relevant parties and organizations, developing guidelines on the types and nature of information that may be provided in such an allegation of evasion; and
+  (F) in cooperation with the public, the Commercial Customs Operations Advisory Committee established under [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4316), the Trade Support Network, and any other relevant parties and organizations, developing guidelines on the types and nature of information that may be provided in such an allegation of evasion; and
 
   (G) consulting regularly with the public, the Commercial Customs Operations Advisory Committee, the Trade Support Network, and any other relevant parties and organizations regarding the development and implementation of regulations, interpretations, and policies related to countering evasion.
 
@@ -1754,7 +1754,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301) and Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 
 <a id="section-4433"></a>
@@ -1901,20 +1901,20 @@ The Secretary may not enter into an agreement with the government of a foreign c
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (c)(3), was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301) and Tables.
+This subchapter, referred to in subsec. (c)(3), was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 
 <a id="section-4451"></a>
 ## § 4451. Application to new and existing preclearance operations
 
-Except for sections 814(d) [[19 U.S.C. 4433(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4433/d&num=0&edition=prelim)], 815, 817 [[19 U.S.C. 4435](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4435)], and 818, this subchapter shall only apply to the establishment of preclearance operations in a foreign country in which no preclearance operations have been established as of February 24, 2016.
+Except for sections 814(d) [[19 U.S.C. 4433(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4433/d&num=0&edition=prelim)], 815, 817 [[19 U.S.C. 4435](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4435)], and 818, this subchapter shall only apply to the establishment of preclearance operations in a foreign country in which no preclearance operations have been established as of February 24, 2016.
 
 ### Statutory Notes
 
 #### References in Text
 Sections 815 and 818, referred to in text, are sections 815 and 818 of Pub. L. 114–125. Section 815 amended [section 44901 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901&num=0&edition=prelim), Transportation. Section 818 amended [section 8311 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8311&num=0&edition=prelim), Agriculture, and [section 1356 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356&num=0&edition=prelim), Aliens and Nationality.
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301) and Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 
 <a id="section-4452"></a>
@@ -1963,14 +1963,14 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 (4) the program established by subchapter VII of this chapter authorizing U.S. Customs and Border Protection to establish preclearance operations in foreign countries; or
 
-(5) the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section301&num=0&edition=prelim).
+(5) the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under [section 301 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section301&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
 Section 560 of the Department of Homeland Security Appropriations Act, 2013 (division D of Public Law 113–6; 127 Stat. 378), referred to in subsec. (b)(1), is not classified to the Code.
 
-Subchapter VII of this chapter, referred to in subsec. (b)(4), was in the original “subtitle B of title VIII of this Act”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to subchapter VII of this chapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301) and Tables.
+Subchapter VII of this chapter, referred to in subsec. (b)(4), was in the original “subtitle B of title VIII of this Act”, meaning subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, which is classified principally to subchapter VII of this chapter. For complete classification of subtitle B to the Code, see Short Title note set out under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
 
 #### Amendments
 2016—Subsec. (b)(5). Pub. L. 114–279 added par. (5).
@@ -2094,7 +2094,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(6)(B
 The Tax Reform Act of 1976, referred to in subsec. (a)(6)(C), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. For complete classification of this Act to the Code, see Tables.
 
 #### Delegation of Functions
-Functions of President under subsec. (d) of this section assigned to Secretary of State, in consultation with other relevant Federal agencies, see Ex. Ord. No. 13733, § 1(b), July 22, 2016, 81 F.R. 49515, set out as a note under [section 4421 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4421).
+Functions of President under subsec. (d) of this section assigned to Secretary of State, in consultation with other relevant Federal agencies, see Ex. Ord. No. 13733, § 1(b), July 22, 2016, 81 F.R. 49515, set out as a note under [section 4421 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4421).
 
 
 <a id="section-4454"></a>

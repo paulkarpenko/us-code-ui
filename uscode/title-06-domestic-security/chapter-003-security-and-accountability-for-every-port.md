@@ -48,7 +48,7 @@ In this Act:
 
   (I) other congressional committees, as appropriate.
 
-(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim) note) or any successor committee.
+(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim) note) 11 See References in Text note below. or any successor committee.
 
 (3) **Commercial seaport personnel** — The term “commercial seaport personnel” includes any person engaged in an activity relating to the loading or unloading of cargo or passengers, the movement or tracking of cargo, the maintenance and repair of intermodal equipment, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when a vessel is made fast or let go in the United States.
 
@@ -85,7 +85,7 @@ In this Act:
 #### References in Text
 This Act, referred to in text, is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, known as the Security and Accountability For Every Port Act of 2006 or the SAFE Port Act. For complete classification of this Act to the Code, see Tables.
 
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is section 9503(c) of title IX of Pub. L. 100–203, which is set out as a note under [section 2071 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim), Customs Duties.
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under [section 2071 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim), Customs Duties, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see [section 4316(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim).
 
 #### Short Title
 Pub. L. 109–347, § 1(a), Oct. 13, 2006, 120 Stat. 1884, provided that: “This Act [see Tables for classification] may be cited as the ‘Security and Accountability For Every Port Act of 2006’ or the ‘SAFE Port Act’.”

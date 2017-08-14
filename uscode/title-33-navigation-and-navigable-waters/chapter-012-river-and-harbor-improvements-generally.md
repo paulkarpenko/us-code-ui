@@ -853,7 +853,7 @@ Section was formerly classified to sections 190a and 199 of Title 10 prior to th
 
 (2) **Statutory construction** — Nothing in this subsection may be construed to—
 
-  (A) change any authority provided under subchapter I of chapter 169 of title 10 11 See References in Text note below.; or
+  (A) change any authority provided under subchapter I of chapter 169 of title 10; 11 See References in Text note below. or
 
   (B) change the use of funds under subsection (a) for purposes other than those described in paragraph (1).
 
@@ -1145,7 +1145,7 @@ Section, Pub. L. 113–121, title VI, § 6001, June 10, 2014, 128 Stat. 1345; Pu
 
 
 <a id="section-579c"></a>
-## § 579c. Backlog prevention
+## § 579c. Backlog prevention: projects from Public Law 113–121
 **(a) Project deauthorization**
 
 (1) **In general** — A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 7-year period beginning on June 10, 2014, unless funds have been obligated for construction of such project during that period.
@@ -1172,7 +1172,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 
 <a id="section-579c-1"></a>
-## § 579c–1. Backlog prevention
+## § 579c–1. Backlog prevention: projects from Public Law 114–322
 **(a) Project deauthorization**
 
 (1) **In general** — A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 10-year period beginning on December 16, 2016, unless—
@@ -1196,7 +1196,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(1) and (b)(1), means Pub. L. 114–322, December 16, 2016, 130 Stat. 1628, known as the Water Infrastructure Improvements for the Nation Act or the WIIN Act. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 114–322, Dec. 16, 2016, 130 Stat. 1628, known as the Water Infrastructure Improvements for the Nation Act or the WIIN Act. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -1313,8 +1313,6 @@ Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322
   (B) *Water resources development project* — The term “water resources development project” includes an environmental infrastructure assistance project or program of the Corps of Engineers.
 
 (2) **Treatment of project modifications** — For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent modification.
-
-**(g) Omitted**
 
 ### Statutory Notes
 
@@ -1550,7 +1548,7 @@ The Secretary of the Army is authorized to allot not to exceed $5,000,000 from a
 ### Statutory Notes
 
 #### Amendments
-2016—Pub. L. 114–322 substituted “$5,000,000” for “$1,000,000”, “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel’ for “accumulated snags and other debris”, and “, flood control, or recreation” for “or flood control”.
+2016—Pub. L. 114–322 substituted “$5,000,000” for “$1,000,000”, “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel” for “accumulated snags and other debris”, and “, flood control, or recreation” for “or flood control”.
 
 1986—Pub. L. 99–662 substituted “$1,000,000” for “$300,000”.
 

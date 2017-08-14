@@ -10,7 +10,7 @@ source: >-
 ## § 5101. Office on Child Abuse and Neglect
 **(a) Establishment** The Secretary of Health and Human Services may establish an office to be known as the Office on Child Abuse and Neglect.
 
-**(b) Purpose** The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+**(b) Purpose** The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 ### Statutory Notes
 
@@ -55,20 +55,10 @@ Subsec. (d). Pub. L. 95–266, § 101(3), added subsec. (d).
 Pub. L. 114—22, title VIII, § 801, May 29, 2015, 129 Stat. 263, provided that: “This title [amending sections 5106a and 5106g of this title, enacting provisions set out as a note under [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a), and amending provisions set out as a note under this section] may be cited as the ‘Ensuring a Better Response for Victims of Child Sex Trafficking’.”
 
 #### Short Title of 2010 Amendment
-Pub. L. 111–341, § 1, Dec. 22, 2010, 124 Stat. 3606, provided that: “This Act [amending provisions set out as a note under [section 5119a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119a)] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2010’.”
-
 Pub. L. 111–320, § 1, Dec. 20, 2010, 124 Stat. 3459, provided that: “This Act [enacting chapter 110 of this title, amending sections 3796gg, 5102, 5104 to 5106a, 5106c, 5106d, 5106f, 5106g to 5106i, 5111, 5113, 5115, 5116 to 5116b, 5116d to 5116i, 5117aa, 5117aa–21, 5117aa–22, 13925, and 14214 of this title, [section 707 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section707&num=0&edition=prelim), Bankruptcy, and [section 1435 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1435&num=0&edition=prelim), Education, enacting provisions set out as notes under this section, amending provisions set out as a note under this section, repealing provisions set out as a note under [section 670 of this title](./chapter-007-social-security.md#section-670), and omitting provisions set out as a note under [section 10401 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10401)] may be cited as the ‘CAPTA Reauthorization Act of 2010’.”
-
-Pub. L. 111–143, § 1, Mar. 1, 2010, 124 Stat. 41, provided that: “This Act [amending provisions set out as a note under [section 5119a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119a)] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2009’.”
-
-#### Short Title of 2008 Amendment
-Pub. L. 110–296, § 1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, § 1, Oct. 13, 2008, 122 Stat. 4301, provided that: “This Act [amending provisions set out as a note under [section 5119a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119a)] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2008’.”
 
 #### Short Title of 2003 Amendment
 Pub. L. 108–36, § 1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act [see Tables for classification] may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
-
-#### Short Title of 1998 Amendment
-Pub. L. 105–251, title II, § 221, Oct. 9, 1998, 112 Stat. 1885, provided that: “This subtitle [subtitle B (§§ 221, 222) of title II of Pub. L. 105–251, amending sections 5119a and 5119b of this title] may be cited as the ‘Volunteers for Children Act’.”
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–235, § 1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: “This Act [enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and [section 670 of this title](./chapter-007-social-security.md#section-670), and repealing provisions set out as notes under [section 5117 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117&num=0&edition=prelim)] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
@@ -106,8 +96,6 @@ For short title of title II of Pub. L. 99–401, which enacted subchapter IV of 
 
 Pub. L. 100–505, § 1, Oct. 18, 1988, 102 Stat. 2533, provided that: “This Act [enacting subchapter IV–A of this chapter and provisions formerly set out as a note under [section 670 of this title](./chapter-007-social-security.md#section-670)] may be cited as the ‘Abandoned Infants Assistance Act of 1988’.”
 
-Pub. L. 103–209, § 1, Dec. 20, 1993, 107 Stat. 2490, provided that: “This Act [enacting subchapter VI of this chapter and amending [section 3759 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3759&num=0&edition=prelim)] may be cited as the ‘National Child Protection Act of 1993’.”
-
 #### Regulations
 Pub. L. 100–294, title IV, § 401(a), Apr. 25, 1988, 102 Stat. 126, provided that: “For any rule or regulation needed to implement this Act [see Short Title of 1988 Amendment note above], the Secretary of Health and Human Services shall— “(1) publish proposed regulations for purposes of implementing the amendments made by this Act before the expiration of the 90-day period beginning on the date of the enactment of this Act [Apr. 25, 1988]; “(2) allow not less than 45 days for public comment on such proposed regulations; and “(3) publish final regulations for purposes of implementing the amendments made by this Act before the end of the 195-day period beginning on the date of the enactment of this Act.”
 
@@ -118,24 +106,22 @@ Pub. L. 98–457, title I, § 127, Oct. 9, 1984, 98 Stat. 1754, provided that: �
 Pub. L. 100–294, title I, § 106, Apr. 25, 1988, 102 Stat. 119, established a National Commission on Child and Youth Deaths to study and evaluate comprehensively Federal, State, and local public and private resources which affect child and youth deaths and to prepare and transmit to President and appropriate committees of Congress a report within 12 months after appointment of the Commission, and provided that the Commission terminates 90 days after transmitting the report.
 
 #### Acquisition of Statistical Data
-Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906, provided that: “(a) Data Acquisition for 1987 and 1988.—The Attorney General shall acquire from criminal justice agencies statistical data, for the calendar years 1987 and 1988, about the incidence of child abuse, including child sexual abuse, and shall publish annually a summary of such data. “(b) Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the Federal Bureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse. “(2) The modification, once made, shall remain in effect until the later of—“(A) 10 years after the date it is made; or “(B) such ending date as may be set by the Attorney General.”
+Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906, which related to data acquisition by the Attorney General for 1987 and 1988 and modification of the FBI’s uniform crime reporting program, was editorially reclassified as [section 41302 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41302&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Congressional Findings
 Pub. L. 93–247, § 2, as added by Pub. L. 102–295, title I, § 102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, § 100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, § 101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, § 101, Dec. 20, 2010, 124 Stat. 3459, provided that: “Congress finds that— “(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect; “(2)(A) more children suffer neglect than any other form of maltreatment and close to ⅓ of all child maltreatment-related fatalities in fiscal year 2008 were attributed to neglect alone; and “(B) investigations have determined that approximately 71 percent of children who were victims of maltreatment in fiscal year 2008 suffered neglect, 16 percent suffered physical abuse, 9 percent suffered sexual abuse,, [sic] 7 percent suffered psychological maltreatment, 2 percent experienced medical neglect, and 9 percent were victims of other forms of maltreatment; “(3)(A) child abuse or neglect can result in the death of a child; “(B) in fiscal year 2008, an estimated 1,740 children were counted by child protection services to have died as a result of abuse or neglect; and “(C) in fiscal year 2008, children younger than 1 year old comprised 45 percent of child maltreatment fatalities and 72 percent of child maltreatment fatalities were younger than 4 years of age; “(4)(A) many of these children and their families fail to receive adequate protection and treatment; and “(B) approximately 37 percent of victims of child abuse did not receive post-investigation services in fiscal year 2008; “(5) African-American children, American Indian children, Alaska Native children, and children of multiple races and ethnicities experience the highest rates of child abuse or neglect; “(6) the problem of child abuse and neglect requires a comprehensive approach that—“(A) integrates the work of social service, legal, health, mental health, domestic violence services, education, and substance abuse agencies and community-based organizations; “(B) strengthens coordination among all levels of government, and with private agencies, civic, religious, and professional organizations, and individual volunteers; “(C) emphasizes the need for abuse and neglect prevention, assessment, investigation, and treatment at the neighborhood level; “(D) recognizes the need for properly trained staff with the qualifications needed, to carry out their child protection duties; and “(E) recognizes the diversity of ethnic, cultural, and religious beliefs and traditions that may impact child rearing patterns, while not allowing the differences in those beliefs and traditions to enable abuse or neglect; “(7) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs; “(8) all elements of American society have a shared responsibility in responding to child abuse and neglect; “(9) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority; “(10) national policy should strengthen families to prevent child abuse and neglect, provide support for needed services to prevent the unnecessary removal of children from families, and promote the reunification of families where appropriate; “(11) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child; “(12) because both child maltreatment and domestic violence occur in up to 60 percent of the families in which either is present, States and communities should adopt assessments and intervention procedures aimed at enhancing the safety both of children and victims of domestic violence; “(13) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities; “(14) the Federal Government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy; and “(15) the Federal Government should provide leadership and assist communities in their child and family protection efforts by—“(A) promoting coordinated planning among all levels of government; “(B) generating and sharing knowledge relevant to child and family protection, including the development of models for service delivery; “(C) strengthening the capacity of States to assist communities; “(D) allocating financial resources to assist States in implementing community plans; “(E) helping communities to carry out their child and family protection plans by promoting the competence of professional, paraprofessional, and volunteer resources; and “(F) providing leadership to end the abuse and neglect of the nation’s children and youth.”
 
 #### Definitions
-Pub. L. 93–247, § 3, as added by Pub. L. 111–320, title I, § 142(a), Dec. 20, 2010, 124 Stat. 3482, as amended by Pub. L. 114–22, title VIII, § 802(c)(2), May 29, 2015, 129 Stat. 264, provided that: “In this Act [see Short Title note above]— “(1) the term ‘child’ means a person who has not attained the lesser of—“(A) the age of 18; or “(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides; “(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm; “(3) the term ‘child with a disability’ means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act ([20 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401&num=0&edition=prelim)), or an infant or toddler with a disability as defined in section 632 of such Act ([20 U.S.C. 1432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1432&num=0&edition=prelim)); “(4) the term ‘Governor’ means the chief executive officer of a State; “(5) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]; “(6) the term ‘Secretary’ means the Secretary of Health and Human Services; “(7) except as provided in section 106(f) [[42 U.S.C. 5106a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/f&num=0&edition=prelim)], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and “(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a](./chapter-119-homeless-assistance.md#section-11434a)).”
-
-[Pub. L. 114–22, title VIII, § 802(a), (c)(2), May 29, 2015, 129 Stat. 263, 264, provided that, effective 2 years after May 29, 2015, section 3 of Pub. L. 93–247, set out above, is amended in par. (2) by inserting “(including sexual abuse as determined under section 111 [[42 U.S.C. 5106g](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106g)])” after “sexual abuse or exploitation”.]
+Pub. L. 93–247, § 3, as added by Pub. L. 111–320, title I, § 142(a), Dec. 20, 2010, 124 Stat. 3482, as amended by Pub. L. 114–22, title VIII, § 802(c)(2), May 29, 2015, 129 Stat. 264, provided that: “In this Act [see Short Title note above]— “(1) the term ‘child’ means a person who has not attained the lesser of—“(A) the age of 18; or “(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides; “(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation (including sexual abuse as determined under section 111 [[42 U.S.C. 5106g](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106g)]), or an act or failure to act which presents an imminent risk of serious harm; “(3) the term ‘child with a disability’ means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act ([20 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401&num=0&edition=prelim)), or an infant or toddler with a disability as defined in section 632 of such Act ([20 U.S.C. 1432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1432&num=0&edition=prelim)); “(4) the term ‘Governor’ means the chief executive officer of a State; “(5) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]; “(6) the term ‘Secretary’ means the Secretary of Health and Human Services; “(7) except as provided in section 106(f) [[42 U.S.C. 5106a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/f&num=0&edition=prelim)], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and “(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a](./chapter-119-homeless-assistance.md#section-11434a)).”
 
 
 <a id="section-5102"></a>
 ## § 5102. Advisory board on child abuse and neglect
 **(a) Appointment** The Secretary may appoint an advisory board to make recommendations to the Secretary and to the appropriate committees of Congress concerning specific issues relating to child abuse and neglect.
 
-**(b) Solicitation of nominations** The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a) of this section.
+**(b) Solicitation of nominations** The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a).
 
-**(c) Composition** In establishing the board under subsection (a) of this section, the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+**(c) Composition** In establishing the board under subsection (a), the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
 
 (1) law (including the judiciary);
 
@@ -169,7 +155,7 @@ Pub. L. 93–247, § 3, as added by Pub. L. 111–320, title I, § 142(a), Dec. 
 
 **(e) Election of officers** The board shall elect a chairperson and vice-chairperson at its first meeting from among the members of the board.
 
-**(f) Duties** Not later than 1 year after the establishment of the board under subsection (a) of this section, the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
+**(f) Duties** Not later than 1 year after the establishment of the board under subsection (a), the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
 
 (1) recommendations on coordinating Federal, State, tribal, and local child abuse and neglect activities with similar activities at the Federal, State, tribal, and local level pertaining to family violence prevention;
 
@@ -241,7 +227,7 @@ Section, Pub. L. 93–247, title I, § 103, formerly § 4, Jan. 31, 1974, 88 Sta
 ## § 5104. National clearinghouse for information relating to child abuse
 **(a) Establishment** The Secretary shall through the Department, or by one or more contracts of not less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse and neglect.
 
-**(b) Functions** The Secretary shall, through the clearinghouse established by subsection (a) of this section—
+**(b) Functions** The Secretary shall, through the clearinghouse established by subsection (a)—
 
 (1) maintain, coordinate, and disseminate information on effective programs, including private and community-based programs, that have demonstrated success with respect to the prevention, assessment, identification, and treatment of child abuse or neglect and hold the potential for broad-scale implementation and replication;
 
@@ -279,13 +265,13 @@ Section, Pub. L. 93–247, title I, § 103, formerly § 4, Jan. 31, 1974, 88 Sta
 
 **(c) Coordination with available resources**
 
-(1) **In general** — In establishing a national clearinghouse as required by subsection (a) of this section, the Secretary shall—
+(1) **In general** — In establishing a national clearinghouse as required by subsection (a), the Secretary shall—
 
   (A) consult with other Federal agencies that operate similar clearinghouses;
 
   (B) consult with the head of each agency involved with child abuse and neglect on the development of the components for information collection and management of such clearinghouse and on the mechanisms for the sharing of such information with other Federal agencies and clearinghouses;
 
-  (C) develop a Federal data system involving the elements under subsection (b) of this section which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
+  (C) develop a Federal data system involving the elements under subsection (b) which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
 
     (i) standardized data on false, unfounded, unsubstantiated, and substantiated reports;
 
@@ -503,7 +489,7 @@ Pub. L. 98–457, § 104(b), struck out subsec. (b) which authorized appropriati
 
 (2) **Duration** — Grants under this section shall be made for periods of not more than 5 years.
 
-(3) **Preference for long-term studies** — In making grants for purposes of conducting research under subsection (a) of this section, the Secretary shall give special consideration to applications for long-term projects.
+(3) **Preference for long-term studies** — In making grants for purposes of conducting research under subsection (a), the Secretary shall give special consideration to applications for long-term projects.
 
 **(d) Peer review for grants**
 
@@ -753,7 +739,7 @@ Pub. L. 100–294, title I, § 105, Apr. 25, 1988, 102 Stat. 118, directed the D
 
 (6) **Collaborations between child protective service entities and domestic violence service entities** — The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
 
-**(b) Discretionary grants** In addition to grants or contracts made under subsection (a) of this section, grants or contracts under this section may be used for the following:
+**(b) Discretionary grants** In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
 
 (1) Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
 
@@ -1061,7 +1047,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
       (II) to make recommendations to the court concerning the best interests of the child;
 
-    (xiv) the establishment of citizen review panels in accordance with subsection (c) of this section;
+    (xiv) the establishment of citizen review panels in accordance with subsection (c);
 
     (xv) provisions, procedures, and mechanisms—
 
@@ -1081,7 +1067,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
       (V) to have committed sexual abuse against the surviving child or another child of such parent; or
 
-      (VI) to be required to register with a sex offender registry under [section 16913(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16913/a&num=0&edition=prelim);
+      (VI) to be required to register with a sex offender registry under [section 20913(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20913/a&num=0&edition=prelim);
 
     (xvii) an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xvi), conviction of any one of the felonies listed in clause (xvi) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
 
@@ -1154,15 +1140,15 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
   (A) *In general* — Each panel established pursuant to paragraph (1) shall, by examining the policies, procedures, and practices of State and local agencies and where appropriate, specific cases, evaluate the extent to which State and local child protection system agencies are effectively discharging their child protection responsibilities in accordance with—
 
-    (i) the State plan under subsection (b) of this section;
+    (i) the State plan under subsection (b);
 
-    (ii) the child protection standards set forth in subsection (b) of this section; and
+    (ii) the child protection standards set forth in subsection (b); and
 
     (iii) any other criteria that the panel considers important to ensure the protection of children, including—
 
       (I) a review of the extent to which the State and local child protective services system is coordinated with the foster care and adoption programs established under part E of title IV of the Social Security Act ([42 U.S.C. 670](./chapter-007-social-security.md#section-670) et seq.); and
 
-      (II) a review of child fatalities and near fatalities (as defined in subsection (b)(4) of this section).
+      (II) a review of child fatalities and near fatalities (as defined in subsection (b)(4)).
 
   (B) *Confidentiality*
 
@@ -1242,7 +1228,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
 (12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 
-(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6) of this section.
+(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
 
 (14) The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
 
@@ -1258,7 +1244,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
   (C) for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
 
-**(e) Annual report by Secretary** Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
+**(e) Annual report by Secretary** Within 6 months after receiving the State reports under subsection (d), the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
 
 **(f) Allotments**
 
@@ -1593,17 +1579,17 @@ Section, Pub. L. 93–247, title I, § 108, formerly § 9, as added Pub. L. 100�
 
 (1) fulfill the requirements of [section 5106a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b&num=0&edition=prelim);
 
-(2) establish a task force as provided in subsection (c) of this section;
+(2) establish a task force as provided in subsection (c);
 
-(3) fulfill the requirements of subsection (d) of this section;
+(3) fulfill the requirements of subsection (d);
 
 (4) submit annually an application to the Secretary at such time and containing such information and assurances as the Secretary considers necessary, including an assurance that the State will—
 
   (A) make such reports to the Secretary as may reasonably be required; and
 
-  (B) maintain and provide access to records relating to activities under subsections (a) and (b) of this section; and
+  (B) maintain and provide access to records relating to activities under subsections (a) and (b); and
 
-(5) submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a) of this section.
+(5) submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a).
 
 **(c) State task forces**
 
@@ -1635,7 +1621,7 @@ Section, Pub. L. 93–247, title I, § 108, formerly § 9, as added Pub. L. 100�
 
 (1) review and evaluate State investigative, administrative and both civil and criminal judicial handling of cases of child abuse and neglect, including child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal; and
 
-(2) make policy and training recommendations in each of the categories described in subsection (e) of this section.
+(2) make policy and training recommendations in each of the categories described in subsection (e).
 The task force may make such other comments and recommendations as are considered relevant and useful.
 
 **(e) Adoption of State task force recommendations**
@@ -1654,7 +1640,7 @@ The task force may make such other comments and recommendations as are considere
 
   (B) the State is making substantial progress toward adopting recommendations of the State task force or a comparable alternative to such recommendations.
 
-**(f) Funds available** For grants under this section, the Secretary shall use the amount authorized by [section 10603a of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603a).
+**(f) Funds available** For grants under this section, the Secretary shall use the amount authorized by [section 20104 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20104&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1684,7 +1670,7 @@ Subsec. (e)(1)(B). Pub. L. 111–320, § 116(5)(B), inserted a comma after “mo
 
 Subsec. (e)(1)(C). Pub. L. 111–320, § 116(5)(C), inserted a comma after “protocols” and “, which may include those children involved in reports of child abuse or neglect with a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal,” after “protection for children” and substituted “from child abuse and neglect” for “from abuse” and “including” for “particularly”.
 
-Subsec. (f). Pub. L. 111–320, § 116(6), made technical amendment to reference in original act which appears in text as reference to [section 10603a of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603a).
+Subsec. (f). Pub. L. 111–320, § 116(6), made technical amendment to reference in original act which appears in text as reference to [section 20104 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20104&num=0&edition=prelim).
 
 2003—Subsec. (a)(4). Pub. L. 108–36 added par. (4).
 
@@ -2026,7 +2012,7 @@ Pub. L. 102–295, title I, § 117(b), May 28, 1992, 106 Stat. 197, provided tha
 
 (2) to require that a State find, or to prohibit a State from finding, child abuse or neglect in cases in which a parent or legal guardian relies solely or partially upon spiritual means rather than medical treatment, in accordance with the religious beliefs of the parent or legal guardian.
 
-**(b) State requirement** Notwithstanding subsection (a) of this section, a State shall, at a minimum, have in place authority under State law to permit the child protective services system of the State to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, to provide medical care or treatment for a child when such care or treatment is necessary to prevent or remedy serious harm to the child, or to prevent the withholding of medically indicated treatment from children with life threatening conditions. Except with respect to the withholding of medically indicated treatments from disabled infants with life threatening conditions, case by case determinations concerning the exercise of the authority of this subsection shall be within the sole discretion of the State.
+**(b) State requirement** Notwithstanding subsection (a), a State shall, at a minimum, have in place authority under State law to permit the child protective services system of the State to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, to provide medical care or treatment for a child when such care or treatment is necessary to prevent or remedy serious harm to the child, or to prevent the withholding of medically indicated treatment from children with life threatening conditions. Except with respect to the withholding of medically indicated treatments from disabled infants with life threatening conditions, case by case determinations concerning the exercise of the authority of this subsection shall be within the sole discretion of the State.
 
 ### Statutory Notes
 
@@ -2652,7 +2638,7 @@ Par. (3)(D). Pub. L. 108–36, § 122(3)(D), inserted “, parents with disabili
 
 **(b) Remaining amounts**
 
-(1) **In general** — The Secretary shall allot the amount appropriated under section 5116i 1 of this title for a fiscal year and remaining after the reservation under subsection (a) of this section among the States as follows:
+(1) **In general** — The Secretary shall allot the amount appropriated under section 5116i 1 of this title for a fiscal year and remaining after the reservation under subsection (a) among the States as follows:
 
   (A) *70 percent* — 70 percent of such amount appropriated shall be allotted among the States by allotting to each State an amount that bears the same proportion to such amount appropriated as the number of children under the age of 18 residing in the State bears to the total number of children under the age of 18 residing in all States (except that no State shall receive less than $175,000 under this subparagraph).
 
@@ -2664,7 +2650,7 @@ Par. (3)(D). Pub. L. 108–36, § 122(3)(D), inserted “, parents with disabili
 
 (1) shall be for a 3-year period; and
 
-(2) shall be provided by the Secretary to the State on an annual basis, as described in subsection (b) of this section.
+(2) shall be provided by the Secretary to the State on an annual basis, as described in subsection (b).
 
 ### Statutory Notes
 
@@ -3339,239 +3325,36 @@ Section 5118e, Pub. L. 93–247, title III, § 306, as added Pub. L. 101–645, 
 
 
 <a id="section-5119"></a>
-## § 5119. Reporting child abuse crime information
-**(a) In general** In each State, an authorized criminal justice agency of the State shall report child abuse crime information to, or index child abuse crime information in, the national criminal history background check system. A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.
-
-**(b) Provision of State child abuse crime records through national criminal history background check system**
-
-(1) Not later than 180 days after December 20, 1993, the Attorney General shall, subject to availability of appropriations—
-
-  (A) investigate the criminal history records system of each State and determine for each State a timetable by which the State should be able to provide child abuse crime records on an on-line basis through the national criminal history background check system;
-
-  (B) in consultation with State officials, establish guidelines for the reporting or indexing of child abuse crime information, including guidelines relating to the format, content, and accuracy of criminal history records and other procedures for carrying out this subchapter; and
-
-  (C) notify each State of the determinations made pursuant to subparagraphs (A) and (B).
-
-(2) The Attorney General shall require as a part of each State timetable that the State—
-
-  (A) by not later than the date that is 5 years after December 20, 1993, have in a computerized criminal history file at least 80 percent of the final dispositions that have been rendered in all identifiable child abuse crime cases in which there has been an event of activity within the last 5 years;
-
-  (B) continue to maintain a reporting rate of at least 80 percent for final dispositions in all identifiable child abuse crime cases in which there has been an event of activity within the preceding 5 years; and
-
-  (C) take steps to achieve 100 percent disposition reporting, including data quality audits and periodic notices to criminal justice agencies identifying records that lack final dispositions and requesting those dispositions.
-
-**(c) Liaison** An authorized agency of a State shall maintain close liaison with the National Center on Child Abuse and Neglect, the National Center for Missing and Exploited Children, and the National Center for the Prosecution of Child Abuse for the exchange of technical assistance in cases of child abuse.
-
-**(d) Annual summary**
-
-(1) The Attorney General shall publish an annual statistical summary of child abuse crimes.
-
-(2) The annual statistical summary described in paragraph (1) shall not contain any information that may reveal the identity of any particular victim or alleged violator.
-
-**(e) Annual report** The Attorney General shall, subject to the availability of appropriations, publish an annual summary of each State’s progress in reporting child abuse crime information to the national criminal history background check system.
-
-**(f) Study of child abuse offenders**
-
-(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of Juvenile Justice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
-
-  (A) the percentage of convicted child abuse offenders who have more than 1 conviction for an offense involving child abuse;
-
-  (B) the percentage of convicted child abuse offenders who have been convicted of an offense involving child abuse in more than 1 State; and
-
-  (C) the extent to which and the manner in which instances of child abuse form a basis for convictions for crimes other than child abuse crimes.
-
-(2) Not later than 2 years after December 20, 1993, the Administrator shall submit a report to the Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
+## § 5119. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in subsec. (b)(1)(B), was in the original “this Act”, meaning Pub. L. 103–209, Dec. 20, 1993, 107 Stat. 2490, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
-
-#### Amendments
-1994—Subsec. (a). Pub. L. 103–322, § 320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
-
-Subsec. (b)(2)(A). Pub. L. 103–322, § 320928(i), substituted “5 years after” for “3 years after”.
-
-Subsec. (f)(2). Pub. L. 103–322, § 320928(h), substituted “2 years” for “1 year”.
-
-#### Short Title
-For short title of this subchapter as the “National Child Protection Act of 1993”, see section 1 of Pub. L. 103–209, set out as a note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101).
-
-#### Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse
-Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, provided that: “(1) In general.—The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by States for protecting children, the elderly, or individuals with disabilities from abuse. “(2) Matters to be addressed.—In developing guidelines under paragraph (1), the Attorney General shall address the availability, cost, timeliness, and effectiveness of criminal history background checks and recommend measures to ensure that fees for background checks do not discourage volunteers from participating in care programs. “(3) Dissemination.—The Attorney General shall, subject to the availability of appropriations, disseminate the guidelines to State and local officials and to public and private care providers.”
+#### Codification
+Section 5119 was editorially reclassified as [section 40101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-5119a"></a>
-## § 5119a. Background checks
-**(a) In general**
-
-(1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
-
-(2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
-
-(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
-
-**(b) Guidelines** The procedures established under subsection (a) of this section shall require—
-
-(1) that no qualified entity may request a background check of a provider under subsection (a) of this section unless the provider first provides a set of fingerprints and completes and signs a statement that—
-
-  (A) contains the name, address, and date of birth appearing on a valid identification document (as defined in [section 1028 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028&num=0&edition=prelim)) of the provider;
-
-  (B) the provider has not been convicted of a crime and, if the provider has been convicted of a crime, contains a description of the crime and the particulars of the conviction;
-
-  (C) notifies the provider that the entity may request a background check under subsection (a) of this section;
-
-  (D) notifies the provider of the provider’s rights under paragraph (2); and
-
-  (E) notifies the provider that prior to the completion of the background check the qualified entity may choose to deny the provider unsupervised access to a person to whom the qualified entity provides care;
-
-(2) that each provider who is the subject of a background check is entitled—
-
-  (A) to obtain a copy of any background check report; and
-
-  (B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
-
-(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
-
-(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
-
-(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
-
-**(c) Regulations**
-
-(1) The Attorney General may by regulation prescribe such other measures as may be required to carry out the purposes of this subchapter, including measures relating to the security, confidentiality, accuracy, use, misuse, and dissemination of information, and audits and recordkeeping.
-
-(2) The Attorney General shall, to the maximum extent possible, encourage the use of the best technology available in conducting background checks.
-
-**(d) Liability** A qualified entity shall not be liable in an action for damages solely for failure to conduct a criminal background check on a provider, nor shall a State or political subdivision thereof nor any agency, officer or employee thereof, be liable in an action for damages for the failure of a qualified entity (other than itself) to take action adverse to a provider who was the subject of a background check.
-
-**(e) Fees** In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
+## § 5119a. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
-
-#### Amendments
-1998—Subsec. (a)(3). Pub. L. 105–251, § 222(a), added par. (3).
-
-Subsec. (b)(5). Pub. L. 105–251, § 222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
-
-1994—Subsec. (a)(1). Pub. L. 103–322, § 320928(a)(1), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
-
-Subsec. (b)(1)(E). Pub. L. 103–322, § 320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
-
-Subsec. (b)(4). Pub. L. 103–322, § 320928(a)(2)(B), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
-
-Subsec. (d). Pub. L. 103–322, § 320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
-
-Subsec. (e). Pub. L. 103–322, § 320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
-
-#### Pilot Program for National Criminal History Background Checks and Feasibility Study
-Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, § 1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, § 6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, § 1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, § 2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, § 2, Oct. 13, 2008, 122 Stat. 4301; Pub. L. 111–143, § 2, Mar. 1, 2010, 124 Stat. 41; Pub. L. 111–341, § 2, Dec. 22, 2010, 124 Stat. 3606, provided that: “(a) Establishment of Pilot Program.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Apr. 30, 2003], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation. “(2) State pilot program.—“(A) In general.—The Attorney General shall designate 3 States as participants in a 30-month State pilot program. “(B) Volunteer organization requests.—A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State. “(C) State check.—The participating State under this paragraph after receiving a request under subparagraph (B) shall conduct a State background check and submit a request that a Federal check be performed through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation, to the Attorney General, in a manner to be determined by the Attorney General. “(D) Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act [of 1993, [42 U.S.C. 5119](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119) et seq.]. “(E) Costs.—A State may collect a fee to perform a criminal background check under this paragraph which may not exceed the actual costs to the State to perform such a check. “(F) Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State. “(3) Child safety pilot program.—“(A) In general.—The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation. “(B) Participating organizations.—“(i) Eligible organizations.—Eligible organizations include— “(I) the Boys and Girls Clubs of America; “(II) the MENTOR/National Mentoring Partnership; “(III) the National Council of Youth Sports; and “(IV) any nonprofit organization that provides care, as that term is defined in section 5 of the National Child Protection Act of 1993 ([42 U.S.C. 5119c](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119c)), for children. “(ii) Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive. “(C) Applicants from participating organizations.—Participating organizations may request background checks on applicants for positions as volunteers and employees who will be working with children or supervising volunteers. “(D) Procedures.—The Attorney General shall notify participating organizations of a process by which the organizations may provide fingerprint cards to the Attorney General. “(E) Volunteer information required.—An organization authorized to request a background check under this paragraph shall—“(i) forward to the Attorney General the volunteer’s fingerprints; and “(ii) obtain a statement completed and signed by the volunteer that— “(I) sets out the provider or volunteer’s name, address, date of birth appearing on a valid identification document as defined in [section 1028 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028&num=0&edition=prelim), United States Code, and a photocopy of the valid identifying document; “(II) states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record; “(III) notifies the volunteer that the Attorney General may perform a criminal history background check and that the volunteer’s signature to the statement constitutes an acknowledgment that such a check may be conducted; “(IV) notifies the volunteer that prior to and after the completion of the background check, the organization may choose to deny the provider access to children; and “(V) notifies the volunteer of his right to correct an erroneous record held by the Attorney General. “(F) Timing.—For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 10 business days after receiving the request from the organization. “(G) Determinations of fitness.—“(i) In general.—Consistent with the privacy protections delineated in the National Child Protection Act [of 1993] ([42 U.S.C. 5119](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5119) [et seq.]), the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports. “(ii) Child safety pilot program.—The National Center for Missing and Exploited Children shall convey that determination to the organizations making requests under this paragraph. “(4) Fees collected by attorney general.—The Attorney General may collect a fee which may not exceed $18 to cover the cost to the Federal Bureau of Investigation to conduct the background check under paragraph (2) or (3). “(b) Rights of Volunteers.—Each volunteer who is the subject of a criminal history background check under this section is entitled to contact the Attorney General to initiate procedures to—“(1) obtain a copy of their criminal history record report; and “(2) challenge the accuracy and completeness of the criminal history record information in the report. “(c) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section. “(2) State program.—There is authorized to be appropriated such sums as may be necessary to the Attorney General for the States designated in subsection (a)(1) for fiscal years 2004 and 2005 to establish and enhance fingerprint technology infrastructure of the participating State. “(d) Feasibility Study for a System of Background Checks for Employees and Volunteers.—“(1) Study required.—The Attorney General shall conduct a feasibility study within 180 days after the date of the enactment of this Act [Apr. 30, 2003]. The study shall examine, to the extent discernible, the following:“(A) The current state of fingerprint capture and processing at the State and local level, including the current available infrastructure, State system capacities, and the time for each State to process a civil or volunteer print from the time of capture to submission to the Federal Bureau of Investigation (FBI). “(B) The intent of the States concerning participation in a nationwide system of criminal background checks to provide information to qualified entities. “(C) The number of volunteers, employees, and other individuals that would require a fingerprint-based criminal background check. “(D) The impact on the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation in terms of capacity and impact on other users of the system, including the effect on Federal Bureau of Investigation work practices and staffing levels. “(E) The current fees charged by the Federal Bureau of Investigation, States and local agencies, and private companies to process fingerprints and conduct background checks. “(F) The existence of ‘model’ or best practice programs which could easily be expanded and duplicated in other States. “(G) The extent to which private companies are currently performing background checks and the possibility of using private companies in the future to perform any of the background check process, including, but not limited to, the capture and transmission of fingerprints and fitness determinations. “(H) The cost of development and operation of the technology and the infrastructure necessary to establish a nationwide fingerprint-based and other criminal background check system. “(I) The extent of State participation in the procedures for background checks authorized in the National Child Protection Act [of 1993] (Public Law 103–209), as amended by the Volunteers for Children Act (sections 221 and 222 of Public Law 105–251). “(J) The extent to which States currently provide access to nationwide criminal history background checks to organizations that serve children. “(K) The extent to which States currently permit volunteers to appeal adverse fitness determinations, and whether similar procedures are required at the Federal level. “(L) The implementation of the 2 pilot programs created in subsection (a). “(M) Any privacy concerns that may arise from nationwide criminal background checks. “(N) Any other information deemed relevant by the Department of Justice. “(O) The extent of participation by eligible organizations in the state pilot program. “(2) Interim report.—Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act [Apr. 30, 2003], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled. “(3) Final report.—Based on the findings of the pilot project, the Attorney General shall, not later than 60 days after completion of the pilot project under this section, submit to Congress a final report, including recommendations, which may include a proposal for grants to the States to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled, and which may include recommendations for amendments to the National Child Protection Act [of 1993] and the Volunteers for Children Act [see Short Title of 1998 Amendment note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101)] so that qualified entities can promptly and affordably conduct nationwide criminal history background checks on their employees and volunteers. “(e) Limitation on Liability.—In connection with the Pilot Programs established under this section, in reliance upon the fitness criteria established under section 108(a)(3)(G)(i), and except upon proof of actual malice or intentional misconduct, the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of the Center shall not be liable in any civil action for damages—“(1) arising from any act or communication by the Center, the director, officer, employee, or agent that results in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization; “(2) alleging harm arising from a decision based on the information in an individual’s criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual’s criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and “(3) alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.”
+#### Codification
+Section 5119a was editorially reclassified as [section 40102 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40102&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-5119b"></a>
-## § 5119b. Funding for improvement of child abuse crime information
-**(a) Omitted**
-
-**(b) Additional funding grants for improvement of child abuse crime information**
-
-(1) The Attorney General shall, subject to appropriations and with preference to States that, as of December 20, 1993, have in computerized criminal history files the lowest percentages of charges and dispositions of identifiable child abuse cases, make a grant to each State to be used—
-
-  (A) for the computerization of criminal history files for the purposes of this subchapter;
-
-  (B) for the improvement of existing computerized criminal history files for the purposes of this subchapter;
-
-  (C) to improve accessibility to the national criminal history background check system for the purposes of this subchapter;
-
-  (D) to assist the State in the transmittal of criminal records to, or the indexing of criminal history record in, the national criminal history background check system for the purposes of this subchapter; and
-
-  (E) to assist the State in paying all or part of the cost to the State of conducting background checks on persons who are employed by or volunteer with a public, not-for-profit, or voluntary qualified entity to reduce the amount of fees charged for such background checks.
-
-(2) There are authorized to be appropriated for grants under paragraph (1) a total of $20,000,000 for fiscal years 1999, 2000, 2001, and 2002.
-
-**(c) Withholding State funds** Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 3701](./chapter-046-justice-system-improvement.md#section-3701) et seq.] that is not in compliance with the requirements of this subchapter.
+## § 5119b. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Title I of the Act is classified principally to chapter 46 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title](./chapter-046-justice-system-improvement.md#section-3711) and Tables.
-
 #### Codification
-Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amended former [section 3759(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3759/b&num=0&edition=prelim).
-
-#### Amendments
-1998—Subsec. (b)(2). Pub. L. 105–251 substituted “1999, 2000, 2001, and 2002” for “1994, 1995, 1996, and 1997”.
-
-1994—Subsec. (b)(1)(E). Pub. L. 103–322, which directed the amendment of subsec. (b) by adding subpar. (E) at the end, was executed by adding subpar. (E) at the end of par. (1) of subsec. (b) to reflect the probable intent of Congress.
-
-#### Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by the Brady Handgun Violence Prevention Act and the National Child Protection Act of 1993
-For appropriations for amounts authorized in subsec. (b) of this section from the Violent Crime Reduction Trust Fund established by [section 14211 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14211), see section 210603(a) of Pub. L. 103–322, set out as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section 5119b was editorially reclassified as [section 40103 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40103&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-5119c"></a>
-## § 5119c. Definitions
-
-For the purposes of this subchapter—
-
-(1) the term “authorized agency” means a division or office of a State designated by a State to report, receive, or disseminate information under this subchapter;
-
-(2) the term “child” means a person who is a child for purposes of the criminal child abuse law of a State;
-
-(3) the term “child abuse crime” means a crime committed under any law of a State that involves the physical or mental injury, sexual abuse or exploitation, negligent treatment, or maltreatment of a child by any person;
-
-(4) the term “child abuse crime information” means the following facts concerning a person who has been arrested for, or has been convicted of, a child abuse crime: full name, race, sex, date of birth, height, weight, fingerprints, a brief description of the child abuse crime or offenses for which the person has been arrested or has been convicted, the disposition of the charge, and any other information that the Attorney General determines may be useful in identifying persons arrested for, or convicted of, a child abuse crime;
-
-(5) the term “care” means the provision of care, treatment, education, training, instruction, supervision, or recreation to children, the elderly, or individuals with disabilities;
-
-(6) the term “identifiable child abuse crime case” means a case that can be identified by the authorized criminal justice agency of the State as involving a child abuse crime by reference to the statutory citation or descriptive label of the crime as it appears in the criminal history record;
-
-(7) the term “individuals with disabilities” means persons with a mental or physical impairment who require assistance to perform one or more daily living tasks;
-
-(8) the term “national criminal history background check system” means the criminal history record system maintained by the Federal Bureau of Investigation based on fingerprint identification or any other method of positive identification;
-
-(9) the term “provider” means—
-
-  (A) a person who—
-
-    (i) is employed by or volunteers with a qualified entity (including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
-
-    (ii) who owns or operates a qualified entity; or
-
-    (iii) who has or may have unsupervised access to a child to whom the qualified entity provides child care; and
-
-  (B) a person who—
-
-    (i) seeks to be employed by or volunteer with a qualified entity (including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
-
-    (ii) seeks to own or operate a qualified entity; or
-
-    (iii) seeks to have or may have unsupervised access to a child to whom the qualified entity provides child care;
-
-(10) the term “qualified entity” means a business or organization, whether public, private, for-profit, not-for-profit, or voluntary, that provides care or care placement services, including a business or organization that licenses or certifies others to provide care or care placement services; and
-
-(11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
+## § 5119c. Transferred
 
 ### Statutory Notes
 
-#### Amendments
-2002—Par. (9)(A)(i). Pub. L. 107–110, § 1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
-
-Par. (9)(B)(i). Pub. L. 107–110, § 1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
-
-1994—Par. (5). Pub. L. 103–322, § 320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
-
-Pars. (6), (7). Pub. L. 103–322, § 320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
-
-Par. (8). Pub. L. 103–322, § 320928(j)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
-
-Pub. L. 103–322, § 320928(a)(3)(B), substituted “care” for “child care” wherever appearing.
-
-Pars. (9) to (11). Pub. L. 103–322, § 320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+#### Codification
+Section 5119c was editorially reclassified as [section 40104 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40104&num=0&edition=prelim), Crime Control and Law Enforcement.

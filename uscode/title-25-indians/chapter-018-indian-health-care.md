@@ -68,11 +68,11 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 (2) the Secretary of the Interior shall—
 
-  (A) deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.);1 and
+  (A) deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.); 1 and
 
-  (B) use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)));1 and
+  (B) use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b))); 1 and
 
-(3) the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)—1
+(3) the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)— 1
 
   (A) contract health services;
 

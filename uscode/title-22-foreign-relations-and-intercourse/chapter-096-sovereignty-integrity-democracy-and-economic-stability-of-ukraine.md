@@ -2,7 +2,7 @@
 title: 22
 chapter: '96'
 heading: 'SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE'
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -15,9 +15,9 @@ In this chapter:
 
 (2) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
 
-  (A) the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Appropriations, and the majority leader and minority leader of the Senate; and
+  (A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Appropriations, and the majority leader and minority leader of the Senate; and
 
-  (B) the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Speaker and minority leader of the House of Representatives.
+  (B) the Committee on Financial Services 11 So in original. Probably should be followed by a comma. the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Speaker and minority leader of the House of Representatives.
 
 (3) **Materially assisted** — The term “materially assisted” means the provision of assistance that is significant and of a kind directly relevant to acts described in paragraph (1), (2), or (3) of [section 8907(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8907/a&num=0&edition=prelim) or acts described in [section 8908(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8908/a/1&num=0&edition=prelim).
 
@@ -28,6 +28,11 @@ In this chapter:
   (B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
 ### Statutory Notes
+
+#### Amendments
+2017—Par. (2)(A). Pub. L. 115–44, § 228(b)(1), inserted “the Committee on Banking, Housing, and Urban Affairs,” before “the Committee on Foreign Relations”.
+
+Par. (2)(B). Pub. L. 115–44, § 228(b)(2), inserted “the Committee on Financial Services” before “the Committee on Foreign Affairs”.
 
 #### Short Title
 Pub. L. 113–95, § 1, Apr. 3, 2014, 128 Stat. 1088, provided that: “This Act [enacting this chapter] may be cited as the ‘Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014’.”
@@ -184,19 +189,28 @@ Section 314(a) of the Uniting and Strengthening America by Providing Appropriate
 
 (2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
 
-**(d) Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+**(d) Termination** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
+
+(1) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+(2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+
+**(e) Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2017—Subsecs. (d), (e). Pub. L. 115–44, which directed amendment of section 8 of the “Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014” by adding subsec. (d) and redesignating former subsec. (d) as (e), was executed to this section, which is section 8 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress.
+
 
 <a id="section-8908"></a>
 ## § 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption
-**(a) In general** The President is authorized and encouraged to impose the sanctions described in subsection (b) with respect to—
+**(a) In general** The President shall impose the sanctions described in subsection (b) with respect to—
 
-(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
+(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
 (2) any individual who has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an act described in paragraph (1).
 
@@ -218,23 +232,182 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
 (4) **Exception to comply with United Nations headquarters agreement** — Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
-**(c) Waiver** The President may waive the application of sanctions under subsection (b) with respect to a person if the President—
+**(c) Waiver** except 11 So in original. Probably should be capitalized. as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
 
 (1) determines that such a waiver is in the national security interests of the United States; and
 
 (2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
 
-**(d) Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+**(d) Termination** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
+
+(1) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+(2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+
+**(e) 22 So in original. Two subsecs. (e) have been enacted. Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
+
+**(e) 2 Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
+#### Codification
+Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the “Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014”, were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–44, § 227(1)(A), substituted “shall” for “is authorized and encouraged to” in introductory provisions. See Codification note above.
+
+Subsec. (a)(1). Pub. L. 115–44, § 227(1)(B), substituted “President determines is, on or after August 2, 2017,” for “President determines is” and inserted “or elsewhere” after “in the Russian Federation”. See Codification note above.
+
+Subsec. (c). Pub. L. 115–44, § 227(3), substituted “except as provided in subsection (d), the President” for “The President” in introductory provisions. See Codification note above.
+
+Subsecs. (d), (e). Pub. L. 115–44, § 230(b), added subsec. (d) and redesignated former subsec. (d), as added by Pub. L. 115–44, § 227(2), and relating to application of new sanctions, as (e). See Codification note above.
+
+Pub. L. 115–44, § 227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
+
 
 <a id="section-8909"></a>
-## § 8909. Repealed. Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491
+## § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
+**(a) In general** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person knowingly, on or after August 2, 2017—
+
+(1) materially violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition contained in or issued pursuant to any covered Executive order, this chapter, or the Ukraine Freedom Support Act of 2014 ([22 U.S.C. 8921](./chapter-96a-ukraine-freedom-support.md#section-8921) et seq.); or
+
+(2) facilitates a significant transaction or transactions, including deceptive or structured transactions, for or on behalf of—
+
+  (A) any person subject to sanctions imposed by the United States with respect to the Russian Federation; or
+
+  (B) any child, spouse, parent, or sibling of an individual described in subparagraph (A).
+
+**(b) Sanctions described** The sanctions described in this subsection are the exercise of all powers granted to the President by the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+**(c) Implementation; penalties**
+
+(1) **Implementation** — The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) and 1704) to carry out subsection (b).
+
+(2) **Penalties** — A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+**(d) Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter;
+
+(2) in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraph (A), (B), (C), or (D) of subsection (f)(1), a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine; and
+
+(3) in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraphs (E) or (F) of subsection (f)(1), a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+
+**(e) Termination** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees—
+
+(1) a notice of and justification for the termination; and
+
+(2) a notice that—
+
+  (A) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+  (B) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+
+**(f) Definitions** In this section:
+
+(1) **Covered executive order** — The term “covered Executive order” means any of the following:
+
+  (A) Executive Order No. 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine).
+
+  (B) Executive Order No. 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine).
+
+  (C) Executive Order No. 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine).
+
+  (D) Executive Order No. 13685 (79 Fed. Reg. 77357; relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine).
+
+  (E) Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), relating to the Russian Federation.
+
+  (F) Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
+
+(2) **Foreign person** — The term “foreign person” has the meaning given such term in section 595.304 of title 31, Code of Federal Regulations (as in effect on August 2, 2017).
+
+(3) **Structured** — The term “structured”, with respect to a transaction, has the meaning given the term “structure” in paragraph (xx) of section 1010.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
 ### Statutory Notes
 
-Section, Pub. L. 113–95, § 10, Apr. 3, 2014, 128 Stat. 1096, related to annual report on military and security developments involving the Russian Federation and was superseded by Pub. L. 113–291, div. A, title XII, § 1245, Dec. 19, 2014, 128 Stat. 3566, which is not classified to the Code.
+#### References in Text
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
+
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+Executive Order No. 13660, referred to in subsec. (f)(1)(A), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13661, referred to in subsec. (f)(1)(B), is Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13662, referred to in subsec. (f)(1)(C), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13685, referred to in subsec. (f)(1)(D), is Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13694, referred to in subsec. (f)(1)(E), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13757, referred to in subsec. (f)(1)(F), is Ex. Ord. No. 13757, Dec. 28, 2016, 82 F.R. 1, sections 1 to 3 of which amended Ex. Ord. No. 13694, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+#### Prior Provisions
+A prior section 8909, Pub. L. 113–95, § 10, Apr. 3, 2014, 128 Stat. 1096, which related to annual report on military and security developments involving the Russian Federation, and was superseded by Pub. L. 113–291, div. A, title XII, § 1245, Dec. 19, 2014, 128 Stat. 3566, which is not classified to the Code, was repealed by Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491.
+
+
+<a id="section-8909"></a>
+## § 8909. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
+**(a) In general** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person, based on credible information, on or after August 2, 2017—
+
+(1) is responsible for, complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses in any territory forcibly occupied or otherwise controlled by the Government of the Russian Federation;
+
+(2) materially assists, sponsors, or provides financial, material, or technological support for, or goods or services to, a foreign person described in paragraph (1); or
+
+(3) is owned or controlled by, or acts or purports to act for or on behalf of, directly or indirectly, a foreign person described in paragraph (1).
+
+**(b) Sanctions described**
+
+(1) **Asset blocking** — The exercise of all powers granted to the President by the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(2) **Exclusion from the United States and revocation of visa or other documentation** — In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with [section 1201(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1201/i&num=0&edition=prelim), of any visa or other documentation of the alien.
+
+**(c) Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation has made efforts to reduce serious human rights abuses in territory forcibly occupied or otherwise controlled by that Government.
+
+**(d) Implementation; penalties**
+
+(1) **Implementation** — The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) and 1704) to carry out subsection (b)(1).
+
+(2) **Penalties** — A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b)(1) or any regulation, license, or order issued to carry out subsection (b)(1) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+**(e) Termination** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees—
+
+(1) a notice of and justification for the termination; and
+
+(2) a notice—
+
+  (A) that—
+
+    (i) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+    (ii) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future; or
+
+  (B) that the President determines that insufficient basis exists for the determination by the President under subsection (a) with respect to the person.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.

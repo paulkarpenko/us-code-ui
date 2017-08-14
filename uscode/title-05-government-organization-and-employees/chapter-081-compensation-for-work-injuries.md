@@ -23,9 +23,9 @@ For the purpose of this subchapter—
 
   (E) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
 
-  (F) 1 an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
+  (F) an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
 
-  (G) an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to [section 5165f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim);
+  (G) an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
   but does not include—
 
   (i) a commissioned officer of the Regular Corps of the Public Health Service;
@@ -149,12 +149,12 @@ In paragraph (19), the words “July 1966 and each later month” are substitute
 #### References in Text
 Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
+Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (1)(G), is classified to [section 5165f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Amendments
 2016—Par. (1)(D). Pub. L. 114–326, § 2(b)(1)(A), struck out “and” after semicolon at end.
 
-Par. (1)(F). Pub. L. 114–326, § 2(b)(1)(B), (C), moved subpar. (F) from end of par. to appear immediately after subpar. (E), struck out “United States Code,” after “title 28,”, and inserted “and” at end.
-
-Par. (1)(G). Pub. L. 114–326, § 2(b)(1)(D), added subpar. (G).
+Par. (1)(F), (G). Pub. L. 114–326, § 2(b)(1)(B)–(D), transferred subpar. (F) and inserted it between subpar. (E) and concluding provisions, struck out “United States Code,” after “title 28,” in subpar. (F), and added subpar. (G) after subpar. (F).
 
 1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

@@ -1501,6 +1501,8 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 Pub. L. 110–229, title VIII, § 803(b), May 8, 2008, 122 Stat. 870, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as of the date that is 180 days after the date of enactment of this Act [May 8, 2008].”
 
 #### Continued Applicability of Subsection (f)(1)(B)(ix)
+Pub. L. 115–31, div. H, title III, § 305, May 5, 2017, 131 Stat. 552, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1921d/f/1/B/ix&num=0&edition=prelim)) shall be applied by substituting ‘2017’ for ‘2016’ [sic].”
+
 Pub. L. 114–113, div. H, title III, § 306, Dec. 18, 2015, 129 Stat. 2637, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1921d/f/1/B/ix&num=0&edition=prelim)) shall be applied by substituting ‘2016’ for ‘2009’.”
 
 Pub. L. 113–235, div. G, title III, § 306, Dec. 16, 2014, 128 Stat. 2504, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1921d/f/1/B/ix&num=0&edition=prelim)) shall be applied by substituting ‘2015’ for ‘2009’.”
@@ -1826,7 +1828,7 @@ Public Law 99–658, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 10
 
 The Compact of Free Association between the United States and Palau, referred to in text, is contained in section 201 of Pub. L. 99–658, set out as a note under [section 1931 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931).
 
-This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 3791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3791&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
+This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 10251 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10251&num=0&edition=prelim), Crime Control and Law Enforcement, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
 
 For Oct. 1, 1994, as the effective date of the Compact, referred to in par. (2), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under [section 1931 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931).
 
@@ -1845,7 +1847,7 @@ Upon request of the Government of Palau, the Secretary of the Interior shall pro
 ### Statutory Notes
 
 #### References in Text
-This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 3791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3791&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
+This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 10251 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10251&num=0&edition=prelim), Crime Control and Law Enforcement, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
 
 Public Law 99–658, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A of this subchapter. For complete classification of this Act to the Code, see Tables.
 
@@ -2025,7 +2027,7 @@ Any agreement concluded with the Government of Palau pursuant to this joint reso
 ### Statutory Notes
 
 #### References in Text
-This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 3791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3791&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
+This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and [section 10251 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10251&num=0&edition=prelim), Crime Control and Law Enforcement, and enacted provisions set out as a note under [section 1905 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1905&num=0&edition=prelim), Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
 
 The Compact, referred to in text, is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under [section 1931 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931).
 

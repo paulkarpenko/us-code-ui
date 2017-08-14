@@ -160,7 +160,7 @@ Sections 1321 and 1322 were omitted as not of general application, and as covere
 
 Section 1321, acts Aug. 21, 1916, ch. 371, § 10, 39 Stat. 529; June 19, 1934, ch. 667, § 1, 48 Stat. 1122, related to passage of persons through the Canal Zone.
 
-Section 1322, acts Aug. 21, 1916, ch. 371, 39 Stat. 529; June 19, 1934, ch. 667, § 1, 48 Stat. 1122, related to injury to Canal and appurtenances.
+Section 1322, acts Aug. 21, 1916, ch. 371, § 10, 39 Stat. 529; June 19, 1934, ch. 667, § 1, 48 Stat. 1122, related to injury to Canal and appurtenances.
 
 
 <a id="section-1323-to-1323-3"></a>
@@ -296,7 +296,7 @@ Section 1329, acts Mar. 3, 1915, ch. 75, § 3, 38 Stat. 886; June 10, 1921, ch. 
 #### Codification
 Sections 1330 to 1336h were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, § 3303(b), and repealed by Pub. L. 104–201, § 3549.
 
-Section 1330, act Aug. 24, 1912, ch. 390, 12, 37 Stat. 569, related to extradition of fugitives.
+Section 1330, act Aug. 24, 1912, ch. 390, § 12, 37 Stat. 569, related to extradition of fugitives.
 
 Section 1330–1, act Dec. 16, 1941, ch. 580, § 2, 55 Stat. 802, related to extradition to and from the United States.
 
@@ -418,7 +418,7 @@ Section 1344, acts Aug. 24, 1912, ch. 390, § 8, 37 Stat. 565; Sept. 21, 1922, c
 #### Codification
 Sections 1344a to 1355 were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, § 3303(b), and repealed by Pub. L. 104–201, § 3549.
 
-Section 1344a, acts Aug. 12, 1912, ch. 390, § 8, 37 Stat. 565; Sept. 21, 1922, ch. 370, § 2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, § 2, 47 Stat. 816, related to orders made when outside jurisdiction.
+Section 1344a, acts Aug. 24, 1912, ch. 390, § 8, 37 Stat. 565; Sept. 21, 1922, ch. 370, § 2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, § 2, 47 Stat. 816, related to orders made when outside jurisdiction.
 
 Section 1345, acts Aug. 24, 1912, ch. 390, § 8, 37 Stat. 565; Sept. 21, 1922, ch. 370, § 2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, § 2, 47 Stat. 815, related to general jurisdiction of district court.
 

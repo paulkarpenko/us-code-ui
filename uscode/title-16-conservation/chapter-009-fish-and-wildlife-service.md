@@ -889,7 +889,7 @@ Section, act July 2, 1942, ch. 473, § 1, 56 Stat. 557, which authorized the Fis
 <a id="section-753"></a>
 ## § 753. Cooperative work
 
-On and after July 2, 1942, cooperative work conducted by the United States Fish and Wildlife Service shall be subject to the provisions of the Act of July 24, 1919 [[7 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450b&num=0&edition=prelim), 2220].
+On and after July 2, 1942, cooperative work conducted by the United States Fish and Wildlife Service shall be subject to the provisions of the Act of July 24, 1919 [[7 U.S.C. 2220](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2220&num=0&edition=prelim), 2279i].
 
 ### Statutory Notes
 

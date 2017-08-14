@@ -1611,9 +1611,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Overall Minimum Share Requirement
-Pub. L. 114–113, div. H, title IV, § 404, Dec. 18, 2015, 129 Stat. 2642, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+Pub. L. 115–31, div. H, title IV, § 402, May 5, 2017, 131 Stat. 555, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. H, title IV, § 404, Dec. 18, 2015, 129 Stat. 2642.
 
 Pub. L. 113–235, div. G, title IV, § 402, Dec. 16, 2014, 128 Stat. 2508.
 
@@ -5660,7 +5662,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 **(b) Requirements** A criminal history check under subsection (a) shall, except in cases approved for good cause by the Corporation, include—
 
-(1) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); and
+(1) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); 11 See References in Text note below. and
 
 (2)
 
@@ -5674,7 +5676,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 (2) makes a false statement in connection with such criminal history check;
 
-(3) is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); or
+(3) is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); 1 or
 
 (4) has been convicted of murder, as described in [section 1111 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1111&num=0&edition=prelim).
 
@@ -5682,7 +5684,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 (1) **In general** — Notwithstanding subsection (b), on and after the date that is 2 years after April 21, 2009, a criminal history check under subsection (a) for each individual described in paragraph (2) shall, except for an entity described in paragraph (3), include—
 
-  (A) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.);
+  (A) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); 1
 
   (B) a search of the State criminal registry or repository in the State in which the program is operating and the State in which the individual resides at the time of application; and
 
@@ -5715,7 +5717,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 ### Statutory Notes
 
 #### References in Text
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§ 16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901) and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which was classified principally to chapter 151 (§ 16901 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2009—Pub. L. 111–13, § 1614(a), added subsec. (d).

@@ -32,9 +32,6 @@ Amounts may be appropriated to or for the use of the Coast Guard for the followi
 
 The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
 
-#### Prior Provisions
-A prior section 662 was renumbered [section 2701 of this title](./chapter-027-authorizations.md#section-2701).
-
 #### Amendments
 2016—Pub. L. 114–120, § 101(b)(1), (2), renumbered [section 662 of this title](./chapter-017-administration.md#section-662) as this section.
 
@@ -127,9 +124,6 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 | 661 | 14:ch. 11(note). | Sept. 10, 1976, Pub. L. 94–406, § 6, 90 Stat. 1236. |
 
 The words “after fiscal year 1977” are omitted as executed. The word “Amounts” is substituted for “funds” for clarity and consistency.
-
-#### Prior Provisions
-A prior section 661 was renumbered [section 2703 of this title](./chapter-027-authorizations.md#section-2703).
 
 #### Amendments
 2016—Pub. L. 114–120 renumbered [section 661 of this title](./chapter-017-administration.md#section-661) as this section.

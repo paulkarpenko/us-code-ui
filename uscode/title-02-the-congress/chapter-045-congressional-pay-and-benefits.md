@@ -1295,10 +1295,10 @@ Pub. L. 100–202, § 101(i) [title III, § 311(c)], Dec. 22, 1987, 101 Stat. 13
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under [section 5341 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), Government Organization and Employees.
 
-#### December 28, 2015
+#### May 5, 2017
 By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)) in order—
 
-(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2016, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
+(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2017, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
 
 (2) to provide (subject to such provisions of law) for the restoration of, and to maintain in effect, the same pay relationships that existed on December 31, 1986, between personnel and Senators and between Senate positions,
 
@@ -1317,7 +1317,7 @@ Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the
 (c) The annual rates of compensation of the Deputy Legislative Counsel and the Senior Counsels in the Office of the Legislative Counsel and the maximum annual rates of compensation for the Assistant Secretary of the Senate, the Parliamentarian, the Financial Clerk, the Assistant to the Majority Leader for Floor Operations, the Assistant to the Minority Leader for Floor Operations, the Chief of Staff for the Majority Leader, and the Chief of Staff for the Minority Leader shall each be $171,315.
 
 #### chaplain’s office
-Sec. 3. The annual rate of compensation of the Chaplain shall be $160,300.
+Sec. 3. The annual rate of compensation of the Chaplain shall be $160,787.
 
 #### offices of senate
 Sec. 4. (a) The following individuals are authorized to increase the annual rates of compensation of the employees specified, subject to applicable limitations adjusted by this Order:
@@ -1326,54 +1326,52 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 (2) The President pro tempore, for any employee under his jurisdiction.
 
-(3) The Deputy President pro tempore, for any employee under his jurisdiction.
+(3) The Majority Leader and the Minority Leader, for any employee under their respective jurisdictions (subject, in the case of the Assistant to the Majority Leader for Floor Operations, the Assistant to the Minority Leader for Floor Operations, the Chief of Staff for the Majority Leader, and the Chief of Staff for the Minority Leader, respectively, to the provisions of section 2(c) of this Order).
 
-(4) The Majority Leader and the Minority Leader, for any employee under their respective jurisdictions (subject, in the case of the Assistant to the Majority Leader for Floor Operations, the Assistant to the Minority Leader for Floor Operations, the Chief of Staff for the Majority Leader, and the Chief of Staff for the Minority Leader, respectively, to the provisions of section 2(c) of this Order).
+(4) The Majority Whip and the Minority Whip, for any employee under their respective jurisdictions.
 
-(5) The Majority Whip and the Minority Whip, for any employee under their respective jurisdictions.
+(5) The Secretary of the Conference of the Majority and the Assistant Minority Leader, for any employee under their respective jurisdictions.
 
-(6) The Secretary of the Conference of the Majority and the Secretary of the Conference of the Minority, for any employee under their respective jurisdictions.
+(6) The Secretary of the Senate, for any employee under her jurisdiction (subject to the provisions of section 2(c) of this Order).
 
-(7) The Secretary of the Senate, for any employee under her jurisdiction (subject to the provisions of section 2(c) of this Order).
+(7) The Sergeant at Arms and Doorkeeper, for any employee under his jurisdiction.
 
-(8) The Sergeant at Arms and Doorkeeper, for any employee under his jurisdiction.
+(8) The Chaplain, for any employee under his jurisdiction.
 
-(9) The Chaplain, for any employee under his jurisdiction.
+(9) The Legislative Counsel, subject to the approval of the President pro tempore, for any employee under his jurisdiction (other than the Deputy Legislative Counsel and the Senior Counsels).
 
-(10) The Legislative Counsel, subject to the approval of the President pro tempore, for any employee under his jurisdiction (other than the Deputy Legislative Counsel and the Senior Counsels).
+(10) The Senate Legal Counsel, for any employee under her jurisdiction (subject to the provisions of section 701(b) of the Ethics in Government Act of 1978 ([2 U.S.C. 288(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288/b&num=0&edition=prelim))).
 
-(11) The Senate Legal Counsel, for any employee under her jurisdiction (subject to the provisions of section 701(b) of the Ethics in Government Act of 1978 ([2 U.S.C. 288(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288/b&num=0&edition=prelim))).
+(11) The Secretary for the Majority and the Secretary for the Minority, for any employee under their respective jurisdictions.
 
-(12) The Secretary for the Majority and the Secretary for the Minority, for any employee under their respective jurisdictions.
-
-(13) The appointing authority of any Senate entity not referred to under paragraphs (1) through (12) for any employee under its jurisdiction.
+(12) The appointing authority of any Senate entity not referred to under paragraphs (1) through (11) for any employee under its jurisdiction.
 
 (b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as such rate is adjusted in section 7(b) of this Order).
 
 #### committee staffs
-Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)) (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the conference majority and the conference minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which such chairman is chairman, subject to applicable limitations adjusted by this Order.
+Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)) (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the Conference of the Majority and the Conference of the Minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which such chairman is chairman, subject to applicable limitations adjusted by this Order.
 
-(b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/e&num=0&edition=prelim)) (as provided for in section 5(b) of the Order of the President pro tempore of December 23, 2014) shall remain unchanged.
+(b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/e&num=0&edition=prelim)) (as provided for in section 5(b) of the Order of the President pro tempore of December 28, 2015) shall remain unchanged.
 
 #### senators’ offices
 Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)), as modified by this Order, and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in the office of the Senator, subject to applicable limitations adjusted by this Order.
 
-(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2015, increased by an additional 1.46 percent.
+(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2016, increased by an additional 2.88 percent.
 
-(c) The figures “$2,798” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of December 23, 2014) shall be deemed to be the figures “$2,839” and “$169,459”, respectively.
+(c) The figures “$2,839” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figures “$2,921” and “$169,459”, respectively.
 
 (d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 [Pub. L. 95–94] ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575) note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $508,377.
 
 #### general limitation
-Sec. 7. (a) The figure “$2,798” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of December 23, 2014) shall be deemed to be the figure “$2,839”.
+Sec. 7. (a) The figure “$2,839” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figure “$2,921”.
 
-(b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided for in section 7(b) of the Order of the President pro tempore of December 23, 2014) shall remain unchanged.
+(b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided for in section 7(b) of the Order of the President pro tempore of December 28, 2015) shall remain unchanged.
 
 #### notifying disbursing office of increases
-Sec. 8. In order for an employee to receive the increase in the annual rate of compensation of the employee pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that the individual authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2016.
+Sec. 8. In order for an employee to receive the increase in the annual rate of compensation of the employee pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that the individual authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2017.
 
 #### dual compensation
-Sec. 9. The figure “$33,668” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of December 23, 2014) shall be deemed to be the figure “$34,160”.
+Sec. 9. The figure “$34,160” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figure “$35,144”.
 
 #### office of the senate legal counsel
 Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall be $172,500.
@@ -1383,13 +1381,15 @@ Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall b
 (c) The maximum annual rate of compensation of each Assistant Senate Legal Counsel may not at any time exceed the rate equal to the difference between the annual rate of compensation for a position referred to in section 2(a) and $4,900.
 
 #### effective date
-Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2016.
+Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2017.
 
 Orrin G. Hatch
 
 President pro tempore
 
 Prior Orders of the President pro tempore of the Senate were issued on the following dates:
+
+Dec. 28, 2015, eff. Jan. 1, 2016.
 
 Dec. 23, 2014, eff. Jan. 1, 2015.
 
@@ -1624,7 +1624,7 @@ Section was formerly classified to [section 61 of this title](./chapter-004-offi
 ### Statutory Notes
 
 #### Increase in Aggregate Compensation of Employees in Offices of Senators
-For increase in amounts in table in subsection (d)(1)(A) of this section, that is not reflected in text, see 2002 to 2010 Amendment notes below.
+For increase in amounts in table in subsection (d)(1)(A) of this section, that is not reflected in text, see 2002 to 2017 Amendment notes below.
 
 #### Codification
 Section was formerly classified to [section 61–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61-1) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
@@ -1632,6 +1632,18 @@ Section was formerly classified to [section 61–1 of this title](./chapter-004-
 Section is comprised of subsecs. (a) to (f) and (j) of section 105 of Pub. L. 90–57, the Legislative Branch Appropriation Act, 1968. Subsec. (j), which was redesignated subsec. (g) of this section for purposes of codification, was repealed by Pub. L. 104–186. Other subsections of such section 105 provided as follows: subsecs. (g) and (h) amended [section 4507(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4507/b&num=0&edition=prelim) and [section 5533(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c&num=0&edition=prelim), respectively; subsec. (i) repealed sections 60f, 72a–1, 72a–1a, and 72a–4 of this title and amended provisions set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571); subsec. (k) is set out as an Effective Date note below.
 
 #### Amendments
+2017—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2017, by section 6(b) of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2016, to be increased by an additional 2.88 percent.
+
+Subsec. (d)(2). Figures “$2,839” and “$169,459” to be deemed to refer, effective Jan. 1, 2017, to the figures “$2,921” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+Subsec. (f). Figure “$2,839” to be deemed to refer, effective Jan. 1, 2017, to the figure “$2,921”, see section 7(a) of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+2015—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2016, by section 6(b) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2015, to be increased by an additional 1.46 percent.
+
+Subsec. (d)(2). Figures “$2,798” and “$169,459” to be deemed to refer, effective Jan. 1, 2016, to the figures “$2,839” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+Subsec. (f). Figure “$2,798” to be deemed to refer, effective Jan. 1, 2016, to the figure “$2,839”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
 2014—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2015, by section 6(b) of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2014, to be increased by an additional 1.00 percent.
 
 The table was revised upward, effective Jan. 1, 2014, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2013, to be increased by an additional 1.00 percent.
@@ -2171,9 +2183,9 @@ Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in p
 #### Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.
 Pub. L. 95–94, title I, § 111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, § 206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, § 1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that: “(a) Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified ([2 U.S.C. 61–1(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61–1/d&num=0&edition=prelim)) [now [2 U.S.C. 4575(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d&num=0&edition=prelim)], is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator. “(b) [Repealed. Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819].”
 
-[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $508,377 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
+[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $508,377 by § 6(d) of the Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
 
-[Prior increases in the amount of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d).]
+[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d).]
 
 [Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress [Jan. 6, 1987]].
 

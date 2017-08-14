@@ -31,12 +31,16 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
   (C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
 
+(4) Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 4104 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2017—Par. (4). Pub. L. 115–41 added par. (4).
+
 2016—Par. (3). Pub. L. 114–256 inserted “licensed hearing aid specialists,” after “Audiologists,” in introductory provisions.
 
 2015—Par. (3)(A)(ii). Pub. L. 114–58 struck out “that” before “would otherwise receive”.
@@ -59,6 +63,15 @@ Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out form
 
 #### Effective Date of 2003 Amendment
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
+
+#### Encouragement of Transition of Military Medical Professionals Into Employment With Veterans Health Administration
+Pub. L. 115–46, title II, § 207, Aug. 12, 2017, 131 Stat. 964, provided that: “The Secretary of Veterans Affairs shall establish a program to encourage an individual who serves in the Armed Forces with a military occupational specialty relating to the provision of health care to seek employment with the Veterans Health Administration when the individual has been discharged or released from service in the Armed Forces or is contemplating separating from such service.”
+
+#### Training for Human Resources Professionals of Veterans Health Administration on Recruitment and Retention
+Pub. L. 115–46, title II, § 209, Aug. 12, 2017, 131 Stat. 965, provided that: “(a) In General.—The Secretary of Veterans Affairs shall provide to human resources professionals of the Veterans Health Administration training on how to best recruit and retain employees of the Veterans Health Administration, including with respect to any recruitment and retention matters that are unique to the Veterans Health Administration pursuant to chapter 74 of title 38, United States Code, or other provisions of law. “(b) Virtual Training.—Training provided under this section shall be provided virtually. “(c) Amount of Training.—The Secretary shall ensure that each human resources professional of the Veterans Health Administration receives the training described in subsection (a)—“(1) as soon as practicable after being hired by the Secretary as a human resources professional; and “(2) annually thereafter. “(d) Certification.—The Secretary shall require that each human resources professional of the Veterans Health Administration, upon the completion of the training described in subsection (a), certifies that the professional received the training and understands the information provided by the training. “(e) Annual Report.—Not less frequently than annually, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the training described in subsection (a), including the cost of providing such training and the number of human resources professionals who received such training during the year covered by the report.”
+
+#### Plan To Hire Directors of Medical Centers of Department of Veterans Affairs
+Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided that: “(a) Plan.—Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan. “(b) Priority.—The Secretary shall prioritize under the plan developed under subsection (a) the hiring of directors for medical centers that have not had a permanent director for the longest periods. “(c) Matters Included.—The plan developed under subsection (a) shall include the following:“(1) A deadline to hire directors of medical centers of the Department as described in such subsection. “(2) Identification of the possible impediments to such hiring. “(3) Identification of opportunities to promote and train candidates from within the Department to senior executive positions in the Department, including as directors of medical centers. “(d) Submittal of Plan.—Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the plan developed under subsection (a). “(e) Semiannual Reports.—Not later than 180 days after the date of the enactment of this Act, and not later than 180 days thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing a list of each medical center of the Department that lacks a permanent director as of the date of the report.”
 
 #### Licensed Hearing Aid Specialists Appointment and Services
 Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that: “(b) Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary [of Veterans Affairs] shall ensure that—“(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist’s State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas; “(2) services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and “(3) the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist. “(c) Consultation.—In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate.”
@@ -361,7 +374,11 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
 ## § 7404. Grades and pay scales
 **(a)**
 
-(1) The annual rates or ranges of rates of basic pay for positions provided in [section 7306 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7306) shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
+(1)
+
+  (A) The annual rates or ranges of rates of basic pay for positions provided in section 11 So in original. Probably should be “sections”. 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
+
+  (B) [Section 5377 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377&num=0&edition=prelim) shall apply to a position under [section 7401(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/4&num=0&edition=prelim) as if such position were included in the definition of “position” in [section 5377(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377/a&num=0&edition=prelim).
 
 (2) The pay of physicians and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
 
@@ -411,6 +428,8 @@ Level II of the Executive Schedule, referred to in subsec. (a)(3)(B)(ii), is set
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–41 designated existing provisions as subpar. (A), inserted “and 7401(4)” after “section 7306”, and added subpar. (B).
+
 2010—Subsec. (a). Pub. L. 111–163 designated first sentence as par. (1) and second sentence as par. (2), substituted “under paragraph (1)” for “under the preceding sentence” in par. (2), and added par. (3).
 
 2006—Subsec. (d). Pub. L. 109–461, § 202(1), substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
@@ -757,13 +776,15 @@ Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that:
 
 <a id="section-7412"></a>
 ## § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
-**(a) In General.—** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, the five occupations of personnel of this title of the Department covered under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) for which there are the largest staffing shortages throughout the Department as calculated over the five-year period preceding the determination.
+**(a) In General.—** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, at a minimum, the five clinical occupations and the five nonclinical occupations of personnel of this title of the Department covered under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) for which there are the largest staffing shortages with respect to each medical center of the Department, as calculated over the five-year period preceding the determination.
 
 **(b) Recruitment and Appointment.—** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under subsection (a) that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–46 substituted “at a minimum, the five clinical occupations and the five nonclinical occupations” for “the five occupations” and “with respect to each medical center of the Department,” for “throughout the Department”.
+
 2016—Subsec. (b). Pub. L. 114–315 substituted “under subsection (a)” for “under paragraph (1)”.
 
 #### Deadline for First Determination
@@ -1197,7 +1218,9 @@ Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 19
 
   (A) Registered nurse.
 
-  (B) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, dentist, and registered nurse) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+  (B) Physician assistant.
+
+  (C) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, dentist, registered nurse, and physician assistant) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)
 
@@ -1317,6 +1340,8 @@ Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2017—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted “registered nurse, and physician assistant” for “and registered nurse”.
+
 2010—Subsec. (c)(2). Pub. L. 111–163, § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
 
 Subsec. (d)(3)(F). Pub. L. 111–163, § 601(j)(1), added subpar. (F).
@@ -1979,15 +2004,11 @@ Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “
 
 (1) If the case involves or includes a question of professional conduct or competence in which a major adverse action was taken, such an appeal shall be made to a Disciplinary Appeals Board under [section 7462 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7462).
 
-(2) In any other case, such an appeal shall be made—
-
-  (A) through Department grievance procedures under [section 7463 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7463), in any case that involves or includes a question of professional conduct or competence in which a major adverse action was not taken or in any case of an employee who is not covered by a collective bargaining agreement under chapter 71 of title 5; or
-
-  (B) through grievance procedures provided through collective bargaining under chapter 71 of title 5 or through Department grievance procedures under [section 7463 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7463), as the employee elects, in the case of an employee covered by a collective bargaining agreement under chapter 71 of title 5 that does not involve or include a question of professional conduct or competence.
+(2) In any case other than a case described in paragraph (1) that involves or includes a question of professional conduct or competence in which a major adverse action was not taken, such an appeal shall be made through Department grievance procedures under [section 7463 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7463).
 
 **(c)** For purposes of this subchapter—
 
-(1) Section 7401(1) employees are employees of the Department employed on a full-time basis under a permanent appointment in a position listed in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) (other than interns and residents appointed pursuant to [section 7406 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7406)).
+(1) Section 7401(1) employees are employees of the Department employed on a full-time basis under a permanent appointment in a position listed in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) (other than employees in senior executive positions (as defined in [section 713(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim)) and interns and residents appointed pursuant to [section 7406 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7406)).
 
 (2) A major adverse action is an adverse action which includes any of the following:
 
@@ -2017,6 +2038,10 @@ Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “
 Provisions similar to those in this subchapter were contained in [section 4110 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4110) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2017—Subsec. (b)(2). Pub. L. 115–41, § 208(a), amended par. (2) generally. Prior to amendment, par. (2) related to the appeals procedure for cases not described in par. (1).
+
+Subsec. (c)(1). Pub. L. 115–41, § 201(b), inserted “employees in senior executive positions (as defined in [section 713(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim)) and” before “interns”.
+
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
 #### Regulations
@@ -2039,25 +2064,29 @@ Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: �
 
 **(b)**
 
-(1) In any case in which charges are brought against a section 7401(1) employee which arises out of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled to the following:
+(1) In any case in which charges are brought against a section 7401(1) employee which arises out of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled, within the aggregate time period specified in paragraph (5)(A), to the following:
 
-  (A) At least 30 days advance written notice from the Under Secretary for Health or other charging official specifically stating the basis for each charge, the adverse actions that could be taken if the charges are sustained, and a statement of any specific law, regulation, policy, procedure, practice, or other specific instruction that has been violated with respect to each charge, except that the requirement for notification in advance may be waived if there is reasonable cause to believe that the employee has committed a crime for which the employee may be imprisoned.
+  (A) Advance written notice from the Under Secretary for Health or other charging official specifically stating the basis for each charge, the adverse actions that could be taken if the charges are sustained, a statement of any specific law, regulation, policy, procedure, practice, or other specific instruction that has been violated with respect to each charge, and a file containing all the evidence in support of each charge, except that the requirement for notification in advance may be waived if there is reasonable cause to believe that the employee has committed a crime for which the employee may be imprisoned.
 
-  (B) A reasonable time, but not less than seven days, to present an answer orally and in writing to the Under Secretary for Health or other deciding official, who shall be an official higher in rank than the charging official, and to submit affidavits and other documentary evidence in support of the answer.
+  (B) The opportunity, within the time period provided for in paragraph (4)(A), to present an answer orally and in writing to the Under Secretary for Health or other deciding official, who shall be an official higher in rank than the charging official, and to submit affidavits and other documentary evidence in support of the answer.
 
 (2) In any case described in paragraph (1), the employee is entitled to be represented by an attorney or other representative of the employee’s choice at all stages of the case.
 
-(3)
-
-  (A) If a proposed adverse action covered by this section is not withdrawn, the deciding official shall render a decision in writing within 21 days of receipt by the deciding official of the employee’s answer. The decision shall include a statement of the specific reasons for the decision with respect to each charge. If a major adverse action is imposed, the decision shall state whether any of the charges sustained arose out of a question of professional conduct or competence. If any of the charges are sustained, the notice of the decision to the employee shall include notice of the employee’s rights of appeal.
-
-  (B) Notwithstanding the 21-day period specified in subparagraph (A), a proposed adverse action may be held in abeyance if the employee requests, and the deciding official agrees, that the employee shall seek counseling or treatment for a condition covered under the Rehabilitation Act of 1973. Any such abeyance of a proposed action may not extend for more than one year.
+(3) After considering the employee’s answer, if any, and within the time period provided for in paragraph (5)(B), the deciding official shall render a decision on the charges. The decision shall be in writing and shall include the specific reasons therefor.
 
 (4)
 
-  (A) The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.
+  (A) The period for the response of an employee under paragraph (1)(B) to advance written 11 So in original. Probably should be followed by “notice”. under paragraph (1)(A) shall be seven business days.
 
-  (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within 30 days after the date of service of the written decision on the employee.
+  (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within seven business days after the date of service of the written decision on the employee.
+
+(5)
+
+  (A) The aggregate period for the resolution of charges against an employee under this subsection may not exceed 15 business days.
+
+  (B) The deciding official shall render a decision under paragraph (3) on charges under this subsection not later than 15 business days after the Under Secretary provides notice on the charges for purposes of paragraph (1)(A).
+
+(6) The procedures in this subsection shall supersede any collective bargaining agreement to the extent that such agreement is inconsistent with such procedures.
 
 **(c)**
 
@@ -2105,13 +2134,24 @@ Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: �
 
 ### Statutory Notes
 
-#### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (b)(3)(B), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
-
 #### Prior Provisions
 Provisions similar to those in this subchapter were contained in [section 4110 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4110) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–41, § 208(b)(1)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (5)(A),” after “is entitled”.
+
+Subsec. (b)(1)(A). Pub. L. 115–41, § 208(b)(1)(B), substituted “Advance written notice” for “At least 30 days advance written notice” and “a statement” for “and a statement” and inserted “and a file containing all the evidence in support of each charge,” after “with respect to each charge,”.
+
+Subsec. (b)(1)(B). Pub. L. 115–41, § 208(b)(1)(C), substituted “The opportunity, within the time period provided for in paragraph (4)(A)” for “A reasonable time, but not less than seven days”.
+
+Subsec. (b)(3). Pub. L. 115–41, § 208(b)(2), added par. (3) and struck out former par. (3) which related to requirement that deciding official render a written decision within 21 days of receipt of the employee’s answer.
+
+Subsec. (b)(4)(A). Pub. L. 115–41, § 208(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.”
+
+Subsec. (b)(4)(B). Pub. L. 115–41, § 208(b)(3)(B), substituted “seven business days” for “30 days”.
+
+Subsec. (b)(5), (6). Pub. L. 115–41, § 208(b)(4), added pars. (5) and (6).
+
 1992—Subsec. (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subpars. (A) and (B).
 
 
@@ -2128,13 +2168,21 @@ Disciplinary Appeals Boards shall not have jurisdiction to review such matters, 
 
 **(c)**
 
-(1) In any case in which charges are brought against a section 7401(1) employee which could result in a major adverse action and which do not involve professional conduct or competence, the employee is entitled to the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim).
+(1) In any case in which charges are brought against a section 7401(1) employee which could result in a major adverse action and which do not involve professional conduct or competence, the employee is entitled to notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim), but within the time periods specified in paragraph (3).
 
-(2) In any other case in which charges are brought against a section 7401(1) employee, the employee is entitled to—
+(2) In any other case in which charges are brought against a section 7401(1) employee, the employee is entitled, within the aggregate time period specified in paragraph (3)(A), to—
 
-  (A) an advance written notice stating the specific reason for the proposed action, and
+  (A) written notice stating the specific reason for the proposed action, and
 
-  (B) a reasonable time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+  (B) time to answer to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+
+(3)
+
+  (A) The aggregate period for the resolution of charges against an employee under paragraph (1) or (2) may not exceed 15 business days.
+
+  (B) The period for the response of an employee under paragraph (1) or (2)(B) to written notice of charges under paragraph (1) or (2)(A), as applicable, shall be seven business days.
+
+  (C) The deciding official shall render a decision on charges under paragraph (1) or (2) not later than 15 business days after notice is provided on the charges for purposes of paragraph (1) or (2)(A), as applicable.
 
 **(d)** Grievance procedures prescribed under subsection (a) shall include the following:
 
@@ -2150,6 +2198,17 @@ Disciplinary Appeals Boards shall not have jurisdiction to review such matters, 
 
 #### Prior Provisions
 Provisions similar to those in this subchapter were contained in [section 4110 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4110) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+
+#### Amendments
+2017—Subsec. (c)(1). Pub. L. 115–41, § 208(c)(1), substituted “notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim), but within the time periods specified in paragraph (3)” for “the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim)”.
+
+Subsec. (c)(2). Pub. L. 115–41, § 208(c)(2)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (3)(A),” after “is entitled”.
+
+Subsec. (c)(2)(A). Pub. L. 115–41, § 208(c)(2)(B), substituted “written notice” for “an advance written notice”.
+
+Subsec. (c)(2)(B). Pub. L. 115–41, § 208(c)(2)(C), substituted “time to answer” for “a reasonable time”.
+
+Subsec. (c)(3). Pub. L. 115–41, § 208(c)(3), added par. (3).
 
 
 <a id="section-7464"></a>

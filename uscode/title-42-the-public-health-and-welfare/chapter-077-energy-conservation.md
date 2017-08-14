@@ -76,13 +76,13 @@ source: >-
 
 **(b) Necessity of Congressional resolution within certain period for plan to be considered approved**
 
-(1) No such energy conservation contingency plan may be considered approved for purposes of section 6261(b) 1 of this title unless between the date of transmittal and the end of the first period of 60 calendar days of continuous session of Congress after the date on which such action is transmitted to such House, each House of Congress passes a resolution described in subsection (d)(2)(A) of this section.
+(1) No such energy conservation contingency plan may be considered approved for purposes of section 6261(b) 1 of this title unless between the date of transmittal and the end of the first period of 60 calendar days of continuous session of Congress after the date on which such action is transmitted to such House, each House of Congress passes a resolution described in subsection (d)(2)(A).
 
 (2)
 
-  (A) Subject to subparagraph (B), any such rationing contingency plan shall be considered approved for purposes of section 6261(d) 1 of this title only if such plan is not disapproved by a resolution described in subsection (d)(2)(B)(i) of this section which passes each House of the Congress during the 30-calendar-day period of continuous session after the plan is transmitted to such Houses and which thereafter becomes law.
+  (A) Subject to subparagraph (B), any such rationing contingency plan shall be considered approved for purposes of section 6261(d) 1 of this title only if such plan is not disapproved by a resolution described in subsection (d)(2)(B)(i) which passes each House of the Congress during the 30-calendar-day period of continuous session after the plan is transmitted to such Houses and which thereafter becomes law.
 
-  (B) A rationing contingency plan may be considered approved prior to the expiration of the 30-calendar-day period after such plan is transmitted if a resolution described in subsection (d)(2)(B)(ii) of this section is passed by each House of the Congress and thereafter becomes law.
+  (B) A rationing contingency plan may be considered approved prior to the expiration of the 30-calendar-day period after such plan is transmitted if a resolution described in subsection (d)(2)(B)(ii) is passed by each House of the Congress and thereafter becomes law.
 
 **(c) Computation of period** For the purpose of subsection (b) of this section—
 
@@ -557,7 +557,7 @@ Section, Pub. L. 94–163, title I, § 106, Dec. 22, 1975, 89 Stat. 880, related
 
   (D) any combination of fuels referred to in subparagraphs (A) through (C), to comply with the requirements of a State implementation plan pursuant to [section 7410 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7410).
 
-**(c) Action to be taken by President** Within 90 days after the submission of a Governor’s petition under subsection (b) of this section, the President shall either issue an order or rule pursuant to [section 7425 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7425) or deny such petition, stating in writing his reasons for such denial. In making his determination to issue such an order or rule pursuant to this subsection, the President must find that such order or rule would—
+**(c) Action to be taken by President** Within 90 days after the submission of a Governor’s petition under subsection (b), the President shall either issue an order or rule pursuant to [section 7425 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7425) or deny such petition, stating in writing his reasons for such denial. In making his determination to issue such an order or rule pursuant to this subsection, the President must find that such order or rule would—
 
 (1) be consistent with [section 7425 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7425);
 
@@ -605,7 +605,7 @@ Section, Pub. L. 94–163, title I, § 106, Dec. 22, 1975, 89 Stat. 880, related
 
 (4) recommendations on steps that companies engaged in the production, refining, storage, transportation of heating oil or propane, or any other activity related to the heating oil industry or propane industry, can take to prevent or alleviate the impact of sharp and sustained increases in the price of heating oil and propane.
 
-**(c) Information requests** The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4) of this section.
+**(c) Information requests** The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4).
 
 
 <a id="section-6232"></a>
@@ -624,7 +624,7 @@ Section, Pub. L. 94–163, title I, § 106, Dec. 22, 1975, 89 Stat. 880, related
 
 (3) the quantity of resources not produced or introduced into commerce because of the restrictions.
 
-**(b) Regular update** Once completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) of this section shall be regularly updated and made publicly available.
+**(b) Regular update** Once completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) shall be regularly updated and made publicly available.
 
 **(c) Inventory** The inventory shall be provided to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate within 2 years after November 9, 2000.
 
@@ -1068,7 +1068,7 @@ Jimmy Carter.
 
 (1) If the President finds that—
 
-  (A) a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
+  (A) a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
 
   (B) action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
 
@@ -1253,7 +1253,7 @@ No quantitative restriction on the importation of any petroleum product into the
 
 **(b) Audit of operations of storage facility** The Secretary may audit the operations of any storage facility in which any petroleum product is stored or required to be stored pursuant to the provisions of this part.
 
-**(c) Access to and inspection of records or accounts and storage facilities** The Secretary may require access to, and the right to inspect and examine, at reasonable times, (1) any records or accounts required to be prepared or maintained pursuant to subsection (a) of this section and (2) any storage facilities subject to audit by the United States under the authority of this part.
+**(c) Access to and inspection of records or accounts and storage facilities** The Secretary may require access to, and the right to inspect and examine, at reasonable times, (1) any records or accounts required to be prepared or maintained pursuant to subsection (a) and (2) any storage facilities subject to audit by the United States under the authority of this part.
 
 ### Statutory Notes
 
@@ -1340,7 +1340,7 @@ A prior section 6246, Pub. L. 94–163, title I, § 166, Dec. 22, 1975, 89 Stat.
 (3) in the case of any fiscal year, notwithstanding [section 7270 of this title](./chapter-084-department-of-energy.md#section-7270), in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under [section 6241 of this title](./chapter-077-energy-conservation.md#section-6241), including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under [section 6240(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6240/f&num=0&edition=prelim).
 Funds available to the Secretary of Energy for obligation under this subsection may remain available without fiscal year limitation.
 
-**(c) Provision and deposit of funds** The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+**(c) Provision and deposit of funds** The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b).
 
 **(d) Off-budgeting procedures** The Account, the deposits and withdrawals from the Account, and the transactions, receipts, obligations, outlays associated with such deposits and withdrawals (including petroleum product purchases and related transactions), and receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under [section 6241 of this title](./chapter-077-energy-conservation.md#section-6241), including a drawdown and distribution carried out under subsection (g) of such section, and from the sale of petroleum products under [section 6240(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6240/f&num=0&edition=prelim)—
 
@@ -1392,11 +1392,11 @@ Pub. L. 97–35, title X, § 1034(c), Aug. 13, 1981, 95 Stat. 620, provided that
 ## § 6249. Use of underutilized facilities
 **(a) Authority** Notwithstanding any other provision of this subchapter, the Secretary, by lease or otherwise, for any term and under such other conditions as the Secretary considers necessary or appropriate, may store in underutilized Strategic Petroleum Reserve facilities petroleum product 11 So in original. Probably should be “products”. owned by a foreign government or its representative. Petroleum products stored under this section are not part of the Strategic Petroleum Reserve and may be exported without license from the United States.
 
-**(b) Protection of facilities** All agreements entered into pursuant to subsection (a) of this section shall contain provisions providing for fees to fully compensate the United States for all related costs of storage and removals of petroleum products (including the proportionate cost of replacement facilities necessitated as a result of any withdrawals) incurred by the United States on behalf of the foreign government or its representative.
+**(b) Protection of facilities** All agreements entered into pursuant to subsection (a) shall contain provisions providing for fees to fully compensate the United States for all related costs of storage and removals of petroleum products (including the proportionate cost of replacement facilities necessitated as a result of any withdrawals) incurred by the United States on behalf of the foreign government or its representative.
 
 **(c) Access to stored oil** The Secretary shall ensure that agreements to store petroleum products for foreign governments or their representatives do not impair the ability of the United States to withdraw, distribute, or sell petroleum products from the Strategic Petroleum Reserve in response to an energy emergency or to the obligations of the United States under the Agreement on an International Energy Program.
 
-**(d) Availability of funds** Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized by subsection (a) of this section after September 30, 2007, shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
+**(d) Availability of funds** Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized by subsection (a) after September 30, 2007, shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
 
 ### Statutory Notes
 
@@ -1423,23 +1423,23 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 (1) Petroleum product stored pursuant to such a contract shall, until the expiration, termination, or other conclusion of the contract, be a part of the Reserve and subject to the Secretary’s authority under part B.
 
-(2) The Secretary may enter into a contract for storage of petroleum product under subsection (a) of this section only if—
+(2) The Secretary may enter into a contract for storage of petroleum product under subsection (a) only if—
 
   (A) the Secretary determines (i) that entering into one or more contracts under such subsection would achieve benefits comparable to the acquisition of an equivalent amount of petroleum product, or an equivalent volume of storage capacity, for the Reserve under part B, and (ii) that, because of budgetary constraints, the acquisition of an equivalent amount of petroleum product or volume of storage space for the Reserve cannot be accomplished under part B; and
 
   (B) the Secretary notifies each House of the Congress of the determination and identifies in the notification the location, type, and ownership of storage and related facilities proposed to be included, or the volume, type, and ownership of petroleum products proposed to be stored, in the Reserve, and an estimate of the proposed benefits.
 
-(3) A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
+(3) A contract entered into under subsection (a) shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
 
-(4) A contract entered into under subsection (a) of this section shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
+(4) A contract entered into under subsection (a) shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
 
-**(c) Charge for storage** The Secretary may store petroleum product pursuant to a contract entered into under subsection (a)(1) of this section with or without charge or may pay a fee for its storage.
+**(c) Charge for storage** The Secretary may store petroleum product pursuant to a contract entered into under subsection (a)(1) with or without charge or may pay a fee for its storage.
 
-**(d) Duration** Contracts entered into under subsection (a) of this section may be of such duration as the Secretary considers necessary or appropriate.
+**(d) Duration** Contracts entered into under subsection (a) may be of such duration as the Secretary considers necessary or appropriate.
 
-**(e) Binding arbitration** The Secretary may agree to binding arbitration of disputes under any contract entered into under subsection (a) of this section.
+**(e) Binding arbitration** The Secretary may agree to binding arbitration of disputes under any contract entered into under subsection (a).
 
-**(f) Availability of funds** The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
+**(f) Availability of funds** The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a), and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
 
 ### Statutory Notes
 
@@ -1512,9 +1512,9 @@ Section, Pub. L. 94–163, title I, § 173, as added Pub. L. 101–383, § 6(a)(
 
 (3) the implementing bill is enacted into law.
 
-**(d) Rules of Senate** Subsections (e) through (h) of this section are enacted by the Congress—
+**(d) Rules of Senate** Subsections (e) through (h) are enacted by the Congress—
 
-(1) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate but applicable only with respect to the procedure to be followed in the Senate in the case of implementing bills and implementing revenue bills described in subsection (a) of this section, and they supersede other rules only to the extent that they are inconsistent therewith; and
+(1) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate but applicable only with respect to the procedure to be followed in the Senate in the case of implementing bills and implementing revenue bills described in subsection (a), and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 (2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -1538,7 +1538,7 @@ Section, Pub. L. 94–163, title I, § 173, as added Pub. L. 101–383, § 6(a)(
 
 (2) A vote on final passage of the bill shall be taken in the Senate on or before the close of the 15th day after the bill is reported by the committee or committees to which it was referred or after such committee or committees have been discharged from further consideration of the bill.
 
-(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1) of this section, referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committee or committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
+(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1), referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committee or committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
 
 (4) For purposes of this subsection, in computing a number of days in the Senate, there shall be excluded any day on which the Senate is not in session.
 
@@ -1696,11 +1696,11 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
 <a id="section-6273"></a>
 ## § 6273. International oil allocations
-**(a) Authority of President to prescribe rules for implementation of obligations of United States relating to international allocation of petroleum products; amounts of allocation and prices; petroleum products subject to rule; term of rule** The President may, by rule, require that persons engaged in producing, transporting, refining, distributing, or storing petroleum products, take such action as he determines to be necessary for implementation of the obligations of the United States under chapters III and IV of the international energy program insofar as such obligations relate to the international allocation of petroleum products. Allocation under such rule shall be in such amounts and at such prices as are specified in (or determined in a manner prescribed by) such rule. Such rule may apply to any petroleum product owned or controlled by any person described in the first sentence of this subsection who is subject to the jurisdiction of the United States, including any petroleum product destined, directly or indirectly, for import into the United States or any foreign country, or produced in the United States. Subject to subsection (b)(2) of this section, such a rule shall remain in effect until amended or rescinded by the President.
+**(a) Authority of President to prescribe rules for implementation of obligations of United States relating to international allocation of petroleum products; amounts of allocation and prices; petroleum products subject to rule; term of rule** The President may, by rule, require that persons engaged in producing, transporting, refining, distributing, or storing petroleum products, take such action as he determines to be necessary for implementation of the obligations of the United States under chapters III and IV of the international energy program insofar as such obligations relate to the international allocation of petroleum products. Allocation under such rule shall be in such amounts and at such prices as are specified in (or determined in a manner prescribed by) such rule. Such rule may apply to any petroleum product owned or controlled by any person described in the first sentence of this subsection who is subject to the jurisdiction of the United States, including any petroleum product destined, directly or indirectly, for import into the United States or any foreign country, or produced in the United States. Subject to subsection (b)(2), such a rule shall remain in effect until amended or rescinded by the President.
 
 **(b) Prerequisites to rule taking effect; time rule may be put into effect or remain in effect**
 
-(1) No rule under subsection (a) of this section may take effect unless the President—
+(1) No rule under subsection (a) may take effect unless the President—
 
   (A) has transmitted such rule to the Congress;
 
@@ -1708,7 +1708,7 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
   (C) has transmitted such finding to the Congress, together with a statement of the effective date and manner for exercise of such rule.
 
-(2) No rule under subsection (b) of this section may be put into effect or remain in effect after the expiration of 12 months after the date such rule was transmitted to Congress under paragraph (1)(A).
+(2) No rule under subsection (b) may be put into effect or remain in effect after the expiration of 12 months after the date such rule was transmitted to Congress under paragraph (1)(A).
 
 **(c) Consistency of rule with attainment of objectives specified in section 753(b)(1) 11 See References in Text note below. of title 15; limitation on authority of officers or agencies of United States**
 
@@ -1747,7 +1747,7 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
 **(b) Prescription by Secretary of standards and procedures for developing and carrying out voluntary agreements and plans of action** The Secretary, with the approval of the Attorney General, after each of them has consulted with the Federal Trade Commission and the Secretary of State, shall prescribe, by rule, standards and procedures by which persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products may develop and carry out voluntary agreements, and plans of action, which are required to implement the international emergency response provisions.
 
-**(c) Requirements for standards and procedures** The standards and procedures prescribed under subsection (b) of this section shall include the following requirements:
+**(c) Requirements for standards and procedures** The standards and procedures prescribed under subsection (b) shall include the following requirements:
 
 (1)
 
@@ -1769,9 +1769,9 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
 **(d) Participation of Attorney General and Federal Trade Commission in development and carrying out of voluntary agreements and plans of action**
 
-(1) The Attorney General and the Federal Trade Commission shall participate from the beginning in the development, and when practicable, in the carrying out of voluntary agreements and plans of action authorized under this section. Each may propose any alternative which would avoid or overcome, to the greatest extent practicable, possible anticompetitive effects while achieving substantially the purposes of this part. A voluntary agreement or plan of action under this section may not be carried out unless approved by the Attorney General, after consultation with the Federal Trade Commission. Prior to the expiration of the period determined under paragraph (2), the Federal Trade Commission shall transmit to the Attorney General its views as to whether such an agreement or plan of action should be approved, and shall publish such views in the Federal Register. The Attorney General, in consultation with the Federal Trade Commission, the Secretary of State, and the Secretary, shall have the right to review, amend, modify, disapprove, or revoke, on his own motion or upon the request of the Federal Trade Commission or any interested person, any voluntary agreement or plan of action at any time, and, if revoked, thereby withdraw prospectively any immunity which may be conferred by subsection (f) or (j) of this section.
+(1) The Attorney General and the Federal Trade Commission shall participate from the beginning in the development, and when practicable, in the carrying out of voluntary agreements and plans of action authorized under this section. Each may propose any alternative which would avoid or overcome, to the greatest extent practicable, possible anticompetitive effects while achieving substantially the purposes of this part. A voluntary agreement or plan of action under this section may not be carried out unless approved by the Attorney General, after consultation with the Federal Trade Commission. Prior to the expiration of the period determined under paragraph (2), the Federal Trade Commission shall transmit to the Attorney General its views as to whether such an agreement or plan of action should be approved, and shall publish such views in the Federal Register. The Attorney General, in consultation with the Federal Trade Commission, the Secretary of State, and the Secretary, shall have the right to review, amend, modify, disapprove, or revoke, on his own motion or upon the request of the Federal Trade Commission or any interested person, any voluntary agreement or plan of action at any time, and, if revoked, thereby withdraw prospectively any immunity which may be conferred by subsection (f) or (j).
 
-(2) Any voluntary agreement or plan of action entered into pursuant to this section shall be submitted in writing to the Attorney General and the Federal Trade Commission 20 days before being implemented; except that during an international energy supply emergency, the Secretary, subject to approval of the Attorney General, may reduce such 20-day period. Any such agreement or plan of action shall be available for public inspection and copying, except that a plan of action shall be so available only to the extent to which records or transcripts are so available as provided in the last sentence of subsection (c)(3) of this section. Any action taken pursuant to such voluntary agreement or plan of action shall be reported to the Attorney General and the Federal Trade Commission pursuant to such regulations as shall be prescribed under paragraphs (3) and (4) of subsection (e) of this section.
+(2) Any voluntary agreement or plan of action entered into pursuant to this section shall be submitted in writing to the Attorney General and the Federal Trade Commission 20 days before being implemented; except that during an international energy supply emergency, the Secretary, subject to approval of the Attorney General, may reduce such 20-day period. Any such agreement or plan of action shall be available for public inspection and copying, except that a plan of action shall be so available only to the extent to which records or transcripts are so available as provided in the last sentence of subsection (c)(3). Any action taken pursuant to such voluntary agreement or plan of action shall be reported to the Attorney General and the Federal Trade Commission pursuant to such regulations as shall be prescribed under paragraphs (3) and (4) of subsection (e).
 
 (3) A plan of action may not be approved by the Attorney General under this subsection unless such plan (A) describes the types of substantive actions which may be taken under the plan, and (B) is as specific in its description of proposed substantive actions as is reasonable in light of circumstances known at the time of approval.
 
@@ -1827,13 +1827,13 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
     (ii) complementary actions taken by governments during an existing or impending international oil supply disruption.
 
-**(l) Applicability of antitrust defense** The antitrust defense under subsection (f) of this section shall not extend to the international allocation of petroleum products unless allocation is required by chapters III and IV of the international energy program during an international energy supply emergency.
+**(l) Applicability of antitrust defense** The antitrust defense under subsection (f) shall not extend to the international allocation of petroleum products unless allocation is required by chapters III and IV of the international energy program during an international energy supply emergency.
 
 **(m) Limitation on new plans of action**
 
 (1) With respect to any plan of action approved by the Attorney General after July 2, 1985—
 
-  (A) the defenses under subsection (f) and (j) of this section shall be applicable to Type 1 activities (as that term is defined in the International Energy Agency Emergency Management Manual, dated December 1982) only if—
+  (A) the defenses under subsection (f) and (j) shall be applicable to Type 1 activities (as that term is defined in the International Energy Agency Emergency Management Manual, dated December 1982) only if—
 
     (i) the Secretary has transmitted such plan of action to the Congress; and
 
@@ -1841,11 +1841,11 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
       (I) 90 calendar days of continuous session have elapsed since receipt by the Congress of such transmittal; or
 
-      (II) within 90 calendar days of continuous session after receipt of such transmittal, either House of the Congress has disapproved a joint resolution of disapproval pursuant to subsection (n) of this section; and
+      (II) within 90 calendar days of continuous session after receipt of such transmittal, either House of the Congress has disapproved a joint resolution of disapproval pursuant to subsection (n); and
 
-  (B) such defenses shall not be applicable to Type 1 activities if there has been enacted, in accordance with subsection (n) of this section, a joint resolution of disapproval.
+  (B) such defenses shall not be applicable to Type 1 activities if there has been enacted, in accordance with subsection (n), a joint resolution of disapproval.
 
-(2) The Secretary may withdraw the plan of action at any time prior to adoption of a joint resolution described in subsection (n)(3) of this section by either House of Congress.
+(2) The Secretary may withdraw the plan of action at any time prior to adoption of a joint resolution described in subsection (n)(3) by either House of Congress.
 
 (3) For the purpose of this subsection—
 
@@ -1857,7 +1857,7 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
 (1)
 
-  (A) The application of defenses under subsections (f) and (j) of this section for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) of this section shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose of this subsection, the term “joint resolution” means only a joint resolution of either House of the Congress as described in paragraph (3).
+  (A) The application of defenses under subsections (f) and (j) for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose of this subsection, the term “joint resolution” means only a joint resolution of either House of the Congress as described in paragraph (3).
 
   (B) After receipt by the Congress of such plan of action, a joint resolution of disapproval may be introduced in either House of the Congress. Upon introduction in the Senate, the joint resolution shall be referred in the Senate immediately to the Committee on Energy and Natural Resources of the Senate.
 
@@ -1867,7 +1867,7 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 
   (B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(3) The joint resolution disapproving the transmission under subsection (m) of this section shall read as follows after the resolving clause: “That the Congress of the United States disapproves the availability of the defenses pursuant to section 252 (f) and (j) of the Energy Policy and Conservation Act with respect to Type 1 activities under the plan of action submitted to the Congress by the Secretary of Energy on .”, the blank space therein being filled with the date and year of receipt by the Congress of the plan of action transmitted as described in subsection (m) of this section.
+(3) The joint resolution disapproving the transmission under subsection (m) shall read as follows after the resolving clause: “That the Congress of the United States disapproves the availability of the defenses pursuant to section 252 (f) and (j) of the Energy Policy and Conservation Act with respect to Type 1 activities under the plan of action submitted to the Congress by the Secretary of Energy on .”, the blank space therein being filled with the date and year of receipt by the Congress of the plan of action transmitted as described in subsection (m).
 
 (4)
 
@@ -1892,11 +1892,11 @@ Section 6264, Pub. L. 94–163, title II, § 204, as added Pub. L. 99–58, titl
 ### Statutory Notes
 
 #### References in Text
-The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§ 1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
 
 The date of enactment of this chapter, referred to in subsec. (g), means the date of enactment of Pub. L. 94–163, which was approved Dec. 22, 1975.
 
-This chapter, referred to in subsec. (h)(2), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (h)(2), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 Section 252(f) and (j) of the Energy Policy and Conservation Act, referred to in subsection (n)(3), is classified to subsecs. (f) and (j) of this section.
 
@@ -1963,7 +1963,7 @@ For provisions relating to the classification of certain information and materia
 ## § 6275. Advisory committees
 **(a) Authority of Secretary to establish; applicability of section 17 of Federal Energy Administration Act of 1974; chairman; inclusion of representatives of public; public meetings; notice of meeting to Attorney General and Federal Trade Commission; attendance and participation of their representatives** To achieve the purposes of the international energy program with respect to international allocation of petroleum products and the information system provided in such program, the Secretary may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section, such advisory committees shall be subject to the provisions of section 17 of the Federal Energy Administration Act of 1974 [[15 U.S.C. 776](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section776&num=0&edition=prelim)] (whether or not such Act [[15 U.S.C. 761](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) et seq.] or any of its provisions expire or terminate before June 30, 1985); shall be chaired by a regular full-time Federal employee; and shall include representatives of the public. The meetings of such committees shall be open to the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
 
-**(b) Transcript of meetings** A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall be made available for public inspection and copying in accordance with [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c) of this section.
+**(b) Transcript of meetings** A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall be made available for public inspection and copying in accordance with [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c).
 
 **(c) Suspension of application of certain requirements by President** The President, after consultation with the Secretary of State, the Federal Trade Commission, the Attorney General, and the Secretary, may suspend the application of—
 
@@ -1973,7 +1973,7 @@ For provisions relating to the classification of certain information and materia
 
 (3) the requirement under subsection (a) of this section that meetings be open to the public, and
 
-(4) the second sentence of subsection (b) of this section;
+(4) the second sentence of subsection (b);
 if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that such suspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in [section 552(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/1&num=0&edition=prelim). Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
 
 ### Statutory Notes
@@ -1999,7 +1999,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 ## § 6276. Exchange of information with International Energy Agency
 **(a) Submission of information by Secretary to Secretary of State; transmittal to Agency; aggregation and reporting of geological or geophysical information, trade secrets, or commercial or financial information; availability of such information during international energy supply emergency; certification by President that Agency has adopted security measures; review of compliance of other nations with program; petition to President for changes in procedure**
 
-(1) Except as provided in subsections (b) and (c) of this section, the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
+(1) Except as provided in subsections (b) and (c), the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
 
 (2)
 
@@ -2080,7 +2080,7 @@ The purpose of the Congress in enacting this subchapter is to provide standby en
 
 **(c) Program for enhancing commerce in renewable energy technologies; funding**
 
-(1) On the basis of the evaluation under subsection (b) of this section, the Secretary of Commerce shall, consistent with existing law, establish a program for enhancing commerce in renewable energy technologies and consolidating or coordinating existing activities for such purpose.
+(1) On the basis of the evaluation under subsection (b), the Secretary of Commerce shall, consistent with existing law, establish a program for enhancing commerce in renewable energy technologies and consolidating or coordinating existing activities for such purpose.
 
 (2) Such program shall provide for—
 
@@ -2146,7 +2146,7 @@ The purpose of the Congress in enacting this subchapter is to provide standby en
 
   (C) recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
 
-(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) 11 See References in Text note below. of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
+(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e),11 See References in Text note below. and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 
 **(g) Repealed. Pub. L. 102–486, title XII, § 1207(c), Oct. 24, 1992, 106 Stat. 2963**
 
@@ -3078,7 +3078,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (19) Metal halide lamp fixtures.
 
-(20) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.
+(20) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b).
 
 **(b) Special classification of consumer product**
 
@@ -3167,7 +3167,7 @@ Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, provided that
 
 <a id="section-6294a"></a>
 ## § 6294a. Test procedures
-**(a) General rule** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987, shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b) of this section.
+**(a) General rule** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987, shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b).
 
 **(b) Amended and new procedures**
 
@@ -3256,9 +3256,9 @@ Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, provided that
   (A) in writing (including a representation on a label); or
 
   (B) in any broadcast advertisement,
-  with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) of this section or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
+  with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b) of this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
+(2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
 
   (A) in writing (including a representation on a label); or
 
@@ -3269,7 +3269,7 @@ Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, provided that
 
 **(d) Case in which test procedure is not required**
 
-(1) The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) of this section and publishes such determination in the Federal Register, together with the reasons therefor.
+(1) The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) and publishes such determination in the Federal Register, together with the reasons therefor.
 
 (2) For purposes of [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297), a determination under paragraph (1) with respect to any covered product or class shall have the same effect as would a standard prescribed for a covered product (or class).
 
@@ -3346,13 +3346,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ## § 6295. Labeling
 **(a) In general**
 
-(1) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim), except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible.
+(1) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim), except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) that labeling in accordance with this section is not technologically or economically feasible.
 
 (2)
 
-  (A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim), except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
+  (A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim), except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
 
-  (B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim) and to which standards are applicable under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295). Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) of this section by July 1, 1989, a capital letter “E” printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
+  (B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim) and to which standards are applicable under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295). Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) by July 1, 1989, a capital letter “E” printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
 
   (C) *Metal halide lamp fixtures.—*
 
@@ -3362,7 +3362,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (D)
 
-    (i) Not later than 18 months after October 24, 1992, the Commission shall prescribe labeling rules under this section applicable to general service fluorescent lamps, medium base compact fluorescent lamps, and general service incandescent lamps. Except as provided in clause (ii), such rules shall provide that the labeling of any general service fluorescent lamp, medium base compact fluorescent lamp, and general service incandescent lamp manufactured after the 12-month period beginning on the date of the publication of such rule shall indicate conspicuously on the packaging of the lamp, in a manner prescribed by the Commission under subsection (b) of this section, such information as the Commission deems necessary to enable consumers to select the most energy efficient lamps which meet their requirements. Labeling information for incandescent lamps shall be based on performance when operated at 120 volts input, regardless of the rated lamp voltage.
+    (i) Not later than 18 months after October 24, 1992, the Commission shall prescribe labeling rules under this section applicable to general service fluorescent lamps, medium base compact fluorescent lamps, and general service incandescent lamps. Except as provided in clause (ii), such rules shall provide that the labeling of any general service fluorescent lamp, medium base compact fluorescent lamp, and general service incandescent lamp manufactured after the 12-month period beginning on the date of the publication of such rule shall indicate conspicuously on the packaging of the lamp, in a manner prescribed by the Commission under subsection (b), such information as the Commission deems necessary to enable consumers to select the most energy efficient lamps which meet their requirements. Labeling information for incandescent lamps shall be based on performance when operated at 120 volts input, regardless of the rated lamp voltage.
 
     (ii) If the Secretary determines that compliance with the standards specified in [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) for any lamp will result in the discontinuance of the manufacture of such lamp, the Commission may exempt such lamp from the labeling rules prescribed under clause (i).
 
@@ -3536,7 +3536,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(e) Study of certain products** The Secretary, in consultation with the Commission, shall study consumer products for which labeling rules under this section have not been proposed, in order to determine (1) the aggregate energy consumption of such products, and (2) whether the imposition of labeling requirements under this section would be feasible and useful to consumers in making purchasing decisions. The Secretary shall include the results of such study in the annual report under [section 6308 of this title](./chapter-077-energy-conservation.md#section-6308).
 
-**(f) Consultation** The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1) of this section, it shall obtain the views of the Secretary and shall take such views into account in making such determination.
+**(f) Consultation** The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1), it shall obtain the views of the Secretary and shall take such views into account in making such determination.
 
 **(g) Other authority of the Commission** Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.] to require labeling with respect to energy consumption of such type or class of covered product.
 
@@ -3989,7 +3989,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (C) After January 1, 1997, and before January 1, 2007, the Secretary shall publish a final rule to determine whether standards in effect for such products should be amended. Such rule shall contain such amendment, if any, and provide that any amendment shall apply to products manufactured on or after January 1, 2012.
 
-  (D) Notwithstanding any other provision of this chapter, if the requirements of subsection (o) of this section are met, not later than December 31, 2013, the Secretary shall consider and prescribe energy conservation standards or energy use standards for electricity used for purposes of circulating air through duct work.
+  (D) Notwithstanding any other provision of this chapter, if the requirements of subsection (o) are met, not later than December 31, 2013, the Secretary shall consider and prescribe energy conservation standards or energy use standards for electricity used for purposes of circulating air through duct work.
 
 **(g) Standards for dishwashers; clothes washers; clothes dryers; fluorescent lamp ballasts**
 
@@ -4201,7 +4201,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (A) With respect to any lamp to which standards are applicable under this subsection or any lamp specified in [section 6317 of this title](./chapter-077-energy-conservation.md#section-6317), the Secretary shall inform any Federal entity proposing actions which would adversely impact the energy consumption or energy efficiency of such lamp of the energy conservation consequences of such action. It shall be the responsibility of such Federal entity to carefully consider the Secretary’s comments.
 
-  (B) Notwithstanding subsection (n)(1) of this section, the Secretary shall not be prohibited from amending any standard, by rule, to permit increased energy use or to decrease the minimum required energy efficiency of any lamp to which standards are applicable under this subsection if such action is warranted as a result of other Federal action (including restrictions on materials or processes) which would have the effect of either increasing the energy use or decreasing the energy efficiency of such product.
+  (B) Notwithstanding subsection (n)(1), the Secretary shall not be prohibited from amending any standard, by rule, to permit increased energy use or to decrease the minimum required energy efficiency of any lamp to which standards are applicable under this subsection if such action is warranted as a result of other Federal action (including restrictions on materials or processes) which would have the effect of either increasing the energy use or decreasing the energy efficiency of such product.
 
 (8) Not later than the date on which standards established pursuant to this subsection become effective, or, with respect to high-intensity discharge lamps covered under [section 6317 of this title](./chapter-077-energy-conservation.md#section-6317), the effective date of standards established pursuant to such section, each manufacturer of a product to which such standards are applicable shall file with the Secretary a laboratory report certifying compliance with the applicable standard for each lamp type. Such report shall include the lumen output and wattage consumption for each lamp type as an average of measurements taken over the preceding 12-month period. With respect to lamp types which are not manufactured during the 12-month period preceding the date such standards become effective, such report shall be filed with the Secretary not later than the date which is 12 months after the date manufacturing is commenced and shall include the lumen output and wattage consumption for each such lamp type as an average of measurements taken during such 12-month period.
 
@@ -4215,7 +4215,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (A) If the maximum flow rate requirements or the design requirements of ASME/ANSI Standard A112.18.1M–1989 are amended to improve the efficiency of water use of any type or class of showerhead or faucet and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in the amended ASME/ANSI Standard A112.18.1M and providing that such standard shall apply to products manufactured after a date which is 12 months after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.18.1M—
 
-    (i) is not technologically feasible and economically justified under subsection (o) of this section;
+    (i) is not technologically feasible and economically justified under subsection (o);
 
     (ii) is not consistent with the maintenance of public health and safety; or
 
@@ -4227,7 +4227,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
       (I) would result in additional conservation of energy or water;
 
-      (II) would be technologically feasible and economically justified under subsection (o) of this section; and
+      (II) would be technologically feasible and economically justified under subsection (o); and
 
       (III) would be consistent with the maintenance of public health and safety.
 
@@ -4259,7 +4259,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is one year after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
 
-    (i) is not technologically feasible and economically justified under subsection (o) of this section;
+    (i) is not technologically feasible and economically justified under subsection (o);
 
     (ii) is not consistent with the maintenance of public health and safety; or
 
@@ -4271,7 +4271,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
       (I) would result in additional conservation of energy or water;
 
-      (II) would be technologically feasible and economically justified under subsection (o) of this section; and
+      (II) would be technologically feasible and economically justified under subsection (o); and
 
       (III) would be consistent with the maintenance of public health and safety.
 
@@ -4289,7 +4289,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(l) Standards for other covered products**
 
-(1) The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (19) 2 of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim) if the requirements of subsections (o) and (p) of this section are met and the Secretary determines that—
+(1) The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (19) 2 of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim) if the requirements of subsections (o) and (p) are met and the Secretary determines that—
 
   (A) the average per household energy use within the United States by products of such type (or class) exceeded 150 kilowatt-hours (or its Btu equivalent) for any 12-month period ending before such determination;
 
@@ -4301,7 +4301,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (2) Any new or amended standard for covered products of a type specified in paragraph (19) 2 of [section 6292(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim) shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
 
-(3) The Secretary may, in accordance with subsections (o) and (p) of this section, prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992.
+(3) The Secretary may, in accordance with subsections (o) and (p), prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992.
 
 (4) **Energy efficiency standards for certain lamps.—**
 
@@ -4443,7 +4443,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (B) amended standards are technologically feasible; and
 
-  (C) amended standards are cost effective as described in subsection (o)(2)(B)(i)(II) of this section.
+  (C) amended standards are cost effective as described in subsection (o)(2)(B)(i)(II).
   The grant of a petition by the Secretary under this subsection creates no presumption with respect to the Secretary’s determination of any of the criteria in a rulemaking under this section.
 
 (3) **Notice of decision.—** — Not later than 180 days after the date of receiving a petition, the Secretary shall publish in the Federal Register a notice of, and explanation for, the decision of the Secretary to grant or deny the petition.
@@ -4605,7 +4605,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (2) After the publication of such proposed rulemaking, the Secretary shall, in accordance with [section 6306 of this title](./chapter-077-energy-conservation.md#section-6306), afford interested persons an opportunity, during a period of not less than 60 days, to present oral and written comments (including an opportunity to question those who make such presentations, as provided in such section) on matters relating to such proposed rule, including—
 
-  (A) whether the standard to be prescribed is economically justified (taking into account those factors which the Secretary must consider under subsection (o)(2) of this section) or will result in the effects described in subsection (o)(4) of this section;
+  (A) whether the standard to be prescribed is economically justified (taking into account those factors which the Secretary must consider under subsection (o)(2)) or will result in the effects described in subsection (o)(4);
 
   (B) whether the standard will achieve the maximum improvement in energy efficiency which is technologically feasible;
 
@@ -4694,7 +4694,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(ii)** For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
 
-(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t) of this section; and
+(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t); and
 
 (II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
 
@@ -4818,7 +4818,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (1) Not later than 4 years after August 8, 2005, the Secretary shall prescribe, by rule, energy conservation standards for refrigerated bottle or canned beverage vending machines.
 
-(2) In establishing energy conservation standards under this subsection, the Secretary shall use the criteria and procedures prescribed under subsections (o) and (p) of this section.
+(2) In establishing energy conservation standards under this subsection, the Secretary shall use the criteria and procedures prescribed under subsections (o) and (p).
 
 (3) Any energy conservation standard prescribed under this subsection shall apply to products manufactured 3 years after the date of publication of a final rule establishing the energy conservation standard.
 
@@ -4926,13 +4926,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (5)
 
-  (A) After January 1, 2010, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) of this section are met, amended energy efficiency standards for ceiling fan light kits.
+  (A) After January 1, 2010, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) are met, amended energy efficiency standards for ceiling fan light kits.
 
   (B) Any amended standards issued under subparagraph (A) shall apply to products manufactured not earlier than 2 years after the date of publication of the final rule establishing the amended standard.
 
 (6)
 
-  (A) Notwithstanding any other provision of this chapter, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) of this section are met, energy efficiency or energy use standards for electricity used by ceiling fans to circulate air in a room.
+  (A) Notwithstanding any other provision of this chapter, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) are met, energy efficiency or energy use standards for electricity used by ceiling fans to circulate air in a room.
 
   (B) In issuing the standards under subparagraph (A), the Secretary shall consider—
 
@@ -5064,9 +5064,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(ii) Application date** [Section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) applies—
 
-(1) to products for which energy conservation standards are to be established under subsection (l), (u), or (v) of this section beginning on the date on which a final rule is issued by the Secretary, except that any State or local standard prescribed or enacted for the product before the date on which the final rule is issued shall not be preempted until the energy conservation standard established under subsection (l), (u), or (v) of this section for the product takes effect; and
+(1) to products for which energy conservation standards are to be established under subsection (l), (u), or (v) beginning on the date on which a final rule is issued by the Secretary, except that any State or local standard prescribed or enacted for the product before the date on which the final rule is issued shall not be preempted until the energy conservation standard established under subsection (l), (u), or (v) for the product takes effect; and
 
-(2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
+(2) to products for which energy conservation standards are established under subsections (w) through (hh) on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) take effect.
 
 ### Statutory Notes
 
@@ -5371,13 +5371,13 @@ Subsec. (d). Pub. L. 95–619, § 425(d)(1), added subsec. (d).
 
     (ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to the Federal effective dates prescribed under subparagraphs (A), (B), and (C) of [section 6295(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i/1&num=0&edition=prelim), at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective.
 
-(2) is a State procurement regulation described in subsection (e) of this section;
+(2) is a State procurement regulation described in subsection (e);
 
-(3) is a regulation described in subsection (f)(1) of this section or is prescribed or enacted in a building code for new construction described in subsection (f)(2) of this section;
+(3) is a regulation described in subsection (f)(1) or is prescribed or enacted in a building code for new construction described in subsection (f)(2);
 
 (4) is a regulation prohibiting the use in pool heaters of a constant burning pilot, or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/g&num=0&edition=prelim) is applicable, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which [section 6295(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/j&num=0&edition=prelim) is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which [section 6295(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/k&num=0&edition=prelim) is applicable;
 
-(5) is a regulation described in subsection (d)(5)(B) of this section for which a waiver has been granted under subsection (d) of this section;
+(5) is a regulation described in subsection (d)(5)(B) for which a waiver has been granted under subsection (d);
 
 (6) is a regulation effective on or after January 1, 1992, concerning the energy efficiency or energy use of television sets; or
 
@@ -5385,11 +5385,11 @@ Subsec. (d). Pub. L. 95–619, § 425(d)(1), added subsec. (d).
 
 **(c) General rule of preemption for energy conservation standards when Federal standard becomes effective for product** Except as provided in [section 6295(b)(3)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/b/3/A/ii&num=0&edition=prelim), subparagraphs (B) and (C) of [section 6295(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/j/3&num=0&edition=prelim), and subparagraphs (B) and (C) of [section 6295(k)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/k/3&num=0&edition=prelim) and effective on the effective date of an energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295) for any covered product, no State regulation concerning the energy efficiency, energy use, or water use of such covered product shall be effective with respect to such product unless the regulation—
 
-(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/g&num=0&edition=prelim) is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
+(1) is a regulation described in paragraph (2) or (4) of subsection (b), except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/g&num=0&edition=prelim) is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which [section 6295(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/i&num=0&edition=prelim) is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
 
-(2) is a regulation which has been granted a waiver under subsection (d) of this section;
+(2) is a regulation which has been granted a waiver under subsection (d);
 
-(3) is in a building code for new construction described in subsection (f)(3) of this section;
+(3) is in a building code for new construction described in subsection (f)(3);
 
 (4) is a regulation concerning the water use of lavatory faucets adopted by the State of New York or the State of Georgia before October 24, 1992;
 
@@ -5476,18 +5476,18 @@ Subsec. (d). Pub. L. 95–619, § 425(d)(1), added subsec. (d).
 
   (A) the applicable minimum efficiency requirement in a national voluntary consensus standard; or
 
-  (B) the minimum energy efficiency level in a regulation or other requirement of the State meeting the requirements of subsection (b)(1) or (b)(5) of this section,
+  (B) the minimum energy efficiency level in a regulation or other requirement of the State meeting the requirements of subsection (b)(1) or (b)(5),
   whichever is higher.
 
 (3) Effective on the effective date of an energy conservation standard for a covered product established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), a regulation or other requirement contained in a State or local building code for new construction concerning the energy efficiency or energy use of such covered product is not superseded by this part if the code complies with all of the following requirements:
 
   (A) The code permits a builder to meet an energy consumption or conservation objective for a building by selecting items whose combined energy efficiencies meet the objective.
 
-  (B) The code does not require that the covered product have an energy efficiency exceeding the applicable energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), except that the required efficiency may exceed such standard up to the level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
+  (B) The code does not require that the covered product have an energy efficiency exceeding the applicable energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), except that the required efficiency may exceed such standard up to the level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d).
 
   (C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295) or the efficiency level required in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
 
-  (D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
+  (D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d).
 
   (E) If the code sets forth one or more optional combinations of items which meet the energy consumption or conservation objective, for every combination which includes a covered product the efficiency of which exceeds either standard or level referred to in subparagraph (D), there also shall be at least one combination which includes such covered product the efficiency of which does not exceed such standard or level by more than 5 percent, except that at least one combination shall include such covered product the efficiency of which meets but does not exceed such standard.
 
@@ -5499,7 +5499,7 @@ Subsec. (d). Pub. L. 95–619, § 425(d)(1), added subsec. (d).
 
   (A) Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
 
-  (B) If a building code requires the installation of covered products with efficiencies exceeding both the applicable Federal standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295) and the applicable standard of such State, if any, that has been granted a waiver under subsection (d) of this section, such requirement of the building code shall not be applicable unless the Secretary has granted a waiver for such requirement under subsection (d) of this section.
+  (B) If a building code requires the installation of covered products with efficiencies exceeding both the applicable Federal standard established in or prescribed under [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295) and the applicable standard of such State, if any, that has been granted a waiver under subsection (d), such requirement of the building code shall not be applicable unless the Secretary has granted a waiver for such requirement under subsection (d).
 
 **(g) No warranty** Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
@@ -5663,9 +5663,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <a id="section-6305"></a>
 ## § 6305. Enforcement
-**(a) In general** Except as provided in subsection (c) of this section, any person who knowingly violates any provision of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relate to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or violations of paragraph (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
+**(a) In general** Except as provided in subsection (c), any person who knowingly violates any provision of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302) shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of [section 6302(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/3&num=0&edition=prelim) which relate to requirements prescribed by the Secretary, violations of [section 6302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/4&num=0&edition=prelim) which relate to requests of the Secretary under [section 6296(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6296/b/2&num=0&edition=prelim), or violations of paragraph (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), (5), (6), (7), or (8) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim) shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
 
-**(b) “Knowingly” defined** As used in subsection (a) of this section, the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care.
+**(b) “Knowingly” defined** As used in subsection (a), the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care.
 
 **(c) Special rule** It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of [section 45(a)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45/a/1&num=0&edition=prelim)) for any person to violate [section 6293(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6293/c&num=0&edition=prelim), except to the extent that such violation is prohibited under the provisions of [section 6302(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a/1&num=0&edition=prelim), in which case such provisions shall apply.
 
@@ -5706,7 +5706,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 1987—Pub. L. 100–12 inserted headings for subsecs. (a) to (d).
 
-1978—Subsec. (a). Pub. L. 95–619, §§ 425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c) of this section” for “subsection (b) of this section”.
+1978—Subsec. (a). Pub. L. 95–619, §§ 425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c)” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 95–619, § 425(e)(2), substituted “[section 6293(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6293/c&num=0&edition=prelim)” for “[section 6293(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6293/d/2&num=0&edition=prelim)” and inserted provision making an exception from the unfair or deceptive act or practice rule.
 
@@ -5733,7 +5733,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <a id="section-6307"></a>
 ## § 6307. Citizen suits
-**(a) Civil actions; jurisdiction** Except as otherwise provided in subsection (b) of this section, any person may commence a civil action against—
+**(a) Civil actions; jurisdiction** Except as otherwise provided in subsection (b), any person may commence a civil action against—
 
 (1) any manufacturer or private labeler who is alleged to be in violation of any provision of this part or any rule under this part;
 
@@ -5744,13 +5744,13 @@ The United States district courts shall have jurisdiction, without regard to the
 
 **(b) Limitation** No action may be commenced—
 
-(1) under subsection (a)(1) of this section—
+(1) under subsection (a)(1)—
 
   (A) prior to 60 days after the date on which the plaintiff has given notice of the violation (i) to the Secretary, (ii) to the Commission, and (iii) to any alleged violator of such provision or rule, or
 
   (B) if the Commission has commenced and is diligently prosecuting a civil action to require compliance with such provision or rule, but, in any such action, any person may intervene as a matter of right.
 
-(2) under subsection (a)(2) of this section prior to 60 days after the date on which the plaintiff has given notice of such action to the Secretary and Commission.
+(2) under subsection (a)(2) prior to 60 days after the date on which the plaintiff has given notice of such action to the Secretary and Commission.
 Notice under this subsection shall be given in such manner as the Commission shall prescribe by rule.
 
 **(c) Right to intervene** In such action under this section, the Secretary or the Commission (or both), if not a party, may intervene as a matter of right.
@@ -5963,7 +5963,7 @@ Amounts authorized for such purposes under paragraph (3) shall be in addition to
 (2) $2,500,000 for fiscal year 1977; and
 
 (3) $1,800,000 for fiscal year 1978.
-Such amounts shall, and any amounts authorized to be appropriated under subsection (a) of this section, may be allocated by the Secretary to the National Institute of Standards and Technology.
+Such amounts shall, and any amounts authorized to be appropriated under subsection (a), may be allocated by the Secretary to the National Institute of Standards and Technology.
 
 ### Statutory Notes
 
@@ -6981,7 +6981,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (3) requirements that printed matter which is displayed or distributed at the point of sale of such equipment shall disclose such information as may be required under this section to be disclosed on the label of such equipment.
 
-**(d) Labeling rules applicable to electric motors** Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for electric motors under [section 6314 of this title](./chapter-077-energy-conservation.md#section-6314), the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
+**(d) Labeling rules applicable to electric motors** Subject to subsection (h), not later than 12 months after the Secretary establishes test procedures for electric motors under [section 6314 of this title](./chapter-077-energy-conservation.md#section-6314), the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
 
 (1) indicate the energy efficiency of the motor on the permanent nameplate attached to such motor;
 
@@ -6989,7 +6989,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (3) include such other markings as the Secretary determines necessary solely to facilitate enforcement of the standards established for electric motors under [section 6313 of this title](./chapter-077-energy-conservation.md#section-6313).
 
-**(e) Labeling rules for air conditioning and heating equipment** Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under [section 6314 of this title](./chapter-077-energy-conservation.md#section-6314), the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
+**(e) Labeling rules for air conditioning and heating equipment** Subject to subsection (h), not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under [section 6314 of this title](./chapter-077-energy-conservation.md#section-6314), the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
 
 (1) indicate the energy efficiency of the equipment on the permanent nameplate attached to such equipment or other nearby permanent marking;
 
@@ -7069,7 +7069,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(b)**
 
-(1) The provisions of [section 6295(p)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/p/4&num=0&edition=prelim), section 6296(a), (b), and (d) of this title, [section 6297(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6297/a&num=0&edition=prelim), and sections 6298 through 6306 of this title shall apply with respect to the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of [section 6311(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6311/1&num=0&edition=prelim) to the same extent and in the same manner as they apply in part A. In applying such provisions for the purposes of such equipment, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
+(1) The provisions of [section 6295(p)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/p/4&num=0&edition=prelim), section 6296(a), (b), and (d) of this title, [section 6297(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6297/a&num=0&edition=prelim), and sections 6298 through 6306 of this title shall apply with respect to the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of [section 6311(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6311/1&num=0&edition=prelim) to the same extent and in the same manner as they apply in part A. In applying such provisions for the purposes of such equipment, paragraphs (1), (2), (3), and (4) of subsection (a) shall apply.
 
 (2)
 
@@ -7099,19 +7099,19 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (A) Subsections (a), (b), and (d) of [section 6296 of this title](./chapter-077-energy-conservation.md#section-6296), subsections (m) through (s) of [section 6295 of this title](./chapter-077-energy-conservation.md#section-6295), and sections 6298 through 6306 of this title shall apply with respect to commercial refrigerators, freezers, and refrigerator-freezers to the same extent and in the same manner as those provisions apply under part A.
 
-  (B) In applying those provisions to commercial refrigerators, freezers, and refrigerator-freezers, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
+  (B) In applying those provisions to commercial refrigerators, freezers, and refrigerator-freezers, paragraphs (1), (2), (3), and (4) of subsection (a) shall apply.
 
 (2)
 
   (A) [Section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of [section 6313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6313/c&num=0&edition=prelim) to the same extent and in the same manner as those provisions apply under part A on August 8, 2005, except that any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under paragraphs (2) and (3) of [section 6313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6313/c&num=0&edition=prelim) take effect.
 
-  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
+  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
 (3)
 
   (A) [Section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) 22 See References in Text note below. of this title to the same extent and in the same manner as the provisions apply under part A on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
 
-  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
+  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
 (4)
 
@@ -7137,7 +7137,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
     (ii) Any State standard issued before August 8, 2005, shall not be preempted until the standards established under [section 6313(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6313/d/1&num=0&edition=prelim) take effect.
 
-  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) to the equipment under subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
+  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) to the equipment under subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
 (2)
 
@@ -7147,7 +7147,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
     (ii) Any State standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards established under [section 6313(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6313/d/2&num=0&edition=prelim) take effect.
 
-  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
+  (B) In applying [section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
 (3)
 
@@ -7270,17 +7270,17 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(c) Consideration of criteria under other law** In establishing any standard under this section, the Secretary shall take into consideration the criteria contained in [section 6295(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/n&num=0&edition=prelim).
 
-**(d) Prescription of labeling requirements by Secretary** The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) of this section and small electric motors pursuant to subsection (b)(2) of this section, prescribe labeling requirements for such lamps, transformers, and small electric motors.
+**(d) Prescription of labeling requirements by Secretary** The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) and small electric motors pursuant to subsection (b)(2), prescribe labeling requirements for such lamps, transformers, and small electric motors.
 
-**(e) Compliance by manufacturers with labeling requirements** Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d) of this section, each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
+**(e) Compliance by manufacturers with labeling requirements** Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d), each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
 
 **(f) New covered products; distribution of non-conforming products prohibited; construction with other law**
 
-(1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e) of this section—
+(1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e)—
 
   (A) each such product shall be considered, for purposes of paragraphs (1) and (2) of [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6302/a&num=0&edition=prelim), a new covered product to which a rule under [section 6294 of this title](./chapter-077-energy-conservation.md#section-6294) applies; and
 
-  (B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) of this section which is not in conformity with the applicable energy conservation standard.
+  (B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
 
 (2) For purposes of [section 6303(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6303/a&num=0&edition=prelim), paragraph (1) of this subsection shall be considered to be a part of [section 6302 of this title](./chapter-077-energy-conservation.md#section-6302).
 
@@ -7378,7 +7378,7 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
 (11) programs to promote energy efficiency as an integral component of economic development planning conducted by State, local, or other governmental entities or by energy utilities;
 
-(12) in accordance with subsection (f)(2) of this section, programs to implement the Energy Technology Commercialization Services Program;
+(12) in accordance with subsection (f)(2), programs to implement the Energy Technology Commercialization Services Program;
 
 (13) programs (enlisting appropriate trade and professional organizations in the development and financing of such programs) to provide training and education (including, if appropriate, training workshops, practice manuals, and testing for each area of energy efficiency technology) to building designers and contractors involved in building design and construction or in the sale, installation, and maintenance of energy systems and equipment to promote building energy efficiency improvements;
 
@@ -7402,7 +7402,7 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
   (C) foster greater assistance to small and start-up businesses in dealing with the Federal Government on energy technology related matters.
 
-(2) The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12) of this section, shall—
+(2) The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12), shall—
 
   (A) aid small and start-up businesses in discovering useful and practical information relating to manufacturing and commercial production techniques and costs associated with new energy technologies;
 
@@ -7428,7 +7428,7 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
   (C) “start-up business” means a small business which has been in existence for 5 years or less.
 
-**(g) Review of plans** The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
+**(g) Review of plans** The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e). Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
 
 ### Statutory Notes
 
@@ -7492,9 +7492,9 @@ Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, provided t
 
   (C) the consistency of such plan with the purposes of this chapter, and such other factors as the Secretary deems appropriate.
 
-**(c) Records** Each recipient of Federal financial assistance under subsection (b) of this section shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems for which such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and records of any recipient of Federal assistance under this part.
+**(c) Records** Each recipient of Federal financial assistance under subsection (b) shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems for which such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and records of any recipient of Federal assistance under this part.
 
-**(d) Assistance as supplementing and not supplanting State and local funds** Each State receiving Federal financial assistance pursuant to this section shall provide reasonable assurance to the Secretary that it has established policies and procedures designed to assure that Federal financial assistance under this part and under part E of this subchapter will be used to supplement, and not to supplant, State and local funds, and to the extent practicable, to increase the amount of such funds that otherwise would be available, in the absence of such Federal financial assistance, for those programs set forth in the State energy conservation plan approved pursuant to subsection (b) of this section.
+**(d) Assistance as supplementing and not supplanting State and local funds** Each State receiving Federal financial assistance pursuant to this section shall provide reasonable assurance to the Secretary that it has established policies and procedures designed to assure that Federal financial assistance under this part and under part E of this subchapter will be used to supplement, and not to supplant, State and local funds, and to the extent practicable, to increase the amount of such funds that otherwise would be available, in the absence of such Federal financial assistance, for those programs set forth in the State energy conservation plan approved pursuant to subsection (b).
 
 **(e) Energy emergency planning program as prerequisite to assistance**
 
@@ -8400,7 +8400,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 (2) the installation of insulation to achieve cost-effective increases in energy efficiency in industrial facilities.
 
-**(b) Educational and technical assistance** The Secretary shall conduct a program of educational and technical assistance to promote the use of the voluntary guidelines established under subsection (a) of this section.
+**(b) Educational and technical assistance** The Secretary shall conduct a program of educational and technical assistance to promote the use of the voluntary guidelines established under subsection (a).
 
 ### Statutory Notes
 
@@ -8459,9 +8459,9 @@ Section was enacted as part of the American Energy Manufacturing Technical Corre
 
 **(c) Omitted**
 
-**(d) Applicability of plan to Executive agencies** The plan developed by the President pursuant to subsection (a)(2) of this section shall be applicable to Executive agencies as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim) and to the United States Postal Service.
+**(d) Applicability of plan to Executive agencies** The plan developed by the President pursuant to subsection (a)(2) shall be applicable to Executive agencies as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim) and to the United States Postal Service.
 
-**(e) Authorization of appropriations** In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+**(e) Authorization of appropriations** In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2).
 
 ### Statutory Notes
 
@@ -8520,9 +8520,9 @@ Jimmy Carter.
 
 (4) the Federal Power Commission.
 
-**(b) Statement of probable impact of major regulatory action on energy efficiency** Except as provided in subsection (c) of this section, each of the agencies specified in subsection (a) of this section shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
+**(b) Statement of probable impact of major regulatory action on energy efficiency** Except as provided in subsection (c), each of the agencies specified in subsection (a) shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
 
-**(c) Application of provisions to authority exercised to protect public health and safety** Subsection (b) of this section shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
+**(c) Application of provisions to authority exercised to protect public health and safety** Subsection (b) shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
 
 ### Statutory Notes
 
@@ -8556,7 +8556,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
   (A) used oil from which physical and chemical contaminants acquired through use have been removed by re-refining or other processing, or
 
   (B) any blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives,
-  with respect to which the manufacturer has determined, pursuant to the rule prescribed under subsection (d)(1)(A)(i) of this section, is substantially equivalent to new oil for a particular end use.
+  with respect to which the manufacturer has determined, pursuant to the rule prescribed under subsection (d)(1)(A)(i), is substantially equivalent to new oil for a particular end use.
 
 (3) The term “new oil” means any oil which has been refined from crude oil and has not been used, and which may or may not contain additives. Such term does not include used oil or recycled oil.
 
@@ -8570,7 +8570,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 (1)
 
-  (A) Within 90 days after the date on which the Commission receives the report under subsection (c) of this section, the Commission shall, by rule, prescribe—
+  (A) Within 90 days after the date on which the Commission receives the report under subsection (c), the Commission shall, by rule, prescribe—
 
     (i) test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, with new oil distributed for a particular end use; and
 
@@ -8580,13 +8580,13 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 (2) Not later than the expiration of such 90-day period, the Administrator of the Environmental Protection Agency shall, by rule, prescribe labeling standards applicable to containers of new oil, used oil, and recycled oil relating to the proper disposal of such oils after use. Such standards shall be designed to reduce, to the maximum extent practicable, environmental hazards and wasteful practices associated with the disposal of such oils after use.
 
-**(e) Labeling standards** Beginning on the effective date of the standards prescribed pursuant to subsection (d)(1)(A) of this section—
+**(e) Labeling standards** Beginning on the effective date of the standards prescribed pursuant to subsection (d)(1)(A)—
 
-(1) no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A) of this section, and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, which container bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A) of this section, to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii) of this section; and
+(1) no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A), and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, which container bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A), to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii); and
 
 (2) no rule or order of the Commission may require any container of recycled oil to also bear a label containing any term, phrase, or description which connotes less than substantial equivalency of such recycled oil with new oil.
 
-**(f) Conformity of acts of Federal officials to Commission rules** After the effective date of the rules required to be prescribed under subsection (d)(1)(A) of this section, all Federal officials shall act within their authority to carry out the purposes of this section, including—
+**(f) Conformity of acts of Federal officials to Commission rules** After the effective date of the rules required to be prescribed under subsection (d)(1)(A), all Federal officials shall act within their authority to carry out the purposes of this section, including—
 
 (1) revising procurement policies to encourage procurement of recycled oil for military and nonmilitary Federal uses whenever such recycled oil is available at prices competitive with new oil procured for the same end use; and
 
@@ -8840,9 +8840,9 @@ Pub. L. 95–619, title III, § 301, Nov. 9, 1978, 92 Stat. 3238, provided: “(
 ## § 6371d. Preliminary energy audits and energy audits
 **(a) Application by Governor** The Governor of any State may apply to the Secretary at such time as the Secretary may specify after promulgation of guidelines under [section 6371a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371a/a&num=0&edition=prelim) for grants to conduct preliminary energy audits and energy audits of school facilities and hospital facilities in such State under this part.
 
-**(b) Grants for conduct of preliminary energy audits** Upon application under subsection (a) of this section the Secretary may make grants to States for purposes of conducting preliminary energy audits of school facilities and hospital facilities under this part in accordance with the guidelines prescribed under [section 6371a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371a/a/1&num=0&edition=prelim). If a State does not conduct preliminary energy audits within two years after November 9, 1978, the Secretary may conduct such audits within such State.
+**(b) Grants for conduct of preliminary energy audits** Upon application under subsection (a) the Secretary may make grants to States for purposes of conducting preliminary energy audits of school facilities and hospital facilities under this part in accordance with the guidelines prescribed under [section 6371a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371a/a/1&num=0&edition=prelim). If a State does not conduct preliminary energy audits within two years after November 9, 1978, the Secretary may conduct such audits within such State.
 
-**(c) Grants for conduct of energy audits** Upon application under subsection (a) of this section the Secretary may make grants to States for purposes of conducting energy audits of school facilities and hospital facilities under this part in accordance with the guidelines prescribed under [section 6371a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371a/a/2&num=0&edition=prelim).
+**(c) Grants for conduct of energy audits** Upon application under subsection (a) the Secretary may make grants to States for purposes of conducting energy audits of school facilities and hospital facilities under this part in accordance with the guidelines prescribed under [section 6371a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371a/a/2&num=0&edition=prelim).
 
 **(d) Audits conducted prior to grant of financial assistance** If a State without the use of financial assistance under this section, conducts preliminary energy audits or energy audits which comply with the guidelines prescribed by the Secretary or which are approved by the Secretary the funds allocated for purposes of this section shall be added to the funds available for energy conservation projects for such State and shall be in addition to amounts otherwise available for such purposes.
 
@@ -8877,13 +8877,13 @@ Pub. L. 95–619, title III, § 301, Nov. 9, 1978, 92 Stat. 3238, provided: “(
 
 (8) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant, State, local, or other funds.
 
-**(b) Approval of plans** The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+**(b) Approval of plans** The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
 
 **(c) Development and implementation of approved plans; submission of proposed State plan**
 
 (1) If a State plan has not been approved under this section within 2 years and 90 days after November 9, 1978, or within 90 days after the completion of the preliminary audits under [section 6371b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371b/a&num=0&edition=prelim), whichever is later, the Secretary may take such action as necessary to develop and implement such a State plan and to carry out the functions which would otherwise be carried out under this part by the State energy agency, State school facilities agency, and State hospital facilities agency, in order that the energy conservation program for schools and hospitals may be implemented in such State.
 
-(2) Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
+(2) Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
 
 ### Statutory Notes
 
@@ -8901,7 +8901,7 @@ Subsec. (a)(6). Pub. L. 105–388, § 5(a)(10)(C), substituted semicolon for col
 ## § 6371f. Applications for financial assistance
 **(a) Limitation on number of applications by States, schools, and hospitals; submittal to State energy agency** Applications of States, schools, and hospitals for financial assistance under this part for energy conservation projects shall be made not more than once for any fiscal year. Schools and hospitals applying for such financial assistance shall submit their applications to the State energy agency and the State energy agency shall make a single submittal to the Secretary, containing all applications which comply with the State plan.
 
-**(b) Required information** Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) of this section shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
+**(b) Required information** Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
 
 **(c) Conditions for financial assistance; applications consistent with related State programs and health plans**
 
@@ -8974,7 +8974,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 ## § 6371h–1. Allocation of grants
 **(a) Section 6371e grants**
 
-(1) Except as otherwise provided in subsection (b) of this section, the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) 11 See References in Text note below. of this title in any year for purposes of making energy conservation project grants pursuant to [section 6371e of this title](./chapter-077-energy-conservation.md#section-6371e) as follows:
+(1) Except as otherwise provided in subsection (b), the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) 11 See References in Text note below. of this title in any year for purposes of making energy conservation project grants pursuant to [section 6371e of this title](./chapter-077-energy-conservation.md#section-6371e) as follows:
 
   (A) Eighty percent of amounts made available under section 6371f(b) 1 of this title shall be allocated among the States in accordance with a formula to be prescribed, by rule, by the Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
 
@@ -8984,7 +8984,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (3) In the case of any State which received for any fiscal year an amount which exceeded 50 percent of the cost of any energy audit as provided in [section 6371b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6371b/e/2&num=0&edition=prelim), the aggregate amount allocated to such State under this subsection for such fiscal year (determined after applying paragraphs (1) and (2)) shall be reduced by an amount equal to such excess. The amount of such reduction shall be reallocated to the States for such fiscal year as provided in this subsection except that for purposes of such reallocation, the State which received such excess shall not be eligible for any portion of such reallocation.
 
-**(b) Restrictions on allocations to States** The total amount allocated to any State under subsection (a) of this section in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a) of this section. Except for the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants to States and to schools and hospitals in each State which has an approved State plan under this part.
+**(b) Restrictions on allocations to States** The total amount allocated to any State under subsection (a) in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a). Except for the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants to States and to schools and hospitals in each State which has an approved State plan under this part.
 
 **(c) Prescription of rules governing allocations among States with regard to energy audits** Not later than 60 days after November 9, 1978, the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energy audits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
 
@@ -9332,11 +9332,11 @@ For application of sections 3141–3144, 3146, and 3147 of title 40 to grants ma
 ## § 6372d. Preliminary energy audits and energy audits
 **(a) Application by Governor** The Governor of any State may apply to the Secretary at such time as the Secretary may specify after promulgation of the guidelines under [section 6372a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a&num=0&edition=prelim) for grants to conduct preliminary energy audits of buildings owned by units of local government and public care institutions in such State under this part.
 
-**(b) Grants for conduct of preliminary energy audits** Upon application under subsection (a) of this section, the Secretary may make grants to States to assist in conducting preliminary energy audits under this part for buildings owned by units of local government and public care institutions. Such audits shall be conducted in accordance with the guidelines prescribed under [section 6372a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a/1&num=0&edition=prelim).
+**(b) Grants for conduct of preliminary energy audits** Upon application under subsection (a), the Secretary may make grants to States to assist in conducting preliminary energy audits under this part for buildings owned by units of local government and public care institutions. Such audits shall be conducted in accordance with the guidelines prescribed under [section 6372a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a/1&num=0&edition=prelim).
 
 **(c) Application by Governor, unit of local government or public care institution** The Governor of any State, unit of local government or public care institution may apply to the Secretary at such time as the Secretary may specify after promulgation of the guidelines under [section 6372a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a&num=0&edition=prelim) for grants to conduct energy audits of buildings owned by units of local government and public care institutions in such State under this part.
 
-**(d) Grants for conduct of energy audits** Upon application under subsection (c) of this section the Secretary may make grants to States, units of local government, and public care institutions for purposes of conducting energy audits of facilities under this part in accordance with the guidelines prescribed under [section 6372a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a/2&num=0&edition=prelim).
+**(d) Grants for conduct of energy audits** Upon application under subsection (c) the Secretary may make grants to States, units of local government, and public care institutions for purposes of conducting energy audits of facilities under this part in accordance with the guidelines prescribed under [section 6372a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6372a/a/2&num=0&edition=prelim).
 
 **(e) Audits conducted prior to grant of financial assistance** If a State, unit of local government, or public care institution, without the use of financial assistance under this section, conducts preliminary energy audits or energy audits which comply with the guidelines prescribed by the Secretary or which are approved by the Secretary, the funds allocated for purposes of this section shall be added to the funds available for technical assistance programs for such State, and shall be in addition to amounts otherwise available for such purpose.
 
@@ -9361,7 +9361,7 @@ For application of sections 3141–3144, 3146, and 3147 of title 40 to grants ma
 
 (7) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant State, local, or other funds.
 
-**(b)** Each State plan submitted under this section shall be reviewed and approved or disapproved by the Secretary not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90 day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+**(b)** Each State plan submitted under this section shall be reviewed and approved or disapproved by the Secretary not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90 day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
 
 ### Statutory Notes
 
@@ -9377,7 +9377,7 @@ Subsec. (a)(3). Pub. L. 105–388 substituted semicolon for comma at end.
 ## § 6372f. Applications for grants for technical assistance
 **(a) Limitation on number of applications by units of local government and public care institutions; submittal to State energy agency** Applications of units of local government and public care institutions for grants for technical assistance under this part shall be made not more than once for any fiscal year. Such applications shall be submitted to the State energy agency and the State energy agency shall make a single submittal to the Secretary containing all applications which comply with the State plan.
 
-**(b) Required information** Applications for grants for technical assistance under this part shall contain or be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) of this section shall include a listing and description of technical assistance proposed to be funded under this part within the State during the fiscal year for which such application is made, and such information concerning expenditures as the Secretary may, by rule, require.
+**(b) Required information** Applications for grants for technical assistance under this part shall contain or be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) shall include a listing and description of technical assistance proposed to be funded under this part within the State during the fiscal year for which such application is made, and such information concerning expenditures as the Secretary may, by rule, require.
 
 **(c) Compliance required for approval; reasons for disapproval; resubmittal; amendment** The Secretary shall approve such applications submitted by a State energy agency as he determines to be in compliance with this section and the requirements of the applicable State plan approved under [section 6372c of this title](./chapter-077-energy-conservation.md#section-6372c). The Secretary shall state the reasons for his disapproval in the case of any application which he disapproves. Any application not approved by the Secretary may be resubmitted by the applicant at any time in the same manner as the original application and the Secretary shall approve such resubmitted application as he determines to be in compliance with this section and the requirements of the State plan. Amendments of an application shall, except as the Secretary may otherwise provide be subject to approval in the same manner as the original application. All or any portions of an application under this section may be disapproved to the extent that funds are not available under this part.
 
@@ -9408,7 +9408,7 @@ Subsec. (a)(3). Pub. L. 105–388 substituted semicolon for comma at end.
 ## § 6372i. Allocation of grants
 **(a)** Grants made under this part shall be allocated among the States in accordance with a formula to be prescribed, by rule, by the Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
 
-**(b)** The total amount allocated to any State under subsection (a) of this section in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a) of this section. Except for the District of Columbia, Puerto Rico, Guam, American Samoa, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants in each State which has an approved State plan under this part.
+**(b)** The total amount allocated to any State under subsection (a) in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a). Except for the District of Columbia, Puerto Rico, Guam, American Samoa, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants in each State which has an approved State plan under this part.
 
 
 <a id="section-6373"></a>
@@ -9451,7 +9451,7 @@ Not later than 1 year after November 9, 1978, the Secretary of Transportation sh
 
   (B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer’s warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
-  (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
+  (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b), whether or not original equipment manufacturer warranties still apply.
 
   (D) In deciding which types of alternative fueled vehicles to acquire in implementing this part, the Secretary shall consider as a factor—
 
@@ -9491,13 +9491,13 @@ Not later than 1 year after November 9, 1978, the Secretary of Transportation sh
 
 (2)
 
-  (A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
+  (A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
 
   (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
 (3) Studies undertaken under this subsection shall be coordinated with relevant testing activities of the Environmental Protection Agency and the Department of Transportation.
 
-**(c) Availability to public** To the extent practicable, at locations where vehicles acquired under subsection (a) of this section are supplied with alternative fuels, such fuels shall be offered for sale to the public. The head of the Federal agency responsible for such a location shall consider whether such sale is practicable, taking into account, among other factors—
+**(c) Availability to public** To the extent practicable, at locations where vehicles acquired under subsection (a) are supplied with alternative fuels, such fuels shall be offered for sale to the public. The head of the Federal agency responsible for such a location shall consider whether such sale is practicable, taking into account, among other factors—
 
 (1) whether alternative fuel is commercially available for vehicles in the vicinity of such location;
 
@@ -9511,17 +9511,17 @@ Not later than 1 year after November 9, 1978, the Secretary of Transportation sh
 
 **(d) Federal agency use of demonstration vehicles**
 
-(1) Upon the request of the head of any agency of the Federal Government, the Secretary shall ensure that such Federal agency be provided with vehicles acquired under subsection (a) of this section to the maximum extent practicable.
+(1) Upon the request of the head of any agency of the Federal Government, the Secretary shall ensure that such Federal agency be provided with vehicles acquired under subsection (a) to the maximum extent practicable.
 
 (2)
 
-  (A) Funds appropriated under this section for the acquisition of vehicles under subsection (a) of this section shall be applicable only to the portion of the cost of vehicles acquired under subsection (a) of this section which exceeds the cost of comparable gasoline or diesel fueled vehicles.
+  (A) Funds appropriated under this section for the acquisition of vehicles under subsection (a) shall be applicable only to the portion of the cost of vehicles acquired under subsection (a) which exceeds the cost of comparable gasoline or diesel fueled vehicles.
 
   (B) To the extent that appropriations are available for such purposes, the Secretary shall ensure that the cost to any Federal agency receiving a vehicle under paragraph (1) shall not exceed the cost to such agency of a comparable gasoline or diesel fueled vehicle.
 
 (3) Only one-half of the vehicles acquired under this section by an agency of the Federal Government shall be counted against any limitation under law, Executive order, or executive or agency policy on the number of vehicles which may be acquired by such agency.
 
-(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studies undertaken by the Secretary under subsection (b) of this section.
+(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studies undertaken by the Secretary under subsection (b).
 
 **(e) Detail of personnel** Upon the request of the Secretary, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Department of Energy to assist the Secretary in carrying out the Secretary’s duties under this section.
 
@@ -9761,11 +9761,11 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (3) any vertically integrated petroleum company with respect to financial information of such company related to energy resource exploration, development, and production and the transportation, refining and marketing of energy resources and energy products.
 
-**(b) Request for examination** The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
+**(b) Request for examination** The Comptroller General shall conduct verification examinations of any person or company described in subsection (a), if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
 
 **(c) Definitions** For the purposes of this subchapter—
 
-(1) The term “verification examination” means an examination of such books, records, papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a) of this section.
+(1) The term “verification examination” means an examination of such books, records, papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a).
 
 (2) The term “energy information” has the same meaning as such term has in [section 796(e)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section796/e/1&num=0&edition=prelim).
 
@@ -9807,7 +9807,7 @@ This subchapter, referred to in subsec. (c), was in the original “this title�
 
 **(c) Transmission of examination results to Federal agencies**
 
-(1) Except as provided in subsections (d) and (e) of this section, the Comptroller General shall transmit a copy of the results of any verification examination conducted under [section 6381 of this title](./chapter-077-energy-conservation.md#section-6381) to the Federal agency to which energy information which was subject to such examination was furnished.
+(1) Except as provided in subsections (d) and (e), the Comptroller General shall transmit a copy of the results of any verification examination conducted under [section 6381 of this title](./chapter-077-energy-conservation.md#section-6381) to the Federal agency to which energy information which was subject to such examination was furnished.
 
 (2) Any report made pursuant to paragraph (1) shall include the Comptroller General’s findings with respect to the accuracy, reliability, and adequacy of the energy information which was the subject of such examination.
 
@@ -9832,14 +9832,14 @@ This subchapter, referred to in subsec. (c), was in the original “this title�
 
 <a id="section-6385"></a>
 ## § 6385. Accounting practices
-**(a) Development by Securities and Exchange Commission; time of taking effect** For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975, and shall take effect with respect to the fiscal year of each such person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2) of this section.
+**(a) Development by Securities and Exchange Commission; time of taking effect** For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975, and shall take effect with respect to the fiscal year of each such person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2).
 
-**(b) Consultation with Secretary, Government Accountability Office and Federal Energy Regulatory Commission; rules; reliance on practices developed by Financial Accounting Standards Board; opportunity to submit written comment** In carrying out its responsibilities under subsection (a) of this section, the Securities and Exchange Commission shall—
+**(b) Consultation with Secretary, Government Accountability Office and Federal Energy Regulatory Commission; rules; reliance on practices developed by Financial Accounting Standards Board; opportunity to submit written comment** In carrying out its responsibilities under subsection (a), the Securities and Exchange Commission shall—
 
-(1) consult with the Secretary, the Government Accountability Office, and the Federal Energy Regulatory Commission with respect to accounting practices to be developed under subsection (a) of this section, and
+(1) consult with the Secretary, the Government Accountability Office, and the Federal Energy Regulatory Commission with respect to accounting practices to be developed under subsection (a), and
 
 (2) have authority to prescribe rules applicable to persons engaged in the production of crude oil or natural gas, or make effective by recognition, or by other appropriate means indicating a determination to rely on, accounting practices developed by the Financial Accounting Standards Board, if the Securities and Exchange Commission is assured that such practice will be observed by persons engaged in the production of crude oil or natural gas to the same extent as would result if the Securities and Exchange Commission had prescribed such practices by rule.
-The Securities and Exchange Commission shall afford interested persons an opportunity to submit written comments with respect to whether it should exercise its discretion to recognize or otherwise rely on such accounting practice in lieu of prescribing such practices by rule and may extend the 24-month period referred to in subsection (a) of this section as it determines may be necessary to allow for a meaningful comment period with respect to such determination.
+The Securities and Exchange Commission shall afford interested persons an opportunity to submit written comments with respect to whether it should exercise its discretion to recognize or otherwise rely on such accounting practice in lieu of prescribing such practices by rule and may extend the 24-month period referred to in subsection (a) as it determines may be necessary to allow for a meaningful comment period with respect to such determination.
 
 **(c) Requirements for accounting practices** The Securities and Exchange Commission shall assure that accounting practices developed pursuant to this section, to the greatest extent practicable, permit the compilation, treating domestic and foreign operations as separate categories, of an energy data base consisting of:
 
@@ -9881,7 +9881,7 @@ Subsec. (c)(1). Pub. L. 105–388, § 5(a)(15)(B), substituted “, controlling,
 ## § 6391. Enforcement
 **(a) Civil penalties** Any person who violates any general or special order of the Comptroller General issued under [section 6382(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6382/a/1/B&num=0&edition=prelim) may be assessed a civil penalty not to exceed $10,000 for each violation. Each day of failure to comply with such an order shall be deemed a separate violation. Such penalty shall be assessed by the Comptroller General and collected in a civil action brought by the Comptroller General through any attorney employed by the Government Accountability Office or any other attorney designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General. A person shall not be liable with respect to any period during which the effectiveness of the order with respect to such person was stayed.
 
-**(b) Jurisdiction; process** Any action to enjoin or set aside an order issued under [section 6382(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6382/a/1/B&num=0&edition=prelim) may be brought only before the United States Court of Appeals for the District of Columbia. Any action to collect a civil penalty for violation of any general or special order may be brought only in the United States District Court for the District of Columbia. In any action brought under subsection (a) of this section to collect a civil penalty, process may be served in any judicial district of the United States.
+**(b) Jurisdiction; process** Any action to enjoin or set aside an order issued under [section 6382(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6382/a/1/B&num=0&edition=prelim) may be brought only before the United States Court of Appeals for the District of Columbia. Any action to collect a civil penalty for violation of any general or special order may be brought only in the United States District Court for the District of Columbia. In any action brought under subsection (a) to collect a civil penalty, process may be served in any judicial district of the United States.
 
 **(c) Securing compliance with subpena** Upon petition by the Comptroller General through any attorney employed by the Government Accountability Office or designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
 
@@ -9952,11 +9952,11 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 
 (3) In addition to the requirements of paragraph (2) and to the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded and such opportunity shall be afforded prior to the effective date of such rule, regulation, or order, but in all cases such opportunity shall be afforded no later than 45 days, and no later than 10 days (in the case of a waiver of the entire comment period under paragraph (2) (ii)), after such date. A transcript shall be made of any oral presentation.
 
-(4) Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this Act as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) of this section or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
+(4) Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this Act as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
 
-**(b)** The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) of this section applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
+**(b)** The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
 
-**(c)** Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) of this section shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
+**(c)** Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
 
 ### Statutory Notes
 

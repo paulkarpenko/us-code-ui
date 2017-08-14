@@ -234,7 +234,7 @@ Subsec. (e)(1). Pub. L. 114–328, § 863(a)(1)(A), inserted “and to develop a
 
 Subsec. (e)(4). Pub. L. 114–328, § 863(a)(1)(B), substituted “other than for the purposes of—” for “other than for the purpose of providing advanced training to Department of Defense employees.” and added subpars. (A) to (C).
 
-Subsec. (f). Pub. L. 114–328, § 863(a)(2), (b)(2), substituted “Not later than February 1 each year” for “Not later than 120 days after the end of each fiscal year” and “the preceding fiscal year” for “such fiscal year” and struck out “Each report shall include, for the fiscal year covered by such report, the following:
+Subsec. (f). Pub. L. 114–328, § 863(a)(2), (b)(2), substituted “Not later than February 1 each year” for “Not later than 120 days after the end of each fiscal year” and “the preceding fiscal year” for “such fiscal year” and struck out at end “Each report shall include, for the fiscal year covered by such report, the following:
 
 “(1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
 
@@ -1216,7 +1216,7 @@ Subsec. (c). Pub. L. 111–383, § 877(c)(1), added subsec. (c).
 #### Effective Date
 Pub. L. 101–510, div. A, title XII, § 1209(h)(1), Nov. 5, 1990, 104 Stat. 1667, provided that: “Subsection (b) of [section 1746 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1746), United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act [Nov. 5, 1990].”
 
-#### Contractor Incentives to Achieve Savings and Improve Mission Performance
+#### Contractor Incentives To Achieve Savings and Improve Mission Performance
 Pub. L. 114–328, div. A, title VIII, § 832, Dec. 23, 2016, 130 Stat. 2283, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Defense Acquisition University shall develop and implement a training program for Department of Defense acquisition personnel on fixed-priced incentive fee contracts, public-private partnerships, performance-based contracting, and other authorities in law and regulation designed to give incentives to contractors to achieve long-term savings and improve administrative practices and mission performance.”
 
 #### Establishment of Initial Defense Acquisition University Structure

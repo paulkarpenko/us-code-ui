@@ -2,7 +2,7 @@
 title: 7
 chapter: '76'
 heading: DAIRY RESEARCH AND PROMOTION
-section_count: 22
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -513,3 +513,126 @@ The provisions of sections 4509, 4510, and 4511 of this title shall apply, excep
 **(a)** No provision of this subchapter shall be construed to preempt or supersede any other program relating to milk or dairy products research organized and operated under the laws of the United States or any State.
 
 **(b)** The provisions of this subchapter applicable to the order issued under [section 4533(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4533/b&num=0&edition=prelim) shall be applicable to any amendment to the order.
+
+
+<a id="section-4551"></a>
+## § 4551. Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse
+
+The Secretary of Agriculture is authorized to make indemnity payments for milk or cows producing such milk at a fair market value, to dairy farmers who have been directed since January 1, 1964 (but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973), to remove their milk, and to make indemnity payments for dairy products at fair market value to manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products from commercial markets because of residues of chemicals registered and approved for use by the Federal Government at the time of such use. The Secretary is also authorized to make indemnity payments for milk, or cows producing such milk, at a fair market value to any dairy farmer who is directed to remove his milk from commercial markets because of (1) the presence of products of nuclear radiation or fallout if such contamination is not due to the fault of the farmer, or (2) residues of chemicals or toxic substances not included under the first sentence of this section if such chemicals or toxic substances were not used in a manner contrary to applicable regulations or labeling instructions provided at the time of use and the contamination is not due to the fault of the farmer: Provided, That no indemnity payment may be made for contamination resulting from such residues of chemicals or toxic substances if the Secretary determines within thirty days after the date of application for payment that other legal recourse is available to the farmer. Any indemnity payment to any farmer shall continue until he has been reinstated and is again allowed to dispose of his milk on commercial markets.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450j of this title](./chapter-017-miscellaneous-matters.md#section-450j) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of Pub. L. 90–484, and not as part of the Dairy Production Stabilization Act of 1983 which comprises this chapter.
+
+#### Prior Provisions
+The following Acts authorized indemnity payments for the periods ending as indicated:
+
+June 30, 1968—Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231.
+
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108.
+
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+
+#### Amendments
+1977—Pub. L. 95–113 authorized indemnity payments for milk, or cows producing such milk, at a fair market value to any dairy farmer who is directed to remove his milk from commercial markets because of the presence of products of nuclear radiation or fallout if such contamination is not due to the fault of the farmer, or because of residues of chemicals or toxic substances not included under the first sentence of this section if such chemicals or toxic substances were not used in a manner contrary to applicable regulations or labeling instructions provided at the time of use and the contamination is not due to the fault of the farmer, and inserted provision that no indemnity payment may be made for contamination resulting from residues of chemicals or toxic substances if the Secretary determines within thirty days after the date of application for payment that other legal recourse is available to the farmer.
+
+1973—Pub. L. 93–86 inserted “for milk or cows producing such milk” after “The Secretary of Agriculture is authorized to make indemnity payments” and “(but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973)” after “January 1, 1964” and substituted “, and to make indemnity payments for dairy products at fair market value to” for “and” after “remove their milk” and “of” for “it contained” before “residues of chemicals”.
+
+1970—Pub. L. 91–524 inserted “and manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products,” after “milk”, in first sentence, and substituted “Any indemnity payment to any farmer shall continue” for “Such indemnity payments shall continue to each dairy farmer” in second sentence.
+
+#### Effective Date of 1977 Amendment
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
+
+<a id="section-4552"></a>
+## § 4552. Authorization of appropriations for dairy farmer indemnities
+
+There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 450k of this title](./chapter-017-miscellaneous-matters.md#section-450k) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of Pub. L. 90–484, and not as part of the Dairy Production Stabilization Act of 1983 which comprises this chapter.
+
+#### Prior Provisions
+The following Acts authorized indemnity payments for the periods ending as indicated:
+
+June 30, 1968—Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231.
+
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
+
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+
+
+<a id="section-4553"></a>
+## § 4553. Expiration of dairy farmer indemnity program
+
+The authority granted under this subchapter shall expire on September 30, 2018.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to section 450l of this title prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of Pub. L. 90–484, and not as part of the Dairy Production Stabilization Act of 1983 which comprises this chapter.
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+The following Acts authorized indemnity payments for the periods ending as indicated:
+
+June 30, 1968—Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231.
+
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
+
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+
+#### Amendments
+2014—Pub. L. 113–79 substituted “2018” for “2012”.
+
+2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”.
+
+2002—Pub. L. 107–171 substituted “2007” for “1995”.
+
+1990—Pub. L. 101–624 substituted “1995” for “1990”.
+
+1985—Pub. L. 99–198 substituted “1990” for “1985”.
+
+1981—Pub. L. 97–98 substituted “1985” for “1981”.
+
+1977—Pub. L. 95–113 substituted “September 30, 1981” for “June 30, 1977”.
+
+1973—Pub. L. 93–86 substituted “1977” for “1973”.
+
+1970—Pub. L. 91–524 substituted “1973” for “1970”.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
+
+#### Effective Date of 1981 Amendment
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date of 1977 Amendment
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).

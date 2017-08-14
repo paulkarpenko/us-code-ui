@@ -13,6 +13,9 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 ### Statutory Notes
 
+#### Short Title of 2017 Amendment
+Pub. L. 115–15, § 1, Mar. 28, 2017, 131 Stat. 79, provided that: “This Act [amending [section 6 of this title](./chapter-001-the-flag.md#section-6)] may be cited as the ‘Vietnam War Veterans Recognition Act of 2017’.”
+
 #### Short Title of 2009 Amendment
 Pub. L. 111–41, § 1, July 27, 2009, 123 Stat. 1962, provided that: “This Act [amending [section 6 of this title](./chapter-001-the-flag.md#section-6)] may be cited as the ‘Korean War Veterans Recognition Act’.”
 
@@ -164,7 +167,7 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that: “SECTION 1. SH
 
 **(c)** The flag should not be displayed on days when the weather is inclement, except when an all weather flag is displayed.
 
-**(d)** The flag should be displayed on all days, especially on New Year’s Day, January 1; Inauguration Day, January 20; Martin Luther King Jr.’s birthday, third Monday in January; Lincoln’s Birthday, February 12; Washington’s Birthday, third Monday in February; Easter Sunday (variable); Mother’s Day, second Sunday in May; Armed Forces Day, third Saturday in May; Memorial Day (half-staff until noon), the last Monday in May; Flag Day, June 14; Father’s Day, third Sunday in June; Independence Day, July 4; National Korean War Veterans Armistice Day, July 27; Labor Day, first Monday in September; Constitution Day, September 17; Columbus Day, second Monday in October; Navy Day, October 27; Veterans Day, November 11; Thanksgiving Day, fourth Thursday in November; Christmas Day, December 25; and such other days as may be proclaimed by the President of the United States; the birthdays of States (date of admission); and on State holidays.
+**(d)** The flag should be displayed on all days, especially on New Year’s Day, January 1; Inauguration Day, January 20; Martin Luther King Jr.’s birthday, third Monday in January; Lincoln’s Birthday, February 12; Washington’s Birthday, third Monday in February; National Vietnam War Veterans Day, March 29; Easter Sunday (variable); Mother’s Day, second Sunday in May; Armed Forces Day, third Saturday in May; Memorial Day (half-staff until noon), the last Monday in May; Flag Day, June 14; Father’s Day, third Sunday in June; Independence Day, July 4; National Korean War Veterans Armistice Day, July 27; Labor Day, first Monday in September; Constitution Day, September 17; Columbus Day, second Monday in October; Navy Day, October 27; Veterans Day, November 11; Thanksgiving Day, fourth Thursday in November; Christmas Day, December 25; and such other days as may be proclaimed by the President of the United States; the birthdays of States (date of admission); and on State holidays.
 
 **(e)** The flag should be displayed daily on or near the main administration building of every public institution.
 
@@ -182,6 +185,8 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that: “SECTION 1. SH
 In subsection (d), the words “Veterans Day” are substituted for “Armistice Day” because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–15 inserted “National Vietnam War Veterans Day, March 29;” after “third Monday in February;”.
+
 2009—Subsec. (d). Pub. L. 111–41 inserted “National Korean War Veterans Armistice Day, July 27;” after “July 4;”.
 
 2008—Subsec. (d). Pub. L. 110–239 inserted “Father’s Day, third Sunday in June;” after “Flag Day, June 14;”.

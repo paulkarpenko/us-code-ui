@@ -116,16 +116,16 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2420, Oct. 21, 1998, 112 St
 
 (3) **Compensation** — A Chief Executive Officer appointed pursuant to paragraph (1) shall be compensated at the annual rate of basic pay for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
 
-**(c) Termination of Director of International Broadcasting Bureau** Effective on December 23, 2016, the position of the Director of the International Broadcasting Bureau shall be terminated, and all of the responsibilities, offices, authorities, and immunities of the Director or the Board under this or any other chapter or authority before such date of enactment shall be transferred or available to, assumed by, or overseen by the Chief Executive Officer, as head of the Board.
+**(c) Termination of Director of International Broadcasting Bureau** Effective on December 23, 2016, the position of the Director of the International Broadcasting Bureau shall be terminated, and all of the responsibilities, offices, authorities, and immunities of the Director or the Board under this chapter or any other Act or authority before such date shall be transferred or available to, assumed by, or overseen by the Chief Executive Officer, as head of the Board.
 
 **(d) Immunity from civil liability** Notwithstanding any other provision of law, all limitations on liability that apply to the Chief Executive Officer shall also apply to members of the boards of directors of RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, or any organization that consolidates such entities when such members are acting in their official capacities.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(1) and (c), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (b)(1) and (c), was in the original a reference to this Act, and was translated as referring to this title, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-December 23, 2016, referred to in subsec. (c), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
+December 23, 2016, and such date, referred to in subsec. (c), were in the original “the date of the enactment of this section” and “such date of enactment”, respectively, and were translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the continued existence within the Executive branch, retention of existing Board members, Inspector General authorities, composition, term, selection, compensation, decisions, and immunity from civil liability of the Broadcasting Board of Governors.
@@ -149,7 +149,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 
 <a id="section-6204"></a>
-## § 6204. Authorities of Board
+## § 6204. Authorities of Chief Executive Officer
 **(a) Authorities** The Chief Executive Officer shall have the following authorities:
 
 (1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.],,11 So in original. the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.], and Worldnet Television, except as provided in [section 6205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6205/b&num=0&edition=prelim).
@@ -209,13 +209,13 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
-
-This chapter, referred to in subsec. (a)(5), (14), (21), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
+This chapter, referred to in subsec. (a)(1), (9), (17), (18), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
+
+This chapter, referred to in subsec. (a)(5), (14), (21), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -224,7 +224,9 @@ Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17
 For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
 #### Codification
-Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title.
+“Chief Executive Officer” was substituted for “Board” in section catchline to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, § 1288(2)(A)(i), which substituted “Chief Executive Officer” for “Board” wherever appearing in subsec. (a).
+
+Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title. There are no subsecs. (c) and (d) after amendment by Pub. L. 114–328, § 1288(2)(B)–(D).
 
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board” in introductory provisions.
@@ -361,7 +363,7 @@ Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 December 23, 2016, referred to in subsec. (b), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
-2016—Pub. L. 114–328 amended section generally. Prior to amendment section related to the role of the Secretary of State in international broadcasting.
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the role of the Secretary of State in international broadcasting.
 
 1998—Pub. L. 105–277, § 1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
 
@@ -615,7 +617,7 @@ Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congre
 
 (4) promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
 
-**(c) Federal status** Nothing in this or any other Act, or any action taken pursuant to this or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
+**(c) Federal status** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
 
 **(d) Leadership of grantee organizations** Officers and directors of RFE/RL Inc., Radio Free Asia, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Board.
 
@@ -624,7 +626,7 @@ Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congre
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a), (c), and (d), was in the original a reference to this Act, and was translated as referring to this title, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 #### Prior Provisions
 A prior section 6209, Pub. L. 103–236, title III, § 310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.

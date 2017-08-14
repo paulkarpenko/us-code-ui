@@ -168,9 +168,11 @@ In subsection (c), in the matter before paragraph (1), the words “For fiscal y
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
-Pub. L. 114–113, div. B, title III, Dec. 18, 2015, 129 Stat. 2318, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
+Pub. L. 115–31, div. B, title III, May 5, 2017, 131 Stat. 214, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. B, title III, Dec. 18, 2015, 129 Stat. 2318.
 
 Pub. L. 113–235, div. B, title III, Dec. 16, 2014, 128 Stat. 2203.
 
@@ -194,7 +196,7 @@ Pub. L. 102–195, § 11, Dec. 9, 1991, 105 Stat. 1612.
 ## § 30104. Baselines and cost controls
 **(a) Definitions.—** In this section:
 
-(1) **Development.—** — The term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration’s Procedural Requirements 7120.5c, dated March 22, 2005.
+(1) **Development.—** — The term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration’s Procedural Requirements 7120.5E, dated August 14, 2012.
 
 (2) **Development cost.—** — The term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program.
 
@@ -278,6 +280,9 @@ Pub. L. 102–195, § 11, Dec. 9, 1991, 105 Stat. 1612.
 | 30104 | [42 U.S.C. 16613](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16613&num=0&edition=prelim). | Pub. L. 109–155, title I, § 103, Dec. 30, 2005, 119 Stat. 2907. |
 
 In subsections (b)(2), (c)(1), (d)(3), and (e)(1)(A), (2), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–10 substituted “Procedural Requirements 7120.5E, dated August 14, 2012” for “Procedural Requirements 7120.5c, dated March 22, 2005”.
 
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

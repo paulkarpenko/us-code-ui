@@ -370,7 +370,7 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
         (ff) the Rocky Mountain Region;
 
-        (gg) the Great Plans Region; and
+        (gg) the Great Plans 22 So in original. Probably should be “Plains”. Region; and
 
         (hh) the Midwest Region;
 
@@ -471,7 +471,7 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 ### Statutory Notes
 
 #### References in Text
-The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B) is Pub. L. 103–302, Aug. 23, 1994, 108 Stat. 1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of this title](./chapter-040-indian-dams-safety.md#section-3801) and Tables.
+The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat. 1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of this title](./chapter-040-indian-dams-safety.md#section-3801) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A)(iii)(I)(bb), (B)(ii)(I)(bb), (5)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 

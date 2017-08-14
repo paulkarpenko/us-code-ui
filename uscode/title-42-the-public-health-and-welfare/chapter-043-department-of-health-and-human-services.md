@@ -406,7 +406,7 @@ Section was formerly classified to section 623b of former Title 5, Executive Dep
 ## § 3504. General Counsel; appointment
 **(a)** The President shall appoint on and after July 31, 1956, by and with the advice and consent of the Senate, a General Counsel of the Department of Health and Human Services.
 
-**(b)** The existing office of General Counsel of the Department of Health and Human Services shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) of this section or April 1, 1957, whichever is earlier.
+**(b)** The existing office of General Counsel of the Department of Health and Human Services shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) or April 1, 1957, whichever is earlier.
 
 ### Statutory Notes
 
@@ -488,7 +488,7 @@ Repeal effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as an
 
 **(b) Information and listing services available without charge** Information and listing services performed by the Clearinghouse shall be provided free of charge to all interested health professionals and to all communities and groups within the areas determined by the Secretary under section 294n(f) 11 See References in Text note below. of this title to have a shortage of and need for health professionals.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to establish, operate, and maintain the Clearinghouse created by subsection (a) of this section.
+**(c) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to establish, operate, and maintain the Clearinghouse created by subsection (a).
 
 ### Statutory Notes
 

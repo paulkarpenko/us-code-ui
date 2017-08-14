@@ -237,7 +237,7 @@ The words “equipment, and materials” are omitted as covered by the word “s
 
 ### Statutory Notes
 
-Section, added Pub. L. 85–861, § 1(45), Sept. 2, 1958, 72 Stat. 1458, related to procurement of table and kitchen equipment for officers’ quarters: limitation on.
+Section, added Pub. L. 85–861, § 1(45), Sept. 2, 1958, 72 Stat. 1458, related to limitation on procurement of table and kitchen equipment for officers’ quarters.
 
 
 <a id="section-2388"></a>

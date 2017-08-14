@@ -1572,10 +1572,6 @@ A prior section 2674, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 #### References in Text
 The Homeland Security Act of 2002, referred to in subsec. (b)(4)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
 
-The Internal Security Act of 1950, referred to in subsec. (b)(4)(C), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, which is classified principally to chapter 23 (§ 781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section781&num=0&edition=prelim) and Tables.
-
-The National Security Agency Act of 1959, referred to in subsec.(b)(4)(F), is Pub. L. 86–36, May 29, 1959, 73 Stat. 63, which is classified generally to chapter 47 (§ 3601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
-
 The date of the enactment of this paragraph, referred to in subsec. (f)(4), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
@@ -1587,7 +1583,7 @@ Pub. L. 114–328, § 2829E(b), substituted “The Secretary of Defense has juri
 
 Subsec. (b). Pub. L. 114–328, § 2829E(d)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions” in introductory provisions, could not be executed because of intervening amendment by Pub. L. 114–328, § 952(a)(2). See below.
+Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions”, could not be executed because of intervening amendment by Pub. L. 114–328, § 952(a)(2). See below.
 
 Pub. L. 114–328, § 952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows “The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
@@ -1595,7 +1591,7 @@ Pub. L. 114–328, § 952(a)(2), added par. (1) and struck out former par. (1). 
 
 “(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.”
 
-Subsec. (b)(2). Pub. L. 114–328, § 952(a)(1), added par. (2). Former par. (2) redesignated (5).
+Subsec. (b)(2). Pub. L. 114–328, § 952(a)(2), added par. (2). Former par. (2) redesignated (5).
 
 Subsec. (b)(3), (4). Pub. L. 114–328, § 952(a)(2), added pars. (3) and (4).
 
@@ -3358,7 +3354,7 @@ Pub. L. 106–541, title II, § 226, Dec. 11, 2000, 114 Stat. 2598, provided tha
 
   (B) if the real property or facility remains available after such notification, notify the Attorney General of its availability; and
 
-  (C) if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3762a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3762a&num=0&edition=prelim)), convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
+  (C) if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3762a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3762a&num=0&edition=prelim)),11 See References in Text note below. convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
 
 (2) Paragraph (1) shall not apply—
 
@@ -3369,6 +3365,8 @@ Pub. L. 106–541, title II, § 226, Dec. 11, 2000, 114 Stat. 2598, provided tha
 ### Statutory Notes
 
 #### References in Text
+Section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (f)(1)(C), is section 515 of title I of Pub. L. 90–351, which was classified as [section 3762a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3762a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 10171 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10171&num=0&edition=prelim), Crime Control and Law Enforcement.
+
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (f)(2)(A), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) and Tables.
 
 #### Codification
@@ -3427,7 +3425,7 @@ Subsec. (e)(4). Pub. L. 106–65, § 1066(a)(26)(C), substituted “November 18,
 Pub. L. 105–85, div. B, title XXVIII, § 2814(b), Nov. 18, 1997, 111 Stat. 1995, provided that: “[Section 2696 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2696), United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
 
 #### Transfer of Functions
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of Title 42, The Public Health and Welfare, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under [section 3741 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3741&num=0&edition=prelim).
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under [section 10141 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10141&num=0&edition=prelim).
 
 
 <a id="section-2697"></a>

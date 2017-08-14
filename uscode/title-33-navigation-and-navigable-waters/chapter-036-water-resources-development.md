@@ -20,7 +20,7 @@ source: >-
 The Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -746,7 +746,7 @@ Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L.
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–322 substituted “Application of credit” for “Subject to subsection” in subsec. heading, redesignated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
+2016—Subsec. (a). Pub. L. 114–322 substituted “Application of credit” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -765,14 +765,14 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 <a id="section-2226"></a>
 ## § 2226. Credit in lieu of reimbursement
-**(a) Requests for credits** With respect to an authorized flood damage reduction project, or separable element thereof, for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) (as it existed before the repeal made by section 1014(c)(3)), the Secretary may provide to the non-Federal interest, at the request of the non-Federal interest, a credit in an amount equal to the estimated Federal share of the cost of the project or separable element, in lieu of providing to the non-Federal interest a reimbursement in that amount.
+**(a) Requests for credits** With respect to an authorized flood damage reduction project, or separable element thereof, for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) (as it existed before the repeal made by section 1014(c)(3)),11 See References in Text note below. the Secretary may provide to the non-Federal interest, at the request of the non-Federal interest, a credit in an amount equal to the estimated Federal share of the cost of the project or separable element, in lieu of providing to the non-Federal interest a reimbursement in that amount.
 
 **(b) Application of credits** At the request of the non-Federal interest, the Secretary may apply such credit to the non-Federal share of the cost of carrying out other water resources development projects or studies of the non-Federal interest.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1014(c)(3), referred to in subsec. (a), is section 1014(c)(3) of Pub. L. 113–121, title I, June 10, 2014, 128 Stat. 1222, which repealed [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13).
+Section 1014(c)(3), referred to in subsec. (a), means section 1014(c)(3) of Pub. L. 113–121, title I, June 10, 2014, 128 Stat. 1222, which repealed [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13).
 
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–322, § 1171(1), substituted “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) (as it existed before the repeal made by section 1014(c)(3))” for “that has been constructed by a non-Federal interest under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) before June 10, 2014”.
@@ -1379,7 +1379,7 @@ Subsec. (e)(3)(B), (C). Pub. L. 114–322, § 1114, added subpar. (B) and redesi
 1990—Subsec. (a)(2). Pub. L. 101–640 substituted “up to 100 percent” for “not more than 40 percent”.
 
 #### Guidance
-Pub. L. 113–121, title II, § 2102(d), as added by Pub. L. 114–322, title I, § 1112, Dec. 16, 2016, 130 Stat. 1637, provided that: Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 [Dec. 16, 2016], the Secretary [of the Army] shall publish on the website of the Corps of Engineers guidance on the implementation of this section [amending this section, [section 2211 of this title](./chapter-036-water-resources-development.md#section-2211), and [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code] and the amendments made by this section.”.
+Pub. L. 113–121, title II, § 2102(d), as added by Pub. L. 114–322, title I, § 1112, Dec. 16, 2016, 130 Stat. 1637, provided that: “Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 [Dec. 16, 2016], the Secretary [of the Army] shall publish on the website of the Corps of Engineers guidance on the implementation of this section [amending this section, [section 2211 of this title](./chapter-036-water-resources-development.md#section-2211), and [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code] and the amendments made by this section.”
 
 
 <a id="section-2238b"></a>
@@ -1586,7 +1586,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 #### Amendments
 2016—Subsec. (a)(2). Pub. L. 114–322, § 1110(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 114–322, § 1110(1)(C), redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, inserted subpar. (A) designation and heading, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 114–322, § 1110(1)(C), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
 Pub. L. 114–322, § 1110(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
@@ -1630,7 +1630,7 @@ The Secretary is authorized to maintain federally authorized harbors of refuge t
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -3045,7 +3045,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -3486,7 +3486,7 @@ In the preparation of feasibility reports for projects for flood damage preventi
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -3921,11 +3921,7 @@ Subsec. (d). Pub. L. 100–676, § 41(b), substituted “5 years” for “two y
 #### Amendments
 2016—Pub. L. 114–322, § 1119(1), inserted “and Indian tribes” after “Territories” in section catchline.
 
-Subsec. (a). Pub. L. 114–322, § 1119(2), substituted “projects—
-
-“(1) in American”
-
-for “projects in American” and added par. (2).
+Subsec. (a). Pub. L. 114–322, § 1119(2), inserted dash after “projects” and par. (1) designation before “in American” and added par. (2).
 
 2014—Pub. L. 113–121 designated existing provisions as subsec. (a) and inserted heading, inserted “Puerto Rico,” before “and the Trust Territory of the Pacific Islands”, and added subsec. (b).
 
@@ -4820,7 +4816,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1122(i)(1), redesignated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1122(i)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 Subsec. (d)(3), (4). Pub. L. 114–322, § 1122(i)(2), added pars. (3) and (4).
 
@@ -4851,7 +4847,7 @@ Subsec. (g). Pub. L. 106–53, § 209(2), added subsec. (g).
 #### Applicability
 Pub. L. 110–114, title II, § 2037(c), as added by Pub. L. 113–121, title I, § 1030(d)(2), June 10, 2014, 128 Stat. 1232, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any project authorized under this Act [see Tables for classification] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act [Nov. 8, 2007].”
 
-#### Beneficial use of Dredged Material
+#### Beneficial Use of Dredged Material
 Pub. L. 114–322, title I, § 1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, provided that: “(a) In General.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Secretary [of the Army] shall establish a pilot program to carry out projects for the beneficial use of dredged material, including projects for the purposes of—“(1) reducing storm damage to property and infrastructure; “(2) promoting public safety; “(3) protecting, restoring, and creating aquatic ecosystem habitats; “(4) stabilizing stream systems and enhancing shorelines; “(5) promoting recreation; “(6) supporting risk management adaptation strategies; and “(7) reducing the costs of dredging and dredged material placement or disposal, such as projects that use dredged material for—“(A) construction or fill material; “(B) civic improvement objectives; and “(C) other innovative uses and placement alternatives that produce public economic or environmental benefits. “(b) Project Selection.—In carrying out the pilot program, the Secretary shall—“(1) identify for inclusion in the pilot program and carry out 10 projects for the beneficial use of dredged material; “(2) consult with relevant State agencies in selecting projects; and “(3) select projects solely on the basis of—“(A) the environmental, economic, and social benefits of the projects, including monetary and nonmonetary benefits; and “(B) the need for a diversity of project types and geographical project locations. “(c) Regional Beneficial Use Teams.—“(1) In general.—In carrying out the pilot program, the Secretary shall establish regional beneficial use teams to identify and assist in the implementation of projects under the pilot program. “(2) Composition.—“(A) Leadership.—For each regional beneficial use team established under paragraph (1), the Secretary shall appoint the Commander of the relevant division of the Corps of Engineers to serve as the head of the team. “(B) Membership.—The membership of each regional beneficial use team shall include—“(i) representatives of relevant Corps of Engineers districts and divisions; “(ii) representatives of relevant State and local agencies; and “(iii) representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section. “(d) Considerations.—The Secretary shall carry out the pilot program in a manner that—“(1) maximizes the beneficial placement of dredged material from Federal and non-Federal navigation channels; “(2) incorporates, to the maximum extent practicable, 2 or more Federal navigation, flood control, storm damage reduction, or environmental restoration projects; “(3) coordinates the mobilization of dredges and related equipment, including through the use of such efficiencies in contracting and environmental permitting as can be implemented under existing laws and regulations; “(4) fosters Federal, State, and local collaboration; “(5) implements best practices to maximize the beneficial use of dredged sand and other sediments; and “(6) ensures that the use of dredged material is consistent with all applicable environmental laws. “(e) Cost Sharing.—“(1) In general.—Projects carried out under this section shall be subject to the cost-sharing requirements applicable to projects carried out under section 204 of the Water Resources Development Act of 1992 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326)). “(2) Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositing dredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities. “(f) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 16, 2016], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) a description of the projects selected to be carried out under the pilot program; “(2) documentation supporting each of the projects selected; “(3) the findings of regional beneficial use teams regarding project selection; and “(4) any recommendations of the Secretary or regional beneficial use teams with respect to the pilot program. “(g) Termination.—The pilot program shall terminate after completion of the 10 projects carried out pursuant to subsection (b)(1). “(h) Exemption From Other Standards.—The projects carried out under this section shall be carried out notwithstanding the definition of the term ‘Federal standard’ in section 335.7 of title 33, Code of Federal Regulations.”
 
 #### “Secretary” Defined
@@ -5050,7 +5046,7 @@ The Secretary may enter into agreements to assume the operation and maintenance 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5087,7 +5083,7 @@ Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5112,7 +5108,7 @@ Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5393,7 +5389,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5434,7 +5430,7 @@ With respect to a water resources development project that has received construc
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 
 <a id="section-2333"></a>
@@ -5856,7 +5852,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 
 <a id="section-2341b"></a>
-## § 2341b.. Prioritization
+## § 2341b. Prioritization
 **(a) Prioritization of hurricane and storm damage risk reduction efforts**
 
 (1) **Priority** — For authorized projects and ongoing feasibility studies with a primary purpose of hurricane and storm damage risk reduction, the Secretary shall give funding priority to projects and ongoing studies that—
@@ -5930,7 +5926,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 114–322, § 1322(a)(1)(B)(ii), struck out befor
 
 “(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report”.
 
-Subsec. (b). Pub. L. 114–322, § 1322(a)(2), redesignated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii) of subpar. (A) of par. (1), and added par. (2).
+Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5956,7 +5952,7 @@ The Secretary shall give priority to a project for flood risk management if—
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -5982,7 +5978,7 @@ Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
-2016—Pub. L. 114–322 amended section generally. Prior to amendment, section consisted related to access to water resource data.
+2016—Pub. L. 114–322 amended section generally. Prior to amendment, section related to access to water resource data.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -6863,7 +6859,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (3) any other activities related to corrosion prevention the Secretary determines appropriate.
 
-**(d) Report** In the first annual report submitted to Congress after December 16, 2016, in accordance with [section 556 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-556), and section2295(b) of this title, the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
+**(d) Report** In the first annual report submitted to Congress after December 16, 2016, in accordance with [section 556 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-556), and [section 2295(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2295/b&num=0&edition=prelim), the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
 
 (1) a description of the actions the Secretary has taken to implement this section; and
 
@@ -7040,7 +7036,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, s
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

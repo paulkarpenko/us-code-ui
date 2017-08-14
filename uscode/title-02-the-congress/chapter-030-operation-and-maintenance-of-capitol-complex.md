@@ -1491,13 +1491,31 @@ Subsec. (b). Pub. L. 106–554, § 1(a)(2) [title I, § 8(3)], substituted “su
 
 (2) **Payment of costs** — The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a), for official activities of any advisory board established under subsection (b), for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2107/a&num=0&edition=prelim), and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
 
-(3) **Deposits, credits, and disbursements**
+(3) **Deposits, credits, disbursements, and transfers**
 
   (A) *Deposits* — The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
 
   (B) *Credits* — The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund.
 
   (C) *Disbursements* — Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the Executive Secretary of the Commission.
+
+  (D) *Transfers*
+
+    (i) *In general* — The Commission may, for individual conservation or restoration projects estimated to cost greater than $100,000, transfer amounts in the fund to the Architect of the Capitol for the cost of conservation or restoration, in whole or in part, by the Architect of the Capitol of works of art, historical objects, documents, or material relating to historical matters placed or exhibited, or to be placed or exhibited, within the Senate wing of the United States Capitol or any Senate Office Building.
+
+    (ii) *Availability* — Amounts transferred to the Architect of the Capitol under clause (i) and not subject to return under clause (v) shall remain available until expended.
+
+    (iii) *Approval and oversight of conservation or restoration* — Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation or restoration project for which such amounts are intended (referred to in this section as the “Project”). The Commission may require updated reports on the Project before any additional amounts are transferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
+
+    (iv) *Acceptance of donations* — The Commission retains the discretion whether or not to approve the acceptance of any donation to the fund regardless of whether the donation is intended for a conservation or restoration Project under clause (i).
+
+    (v) *Issuance of guidelines* — The Commission may prescribe such guidelines as it deems necessary for the approval and transfer of any amounts under clause (i) and the return of any undisbursed amounts.
+
+    (vi) *Return of unused funds* — The Commission may require the return of amounts transferred to the Architect of the Capitol under clause (i) and not disbursed pursuant to an approved Project within five years of the transfer. Such amounts will be returned to the fund for use or disposition as the Commission shall determine appropriate. For purposes of this subsection, the Commission may, at any time, specify a date of return greater than five years from the transfer.
+
+    (vii) *Disbursement and audit responsibility* — Once amounts are transferred pursuant to clause (i), disbursements from transferred funds shall be made by the Architect of the Capitol upon review of vouchers by the Architect of the Capitol and not subject to the audit provisions of clause 11 So in original. Probably should be “subsection”. (c)(6) of this section. Such disbursements shall be limited to purposes for which funds may be disbursed pursuant to this section.
+
+    (viii) *Termination* — The authority to transfer amounts to the Architect of the Capitol under clause (i) shall expire ten years after the date of its initial enactment. Any amounts transferred prior to the termination of authority to transfer may continue to be expended in accordance with this section.
 
 (4) **Investments**
 
@@ -1519,6 +1537,10 @@ Section is comprised of section 3 of Pub. L. 108–83. Subsec. (a)(3) of section
 Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
+2017—Subsec. (c)(3). Pub. L. 115–31, § 2(1), substituted “disbursements, and transfers” for “and disbursements” in heading.
+
+Subsec. (c)(3)(D). Pub. L. 115–31, § 2(2), added subpar. (D).
+
 2012—Subsec. (c)(6). Pub. L. 112–234 substituted “periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date,” for “annual audits of the Senate Preservation Fund”.
 
 2005—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2107/a&num=0&edition=prelim), and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2107/a&num=0&edition=prelim)”.
@@ -1928,12 +1950,18 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 <a id="section-2163"></a>
 ## § 2163. Capitol Grounds shuttle service
 
-Funds appropriated for the Capitol Grounds after October 1, 1976, shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
+Funds appropriated for any available account of the Architect of the Capitol after October 1, 1976, shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
 
 ### Statutory Notes
 
 #### Codification
 Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+2017—Pub. L. 115–31 substituted “appropriated for any available account of the Architect of the Capitol” for “appropriated under this heading”, which had been editorially changed to read “appropriated for the Capitol Grounds” to reflect the heading appearing in the Act.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–31, div. I, title I, § 1206(b), May 5, 2017, 131 Stat. 582, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
 
 
 <a id="section-2164"></a>

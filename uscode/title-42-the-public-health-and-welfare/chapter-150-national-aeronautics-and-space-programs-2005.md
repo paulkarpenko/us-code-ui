@@ -324,7 +324,7 @@ Section, Pub. L. 109–155, title VI, § 601, Dec. 30, 2005, 119 Stat. 2931, rel
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 109–155, title VI, § 602, Dec. 30, 2005, 119 Stat. 2931, which related to secondary payload capability, was transferred and is set out as a note under [section 70304 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70304&num=0&edition=prelim), National and Commercial Space Programs.
+Section, Pub. L. 109–155, title VI, § 602, Dec. 30, 2005, 119 Stat. 2931, which related to secondary payload capability, was transferred and is set out as a note under [section 70102 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70102&num=0&edition=prelim), National and Commercial Space Programs.
 
 
 <a id="section-16793"></a>

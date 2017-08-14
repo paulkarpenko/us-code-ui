@@ -228,7 +228,7 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 
   (K) the nature of training conducted pursuant to [section 7105(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim) during the preceding fiscal year;
 
-  (L) the amount, recipient, and purpose of each grant under sections 14044a and 14044c of title 42; 1
+  (L) the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; 1
 
   (M) activities by the Department of Defense to combat trafficking in persons, including—
 
@@ -270,7 +270,7 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 
     (vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
 
-  (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and [section 14044a(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a/a&num=0&edition=prelim), and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
+  (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and [section 20702(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20702/a&num=0&edition=prelim), and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
 
 **(e) Office To Monitor and Combat Trafficking**
 
@@ -309,7 +309,7 @@ This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4),
 
 Subsection (f) of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105), referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105), relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
-Sections 14044a and 14044c of title 42, referred to in subsec. (d)(7)(L), was in the original “sections 202 and 204 of the Trafficking Victims Protection Act of 2005”, and was translated as reading “sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005”, which enacted sections 14044a and 14044c of Title 42, The Public Health and Welfare, to reflect the probable intent of Congress.
+Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in the original “sections 202 and 204 of the Trafficking Victims Protection Act of 2005”, and was translated as reading “sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005”, which enacted sections 20702 and 20705 of Title 34, Crime Control and Law Enforcement, to reflect the probable intent of Congress.
 
 Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1808,7 +1808,7 @@ Subsec. (c)(2). Pub. L. 107–228, § 682(b)(2)(B), substituted “there is auth
 Subsec. (e)(1), (2). Pub. L. 107–228, § 682(b)(3), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 
 #### Rule of Construction
-Pub. L. 110–457, title III, § 303, Dec. 23, 2008, 122 Stat. 5087, provided that: “The amendments made by sections 301 and 302 [amending this section, sections 14044 to 14044c of Title 42, The Public Health and Welfare, and provisions set out as a note under [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105)] may not be construed to affect the availability of funds appropriated pursuant to the authorizations of appropriations under the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; [22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.) and the Trafficking Victims Protection Reauthorization Act of 2005 (Public Law 109–164) [see Tables for classification] before the date of the enactment of this Act [Dec. 23, 2008].”
+Pub. L. 110–457, title III, § 303, Dec. 23, 2008, 122 Stat. 5087, provided that: “The amendments made by sections 301 and 302 [amending this section, sections 20701 to 20703 and 20705 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105)] may not be construed to affect the availability of funds appropriated pursuant to the authorizations of appropriations under the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; [22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.) and the Trafficking Victims Protection Reauthorization Act of 2005 (Public Law 109–164) [see Tables for classification] before the date of the enactment of this Act [Dec. 23, 2008].”
 
 
 <a id="section-7111"></a>
@@ -1973,7 +1973,7 @@ Section was enacted as part of the Violence Against Women Reauthorization Act of
 
 (2) **Sunset** — The authorities of subsections (b) through (f) shall expire on September 30, 2020.
 
-**(h) Comptroller general review of existing programs**
+**(h) Comptroller General review of existing programs**
 
 (1) **In general** — Not later than September 30, 2018, and September 30, 2020, the Comptroller General of the United States shall submit to Congress a report on all of the programs conducted by the Department of State, the United States Agency for International Development, the Department of Labor, the Department of Defense, and the Department of the Treasury that address human trafficking and modern slavery, including a detailed analysis of the effectiveness of such programs in limiting human trafficking and modern slavery and specific recommendations on which programs are not effective at reducing the prevalence of human trafficking and modern slavery and how the funding for such programs may be redirected to more effective efforts.
 

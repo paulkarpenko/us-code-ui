@@ -263,7 +263,11 @@ Each eligible person shall, subject to the provisions of this chapter, be entitl
 ## § 3511. Duration of educational assistance
 **(a)**
 
-(1) Each eligible person, whether made eligible by one or more of the provisions of [section 3501(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1&num=0&edition=prelim), shall be entitled to educational assistance under this chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training).
+(1) Each eligible person, whether made eligible by one or more of the provisions of [section 3501(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1&num=0&edition=prelim), shall be entitled to educational assistance under this chapter—
+
+  (A) in the case of a person who first enrolls in a program of education using such entitlement before August 1, 2018, for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training); or
+
+  (B) in the case of a person who first enrolls in a program of education using such entitlement on or after August 1, 2018, for an aggregate period not in excess of 36 months (or to the equivalent thereof in part-time training).
 
 (2)
 
@@ -295,6 +299,8 @@ then such eligible person (if such person has sufficient remaining entitlement) 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–48 substituted “chapter—” for “chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training)” and added subpars. (A) and (B).
+
 2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 Subsec. (a)(1). Pub. L. 109–461, § 301(b)(2)(A), substituted “Each eligible person, whether made eligible by one or more of the provisions of [section 3501(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1&num=0&edition=prelim),” for “Each eligible person” and “an aggregate period” for “a period” in first sentence and struck out second sentence, which read as follows: “In no event may the aggregate educational assistance afforded to a spouse made eligible under both sections 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months.”
@@ -1028,7 +1034,30 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a) and (b)
+Pub. L. 115–48, § 203, Aug. 16, 2017, 131 Stat. 989, provided that, effective with respect to a month that begins on or after Oct. 1, 2018, this section is amended as follows:
+
+(1) in subsection (a)(1):
+
+(A) by striking “$788” and inserting “$1,224”;
+
+(B) by striking “$592” and inserting “$967”; and
+
+(C) by striking “$394” and inserting “$710”; and
+
+(2) in subsection (a)(2)(B), by striking “$788” and inserting “$1,224”; and
+
+(3) in subsection (b), by striking “$788” and inserting “$1,224”.
+
+See 2017 Amendment notes below.
+
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–48, § 203(a)(1)(A), substituted “$1,224” for “$788”, “$967” for “$592”, and “$710” for “$394”.
+
+Subsec. (a)(2)(B). Pub. L. 115–48, § 203(a)(1)(B), substituted “$1,224” for “$788”.
+
+Subsec. (b). Pub. L. 115–48, § 203(a)(2), substituted “$1,224” for “$788”.
+
 2006—Subsec. (e). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
 2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
@@ -1138,6 +1167,9 @@ Subsec. (c). Pub. L. 91–219, § 210, substituted provision that if a program o
 1965—Subsec. (a). Pub. L. 89–222, § 1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 
 Subsec. (b). Pub. L. 89–222, § 1(b), substituted “$105” for “$90”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–48, title II, § 203(b), Aug. 16, 2017, 131 Stat. 989, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a month that begins on or after October 1, 2018.”
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–183, title III, § 302(e), Dec. 16, 2003, 117 Stat. 2659, provided that: “The amendments made by this section [amending this section and sections 3534, 3542, and 3687 of this title] shall take effect on July 1, 2004, and shall apply with respect to educational assistance allowances payable under chapter 35 and [section 3687(b)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687/b/2&num=0&edition=prelim), United States Code, for months beginning on or after that date.”

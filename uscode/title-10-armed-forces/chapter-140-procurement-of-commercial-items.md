@@ -315,7 +315,7 @@ The Secretary of Defense shall—
 ### Statutory Notes
 
 #### Amendments
-2016—Par. (1), (2). Pub. L. 114–328 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+2016—Pars. (1), (2). Pub. L. 114–328 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) establish and maintain a centralized capability with necessary expertise and resources to oversee the making of commercial item determinations for the purposes of procurements by the Department of Defense; and
 

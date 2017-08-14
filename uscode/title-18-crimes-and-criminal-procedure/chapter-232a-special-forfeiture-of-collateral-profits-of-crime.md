@@ -40,7 +40,7 @@ source: >-
 Pub. L. 99–399 inserted “an offense under [section 794 of this title](./chapter-037-espionage-and-censorship.md#section-794) or for”.
 
 #### Effective Date
-Chapter effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare.
+Chapter effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under [section 20101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3682"></a>

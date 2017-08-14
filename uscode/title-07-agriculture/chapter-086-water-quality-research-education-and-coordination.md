@@ -38,7 +38,7 @@ The Secretary is authorized to undertake such programs and assistance in coopera
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in subsec. (a), means subtitle H (§§ 1491–1499) of title XIV of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3627, which enacted sections 136i–1 and 5506 of this title, amended sections 136a, 136a–1, 136d, 136w–3, and 450i of this title, and enacted provisions set out as a note under [section 136a of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a). For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in subsec. (a), means subtitle H (§§ 1491–1499) of title XIV of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3627, which enacted sections 136i–1 and 5506 of this title, amended sections 136a, 136a–1, 136d, 136w–3, and 3157 of this title, and enacted provisions set out as a note under [section 136a of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a). For complete classification of this subtitle to the Code, see Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
 

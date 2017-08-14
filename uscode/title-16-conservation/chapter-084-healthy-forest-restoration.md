@@ -142,11 +142,11 @@ Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1,
 
       (II) may include valuing products on a per-acre basis.
 
-(5) **Relation to other laws** — Notwithstanding subsections (d) and (g) of [section 472a of this title](./chapter-002-national-forests.md#section-472a), the Chief may enter into an agreement or contract under subsection (b).
+(5) **Relation to other laws** — Notwithstanding subsections (d) and (g) of [section 472a of this title](./chapter-002-national-forests.md#section-472a), the Chief may enter into an agreement or contract under subsection (b). Notwithstanding the Materials Act of 1947 ([30 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section602/a&num=0&edition=prelim)),11 See References in Text note below. the Director may enter into an agreement or contract under subsection (b).
 
 (6) **Contracting officer** — Notwithstanding any other provision of law, the Secretary or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (b).
 
-(7) **Fire liability provisions** — Not later than 90 days after February 7, 2014, the Chief and the Director shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
+(7) **Fire liability provisions** — Not later than 90 days after February 7, 2014, the Chief shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
 
   (A) integrated resource timber contracts, as described in the Forest Service contract numbered 2400–13, part H, section H.4; and
 
@@ -205,11 +205,18 @@ Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1,
 ### Statutory Notes
 
 #### References in Text
+The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. [Section 602(a) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section602/a&num=0&edition=prelim) is section 2(a) of the Act. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
+
 The Act of June 9, 1930, referred to in subsecs. (e)(3)(B) and (g)(2)(A), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 576 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-576) and Tables.
 
 [Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, as amended, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
 
 [Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, as amended, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
+
+#### Amendments
+2017—Subsec. (d)(5). Pub. L. 115–31, § 422(1), inserted at end “Notwithstanding the Materials Act of 1947 ([30 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section602/a&num=0&edition=prelim)), the Director may enter into an agreement or contract under subsection (b).”
+
+Subsec. (d)(7). Pub. L. 115–31, § 422(2), struck out “and the Director” after “the Chief” in introductory provisions.
 
 
 <a id="section-6511"></a>

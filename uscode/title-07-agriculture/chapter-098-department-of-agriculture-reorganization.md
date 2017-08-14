@@ -1263,7 +1263,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (D) *Competitive program* — The term “competitive program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
 
-    (i) The Agriculture and Food Research Initiative established under [section 450i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/b&num=0&edition=prelim).
+    (i) The Agriculture and Food Research Initiative established under [section 3157(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3157/b&num=0&edition=prelim).
 
     (ii) The program providing competitive grants for risk management education established under [section 1524(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1524/a/3&num=0&edition=prelim).
 

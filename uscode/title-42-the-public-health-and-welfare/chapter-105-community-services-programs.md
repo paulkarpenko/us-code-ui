@@ -5453,7 +5453,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 (4) a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
 
-(5) a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.).
+(5) a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.).11 See References in Text note below.
 
 **(c) Prohibitions**
 
@@ -5463,7 +5463,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
   (B) knowingly makes a materially false statement in connection with such criminal background check;
 
-  (C) is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); or
+  (C) is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ([42 U.S.C. 16901](./chapter-151-child-protection-and-safety.md#section-16901) et seq.); 1 or
 
   (D) has been convicted of a felony consisting of—
 
@@ -5580,7 +5580,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(5) and (c)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§ 16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of this title](./chapter-151-child-protection-and-safety.md#section-16901) and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(5) and (c)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which was classified principally to chapter 151 (§ 16901 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (e)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 

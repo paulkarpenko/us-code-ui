@@ -1223,6 +1223,24 @@ The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1
 The prohibitions and provisions for review and approval concerning wharves and piers in waters of the United States as set forth in sections 403 and 565 of this title shall not apply to any body of water located entirely within one State which is, or could be, considered to be a navigable body of water of the United States solely on the basis of historical use in interstate commerce.
 
 
+<a id="section-59ll"></a>
+## § 59ll. Central Delaware River, Philadelphia, Pennsylvania
+**(a) Area to be declared nonnavigable** Subject to subsection (c), unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that there are substantive objections, those portions of the Delaware River, bounded by the former bulkhead and pierhead lines that were established by the Secretary of War and successors and described as follows, are declared to be nonnavigable waters of the United States:
+
+(1) Piers 70 South through 38 South, encompassing an area bounded by the southern line of Moore Street extended to the northern line of Catherine Street extended, including the following piers: Piers 70, 68, 67, 64, 61–63, 60, 57, 55, 53, 48, 46, 40, and 38.
+
+(2) Piers 24 North through 72 North, encompassing an area bounded by the southern line of Callowhill Street extended to the northern line of East Fletcher Street extended, including the following piers: Piers 24, 25, 27–35, 35.5, 36, 37, 38, 39, 49, 51–52, 53–57, 58–65, 66, 67, 69, 70–72, and Rivercenter.
+
+**(b) Public interest determination** The Secretary shall make the public interest determination under subsection (a) separately for each proposed project to be undertaken within the boundaries described in subsection (a), using reasonable discretion, not later than 150 days after the date of submission of appropriate plans for the proposed project.
+
+**(c) Limits on applicability** The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina and recreation facilities.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-59m"></a>
 ## § 59m. Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake George, New York
 
@@ -1405,21 +1423,3 @@ The three bodies of water located at block 4004, lots 1 and 2, and block 4003, l
 
 #### References in Text
 The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
-
-
-<a id="section-5911"></a>
-## § 5911. Central Delaware River, Philadelphia, Pennsylvania
-**(a) Area to be declared nonnavigable** Subject to subsection (c), unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that there are substantive objections, those portions of the Delaware River, bounded by the former bulkhead and pierhead lines that were established by the Secretary of War and successors and described as follows, are declared to be nonnavigable waters of the United States:
-
-(1) Piers 70 South through 38 South, encompassing an area bounded by the southern line of Moore Street extended to the northern line of Catherine Street extended, including the following piers: Piers 70, 68, 67, 64, 61–63, 60, 57, 55, 53, 48, 46, 40, and 38.
-
-(2) Piers 24 North through 72 North, encompassing an area bounded by the southern line of Callowhill Street extended to the northern line of East Fletcher Street extended, including the following piers: Piers 24, 25, 27–35, 35.5, 36, 37, 38, 39, 49, 51–52, 53–57, 58–65, 66, 67, 69, 70–72, and Rivercenter.
-
-**(b) Public interest determination** The Secretary shall make the public interest determination under subsection (a) separately for each proposed project to be undertaken within the boundaries described in subsection (a), using reasonable discretion, not later than 150 days after the date of submission of appropriate plans for the proposed project.
-
-**(c) Limits on applicability** The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina and recreation facilities.
-
-### Statutory Notes
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

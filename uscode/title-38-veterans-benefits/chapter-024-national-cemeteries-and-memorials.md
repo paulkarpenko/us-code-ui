@@ -706,7 +706,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
 (4) A person—
 
-  (A) who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.);
+  (A) who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.); 11 See References in Text note below.
 
   (B) who, for such crime, is sentenced to a minimum of life imprisonment; and
 
@@ -781,7 +781,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (e)(1). Pub. L. 114–58 substituted “Federal official” for “federal official” in introductory provisions.

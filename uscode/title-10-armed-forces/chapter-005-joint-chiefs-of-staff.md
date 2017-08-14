@@ -48,7 +48,7 @@ source: >-
 
 (3) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 
-**(e)** . Repealed. Pub. L. 114–328, div. A, title IX, § 921(a)(2)(C), Dec. 23, 2016, 130 Stat. 2351.]
+**(e)** Repealed. Pub. L. 114–328, div. A, title IX, § 921(a)(2)(C), Dec. 23, 2016, 130 Stat. 2351.]
 
 **(f) Recommendations to Congress.—** After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
@@ -71,11 +71,11 @@ source: >-
 #### Amendments
 2016—Subsec. (b)(2). Pub. L. 114–328, § 921(a)(2)(A), substituted “subsection (d)” for “subsections (d) and (e)”.
 
-Subsec. (c)(1). Pub. L. 114–328, § 921(a)(1), substituted “as necessary” for “as he considers appropriate”.
+Subsec. (c)(1). Pub. L. 114–328, § 921(a)(1), substituted “as necessary” for “as he considers appropriate” in introductory provisions.
 
-Subsec. (d)(1) to (3). Pub. L. 114–328, § 921(a)(2)(B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (d). Pub. L. 114–328, § 921(a)(2)(B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e), which required members of the Joint Chiefs of Staff to provide advice on request to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense.
+Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which required members of the Joint Chiefs of Staff to provide advice on request to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense.
 
 2011—Subsec. (a)(7). Pub. L. 112–81 added par. (7).
 
@@ -111,7 +111,7 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e), which r
 ### Statutory Notes
 
 #### Amendment of Subsection (a)
-Pub. L. 114–328, div. A, title IX, § 921(b), Dec. 23, 2016, 130 Stat. 2351, provided that, effective Jan. 1, 2019, subsection (a) of this section is amended as follows:
+Pub. L. 114–328, div. A, title IX, § 921(b), Dec. 23, 2016, 130 Stat. 2351, provided that, effective Jan. 1, 2019, and applicable to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date, subsection (a) of this section is amended as follows:
 
 (1) in paragraph (1), by striking “two years, beginning on October 1 of odd-numbered years” and all that follows and inserting “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.”; and
 
@@ -122,7 +122,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b), Dec. 23, 2016, 130 Stat. 2351, p
 See 2016 Amendment notes below.
 
 #### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
 Subsec. (a)(3). Pub. L. 114–328, § 921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.”
 
@@ -180,7 +180,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
   (E) advising the Secretary on new and alternative joint military capabilities, and alternative program recommendations and budget proposals, within projected resource levels and guidance provided by the Secretary, in order to achieve greater conformance with the priorities referred to in subparagraph (D);
 
-  (F) assessing joint military capabilities and identifying, approving, and prioritizing gaps in such capabilities to meet national defense strategies, pursuant to [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181) ; and
+  (F) assessing joint military capabilities and identifying, approving, and prioritizing gaps in such capabilities to meet national defense strategies, pursuant to [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181); and
 
   (G) recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, performance, and procurement quantity objectives in the acquisition of materiel and equipment to support the strategic and contingency plans required by this paragraph in the most effective and efficient manner.
 
@@ -299,13 +299,13 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328, § 921(c), which directed general amendment of text of [section 153 of title 10](./chapter-005-joint-chiefs-of-staff.md#section-153), was executed in subsec. (a) of this section, to reflect the probable intent of Congress and the subsequent amendments by Pub. L. 114–328, §§ 943 and 1064(c). Prior to amendment, subsec. (a) related to Chairman’s functions of planning, advice, and policy formulation.
 
-Subsec. (b)(1). Pub. L. 114–328, § 943(a), generally amended par. (1). Prior to amendment, par. (1) consisted of subpars. (A) to (F) and related to national military strategy.
+Subsec. (b)(1). Pub. L. 114–328, § 943(a), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (F) and related to national military strategy.
 
 Subsec. (b)(2)(A). Pub. L. 114–328, § 943(b)(1), substituted “in the report” for “of the report” in third sentence.
 
 Subsec. (b)(2)(B). Pub. L. 114–328, § 943(b)(2)(A), inserted “(or update)” after “National Military Strategy” wherever appearing.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 114–328, § 943(b)(2)(B), substituted “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).” for “strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy (or update)”.
+Subsec. (b)(2)(B)(ii). Pub. L. 114–328, § 943(b)(2)(B), substituted “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).” for “strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy (or update).”
 
 Subsec. (b)(2)(B)(iii). Pub. L. 114–328, § 943(b)(2)(C), struck out “distinguishing between the concepts of probability and consequences” after “levels of risk”.
 
@@ -448,7 +448,7 @@ Pub. L. 114–328, div. A, title IX, § 921(d), Dec. 23, 2016, 130 Stat. 2354, p
 
 “(4)(A) The Vice Chairman shall not be eligible for promotion to the position of Chairman or any other position in the armed forces.
 
-“(B) The President may waive subparagraph (A) if the President determines such action is necessary in the national interest.”.
+“(B) The President may waive subparagraph (A) if the President determines such action is necessary in the national interest.”
 
 See 2016 Amendment notes below.
 
@@ -456,7 +456,7 @@ See 2016 Amendment notes below.
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (b)(1)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
-2016—Subsec. (a)(3). Pub. L. 114–328, § 921(d)(1), substituted “for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.” for “for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”.
+2016—Subsec. (a)(3). Pub. L. 114–328, § 921(d)(1), substituted “for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.” for “for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
 Subsec. (a)(4). Pub. L. 114–328, § 921(d)(2), added par. (4).
 
@@ -464,8 +464,9 @@ Subsec. (a)(4). Pub. L. 114–328, § 921(d)(2), added par. (4).
 
 Subsecs. (f), (g). Pub. L. 102–484, § 911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “served in at least one joint duty assignment (as defined under [section 668(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section668/b&num=0&edition=prelim))”.Effective Date of 2016 Amendment
+1988—Subsec. (b)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “served in at least one joint duty assignment (as defined under [section 668(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section668/b&num=0&edition=prelim))”.
 
+#### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title IX, § 921(d)(3), Dec. 23, 2016, 130 Stat. 2354, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 2021, and shall apply to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date.”
 
 #### Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff

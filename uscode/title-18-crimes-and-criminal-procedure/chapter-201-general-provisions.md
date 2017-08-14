@@ -485,7 +485,7 @@ Subsec. (c). Pub. L. 100–690, § 7082(b), inserted at end “This subsection s
 Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248).
 
 #### Effective Date
-Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare.
+Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under [section 20101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3014"></a>
@@ -512,13 +512,13 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (1) **In general.—** — From amounts in the Fund, in addition to any other amounts available, and without further appropriation, the Attorney General, in coordination with the Secretary of Health and Human Services shall, for each of fiscal years 2016 through 2019, use amounts available in the Fund to award grants or enhance victims’ programming under—
 
-  (A) section 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ([42 U.S.C. 14044c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044c&num=0&edition=prelim));
+  (A) section 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ([42 U.S.C. 14044c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044c&num=0&edition=prelim)); 11 See References in Text note below.
 
   (B) subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105&num=0&edition=prelim));
 
-  (C) section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)); and
+  (C) section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)); 1 and
 
-  (D) section 106 of the PROTECT Our Children Act of 2008 ([42 U.S.C. 17616](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17616&num=0&edition=prelim)).
+  (D) section 106 of the PROTECT Our Children Act of 2008 ([42 U.S.C. 17616](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17616&num=0&edition=prelim)).1
 
 (2) **Limitation.—** — Except as provided in subsection (h)(2), none of the amounts in the Fund may be used to provide health care or medical items or services.
 
@@ -532,13 +532,13 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (2) **Use of funds.—** — The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
 
-  (A) sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ([42 U.S.C. 14044a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a&num=0&edition=prelim), 14044b, and 14044c);
+  (A) sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ([42 U.S.C. 14044a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a&num=0&edition=prelim), 14044b, and 14044c); 1
 
   (B) subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105&num=0&edition=prelim)); and
 
-  (C) section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).
+  (C) section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).
+(3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
 (4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
@@ -546,6 +546,12 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 #### References in Text
 The date of enactment of the Justice for Victims of Trafficking Act of 2015, referred to in subsecs. (a) and (g), is the date of enactment of Pub. L. 114–22, which was approved May 29, 2015.
+
+Sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005, referred to in subsecs. (e)(1)(A) and (h)(2)(A), are sections 202, 203, and 204 of Pub. L. 109–164, which were classified to sections 14044a, 14044b, and 14044c, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification as sections 20702, 20703, and 20705, respectively, of Title 34, Crime Control and Law Enforcement.
+
+Section 214(b) of the Victims of Child Abuse Act of 1990, referred to in subsecs. (e)(1)(C) and (h)(2)(C), (3), is section 214(b) of title II of Pub. L. 101–647, which was classified to [section 13002(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20304(b) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20304/b&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+Section 106 of the PROTECT Our Children Act of 2008, referred to in subsec. (e)(1)(D), is section 106 of Pub. L. 110–401, which was classified to [section 17616 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17616&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 21116 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21116&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(1), (4), is section 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(a)(1) of the Act amended [section 254b–2(b)(1)(E) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1/E&num=0&edition=prelim), The Public Health and Welfare. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
 

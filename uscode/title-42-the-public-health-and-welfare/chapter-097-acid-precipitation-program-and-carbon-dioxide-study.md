@@ -48,7 +48,7 @@ Section 701 of title VII Pub. L. 96–294 provided that: “This title [enacting
 
 (3) four additional members to be appointed by the President.
 
-**(b) Research management consortium; membership, responsibilities, etc.** The four National Laboratories (referred to in subsection (a)(2) of this section) shall constitute a research management consortium having the responsibilities described in [section 8903(b)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8903/b/13&num=0&edition=prelim) as well as the general responsibilities required by their representation on the Task Force. In carrying out these responsibilities the consortium shall report to, and act pursuant to direction from, the joint chairmen of the Task Force.
+**(b) Research management consortium; membership, responsibilities, etc.** The four National Laboratories (referred to in subsection (a)(2)) shall constitute a research management consortium having the responsibilities described in [section 8903(b)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8903/b/13&num=0&edition=prelim) as well as the general responsibilities required by their representation on the Task Force. In carrying out these responsibilities the consortium shall report to, and act pursuant to direction from, the joint chairmen of the Task Force.
 
 **(c) Director of research program** The Administrator of the National Oceanic and Atmospheric Administration shall serve as the director of the research program established by this subchapter.
 
@@ -81,9 +81,9 @@ Section 701 of title VII Pub. L. 96–294 provided that: “This title [enacting
 
 (11) effecting cooperation in acid precipitation research and development programs, ongoing and planned, with the affected and contributing States and with other sovereign nations having a commonality of interest;
 
-(12) subject to subsection (f)(1) of this section, management by the Task Force of financial resources committed to Federal acid precipitation research and development;
+(12) subject to subsection (f)(1), management by the Task Force of financial resources committed to Federal acid precipitation research and development;
 
-(13) subject to subsection (f)(2) of this section, management of the technical aspects of Federal acid precipitation research and development programs, including but not limited to (A) the planning and management of research and development programs and projects, (B) the selection of contractors and grantees to carry out such programs and projects, and (C) the establishment of peer review procedures to assure the quality of research and development programs and their products; and
+(13) subject to subsection (f)(2), management of the technical aspects of Federal acid precipitation research and development programs, including but not limited to (A) the planning and management of research and development programs and projects, (B) the selection of contractors and grantees to carry out such programs and projects, and (C) the establishment of peer review procedures to assure the quality of research and development programs and their products; and
 
 (14) analyzing the information available regarding acid precipitation in order to formulate and present periodic recommendations to the Congress and the appropriate agencies about actions to be taken by these bodies to alleviate acid precipitation and its effects.
 
@@ -99,13 +99,13 @@ Section 701 of title VII Pub. L. 96–294 provided that: “This title [enacting
 
 **(d) Convening of Task Force** The Task Force shall convene as necessary, but no less than twice during each fiscal year of the ten-year period covered by the comprehensive plan.
 
-**(e) Submission of annual report to President and Congress by Task Force** The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
+**(e) Submission of annual report to President and Congress by Task Force** The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14).
 
 **(f) Applicability of other statutory provisions to Task Force or plan**
 
-(1) Subsection (b)(12) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) which specifies (A) the department or agency to which funds are appropriated, or (B) the obligations of such department or agency with respect to the use of such funds.
+(1) Subsection (b)(12) shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) which specifies (A) the department or agency to which funds are appropriated, or (B) the obligations of such department or agency with respect to the use of such funds.
 
-(2) Subsection (b)(13) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award, or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
+(2) Subsection (b)(13) shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award, or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
 
 ### Statutory Notes
 
@@ -173,7 +173,7 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 **(c) Information from other Federal agencies and departments** The Secretary of Energy, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and the Director of the National Science Foundation shall furnish to the Office or the Academy upon request any information which the Office or the Academy determines to be necessary for purposes of conducting the study required by this section.
 
-**(d) Separate assessment by Office of interagency implementation requirements** The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b) of this section.
+**(d) Separate assessment by Office of interagency implementation requirements** The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b).
 
 ### Statutory Notes
 

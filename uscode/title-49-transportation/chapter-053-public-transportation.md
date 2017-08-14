@@ -925,7 +925,7 @@ Pub. L. 104–50, title III, § 333(b), Nov. 15, 1995, 109 Stat. 457, provided t
 
   (B) a transportation management area under subsection (k); and
 
-  (C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area in the State of California and a population of 65,000 and 12 square miles of land area in the State of Nevada.
+  (C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area and 25 square miles of land area 11 So in original. in the State of California and a population of 65,000 and 12 square miles of land area and 12 square miles of land area 1 in the State of Nevada.
 
 ### Statutory Notes
 
@@ -991,6 +991,8 @@ The date of enactment of the SAFETEA-LU, referred to in subsec. (e)(4)(A), (5), 
 The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (r)(2)(C). Pub. L. 115–31 made amendment identical to that made by Pub. L. 114–322. See 2016 Amendment note below.
+
 2016—Subsec. (r)(2)(C). Pub. L. 114–322 inserted “and 25 square miles of land area” after “145,000” and “and 12 square miles of land area” after “65,000”.
 
 2015—Subsec. (a)(1). Pub. L. 114–94, § 3003(a)(1), inserted “resilient” after “development of”.
@@ -1662,13 +1664,21 @@ In subsection (a), the words “(through modernization, extension, addition, or 
 
   (D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
 
-(2) **Special rule.—** — The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+(2) The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
-  (A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
+  (A) for public transportation systems that—
 
-  (B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
+    (i) operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
 
-(3) **Exception to the special rule.—** — Notwithstanding paragraph (2), if a public transportation system described in such paragraph executes a written agreement with 1 or more other public transportation systems within the urbanized area to allocate funds for the purposes described in the paragraph by a method other than by measuring vehicle revenue hours, each public transportation system that is a party to the written agreement may follow the terms of the written agreement without regard to measured vehicle revenue hours referred to in the paragraph.
+    (ii) operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
+
+  (B) subject to paragraph (3), for public transportation systems that—
+
+    (i) operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment allocated to such systems within the urbanized area, as determined by the local planning process and included in the designated recipient’s final program of projects prepared under subsection (b); or
+
+    (ii) operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment allocated to such systems within the urbanized area, as determined by the local planning process and included in the designated recipient’s final program of projects prepared under subsection (b).
+
+(3) The amount available to a public transportation system under subparagraph (B) of paragraph (2) shall be not more than 10 percent greater than the amount that would otherwise be available to the system under subparagraph (A) of that paragraph.
 
 **(b) Program of Projects.—** Each recipient of a grant shall—
 
@@ -1886,6 +1896,16 @@ This amends 49:5307(a)(2) to delete an obsolete provision.
 The Social Security Act, referred to in subsec. (c)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of such Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (a)(2), (3). Pub. L. 115–31 added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+
+“(A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
+
+“(B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
+
+“(3) Exception to the special rule.—Notwithstanding paragraph (2), if a public transportation system described in such paragraph executes a written agreement with 1 or more other public transportation systems within the urbanized area to allocate funds for the purposes described in the paragraph by a method other than by measuring vehicle revenue hours, each public transportation system that is a party to the written agreement may follow the terms of the written agreement without regard to measured vehicle revenue hours referred to in the paragraph.”
+
 2015—Subsec. (a)(2). Pub. L. 114–94, § 3004(1)(A), inserted “or demand response service, excluding ADA complementary paratransit service,” before “during peak” in subpars. (A) and (B).
 
 Subsec. (a)(3). Pub. L. 114–94, § 3004(1)(B), added par. (3).
@@ -5889,7 +5909,7 @@ Pub. L. 114–94, div. A, title III, § 3022, Dec. 4, 2015, 129 Stat. 1493, prov
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim), this section is repealed.
+Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim) (see 81 F.R. 14230), this section is repealed.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -5919,7 +5939,7 @@ Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “
 Subsec. (f). Pub. L. 109–59, § 3029(a)(3), struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
 
 #### Effective Date of Repeal
-Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim).
+Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim) (see 81 F.R. 14230).
 
 
 <a id="section-5331"></a>

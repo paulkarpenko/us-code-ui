@@ -246,7 +246,7 @@ Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided 
 President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 3811 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3811&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
-2016—Subsec. (d). Pub. L. 114–315 substituted “not apply to the following:” and pars. (1) and (2) for “not apply to any war-risk insurance, Government (converted) or National Service Life Insurance policy.”.
+2016—Subsec. (d). Pub. L. 114–315 substituted “not apply to the following:” and pars. (1) and (2) for “not apply to any war-risk insurance, Government (converted) or National Service Life Insurance policy.”
 
 1991—Pub. L. 102–40 renumbered [section 3103 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3103) as this section.
 
@@ -1031,7 +1031,7 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 
 **(f)** The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2024.
+**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2027.
 
 ### Statutory Notes
 
@@ -1039,6 +1039,8 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–46 substituted “September 30, 2027” for “September 30, 2024”.
+
 2014—Subsec. (g). Pub. L. 113–146 substituted “September 30, 2024” for “September 30, 2016”.
 
 2011—Subsec. (g). Pub. L. 112–56, which directed substitution of “September 30, 2016” for “September 30, 2011”, was executed by making the substitution for “November 18, 2011” to reflect the probable intent of Congress and the amendment by Pub. L. 112–37. See below.

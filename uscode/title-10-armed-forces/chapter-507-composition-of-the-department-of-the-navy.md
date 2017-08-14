@@ -82,7 +82,7 @@ Subsec. (a). Pub. L. 99–433, § 511(b)(4)(A), substituted “assigned and, in 
 Subsec. (d). Pub. L. 99–433, § 511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
 
 #### Number of Navy Carrier Air Wings and Carrier Air Wing Headquarters
-Pub. L. 112–81, div. A, title X, § 1093, Dec. 31, 2011, 125 Stat. 1606, required Secretary of the Navy ensure that the Navy maintain a minimum of 10 carrier air wings and a dedicated and fully staffed headquarters for each, prior to repeal by Pub. L. 114–328, div. A, title X, § 1042(b), Dec. 23, 2016, 130 Stat. 2393. See subsec. (e) of this section.
+Pub. L. 112–81, div. A, title X, § 1093, Dec. 31, 2011, 125 Stat. 1606, required the Secretary of the Navy to ensure that the Navy maintain a minimum of 10 carrier air wings and a dedicated and fully staffed headquarters for each, prior to repeal by Pub. L. 114–328, div. A, title X, § 1042(b), Dec. 23, 2016, 130 Stat. 2393. See subsec. (e) of this section.
 
 
 <a id="section-5063"></a>

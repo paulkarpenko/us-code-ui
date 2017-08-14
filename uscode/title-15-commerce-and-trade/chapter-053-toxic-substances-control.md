@@ -1086,7 +1086,7 @@ Any requirement (or combination of requirements) imposed under this subsection m
 
 **(d) Effective date**
 
-(1) **In general** — In any rule under subsection (a), the Administrator shall—
+(1) **In general.—** — In any rule under subsection (a), the Administrator shall—
 
   (A) specify the date on which it shall take effect, which date shall be as soon as practicable;
 
@@ -1098,7 +1098,7 @@ Any requirement (or combination of requirements) imposed under this subsection m
 
   (E) provide for a reasonable transition period.
 
-(2) **Variability** — As determined by the Administrator, the compliance dates established under paragraph (1) may vary for different affected persons.
+(2) **Variability.—** — As determined by the Administrator, the compliance dates established under paragraph (1) may vary for different affected persons.
 
 (3)
 
@@ -1218,17 +1218,17 @@ Subsec. (a)(3). Pub. L. 114–182, § 6(2)(F), inserted “minimum” before “
 
 Subsec. (a)(4). Pub. L. 114–182, § 6(2)(G), substituted “or monitor or conduct tests” for “and monitor or conduct tests”.
 
-Subsec. (a)(7). Pub. L. 114–182, § 6(2)(H), substituted “such determination” for “such unreasonable risk of injury” and for “such risk of injury”.
+Subsec. (a)(7). Pub. L. 114–182, § 6(2)(H), substituted “such determination” for “such unreasonable risk of injury” in subpar. (A) and for “such risk of injury” in subpar. (B).
 
 Subsec. (b). Pub. L. 114–182, § 6(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to quality control procedures in the manufacturing or processing of a chemical substance or mixture to prevent unreasonable risk of injury to health or the environment.
 
 Subsec. (c). Pub. L. 114–182, § 6(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to promulgation of subsection (a) rules.
 
-Subsec. (d)(1), (2). Pub. L. 114–182, § 6(5)(B), added pars. (1) and (2) and struck out former par. (1) which read as follows: “The Administrator shall specify in any rule under subsection (a) the date on which it shall take effect, which date shall be as soon as feasible.”. Former par. (2) redesignated (3).
+Subsec. (d)(1), (2). Pub. L. 114–182, § 6(5)(B), added pars. (1) and (2) and struck out former par. (1) which read as follows: “The Administrator shall specify in any rule under subsection (a) the date on which it shall take effect, which date shall be as soon as feasible.” Former par. (2) redesignated (3).
 
 Subsec. (d)(3). Pub. L. 114–182, § 6(5)(A), redesignated par. (2) as (3).
 
-Subsec. (d)(3)(A). Pub. L. 114–182, § 6(5)(C)(i)(I), substituted in introductory provisions “, and compliance with the proposed requirements to be mandatory, upon publication in the Federal Register of the proposed rule and until the compliance dates applicable to such requirements in a final rule promulgated under [section 2605(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/a&num=0&edition=prelim) or until the Administrator revokes such proposed rule, in accordance with subparagraph (B), if” for “upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if”.
+Subsec. (d)(3)(A). Pub. L. 114–182, § 6(5)(C)(i)(I), in introductory provisions, substituted “, and compliance with the proposed requirements to be mandatory, upon publication in the Federal Register of the proposed rule and until the compliance dates applicable to such requirements in a final rule promulgated under [section 2605(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/a&num=0&edition=prelim) or until the Administrator revokes such proposed rule, in accordance with subparagraph (B), if” for “upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if”.
 
 Subsec. (d)(3)(A)(i)(I). Pub. L. 114–182, § 6(5)(C)(i)(II), inserted “without consideration of costs or other non-risk factors” after “effective date”.
 
@@ -1236,7 +1236,7 @@ Subsec. (d)(3)(B). Pub. L. 114–182, § 6(5)(C)(ii), substituted “in accordan
 
 Subsec. (e)(4). Pub. L. 114–182, § 6(6), substituted “paragraph (3)” for “paragraphs (2), (3), and (4)”.
 
-Subsecs. (g) to (j). Pub. L. 114–182, § 6(7), added subsec. (g) to (j).
+Subsecs. (g) to (j). Pub. L. 114–182, § 6(7), added subsecs. (g) to (j).
 
 2008—Subsec. (f). Pub. L. 110–414 added subsec. (f).
 
@@ -1297,7 +1297,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 ### Statutory Notes
 
 #### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–182, § 19(f)(1), substituted “a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603)” for ““a rule under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603), 2604 of this title, 2605 of this title, or subchapter IV or an order under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604) or subchapter IV”.
+2016—Subsec. (a)(1). Pub. L. 114–182, § 19(f)(1), in concluding provisions, substituted “a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603)” for “a rule under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603), 2604 of this title, 2605 of this title, or subchapter IV or an order under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604) or subchapter IV”.
 
 Subsec. (a)(2). Pub. L. 114–182, § 19(f)(2), substituted “section 2605(d)(3)(A)(i)” for “section 2605(d)(2)(A)(i)”.
 
@@ -1353,7 +1353,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
     (ii) The Administrator may by rule require a small manufacturer or processor of a chemical substance or mixture—
 
-      (I) subject to a rule proposed or promulgated under section 2603, 2604(b)(4), or 2605 of this title,, 11 So in original. an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603), or
+      (I) subject to a rule proposed or promulgated under section 2603, 2604(b)(4), or 2605 of this title,,11 So in original. an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603), or
 
       (II) with respect to which relief has been granted pursuant to a civil action brought under section 2604 or 2606 of this title,
       to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
@@ -2513,7 +2513,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 #### References in Text
 [Section 2605(b)(4)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/b/4/D&num=0&edition=prelim), referred to in subsec. (a)(1)(B)(i), (ii), was in the original “section (6)(b)(4)(D)”, and was translated as meaning section 6(b)(4)(D) of title I of Pub. L. 94–469 to reflect the probable intent of Congress.
 
-The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in subsecs. (d)(1)(A), (2), and (g)(1), (2)(A), is Pub. L. 114–182, June 22, 2016, 130 Stat. 492. The effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act probably means the date of the enactment of the Act, which was approved June 22, 2016. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2601 of this title](./chapter-053-toxic-substances-control.md#section-2601) and Tables.
+The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in subsecs. (d)(1)(A), (2) and (g)(1), (2)(A), is Pub. L. 114–182, June 22, 2016, 130 Stat. 492. The effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act probably means the date of the enactment of the Act, which was approved June 22, 2016. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2601 of this title](./chapter-053-toxic-substances-control.md#section-2601) and Tables.
 
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–182, § 13(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to effect of chapter on State law.
@@ -2649,7 +2649,7 @@ The court issuing such an order shall give prompt notification of the order to t
 ### Statutory Notes
 
 #### Amendments
-Subsec. (a)(1). Pub. L. 114–182, § 19(n), “order issued under section 2603 or 2604 of this title” for “order issued under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604)”.
+Subsec. (a)(1). Pub. L. 114–182, § 19(n), substituted “order issued under section 2603 or 2604 of this title” for “order issued under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604)”.
 
 Subsec. (b)(2), (3). Pub. L. 114–182, § 15, substituted “, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to [section 2617(f)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2617/f/3/B&num=0&edition=prelim); or” for period at end of par. (2) and added par. (3).
 
@@ -2697,7 +2697,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–182, § 19(o)(1), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title”.
 
-Subsec. (b)(1). Pub. L. 114–182, § 19(o)(2)(A), substituted “order under section 2603 or 2604(e) or (f)” for “order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title”.
+Subsec. (b)(1). Pub. L. 114–182, § 19(o)(2)(A), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title”.
 
 Subsec. (b)(4)(B). Pub. L. 114–182, § 19(o)(2)(B)(i), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title” in introductory provisions.
 
@@ -2796,7 +2796,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 ### Statutory Notes
 
 #### Amendments
-2016—Subsec. (b)(2)(B). Pub. L. 114–182 inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “such hearings shall be held in accordance with [section 2605(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/c/3&num=0&edition=prelim), and”.
+2016—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 114–182 redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: “such hearings shall be held in accordance with [section 2605(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/c/3&num=0&edition=prelim), and”.
 
 #### Effective Date
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under [section 2601 of this title](./chapter-053-toxic-substances-control.md#section-2601).
@@ -2947,7 +2947,7 @@ Section, Pub. L. 94–469, title I, § 25, Oct. 11, 1976, 90 Stat. 2046; Pub. L.
 
 **(i) Weight of scientific evidence** The Administrator shall make decisions under sections 2603, 2604, and 2605 of this title based on the weight of the scientific evidence.
 
-**(j) Availability of Information** Subject to [section 2613 of this title](./chapter-053-toxic-substances-control.md#section-2613), the Administrator shall make available to the public—
+**(j) Availability of information** Subject to [section 2613 of this title](./chapter-053-toxic-substances-control.md#section-2613), the Administrator shall make available to the public—
 
 (1) all notices, determinations, findings, rules, consent agreements, and orders of the Administrator under this subchapter;
 
@@ -3007,7 +3007,7 @@ Section, Pub. L. 94–469, title I, § 25, Oct. 11, 1976, 90 Stat. 2046; Pub. L.
 
   (C) if the schedule for completion of a risk evaluation has changed, includes an updated schedule for that risk evaluation.
 
-**(o) Consultation With Science Advisory Committee on Chemicals**
+**(o) Consultation with Science Advisory Committee on Chemicals**
 
 (1) **Establishment** — Not later than 1 year after June 22, 2016, the Administrator shall establish an advisory committee, to be known as the Science Advisory Committee on Chemicals (referred to in this subsection as the “Committee”).
 
@@ -3023,7 +3023,7 @@ Section, Pub. L. 94–469, title I, § 25, Oct. 11, 1976, 90 Stat. 2046; Pub. L.
 
 (2) **Prior-initiated evaluations** — Nothing in this chapter prevents the Administrator from initiating a risk evaluation regarding a chemical substance, or from continuing or completing such risk evaluation, prior to the effective date of the policies, procedures, and guidance required to be developed by the Administrator pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
-(3) **Actions completed prior to completion of policies, procedures, and guidance** — Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this Act solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
+(3) **Actions completed prior to completion of policies, procedures, and guidance** — Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
 ### Statutory Notes
 
@@ -3032,10 +3032,10 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L.
 
 Reorganization Plan No. 3 of 1970, referred to in subsec. (g)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in subsecs. (l)(1) and (p), is Pub. L. 114–182, June 22, 2016, 130 Stat. 492. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2601 of this title](./chapter-053-toxic-substances-control.md#section-2601) and Tables.
+The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in subsecs. (l)(1) and (p), is Pub. L. 114–182, June 22, 2016, 130 Stat. 492. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2601 of this title](./chapter-053-toxic-substances-control.md#section-2601) and Tables.
 
 #### Amendments
-Subsec. (b)(1). Pub. L. 114–182, § 17(1), struck out “of a reasonable fee” before “from any person”, substituted “information under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603) or a notice or other information to be reviewed by the Administrator under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604), or who manufactures or processes a chemical substance that is the subject of a risk evaluation under [section 2605(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/b&num=0&edition=prelim), of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under [section 2613 of this title](./chapter-053-toxic-substances-control.md#section-2613) information on chemical substances under this subchapter, including contractor costs incurred by the Administrator” for “data under section 2603 or 2604 of this title to defray the cost of administering this chapter”, struck out “Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100.” before “In setting a fee”, and substituted “pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph” for “submit the data and the cost to the Administrator of reviewing such data”
+Subsec. (b)(1). Pub. L. 114–182, § 17(1), struck out “of a reasonable fee” before “from any person”, substituted “information under [section 2603 of this title](./chapter-053-toxic-substances-control.md#section-2603) or a notice or other information to be reviewed by the Administrator under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604), or who manufactures or processes a chemical substance that is the subject of a risk evaluation under [section 2605(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2605/b&num=0&edition=prelim), of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under [section 2613 of this title](./chapter-053-toxic-substances-control.md#section-2613) information on chemical substances under this subchapter, including contractor costs incurred by the Administrator” for “data under section 2603 or 2604 of this title to defray the cost of administering this chapter”, struck out “Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100.” before “In setting a fee”, and substituted “pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph” for “submit the data and the cost to the Administrator of reviewing such data”.
 
 Subsec. (b)(2). Pub. L. 114–182, § 17(2)(A), substituted “paragraph (4)” for “paragraph (1)”.
 
@@ -4369,7 +4369,14 @@ For the purposes of this subchapter:
 
   (E) provision of a report explaining the results of the investigation.
 
-(17) **Target housing** — The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary’s discretion, may designate an earlier date.
+(17) **Target housing** — The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary’s discretion, may designate an earlier date.
+
+### Statutory Notes
+
+#### Amendments
+2017—Par. (17). Pub. L. 115–31, § 237(c)(1), which directed insertion of “or any 0-bedroom dwelling” after “disabilities,”, was executed by making the insertion after “disabilities” the first place appearing to reflect the probable intent of Congress.
+
+Pub. L. 115–31, § 237(c)(2), which directed substitution of “housing)” for “housing for the elderly or persons with disabilities) or any 0 bedroom dwelling”, was executed by making the substitution for “housing for the elderly or persons with disabilities) or any 0-bedroom dwelling” to reflect the probable intent of Congress.
 
 
 <a id="section-2682"></a>

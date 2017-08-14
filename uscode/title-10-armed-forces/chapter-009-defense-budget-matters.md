@@ -141,6 +141,8 @@ Pub. L. 107–248, title VIII, § 8132, Oct. 23, 2002, 116 Stat. 1568, provided 
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. C, title VIII, § 8076, May 5, 2017, 131 Stat. 265.
+
 Pub. L. 114–113, div. C, title VIII, § 8075, Dec. 18, 2015, 129 Stat. 2370.
 
 Pub. L. 113–235, div. C, title VIII, § 8078, Dec. 16, 2014, 128 Stat. 2272.
@@ -305,7 +307,7 @@ Pub. L. 110–181, div. A, title IX, § 944(c), Jan. 28, 2008, 122 Stat. 290, pr
 
 (3) would have been recommended for funding through the budget referred to in paragraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
-  (A) additional resources been available for the budget to fund the program, activity, or mission requirement; or
+  (A) additional resources been 11 So in original. Probably should be preceded by “had”. available for the budget to fund the program, activity, or mission requirement; or
 
   (B) the program, activity, or mission requirement has emerged since the budget was formulated.
 

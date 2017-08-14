@@ -131,11 +131,14 @@ For the purposes of this chapter:
 
   (C) with respect to a commissioned officer of the National Oceanic and Atmospheric Administration, means the Secretary of Commerce.
 
-(8) **Motor vehicle** — The term “motor vehicle” has the meaning given that term in [section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim).
+(8) **Motor vehicle** — The term “motor vehicle” has the meaning given that term in [section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim).11 See References in Text note below.
 
 (9) **Judgment** — The term “judgment” means any judgment, decree, order, or ruling, final or temporary.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim), referred to in par. (8), was redesignated [section 30102(a)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/7&num=0&edition=prelim) by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
 
 #### Codification
 Section was formerly classified to section 511 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -190,7 +193,7 @@ A prior section 102 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L
 Section was formerly classified to section 513 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
-A prior section 103 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Oct. 6, 1942, ch. 581, §§ 2, 3, 56 Stat. 769; Pub. L. 102–12, § 9(3), Mar. 18, 1991, 105 Stat. 39, related to protection of persons secondarily liable, prior to the general amendment of this Act by Pub. L. 108–189.
+A prior section 103 of acts Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Oct. 6, 1942, ch. 581, §§ 2, 3, 56 Stat. 769; Pub. L. 102–12, § 9(3), Mar. 18, 1991, 105 Stat. 39, related to protection of persons secondarily liable, prior to the general amendment of this Act by Pub. L. 108–189.
 
 
 <a id="section-3916"></a>

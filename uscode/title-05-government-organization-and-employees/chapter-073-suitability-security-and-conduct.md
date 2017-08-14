@@ -321,9 +321,6 @@ Sec. 504. Judicial Review. This order is intended only to improve the internal m
 #### Executive Order No. 12820
 Ex. Ord. No. 12820, Nov. 5, 1992, 57 F.R. 53429, which facilitated Federal employees’ participation in community service activities, was revoked by Ex. Ord. No. 13401, § 3(b), Apr. 27, 2006, 71 F.R. 25738.
 
-#### Executive Order No. 12834
-Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, which provided for ethics commitments by executive branch appointees, was revoked by Ex. Ord. No. 13184, Dec. 28, 2000, 66 F.R. 697, eff. noon Jan. 20, 2001.
-
 #### Ex. Ord. No. 13058. Protecting Federal Employees and the Public From Exposure to Tobacco Smoke in the Federal Workplace
 Ex. Ord. No. 13058, Aug. 9, 1997, 62 F.R. 43451, provided:
 
@@ -407,19 +404,19 @@ Sec. 5. Judicial Review. This order is not intended to, and does not, create any
 George W. Bush.
 
 #### Ex. Ord. No. 13488. Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust
-Ex. Ord. No. 13488, Jan. 16, 2009, 74 F.R. 4111, provided:
+Ex. Ord. No. 13488, Jan. 16, 2009, 74 F.R. 4111, as amended by Ex. Ord. No. 13764, § 2, Jan. 17, 2017, 82 F.R. 8116, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 1104(a)(1), 3301, and 7301 of title 5, United States Code, and in order to simplify and streamline the system of Federal Government personnel investigative and adjudicative processes to make them more efficient and effective, it is hereby ordered as follows:
 
-Section 1. Policy. (a) When agencies determine the fitness of individuals to perform work as employees in the excepted service or as contractor employees, prior favorable fitness or suitability determinations should be granted reciprocal recognition, to the extent practicable.
+Section 1. Policy. (a) When agencies conduct fitness determinations, prior favorable fitness or suitability determinations shall be granted reciprocal recognition, to the extent practicable.
 
 (b) It is necessary to reinvestigate individuals in positions of public trust in order to ensure that they remain suitable for continued employment.
 
-Sec. 2. Definitions. For the purposes of this order:
+Sec. 2. [Definitions. For the purposes of this order:]
 
 (a) “Agency” means an executive agency as defined in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, but does not include the Government Accountability Office.
 
-(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under a contract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
+(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under a contract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government, and who could, by the nature of his or her access or duties, adversely affect the integrity or efficiency of the Government. Such contracts, include, but are not limited to:
 
 (i) personal services contracts;
 
@@ -429,39 +426,31 @@ Sec. 2. Definitions. For the purposes of this order:
 
 (c) “Excepted service” has the meaning provided in [section 2103 of title 5](./chapter-021-definitions.md#section-2103), United States Code, but does not include those positions in any element of the intelligence community as defined in the National Security Act of 1947, as amended, to the extent they are not otherwise subject to Office of Personnel Management appointing authorities.
 
-(d) “Fitness” is the level of character and conduct determined necessary for an individual to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability) or as a contractor employee.
+(d) “Fitness” is the level of character and conduct determined necessary for an individual to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability), as a contractor employee, or as a nonappropriated fund employee.
 
-(e) “Fitness determination” means a decision by an agency that an individual has or does not have the required level of character and conduct necessary to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability) or as a contractor employee. A favorable fitness determination is not a decision to appoint or contract with an individual.
+(e) “Fitness determination” means a decision by an agency that an individual has or does not have the required level of character and conduct necessary to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability), as a contractor employee, or as a nonappropriated fund employee. A favorable fitness determination is not a decision to appoint or contract with an individual.
 
-(f) “Position of Public Trust” has the meaning provided in 5 CFR Part 731.
+(f) “Nonappropriated fund employee” means an employee paid from nonappropriated funds of an instrumentality of the United States under the jurisdiction of the Armed Forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the Armed Forces as described in [section 2105 of title 5](./chapter-021-definitions.md#section-2105), United States Code.
 
-(g) “Suitability” has the meaning and coverage provided in CFR Part 731.
+(g) “Position of Public Trust” has the meaning provided in 5 CFR Part 731.
 
-Sec. 3. Agency Authority to Set Fitness Criteria and Determine Equivalency. The authority to establish criteria for making fitness determinations remains within the discretion of the agency head. Agency heads also have the discretion to determine whether their criteria are equivalent to suitability standards established by the Office of Personnel Management. Agency heads shall take into account Office of Personnel Management guidance when exercising this discretion.
+(h) “Suitability” has the meaning and coverage provided in 5 CFR Part 731.
 
-Sec. 4. Reciprocal Recognition of Fitness and Suitability Determinations. (a) Except as provided by subsection (b) of this section, agencies making fitness determinations shall grant reciprocal recognition to a prior favorable fitness or suitability determination when:
+Sec. 3. OPM and Agency Authority.
 
-(i) the gaining agency uses criteria for making fitness determinations equivalent to suitability standards established by the Office of Personnel Management;
+(a) Adjudications for determining fitness for contractual or nonappropriated fund employment. While the Office of Personnel Management establishes the minimum adjudicative criteria for suitability and fitness determinations for employment in the civil service pursuant to the Civil Service Rules, the heads of agencies retain the discretion to establish adjudicative criteria for determining fitness to perform work as a contractor employee or as a nonappropriated fund employee. Such discretion shall be exercised with due regard to the regulations and guidance prescribed by the Office of Personnel Management for the civil service and, for contractual work, subject to applicable regulations and directives of the Office of Management and Budget.
 
-(ii) the prior favorable fitness or suitability determination was based on criteria equivalent to suitability standards established by the Office of Personnel Management; and
+(b) Investigations for determining fitness for contractual or nonappropriated fund employment. Contractor employee fitness or nonappropriated fund employee fitness is subject to the same position designation requirements and investigative standards, policies, and procedures as fitness determinations for civil service employees, as prescribed by the Office of Personnel Management under the Civil Service Rules.
 
-(iii) the individual has had no break in employment since the favorable determination was made.
+(c) Reciprocity. Fitness determinations and investigations for fitness determinations for contractor employees and for nonappropriated fund employees are subject to the same reciprocity requirements as those for employment in the civil service, as prescribed by the Office of Personnel Management under the Civil Service Rules.
 
-(b) Exceptions to Reciprocal Recognition. A gaining agency is not required to grant reciprocal recognition to a prior favorable fitness or suitability determination when:
+Sec. 4. Reinvestigation of Individuals in Positions of Public Trust. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
 
-(i) the new position requires a higher level of investigation than previously conducted for that individual;
-
-(ii) an agency obtains new information that calls into question the individual’s fitness based on character or conduct; or
-
-(iii) the individual’s investigative record shows conduct that is incompatible with the core duties of the new position.
-
-Sec. 5. Reinvestigation of Individuals in Positions of Public Trust. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
-
-Sec. 6. Responsibilities. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
+Sec. 5. Responsibilities. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
 
 (b) The Director of the Office of Personnel Management is delegated authority to implement this order, including the authority to issue regulations and guidance governing suitability, or guidance related to fitness, as the Director determines appropriate.
 
-Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) authority granted by law to a department or agency, or the head thereof; or
 
@@ -473,128 +462,154 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (d) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees or agents, or any other person.
 
-Sec. 8. Effective Date and Applicability. This order is effective upon issuance and is applicable to individuals newly appointed to excepted service positions or hired as contractor employees beginning 90 days from the effective date of this order.
+Sec. 7. Effective Date and Applicability. This order is effective upon issuance and is applicable to individuals newly appointed to excepted service positions or hired as contractor employees beginning 90 days from the effective date of this order.
 
-George W. Bush.
+#### Ex. Ord. No. 13770. Ethics Commitments by Executive Branch Appointees
+Ex. Ord. No. 13770, Jan. 28, 2017, 82 F.R. 9333, provided:
 
-#### Ex. Ord. No. 13490. Ethics Commitments by Executive Branch Personnel
-Ex. Ord. No. 13490, Jan. 21, 2009, 74 F.R. 4673, provided:
+By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
-
-Section 1. Ethics Pledge. Every appointee in every executive agency appointed on or after January 20, 2009, shall sign, and upon signing shall be contractually committed to, the following pledge upon becoming an appointee: “As a condition, and in consideration, of my employment in the United States Government in a position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law: “1. Lobbyist Gift Ban. I will not accept gifts from registered lobbyists or lobbying organizations for the duration of my service as an appointee. “2. Revolving Door Ban—All Appointees Entering Government. I will not for a period of 2 years from the date of my appointment participate in any particular matter involving specific parties that is directly and substantially related to my former employer or former clients, including regulations and contracts. “3. Revolving Door Ban—Lobbyists Entering Government. If I was a registered lobbyist within the 2 years before the date of my appointment, in addition to abiding by the limitations of paragraph 2, I will not for a period of 2 years after the date of my appointment: (a) participate in any particular matter on which I lobbied within the 2 years before the date of my appointment; (b) participate in the specific issue area in which that particular matter falls; or (c) seek or accept employment with any executive agency that I lobbied within the 2 years before the date of my appointment. “4. Revolving Door Ban—Appointees Leaving Government. If, upon my departure from the Government, I am covered by the post-employment restrictions on communicating with employees of my former executive agency set forth in [section 207(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/c&num=0&edition=prelim), United States Code, I agree that I will abide by those restrictions for a period of 2 years following the end of my appointment. “5. Revolving Door Ban—Appointees Leaving Government to Lobby. In addition to abiding by the limitations of paragraph 4, I also agree, upon leaving Government service, not to lobby any covered executive branch official or non-career Senior Executive Service appointee for the remainder of the Administration. “6. Employment Qualification Commitment. I agree that any hiring or other employment decisions I make will be based on the candidate’s qualifications, competence, and experience. “7. Assent to Enforcement. I acknowledge that the Executive Order entitled ‘Ethics Commitments by Executive Branch Personnel,’ issued by the President on January 21, 2009, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive Order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
+Section 1. Ethics Pledge. Every appointee in every executive agency appointed on or after January 20, 2017, shall sign, and upon signing shall be contractually committed to, the following pledge upon becoming an appointee: “As a condition, and in consideration, of my employment in the United States Government in an appointee position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law: “1. I will not, within 5 years after the termination of my employment as an appointee in any executive agency in which I am appointed to serve, engage in lobbying activities with respect to that agency. “2. If, upon my departure from the Government, I am covered by the post-employment restrictions on communicating with employees of my former executive agency set forth in [section 207(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/c&num=0&edition=prelim), United States Code, I agree that I will abide by those restrictions. “3. In addition to abiding by the limitations of paragraphs 1 and 2, I also agree, upon leaving Government service, not to engage in lobbying activities with respect to any covered executive branch official or non-career Senior Executive Service appointee for the remainder of the Administration. “4. I will not, at any time after the termination of my employment in the United States Government, engage in any activity on behalf of any foreign government or foreign political party which, were it undertaken on January 20, 2017, would require me to register under the Foreign Agents Registration Act of 1938, as amended. “5. I will not accept gifts from registered lobbyists or lobbying organizations for the duration of my service as an appointee. “6. I will not for a period of 2 years from the date of my appointment participate in any particular matter involving specific parties that is directly and substantially related to my former employer or former clients, including regulations and contracts. “7. If I was a registered lobbyist within the 2 years before the date of my appointment, in addition to abiding by the limitations of paragraph 6, I will not for a period of 2 years after the date of my appointment participate in any particular matter on which I lobbied within the 2 years before the date of my appointment or participate in the specific issue area in which that particular matter falls. “8. I agree that any hiring or other employment decisions I make will be based on the candidate’s qualifications, competence, and experience. “9. I acknowledge that the Executive Order entitled ’Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 28, 2017, which I have read before signing this document, defines certain terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive Order as a part of this agreement and as binding on me. I understand that the obligations of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Government service.”
 
 Sec. 2. Definitions. As used herein and in the pledge set forth in section 1 of this order:
 
-(a) “Executive agency” shall include each “executive agency” as defined by [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, and shall include the Executive Office of the President; provided, however, that for purposes of this order “executive agency” shall include the United States Postal Service and Postal Regulatory Commission, but shall exclude the Government Accountability Office.
+(a) “Administration” means all terms of office of the incumbent President serving at the time of the appointment of an appointee covered by this order.
 
-(b) “Appointee” shall include every full-time, non-career Presidential or Vice-Presidential appointee, non-career appointee in the Senior Executive Service (or other SES-type system), and appointee to a position that has been excepted from the competitive service by reason of being of a confidential or policymaking character (Schedule C and other positions excepted under comparable criteria) in an executive agency. It does not include any person appointed as a member of the Senior Foreign Service or solely as a uniformed service commissioned officer.
+(b) “Appointee” means every full-time, non-career Presidential or Vice-Presidential appointee, non-career appointee in the Senior Executive Service (or other SES-type system), and appointee to a position that has been excepted from the competitive service by reason of being of a confidential or policymaking character (Schedule C and other positions excepted under comparable criteria) in an executive agency. It does not include any person appointed as a member of the Senior Foreign Service or solely as a uniformed service commissioned officer.
 
-(c) “Gift”
+(c) “Covered executive branch official” shall have the definition set forth in the Lobbying Disclosure Act.
+
+(d) “Directly and substantially related to my former employer or former clients” shall mean matters in which the appointee’s former employer or a former client is a party or represents a party.
+
+(e) “Executive agency” and “agency” mean “executive agency” as defined in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, except that the terms shall include the Executive Office of the President, the United States Postal Service, and the Postal Regulatory Commission, and excludes the Government Accountability Office. As used in paragraph 1 of the pledge, “executive agency” means the entire agency in which the appointee is appointed to serve, except that:
+
+(1) with respect to those appointees to whom such designations are applicable under [section 207(h) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/h&num=0&edition=prelim), United States Code, the term means an agency or bureau designated by the Director of the Office of Government Ethics under section 207(h) as a separate department or agency at the time the appointee ceased to serve in that department or agency; and
+
+(2) an appointee who is detailed from one executive agency to another for more than 60 days in any calendar year shall be deemed to be an officer or employee of both agencies during the period such person is detailed.
+
+(f) “Foreign Agents Registration Act of 1938, as amended” means sections 611 through 621 of title 22, United States Code.
+
+(g) “Foreign government” means the “government of a foreign country,” as defined in section 1(e) of the Foreign Agents Registration Act of 1938, as amended, [22 U.S.C. 611(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611/e&num=0&edition=prelim).
+
+(h) “Foreign political party” has the same meaning as that term has in section 1(f) of the Foreign Agents Registration Act of 1938, as amended, [22 U.S.C. 611(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611/f&num=0&edition=prelim).
+
+(i) “Former client” is any person for whom the appointee served personally as agent, attorney, or consultant within the 2 years prior to the date of his or her appointment, but excluding instances where the service provided was limited to a speech or similar appearance. It does not include clients of the appointee’s former employer to whom the appointee did not personally provide services.
+
+(j) “Former employer” is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that “former employer” does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
+
+(k) “Gift”
 
 (1) shall have the definition set forth in section 2635.203(b) of title 5, Code of Federal Regulations;
 
 (2) shall include gifts that are solicited or accepted indirectly as defined at section 2635.203(f) of title 5, Code of Federal Regulations; and
 
-(3) shall exclude those items excluded by sections 2635.204(b), (c), (e)(1) & (3) and (j)–(l) of title 5, Code of Federal Regulations.
+(3) shall exclude those items excluded by sections 2635.204(b), (c), (e)(1) & (3), (j), (k), and (l) of title 5, Code of Federal Regulations.
 
-(d) “Covered executive branch official” and “lobbyist” shall have the definitions set forth in [section 1602 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602&num=0&edition=prelim), United States Code.
+(l) “Government official” means any employee of the executive branch.
 
-(e) “Registered lobbyist or lobbying organization” shall mean a lobbyist or an organization filing a registration pursuant to [section 1603(a) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1603/a&num=0&edition=prelim), United States Code, and in the case of an organization filing such a registration, “registered lobbyist” shall include each of the lobbyists identified therein.
+(m) “Lobbied” shall mean to have acted as a registered lobbyist.
 
-(f) “Lobby” and “lobbied” shall mean to act or have acted as a registered lobbyist.
+(n) “Lobbying activities” has the same meaning as that term has in the Lobbying Disclosure Act, except that the term does not include communicating or appearing with regard to: a judicial proceeding; a criminal or civil law enforcement inquiry, investigation, or proceeding; or any agency process for rulemaking, adjudication, or licensing, as defined in and governed by the Administrative Procedure Act, as amended, [5 U.S.C. 551](./chapter-005-administrative-procedure.md#section-551) et seq. [See Short Title note set out preceding [section 551 of this title](./chapter-005-administrative-procedure.md#section-551).]
 
-(g) “Particular matter” shall have the same meaning as set forth in [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
+(o) “Lobbying Disclosure Act” means sections 1601 et seq. of title 2, United States Code.
 
-(h) “Particular matter involving specific parties” shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one’s official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
+(p) “Lobbyist” shall have the definition set forth in the Lobbying Disclosure Act.
 
-(i) “Former employer” is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that “former employer” does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
+(q) “On behalf of another” means on behalf of a person or entity other than the individual signing the pledge or his or her spouse, child, or parent.
 
-(j) “Former client” is any person for whom the appointee served personally as agent, attorney, or consultant within the 2 years prior to the date of his or her appointment, but excluding instances where the service provided was limited to a speech or similar appearance. It does not include clients of the appointee’s former employer to whom the appointee did not personally provide services.
+(r) “Particular matter” shall have the same meaning as set forth in [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
 
-(k) “Directly and substantially related to my former employer or former clients” shall mean matters in which the appointee’s former employer or a former client is a party or represents a party.
+(s) “Particular matter involving specific parties” shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one’s official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
 
-(l) “Participate” means to participate personally and substantially.
+(t) “Participate” means to participate personally and substantially.
 
-(m) “Post-employment restrictions” shall include the provisions and exceptions in [section 207(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/c&num=0&edition=prelim), United States Code, and the implementing regulations.
+(u) “Pledge” means the ethics pledge set forth in section 1 of this order.
 
-(n) “Government official” means any employee of the executive branch.
+(v) “Post-employment restrictions” shall include the provisions and exceptions in [section 207(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/c&num=0&edition=prelim), United States Code, and the implementing regulations.
 
-(o) “Administration” means all terms of office of the incumbent President serving at the time of the appointment of an appointee covered by this order.
+(w) “Registered lobbyist or lobbying organization” shall mean a lobbyist or an organization filing a registration pursuant to [section 1603(a) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1603/a&num=0&edition=prelim), United States Code, and in the case of an organization filing such a registration, “registered lobbyist” shall include each of the lobbyists identified therein.
 
-(p) “Pledge” means the ethics pledge set forth in section 1 of this order.
+(x) Terms that are used herein and in the pledge, and also used in [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code, shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
 
-(q) All references to provisions of law and regulations shall refer to such provisions as in effect on January 20, 2009.
+(y) All references to provisions of law and regulations shall refer to such provisions as in effect on January 20, 2017.
 
-Sec. 3. Waiver. (a) The Director of the Office of Management and Budget, or his or her designee, in consultation with the Counsel to the President or his or her designee, may grant to any current or former appointee a written waiver of any restrictions contained in the pledge signed by such appointee if, and to the extent that, the Director of the Office of Management and Budget, or his or her designee, certifies in writing (i) that the literal application of the restriction is inconsistent with the purposes of the restriction, or (ii) that it is in the public interest to grant the waiver. A waiver shall take effect when the certification is signed by the Director of the Office of Management and Budget or his or her designee.
+Sec. 3. Waiver. (a) The President or his designee may grant to any person a waiver of any restrictions contained in the pledge signed by such person.
 
-(b) The public interest shall include, but not be limited to, exigent circumstances relating to national security or to the economy. De minimis contact with an executive agency shall be cause for a waiver of the restrictions contained in paragraph 3 of the pledge.
+(b) A waiver shall take effect when the certification is signed by the President or his designee.
 
-Sec. 4. Administration. (a) The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish such rules or procedures (conforming as nearly as practicable to the agency’s general ethics rules and procedures, including those relating to designated agency ethics officers) as are necessary or appropriate to ensure that every appointee in the agency signs the pledge upon assuming the appointed office or otherwise becoming an appointee; to ensure that compliance with paragraph 3 of the pledge is addressed in a written ethics agreement with each appointee to whom it applies, which agreement shall also be approved by the Counsel to the President or his or her designee prior to the appointee commencing work; to ensure that spousal employment issues and other conflicts not expressly addressed by the pledge are addressed in ethics agreements with appointees or, where no such agreements are required, through ethics counseling; and generally to ensure compliance with this order within the agency.
+(c) A copy of the waiver certification shall be furnished to the person covered by the waiver and provided to the head of the agency in which that person is or was appointed to serve.
 
-(b) With respect to the Executive Office of the President, the duties set forth in section 4(a) shall be the responsibility of the Counsel to the President or his or her designee.
+Sec. 4. Administration. (a) The head of every executive agency shall establish for that agency such rules or procedures (conforming as nearly as practicable to the agency’s general ethics rules and procedures, including those relating to designated agency ethics officers) as are necessary or appropriate:
+
+(1) to ensure that every appointee in the agency signs the pledge upon assuming the appointed office or otherwise becoming an appointee; and
+
+(2) to ensure compliance with this order within the agency.
+
+(b) With respect to the Executive Office of the President, the duties set forth in section 4(a) shall be the responsibility of the Counsel to the President or such other official or officials to whom the President delegates those duties.
 
 (c) The Director of the Office of Government Ethics shall:
 
-(1) ensure that the pledge and a copy of this order are made available for use by agencies in fulfilling their duties under section 4(a) above;
+(1) ensure that the pledge and a copy of this Executive Order are made available for use by agencies in fulfilling their duties under section 4(a);
 
-(2) in consultation with the Attorney General or the Counsel to the President or their designees, when appropriate, assist designated agency ethics officers in providing advice to current or former appointees regarding the application of the pledge; and
+(2) in consultation with the Attorney General or Counsel to the President, when appropriate, assist designated agency ethics officers in providing advice to current or former appointees regarding the application of the pledge; and
 
-(3) in consultation with the Attorney General and the Counsel to the President or their designees, adopt such rules or procedures as are necessary or appropriate:
+(3) adopt such rules or procedures (conforming as nearly as practicable to its generally applicable rules and procedures) as are necessary or appropriate:
 
 (i) to carry out the foregoing responsibilities;
 
-(ii) to apply the lobbyist gift ban set forth in paragraph 1 of the pledge to all executive branch employees;
+(ii) to apply the lobbyist gift ban set forth in paragraph 5 of the pledge to all executive branch employees;
 
 (iii) to authorize limited exceptions to the lobbyist gift ban for circumstances that do not implicate the purposes of the ban;
 
-(iv) to make clear that no person shall have violated the lobbyist gift ban if the person properly disposes of a gift as provided by section 2635.205 of title 5, Code of Federal Regulations;
+(iv) to make clear that no person shall have violated the lobbyist gift ban if the person properly disposes of a gift as provided by section 2635.206 of title 5, Code of Federal Regulations;
 
-(v) to ensure that existing rules and procedures for Government employees engaged in negotiations for future employment with private businesses that are affected by their official actions do not affect the integrity of the Government’s programs and operations;
+(v) to ensure that existing rules and procedures for Government employees engaged in negotiations for future employment with private businesses that are affected by their official actions do not affect the integrity of the Government’s programs and operations; and
 
-(vi) to ensure, in consultation with the Director of the Office of Personnel Management, that the requirement set forth in paragraph 6 of the pledge is honored by every employee of the executive branch;
+(vi) to ensure, in consultation with the Director of the Office of Personnel Management, that the requirement set forth in paragraph 8 of the pledge is honored by every employee of the executive branch; [sic]
 
-(4) in consultation with the Director of the Office of Management and Budget, report to the President on whether full compliance is being achieved with existing laws and regulations governing executive branch procurement lobbying disclosure and on steps the executive branch can take to expand to the fullest extent practicable disclosure of such executive branch procurement lobbying and of lobbying for presidential pardons, and to include in the report both immediate action the executive branch can take and, if necessary, recommendations for legislation; and
-
-(5) provide an annual public report on the administration of the pledge and this order.
-
-(d) The Director of the Office of Government Ethics shall, in consultation with the Attorney General, the Counsel to the President, and the Director of the Office of Personnel Management, or their designees, report to the President on steps the executive branch can take to expand to the fullest extent practicable the revolving door ban set forth in paragraph 5 of the pledge to all executive branch employees who are involved in the procurement process such that they may not for 2 years after leaving Government service lobby any Government official regarding a Government contract that was under their official responsibility in the last 2 years of their Government service; and to include in the report both immediate action the executive branch can take and, if necessary, recommendations for legislation.
+(d) An appointee who has signed the pledge is not required to sign the pledge again upon appointment or detail to a different office, except that a person who has ceased to be an appointee, due to termination of employment in the executive branch or otherwise, shall sign the pledge prior to thereafter assuming office as an appointee.
 
 (e) All pledges signed by appointees, and all waiver certifications with respect thereto, shall be filed with the head of the appointee’s agency for permanent retention in the appointee’s official personnel folder or equivalent folder.
 
-Sec. 5. Enforcement. (a) The contractual, fiduciary, and ethical commitments in the pledge provided for herein are solely enforceable by the United States pursuant to this section by any legally available means, including debarment proceedings within any affected executive agency or judicial civil proceedings for declaratory, injunctive, or monetary relief.
+Sec. 5. Enforcement. (a) The contractual, fiduciary, and ethical commitments in the pledge provided for herein are solely enforceable by the United States by any legally available means, including any or all of the following: debarment proceedings within any affected executive agency or civil judicial proceedings for declaratory, injunctive, or monetary relief.
 
-(b) Any former appointee who is determined, after notice and hearing, by the duly designated authority within any agency, to have violated his or her pledge may be barred from lobbying any officer or employee of that agency for up to 5 years in addition to the time period covered by the pledge. The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish procedures to implement this subsection, which procedures shall include (but not be limited to) providing for factfinding and investigation of possible violations of this order and for referrals to the Attorney General for his or her consideration pursuant to subsection (c).
+(b) Any former appointee who is determined, after notice and hearing, by the duly designated authority within any agency, to have violated his or her pledge may be barred from engaging in lobbying activities with respect to that agency for up to 5 years in addition to the 5-year time period covered by the pledge. The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish procedures to implement this subsection, which shall include (but not be limited to) providing for factfinding and investigation of possible violations of this order and for referrals to the Attorney General for his or her consideration pursuant to subsection (c).
 
 (c) The Attorney General or his or her designee is authorized:
 
 (1) upon receiving information regarding the possible breach of any commitment in a signed pledge, to request any appropriate Federal investigative authority to conduct such investigations as may be appropriate; and
 
-(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action against the former employee in any United States District Court with jurisdiction to consider the matter.
+(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action on behalf of the United States against the former officer or employee in any United States District Court with jurisdiction to consider the matter.
 
-(d) In any such civil action, the Attorney General or his or her designee is authorized to request any and all relief authorized by law, including but not limited to:
+(d) In such civil action, the Attorney General or his or her designee is authorized to request any and all relief authorized by law, including but not limited to:
 
-(1) such temporary restraining orders and preliminary and permanent injunctions as may be appropriate to restrain future, recurring, or continuing conduct by the former employee in breach of the commitments in the pledge he or she signed; and
+(1) such temporary restraining orders and preliminary and permanent injunctions as may be appropriate to restrain future, recurring, or continuing conduct by the former officer or employee in breach of the commitments in the pledge he or she signed; and
 
-(2) establishment of a constructive trust for the benefit of the United States, requiring an accounting and payment to the United States Treasury of all money and other things of value received by, or payable to, the former employee arising out of any breach or attempted breach of the pledge signed by the former employee.
+(2) establishment of a constructive trust for the benefit of the United States, requiring an accounting and payment to the United States Treasury of all money and other things of value received by, or payable to, the former officer or employee arising out of any breach or attempted breach of the pledge signed by the former officer or employee.
 
-Sec. 6. General Provisions. (a) No prior Executive Orders are repealed by this order. To the extent that this order is inconsistent with any provision of any prior Executive Order, this order shall control.
+Sec. 6. General Provisions. (a) This order supersedes Executive Order 13490 of January 21, 2009 (Ethics Commitments by Executive Branch Personnel), and therefore Executive Order 13490 is hereby revoked. No other prior Executive Orders are repealed by this order. To the extent that this order is inconsistent with any provision of any prior Executive Order, this order shall control.
 
 (b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
 
-(c) Nothing in this order shall be construed to impair or otherwise affect:
+(c) The pledge and this order are not intended to, and do not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party (other than by the United States) against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(1) authority granted by law to a department, agency, or the head thereof; or
+(d) The definitions set forth in this order are solely applicable to the terms of this order, and are not otherwise intended to impair or affect existing law.
 
-(2) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+(e) Nothing in this order shall be construed to impair or otherwise affect:
 
-(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+(1) the authority granted by law to an executive department, agency, or the head thereof; or
 
-(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(f) The definitions set forth in this order are solely applicable to the terms of this order, and are not otherwise intended to impair or affect existing law.
+(f) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-Barack Obama.
+Donald J. Trump.
+
+Provisions relating to ethics commitments by executive branch appointees were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13490, Jan. 21, 2009, 74 F.R. 4673, revoked by Ex. Ord. No. 13770, § 6(a), Jan. 28, 2017, 82 F.R. 9337.
+
+Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, revoked by Ex. Ord. No. 13184, Dec. 28, 2000, 66 F.R. 697, eff. noon Jan. 20, 2001.
 
 #### Delegation of Certain Functions and Authorities Relating to Workplace Accommodations for Nursing Mothers
 Memorandum of President of the United States, Dec. 20, 2010, 75 F.R. 80673, provided:
@@ -693,92 +708,8 @@ In paragraphs (3) and (4), the reference to the “government of the District of
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Ex. Ord. No. 10450. Security Requirements for Government Employees
-Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971, 36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
-
-WHEREAS the interests of the national security require that all persons privileged to be employed in the departments and agencies of the Government shall be reliable, trustworthy, of good conduct and character, and of complete and unswerving loyalty to the United States; and
-
-WHEREAS the American tradition that all persons should receive fair, impartial, and equitable treatment at the hands of the Government requires that all persons seeking the privilege of employment or privileged to be employed in the departments and agencies of the Government be adjudged by mutually consistent and no less than minimum standards and procedures among the departments and agencies governing the employment and retention in employment of persons in the Federal service:
-
-NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States, including section 1753 of the Revised Statutes of the United States ([5 U.S.C. 631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section631&num=0&edition=prelim)) [sections 3301 and 7301 of this title]; the Civil Service Act of 1883 (22 Stat. 403; [5 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section632&num=0&edition=prelim), et seq.) [section 1101 et seq. of this title]; section 9A of the act of August 2, 1939, 53 Stat. 1148 ([5 U.S.C. 118j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section118j&num=0&edition=prelim)) [sections 3333 and 7311 of this title]; and the act of August 26, 1950, 64 Stat. 476 ([5 U.S.C. 22–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section22–1&num=0&edition=prelim), et seq.) [section 7501 et seq. of this title], and as President of the United States, and deeming such action necessary in the best interests of the national security it is hereby ordered as follows:
-
-Section 1. In addition to the departments and agencies specified in the said act of August 26, 1950, and Executive Order No. 10237 of April 26, 1951 the provisions of that act shall apply to all other departments and agencies of the Government.
-
-Sec. 2. The head of each department and agency of the Government shall be responsible for establishing and maintaining within his department or agency an effective program to insure that the employment and retention in employment of any civilian officer or employee within the department or agency is clearly consistent with the interests of the national security.
-
-Sec. 3. (a) The appointment of each civilian officer or employee in any department or agency of the Government shall be made subject to investigation. The scope of the investigation shall be determined in the first instance according to the degree of adverse effect the occupant of the position sought to be filled could bring about, by virtue of the nature of the position, on the national security, but in no event shall the investigation include less than a national agency check (including a check of the fingerprint files of the Federal Bureau of Investigation), and written inquiries to appropriate local law enforcement agencies, former employers and supervisors, references, and schools attended by the person under investigation: Provided, that upon request of the head of the department or agency concerned, the Office of Personnel Management may, in its discretion, authorize such less investigation as may meet the requirements of the national security with respect to per-diem, intermittent, temporary, or seasonal employees, or aliens employed outside the United States. Should there develop at any stage of investigation information indicating that the employment of any such person may not be clearly consistent with the interests of the national security, there shall be conducted with respect to such person a full field investigation, or such less investigation as shall be sufficient to enable the head of the department or agency concerned to determine whether retention of such person is clearly consistent with the interests of the national security.
-
-(b) The head of any department or agency shall designate, or cause to be designated, any position within his department or agency the occupant of which could bring about, by virtue of the nature of the position, a material adverse effect on the national security as a sensitive position. Any position so designated shall be filled or occupied only by a person with respect to whom a full field investigation has been conducted: Provided, that a person occupying a sensitive position at the time it is designated as such may continue to occupy such position pending the completion of a full field investigation, subject to the other provisions of this order: And provided further, that in case of emergency a sensitive position may be filled for a limited period by a person with respect to whom a full field pre-appointment investigation has not been completed if the head of the department or agency concerned finds that such action is necessary in the national interest, which finding shall be made a part of the rec­ords of such department or agency.
-
-Sec. 4. The head of each department and agency shall review, or cause to be reviewed, the cases of all civilian officers and employees with respect to whom there has been conducted a full field investigation under Executive Order No. 9835 of March 21, 1947, and, after such further investigation as may be appropriate, shall re-adjudicate, or cause to be re-adjudicated, in accordance with the said act of August 26, 1950, such of those cases as have not been adjudicated under a security standard commensurate with that established under this order.
-
-Sec. 5. Whenever there is developed or received by any department or agency information indicating that the retention in employment of any officer or employee of the Government may not be clearly consistent with the interests of the national security, such information shall be forwarded to the head of the employing department or agency or his representative, who, after such investigation as may be appropriate, shall review, or cause to be reviewed, and, where necessary, re-adjudicate, or cause to be re-adjudicated, in accordance with the said act of August 26, 1950, the case of such officer or employee.
-
-Sec. 6. Should there develop at any stage of investigation information indicating that the employment of any officer or employees of the Government may not be clearly consistent with the interests of the national security, the head of the department or agency concerned or his representative shall immediately suspend the employment of the person involved if he deems such suspension necessary in the interests of the national security and, following such investigation and review as he deems necessary the head of the department or agency concerned shall terminate the employment of such suspended officer in the interests of the national security, or employee whenever he shall determine such termination necessary or advisable in accordance with the said act of August 26, 1950.
-
-Sec. 7. Any person whose employment is suspended or terminated under the authority granted to heads of departments and agencies by or in accordance with the said act of August 26, 1950, or pursuant to the said Executive Order No. 9835 or any other security or loyalty program relating to officers or employees of the Government, shall not be reinstated or restored to duty or reemployed in the same department or agency and shall not be reemployed in any other department or agency, unless the head of the department or agency concerned finds that such reinstatement, restoration, or reemployment is clearly consistent with the interests of the national security, which finding shall be made a part of the records of such department or agency: Provided, that no person whose employment has been terminated under such authority thereafter may be employed by any other department or agency except after a determination by the Office of Personnel Management that such person is eligible for such employment.
-
-Sec. 8. (a) The investigations conducted pursuant to this order shall be designed to develop information as to whether the employment or retention in employment in the Federal service of the person being investigated is clearly consistent with the interests of the national security. Such information shall relate, but shall not be limited, to the following:
-
-(1) Depending on the relation of the Government employment to the national security:
-
-(i) Any behavior, activities, or associations which tend to show that the individual is not reliable or trustworthy.
-
-(ii) Any deliberate misrepresentations, falsifications or omissions of material facts.
-
-(iii) Any criminal, infamous, dishonest, immoral, or notoriously disgraceful conduct, habitual use of intoxicants to excess, drug addiction or sexual perversion.
-
-(iv) Any illness, including any mental condition, of a nature which in the opinion of competent medical authority may cause significant defect in the judgment or reliability of the employee, with due regard to the transient or continuing effect of the illness and the medical findings in such case.
-
-(v) Any facts which furnish reason to believe that the individual may be subjected to coercion, influence, or pressure which may cause him to act contrary to the best interests of the national security.
-
-(2) Commission of any act of sabotage, espionage, treason, or sedition, or attempts thereat or preparation therefor, or conspiring with, or aiding or abetting another to commit or attempt to commit any act of sabotage, espionage, treason, or sedition.
-
-(3) Establishing or continuing a sympathetic association with a saboteur, spy, traitor, seditionist, anarchist, or revolutionist, or with any espionage or other secret agent or representative of a foreign nation, or any representative of a foreign nation whose interests may be inimical to the interests of the United States, or with any person who advocates the use of force or violence to overthrow the government of the United States or the alteration of the form of government of the United States by unconstitutional means.
-
-(4) Advocacy of use of force or violence to overthrow the government of the United States, or of the alteration of the form of government of the United States by unconstitutional means.
-
-(5) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group, or combination of persons (hereinafter referred to as organizations) which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
-
-(6) Intentional unauthorized disclosure to any person of security information, or of other information disclosure of which is prohibited by law, or willful violation or disregard of security regulations.
-
-(7) Performing or attempting to perform his duties, or otherwise acting, so as to serve the interests of another government in preference to the interests of the United States.
-
-(8) Refusal by the individual, upon the ground of constitutional privilege against self-incrimination, to testify before a congressional committee regarding charges of his alleged disloyalty or other misconduct.
-
-(b) The investigation of persons entering or employed in the competitive service shall primarily be the responsibility of the Office of Personnel Management, except in cases in which the head of a department or agency assumes that responsibility pursuant to law or by agreement with the Office. The Office shall furnish a full investigative report to the department or agency concerned.
-
-(c) The investigation of persons (including consultants, however employed), entering employment of, or employed by, the Government other than in the competitive service shall primarily be the responsibility of the employing department or agency. Departments and agencies without investigative facilities may use the investigative facilities of the Office of Personnel Management, and other departments and agencies may use such facilities under agreement with the Office.
-
-(d) There shall be referred promptly to the Federal Bureau of Investigation all investigations being conducted by any other agencies which develop information indicating that an individual may have been subjected to coercion, influence, or pressure to act contrary to the interests of the national security, or information relating to any of the matters described in subdivisions (2) through (8) of subsection (a) of this section. In cases so referred to it, the Federal Bureau of Investigation shall make a full field investigation.
-
-Sec. 9. (a) There shall be established and maintained in the Office of Personnel Management a security-investigations index covering all persons as to whom security investigations have been conducted by any department or agency of the Government under this order. The central index established and maintained by the Office under Executive Order No. 9835 of March 21, 1947, shall be made a part of the security-investigations index. The security-investigations index shall contain the name of each person investigated, adequate identifying information concerning each such person, and a reference to each department and agency which has conducted an investigation concerning the person involved or has suspended or terminated the employment of such person under the authority granted to heads of departments and agencies by or in accordance with the said act of August 26, 1950.
-
-(b) The heads of all departments and agencies shall furnish promptly to the Office of Personnel Management information appropriate for the establishment and maintenance of the security-investigations index.
-
-(c) The reports and other investigative material and information developed by investigations conducted pursuant to any statute, order, or program described in section 7 of this order shall remain the property of the investigative agencies conducting the investigations, but may, subject to considerations of the national security, be retained by the department or agency concerned. Such reports and other investigative material and information shall be maintained in confidence, and no access shall be given thereto except with the consent of the investigative agency concerned, to other departments and agencies conducting security programs under the authority granted by or in accordance with the said act of August 26, 1950, as may be required for the efficient conduct of Government business.
-
-Sec. 10. Nothing in this order shall be construed as eliminating or modifying in any way the requirement for any investigation or any determination as to security which may be required by law.
-
-Sec. 11. On and after the effective date of this order the Loyalty Review Board established by Executive Order No. 9835 of March 21, 1947, shall not accept agency findings for review, upon appeal or otherwise. Appeals pending before the Loyalty Review Board on such date shall be heard to final determination in accordance with the provisions of the said Executive Order No. 9835, as amended. Agency determinations favorable to the officer or employee concerned pending before the Loyalty Review Board on such date shall be acted upon by such Board, and whenever the Board is not in agreement with such favorable determination the case shall be remanded to the department or agency concerned for determination in accordance with the standards and procedures established pursuant to this order. Cases pending before the regional loyalty boards of the Office of Personnel Management on which hearings have not been initiated on such date shall be referred to the department or agency concerned. Cases being heard by regional loyalty boards on such date shall be heard to conclusion, and the determination of the board shall be forwarded to the head of the department or agency concerned: Provided, that if no specific department or agency is involved, the case shall be dismissed without prejudice to the applicant. Investigations pending in the Federal Bureau of Investigation or the Office of Personnel Management on such date shall be completed, and the reports thereon shall be made to the appropriate department or agency.
-
-Sec. 12. Executive Order No. 9835 of March 21, 1947, as amended, is hereby revoked.
-
-Sec. 13. The Attorney General is requested to render to the heads of departments and agencies such advice as may be requisite to enable them to establish and maintain an appropriate employee-security program.
-
-Sec. 14. (a) The Office of Personnel Management, with the continuing advice and collaboration of representatives of such departments and agencies as the National Security Council may designate, shall make a continuing study of the manner in which this order is being implemented by the departments and agencies of the Government for the purpose of determining:
-
-(1) Deficiencies in the department and agency security programs established under this order which are inconsistent with the interests of or directly or indirectly weaken, the national security.
-
-(2) Tendencies in such programs to deny to individual employees fair, impartial and equitable treatment at the hands of the Government, or rights under the Constitution and laws of the United States or this order.
-
-Information affecting any department or agency developed or received during the course of such continuing study shall be furnished immediately to the head of the department or agency concerned. The Office of Personnel Management shall report to the National Security Council, at least semiannually, on the results of such study, shall recommend means to correct any such deficiencies or tendencies, and shall inform the National Security Council immediately of any deficiency which is deemed to be of major importance.
-
-(b) All departments and agencies of the Government are directed to cooperate with the Office of Personnel Management to facilitate the accomplishment of the responsibilities assigned to it by subsection (a) of this section.
-
-(c) To assist the Office of Personnel Management in discharging its responsibilities under this order, the head of each department and agency shall, as soon as possible and in no event later than ninety days after receipt of the final investigative report on a civilian officer or employee subject to a full field investigation under the provisions of this order, advise the Office as to the action taken with respect to such officer or employee. The information furnished by the heads of departments and agencies pursuant to this section shall be included in the reports which the Office of Personnel Management is required to submit to the National Security Council in accordance with subsection (a) of this section. Such reports shall set forth any deficiencies on the part of the heads of departments and agencies in taking timely action under this order, and shall mention specifically any instances of noncompliance with this subsection.
-
-Sec. 15. This order shall become effective thirty days after the date hereof.
+#### Executive Order No. 10450
+Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971, 36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to security requirements for Government employees, was revoked by Ex. Ord. No. 13467, § 3(a), as added by Ex. Ord. No. 13764, § 3(v), Jan. 17, 2017, 82 F.R. 8128, which is set out in a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense, and which contains additional construction provisions related to the revocation.
 
 #### Executive Order No. 11605
 Ex. Ord. No. 11605. July 2, 1971, 36 F.R. 12831, which amended Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, which related to security requirements for government employees, was revoked by Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053, set out below.

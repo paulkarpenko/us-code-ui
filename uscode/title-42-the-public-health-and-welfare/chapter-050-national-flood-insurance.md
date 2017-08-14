@@ -417,7 +417,7 @@ Section was enacted as part of the Homeowner Flood Insurance Affordability Act o
 ## § 4014. Authorization to establish and carry out program
 **(a) Authorization and establishment** To carry out the purposes of this chapter, the Administrator of the Federal Emergency Management Agency is authorized to establish and carry out a national flood insurance program which will enable interested persons to purchase insurance against loss resulting from physical damage to or loss of real property or personal property related thereto arising from any flood occurring in the United States.
 
-**(b) Additional coverage for compliance with land use and control measures** The national flood insurance program established pursuant to subsection (a) of this section shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under [section 4102 of this title](./chapter-050-national-flood-insurance.md#section-4102) for—
+**(b) Additional coverage for compliance with land use and control measures** The national flood insurance program established pursuant to subsection (a) shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under [section 4102 of this title](./chapter-050-national-flood-insurance.md#section-4102) for—
 
 (1) properties that are repetitive loss structures;
 
@@ -633,7 +633,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) **State-owned property** — Notwithstanding the other provisions of this section, flood insurance shall not be required on any State-owned property that is covered under an adequate State policy of self-insurance satisfactory to the Administrator. The Administrator shall publish and periodically revise the list of States to which this subsection applies.
 
-(2) **Small loans** — Notwithstanding any other provision of this section, subsections (a) and (b) of this section shall not apply to any loan having—
+(2) **Small loans** — Notwithstanding any other provision of this section, subsections (a) and (b) shall not apply to any loan having—
 
   (A) an original outstanding principal balance of $5,000 or less; and
 
@@ -689,7 +689,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(e) Placement of flood insurance by lender**
 
-(1) **Notification to borrower of lack of coverage** — If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Administrator (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 [[42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.], the lender or servicer for the loan determines that the building or mobile home and any personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant to paragraph (1), (2), or (3) of subsection (b) of this section, the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower’s expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1) of this section, for the term of the loan.
+(1) **Notification to borrower of lack of coverage** — If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Administrator (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 [[42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.], the lender or servicer for the loan determines that the building or mobile home and any personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant to paragraph (1), (2), or (3) of subsection (b), the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower’s expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1), for the term of the loan.
 
 (2) **Purchase of coverage on behalf of borrower** — If the borrower fails to purchase such flood insurance within 45 days after notification under paragraph (1), the lender or servicer for the loan shall purchase the insurance on behalf of the borrower and may charge the borrower for the cost of premiums and fees incurred by the lender or servicer for the loan in purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount.
 
@@ -729,7 +729,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (3) **Civil monetary penalties against GSE’s**
 
-  (A) *In general* — If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office 33 So in original. Probably should be “Agency”. shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
+  (A) *In general* — If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3), the Director of such Office 33 So in original. Probably should be “Agency”. shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
 
   (B) *“Enterprise” defined* — For purposes of this subsection, the term “enterprise” means the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
@@ -737,7 +737,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (5) **Amount** — A civil monetary penalty under this subsection may not exceed $2,000 for each violation under paragraph (2) or paragraph (3).
 
-(6) **Lender compliance** — Notwithstanding any State or local law, for purposes of this subsection, any regulated lending institution that purchases flood insurance or renews a contract for flood insurance on behalf of or as an agent of a borrower of a loan for which flood insurance is required shall be considered to have complied with the regulations issued under subsection (b) of this section.
+(6) **Lender compliance** — Notwithstanding any State or local law, for purposes of this subsection, any regulated lending institution that purchases flood insurance or renews a contract for flood insurance on behalf of or as an agent of a borrower of a loan for which flood insurance is required shall be considered to have complied with the regulations issued under subsection (b).
 
 (7) **Effect of transfer on liability** — Any sale or other transfer of a loan by a regulated lending institution that has committed a violation under paragraph (1), that occurs subsequent to the violation, shall not affect the liability of the transferring lender with respect to any penalty under this subsection. A lender shall not be liable for any violations relating to a loan committed by another regulated lending institution that previously held the loan.
 
@@ -753,9 +753,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (2) **Determination of violations** — A determination under this paragraph shall be a finding that—
 
-  (A) the regulated lending institution has engaged in a pattern and practice of noncompliance in violation of the regulations issued pursuant to subsection (b), (d), or (e) of this section or the notice requirements under section 1364 of the National Flood Insurance Act of 1968 [[42 U.S.C. 4104a](./chapter-050-national-flood-insurance.md#section-4104a)]; and
+  (A) the regulated lending institution has engaged in a pattern and practice of noncompliance in violation of the regulations issued pursuant to subsection (b), (d), or (e) or the notice requirements under section 1364 of the National Flood Insurance Act of 1968 [[42 U.S.C. 4104a](./chapter-050-national-flood-insurance.md#section-4104a)]; and
 
-  (B) the regulated lending institution has not demonstrated measurable improvement in compliance despite the assessment of civil monetary penalties under subsection (f) of this section.
+  (B) the regulated lending institution has not demonstrated measurable improvement in compliance despite the assessment of civil monetary penalties under subsection (f).
 
 **(h) Fee for determining location** Notwithstanding any other Federal or State law, any person who makes a loan secured by improved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
 
@@ -765,7 +765,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (B) is made pursuant to a revision or updating under section 1360(f) 44 So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”. [[42 U.S.C. 4101(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4101/f&num=0&edition=prelim)] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 4 [[42 U.S.C. 4101(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4101/h&num=0&edition=prelim), (i)] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
 
-  (C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2) of this section.
+  (C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2).
 
 (2) **Purchaser or transferee fee** — The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
@@ -879,7 +879,7 @@ Pub. L. 113–89, § 21, Mar. 21, 2014, 128 Stat. 1028, provided that: “The Ad
 
 (6) any other terms and conditions relating to insurance coverage or exclusion which may be necessary to carry out the purposes of this chapter.
 
-**(b) Regulations respecting amount of coverage** In addition to any other terms and conditions under subsection (a) of this section, such regulations shall provide that—
+**(b) Regulations respecting amount of coverage** In addition to any other terms and conditions under subsection (a), such regulations shall provide that—
 
 (1) any flood insurance coverage based on chargeable premium rates under [section 4015 of this title](./chapter-050-national-flood-insurance.md#section-4015) which are less than the estimated premium rates under [section 4014(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4014/a/1&num=0&edition=prelim) shall not exceed—
 
@@ -1074,7 +1074,7 @@ For definitions of terms used in this section, see [section 4004 of this title](
 
 (3) the extent, if any, to which federally assisted or other flood protection measures initiated after August 1, 1968, affect such rates.
 
-**(b) Utilization of services of other Departments and agencies** In carrying out subsection (a) of this section, the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
+**(b) Utilization of services of other Departments and agencies** In carrying out subsection (a), the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
 
 **(c) Priority to studies and investigations in States or areas evidencing positive interest in securing insurance under program** The Administrator shall give priority to conducting studies and investigations and making estimates under this section in those States or areas (or subdivisions thereof) which he has determined have evidenced a positive interest in securing flood insurance coverage under the flood insurance program.
 
@@ -1217,13 +1217,13 @@ Pub. L. 101–137, § 5, Nov. 3, 1989, 103 Stat. 825, directed Director of Feder
 
 **(c) Actuarial rate properties** Subject only to the limitations provided under paragraphs (1) and (2), the chargeable rate shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under [section 4014(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4014/a/1&num=0&edition=prelim) with respect to the following properties:
 
-(1) **Post-firm properties** — Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101) for the area in which such property is located, whichever is later, except that the chargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e) of this section.
+(1) **Post-firm properties** — Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101) for the area in which such property is located, whichever is later, except that the chargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e).
 
 (2) **Certain leased coastal and river properties** — Any property leased from the Federal Government (including residential and nonresidential properties) that the Administrator determines is located on the river-facing side of any dike, levee, or other riverine flood control structure, or seaward of any seawall or other coastal flood control structure.
 
 **(d) Payment of certain sums to Administrator; deposits in Fund** With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs which have been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of [section 4014(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4014/a&num=0&edition=prelim) or paragraph (2) of such section (including the fees under such paragraphs), shall be paid to the Administrator. The Administrator shall deposit the sum in the National Flood Insurance Fund established under [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017).
 
-**(e) Annual limitation on premium increases** Except with respect to properties described under paragraph (2) of subsection (c) of this section, and notwithstanding any other provision of this chapter—
+**(e) Annual limitation on premium increases** Except with respect to properties described under paragraph (2) of subsection (c), and notwithstanding any other provision of this chapter—
 
 (1) the chargeable risk premium rate for flood insurance under this chapter for any property may not be increased by more than 18 percent each year, except—
 
@@ -1350,7 +1350,7 @@ Subsec. (i). Pub. L. 112–141, § 100211(3), added subsec. (i).
 
 2004—Subsec. (c). Pub. L. 108–264, § 106(a), added subsec. (c) and struck out former subsec. (c) which read as follows “Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101) for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under [section 4014(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4014/a/1&num=0&edition=prelim).”
 
-Subsec. (e). Pub. L. 108–264, § 106(b), substituted “Except with respect to properties described under paragraph (2) or (3) of subsection (c) of this section, and notwithstanding” for “Notwithstanding”.
+Subsec. (e). Pub. L. 108–264, § 106(b), substituted “Except with respect to properties described under paragraph (2) or (3) of subsection (c), and notwithstanding” for “Notwithstanding”.
 
 Subsec. (f). Pub. L. 108–264, § 209, added subsec. (f).
 
@@ -1532,7 +1532,7 @@ Subsec. (a) of this section to be applied by substituting “September 30, 2009�
 
 <a id="section-4021"></a>
 ## § 4021. National Flood Insurance Fund
-**(a) Establishment; availability** To carry out the flood insurance program authorized by this chapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the “fund”) which shall be an account separate from any other accounts or funds available to the Administrator and shall be available as described in subsection (f) of this section, without fiscal year limitation (except as otherwise provided in this section)—
+**(a) Establishment; availability** To carry out the flood insurance program authorized by this chapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the “fund”) which shall be an account separate from any other accounts or funds available to the Administrator and shall be available as described in subsection (f), without fiscal year limitation (except as otherwise provided in this section)—
 
 (1) for making such payments as may, from time to time, be required under [section 4054 of this title](./chapter-050-national-flood-insurance.md#section-4054);
 
@@ -1542,7 +1542,7 @@ Subsec. (a) of this section to be applied by substituting “September 30, 2009�
 
 (4) to the extent approved in appropriations Acts, to pay any administrative expenses of the flood insurance and floodplain management programs (including the costs of mapping activities under [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101));
 
-(5) for the purposes specified in subsection (d) of this section under the conditions provided therein;
+(5) for the purposes specified in subsection (d) under the conditions provided therein;
 
 (6) for carrying out the program under [section 4022(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4022/b&num=0&edition=prelim);
 
@@ -1558,11 +1558,11 @@ Subsec. (a) of this section to be applied by substituting “September 30, 2009�
 
 (3) such amounts as may be advanced to the fund from appropriations in order to maintain the fund in an operative condition adequate to meet its liabilities;
 
-(4) interest which may be earned on investments of the fund pursuant to subsection (c) of this section;
+(4) interest which may be earned on investments of the fund pursuant to subsection (c);
 
 (5) such sums as are required to be paid to the Administrator under [section 4015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4015/d&num=0&edition=prelim); and
 
-(6) receipts from any other operations under this chapter (including premiums under the conditions specified in subsection (d) of this section, and salvage proceeds, if any, resulting from reinsurance coverage).
+(6) receipts from any other operations under this chapter (including premiums under the conditions specified in subsection (d), and salvage proceeds, if any, resulting from reinsurance coverage).
 
 **(c) Investment of moneys in obligations issued or guaranteed by United States** If, after—
 
@@ -1580,7 +1580,7 @@ for so long as the program is so carried out, and in such event any premiums pai
 
 **(e) Annual budget** An annual business-type budget for the fund shall be prepared, transmitted to the Congress, considered, and enacted in the manner prescribed by sections 9103 and 9104 of title 31 for wholly-owned Government corporations.
 
-**(f) Availability of funds dependent on future appropriations acts** The fund shall be available, with respect to any fiscal year beginning on or after October 1, 1981, only to the extent approved in appropriation Acts; except that the fund shall be available for the purpose described in subsection (d)(1) of this section without such approval.
+**(f) Availability of funds dependent on future appropriations acts** The fund shall be available, with respect to any fiscal year beginning on or after October 1, 1981, only to the extent approved in appropriation Acts; except that the fund shall be available for the purpose described in subsection (d)(1) without such approval.
 
 ### Statutory Notes
 
@@ -1713,7 +1713,7 @@ Subsec. (e). Pub. L. 113–89, § 20, inserted “, on a calendar quarterly basi
 (2) a current schedule of operating allowances applicable to risk-sharing insurance companies and other insurers,
 which may be payable in accordance with the provisions of subchapter II, and such schedules shall from time to time be prescribed in regulations.
 
-**(b)** For purposes of subsection (a) of this section—
+**(b)** For purposes of subsection (a)—
 
 (1) the term “operating costs” shall (without limiting such term) include—
 
@@ -2158,7 +2158,7 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 ## § 4030. Biennial report to President
 **(a) In general** The Administrator shall biennially submit a report of operations under this chapter to the President for submission to the Congress.
 
-**(b) Effects of flood insurance program** The Administrator shall include, as part of the biennial report submitted under subsection (a) of this section, a chapter reporting on the effects on the flood insurance program observed through implementation of requirements under the Riegle Community Development and Regulatory Improvement Act of 1994.
+**(b) Effects of flood insurance program** The Administrator shall include, as part of the biennial report submitted under subsection (a), a chapter reporting on the effects on the flood insurance program observed through implementation of requirements under the Riegle Community Development and Regulatory Improvement Act of 1994.
 
 ### Statutory Notes
 
@@ -2303,7 +2303,7 @@ Pub. L. 97–35, title III, § 341(d)(2), Aug. 13, 1981, 95 Stat. 419, relating 
 
 (3) both the alternatives specified in paragraphs (1) and (2).
 
-**(b)** Upon making the determination referred to in subsection (a) of this section, the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017). Such report shall—
+**(b)** Upon making the determination referred to in subsection (a), the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017). Such report shall—
 
 (1) state the reason for such determinations,
 
@@ -2463,7 +2463,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <a id="section-4057"></a>
 ## § 4057. Industry flood insurance pool; requirements for participation
-**(a)** The Administrator is authorized to encourage and otherwise assist any insurance companies and other insurers which meet the requirements prescribed under subsection (b) of this section to form, associate, or otherwise join together in a pool—
+**(a)** The Administrator is authorized to encourage and otherwise assist any insurance companies and other insurers which meet the requirements prescribed under subsection (b) to form, associate, or otherwise join together in a pool—
 
 (1) in order to provide the flood insurance coverage authorized under subchapter I; and
 
@@ -2572,7 +2572,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ## § 4082. Reinsurance coverage
 **(a) Availability for excess losses**
 
-(1) **In general** — The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under [section 4051 of this title](./chapter-050-national-flood-insurance.md#section-4051), reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
+(1) **In general** — The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under [section 4051 of this title](./chapter-050-national-flood-insurance.md#section-4051), reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c).
 
 (2) **Private reinsurance** — The Administrator is authorized to secure reinsurance of coverage provided by the flood insurance program from the private market at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
 
@@ -2602,9 +2602,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <a id="section-4083"></a>
 ## § 4083. Emergency implementation of flood insurance program; applicability of other provisions of law
-**(a)** Notwithstanding any other provisions of this chapter, for the purpose of providing flood insurance coverage at the earliest possible time, the Administrator shall carry out the flood insurance program authorized under subchapter I during the period ending on the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), in accordance with the provisions of this part and the other provisions of this chapter insofar as they relate to this part but subject to the modifications made by or under subsection (b) of this section.
+**(a)** Notwithstanding any other provisions of this chapter, for the purpose of providing flood insurance coverage at the earliest possible time, the Administrator shall carry out the flood insurance program authorized under subchapter I during the period ending on the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), in accordance with the provisions of this part and the other provisions of this chapter insofar as they relate to this part but subject to the modifications made by or under subsection (b).
 
-**(b)** In carrying out the flood insurance program pursuant to subsection (a) of this section, the Administrator—
+**(b)** In carrying out the flood insurance program pursuant to subsection (a), the Administrator—
 
 (1) shall provide insurance coverage without regard to any estimated risk premium rates which would otherwise be determined under [section 4014 of this title](./chapter-050-national-flood-insurance.md#section-4014); and
 
@@ -2926,9 +2926,9 @@ Pub. L. 112–141, div. F, title II, § 100224, July 6, 2012, 126 Stat. 936, pro
 
 (5) Otherwise assisting in such manner as the contract may provide to further the purposes of this chapter.
 
-**(b) Terms and conditions of contract** Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
+**(b) Terms and conditions of contract** Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a), and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
 
-**(c) Competitive bidding** Any contract entered into under subsection (a) of this section may be entered into without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) or any other provision of law requiring competitive bidding.
+**(c) Competitive bidding** Any contract entered into under subsection (a) may be entered into without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) or any other provision of law requiring competitive bidding.
 
 **(d) Findings of Administrator** No contract may be entered into under this section unless the Administrator finds that the pool, company, or organization will perform its obligations under the contract efficiently and effectively, and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 
@@ -3035,7 +3035,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(f) Updating flood maps** The Administrator shall revise and update any floodplain areas and flood-risk zones—
 
-(1) upon the determination of the Administrator, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
+(1) upon the determination of the Administrator, according to the assessment under subsection (e), that revision and updating are necessary for the areas and zones; or
 
 (2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Administrator.
 
@@ -3554,7 +3554,7 @@ Pub. L. 103–325, title V, § 551(b), Sept. 23, 1994, 108 Stat. 2269, permitted
 
 **(c) Appeals by private persons; submission of negativing or contradicting data to community; opinion of community respecting justification for appeal by community; transmission of individual appeals to Administrator; filing of community action with Administrator** Appeals by private persons shall be made to the chief executive officer of the community, or to such agency as he shall publicly designate, and shall set forth the data that tend to negate or contradict the Administrator’s finding in such form as the chief executive officer may specify. The community shall review and consolidate all such appeals and issue a written opinion stating whether the evidence presented is sufficient to justify an appeal on behalf of such persons by the community in its own name. Whether or not the community decides to appeal the Administrator’s determination, copies of individual appeals shall be sent to the Administrator as they are received by the community, and the community’s appeal or a copy of its decision not to appeal shall be filed with the Administrator not later than ninety days after the date of the second newspaper publication of the Administrator’s notification.
 
-**(d) Administrative review of appeals by private persons; modification of proposed determinations; decision of Administrator: form and distribution** In the event the Administrator does not receive an appeal from the community within the ninety days provided, he shall consolidate and review on their own merits, in accordance with the procedures set forth in subsection (e) of this section, the appeals filed within the community by private persons and shall make such modifications of his proposed determinations as may be appropriate, taking into account the written opinion, if any, issued by the community in not supporting such appeals. The Administrator’s decision shall be in written form, and copies thereof shall be sent both to the chief executive officer of the community and to each individual appellant.
+**(d) Administrative review of appeals by private persons; modification of proposed determinations; decision of Administrator: form and distribution** In the event the Administrator does not receive an appeal from the community within the ninety days provided, he shall consolidate and review on their own merits, in accordance with the procedures set forth in subsection (e), the appeals filed within the community by private persons and shall make such modifications of his proposed determinations as may be appropriate, taking into account the written opinion, if any, issued by the community in not supporting such appeals. The Administrator’s decision shall be in written form, and copies thereof shall be sent both to the chief executive officer of the community and to each individual appellant.
 
 **(e) Administrative review of appeals by community; agencies for resolution of conflicting data; availability of flood insurance pending such resolution; time for determination of Administrator; community adoption of local land use and control measures within reasonable time of final determination; public inspection and admissibility in evidence of reports and other administrative information** Upon appeal by any community, as provided by this section, the Administrator shall review and take fully into account any technical or scientific data submitted by the community that tend to negate or contradict the information upon which his proposed determination is based. The Administrator shall resolve such appeal by consultation with officials of the local government involved, by administrative hearing, or by submission of the conflicting data to the Scientific Resolution Panel provided for in [section 4104–1 of this title](./chapter-050-national-flood-insurance.md#section-4104-1). Until the conflict in data is resolved, and the Administrator makes a final determination on the basis of his findings in the Federal Register, and so notifies the governing body of the community, flood insurance previously available within the community shall continue to be available, and no person shall be denied the right to purchase such insurance at chargeable rates. The Administrator shall make his determination within a reasonable time. The community shall be given a reasonable time after the Administrator’s final determination in which to adopt local land use and control measures consistent with the Administrator’s determination. The reports and other information used by the Administrator in making his final determination shall be made available for public inspection and shall be admissible in a court of law in the event the community seeks judicial review as provided by this section.
 
@@ -3702,9 +3702,9 @@ Section was enacted as part of the Homeowner Flood Insurance Affordability Act o
 
 **(b) Notification of change of servicer**
 
-(1) **Lending institutions** — Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Administrator (or the designee of the Administrator) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Administrator (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+(1) **Lending institutions** — Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1), to notify the Administrator (or the designee of the Administrator) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Administrator (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
 
-(2) **Federal agency lenders** — Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) of this section that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
+(2) **Federal agency lenders** — Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
 
 **(c) Notification of expiration of insurance** The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.
 
@@ -3738,7 +3738,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(b) Design and contents**
 
-(1) **Purpose** — The form under subsection (a) of this section shall be designed to facilitate compliance with the flood insurance purchase requirements of this chapter.
+(1) **Purpose** — The form under subsection (a) shall be designed to facilitate compliance with the flood insurance purchase requirements of this chapter.
 
 (2) **Contents** — The form shall require identification of the type of flood-risk zone in which the building or mobile home is located, the complete map and panel numbers for the improved real estate or property on which the mobile home is located, the community identification number and community participation status (for purposes of the national flood insurance program) of the community in which the improved real estate or such property is located, and the date of the map used for the determination, with respect to flood hazard information on file with the Administrator. If the building or mobile home is not located in an area having special flood hazards the form shall require a statement to such effect and shall indicate the complete map and panel numbers of the improved real estate or property on which the mobile home is located. If the complete map and panel numbers are not available because the building or mobile home is not located in a community that is participating in the national flood insurance program or because no map exists for the relevant area, the form shall require a statement to such effect. The form shall provide for inclusion or attachment of any relevant documents indicating revisions or amendments to maps.
 
@@ -3752,7 +3752,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (2) the person contacts the Administrator to determine when the most recent map revisions or updates affecting such property occurred and such revisions and updates have occurred after such previous determination.
 
-**(f) Effective date** The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) of this section and shall take effect upon the expiration of the 180-day period beginning on such issuance.
+**(f) Effective date** The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) and shall take effect upon the expiration of the 180-day period beginning on such issuance.
 
 ### Statutory Notes
 
@@ -3834,7 +3834,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) **Noncompliance with plan** — If the Administrator determines that a State or community that has received mitigation assistance under this section has not carried out the mitigation activities as set forth in the mitigation plan, the Administrator shall recapture any unexpended amounts and deposit the amounts in the National Flood Mitigation Fund under [section 4104d of this title](./chapter-050-national-flood-insurance.md#section-4104d).
 
-(2) **Failure to provide matching funds** — If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d) of this section, the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under [section 4104d of this title](./chapter-050-national-flood-insurance.md#section-4104d).
+(2) **Failure to provide matching funds** — If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d), the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under [section 4104d of this title](./chapter-050-national-flood-insurance.md#section-4104d).
 
 **(f) Reports** Not later than 1 year after July 6, 2012, and biennially thereafter, the Administrator shall submit a report to the Congress describing the status of mitigation activities carried out with assistance provided under this section.
 
@@ -3957,7 +3957,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <a id="section-4122"></a>
 ## § 4122. National Flood Mitigation Fund
-**(a) Establishment and availability** The Administrator shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) of this section and shall be available, to the extent provided in appropriation Acts, for providing assistance under [section 4104c of this title](./chapter-050-national-flood-insurance.md#section-4104c).
+**(a) Establishment and availability** The Administrator shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) and shall be available, to the extent provided in appropriation Acts, for providing assistance under [section 4104c of this title](./chapter-050-national-flood-insurance.md#section-4104c).
 
 **(b) Credits** The National Flood Mitigation Fund shall be credited with—
 
@@ -3973,13 +3973,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (3) any amounts recaptured under [section 4104c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4104c/e&num=0&edition=prelim).
 
-**(c) Administrative expenses** The Administrator may use not more than 5 percent of amounts made available under subsection (b) of this section to cover salaries, expenses, and other administrative costs incurred by the Administrator to make grants and provide assistance under [section 4104c of this title](./chapter-050-national-flood-insurance.md#section-4104c).
+**(c) Administrative expenses** The Administrator may use not more than 5 percent of amounts made available under subsection (b) to cover salaries, expenses, and other administrative costs incurred by the Administrator to make grants and provide assistance under [section 4104c of this title](./chapter-050-national-flood-insurance.md#section-4104c).
 
 **(d) Prohibition on offsetting collections** Notwithstanding any other provision of this chapter, amounts made available pursuant to this section shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.
 
 **(e) Continued availability and reallocation** Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsection (b)(1) that are not used in any fiscal year shall continue to be available for the purposes specified in the subparagraph of subsection (b)(1) pursuant to which such amounts were made available, unless the Administrator determines that reallocation of such unused amounts to meet demonstrated need for other mitigation activities under [section 4104c of this title](./chapter-050-national-flood-insurance.md#section-4104c) is in the best interest of the National Flood Insurance Fund.
 
-**(f) Investment** If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+**(f) Investment** If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a), the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 
 **(g) Report** The Administrator shall submit a report to the Congress not later than the expiration of the 1-year period beginning on September 23, 1994, and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.
 
@@ -4164,9 +4164,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (15) the term “substantially damaged structure” means a structure covered by a contract for flood insurance that has incurred damage for which the cost of repair exceeds an amount specified in any regulation promulgated by the Administrator, or by a community ordinance, whichever is lower.
 
-**(b)** The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
+**(b)** The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1), subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
 
-**(c)** The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
+**(c)** The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1), subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
 ### Statutory Notes
 
@@ -4192,7 +4192,7 @@ Subsec. (a)(15). Pub. L. 108–264, § 105(b)(2)–(4), added par. (15).
 
 1994—Subsec. (a)(7) to (14). Pub. L. 103–325 added pars. (7) to (14).
 
-1988—Subsecs. (b), (c). Pub. L. 100–628 substituted “subsection (a)(1) of this section” for “paragraph (1)”.
+1988—Subsecs. (b), (c). Pub. L. 100–628 substituted “subsection (a)(1)” for “paragraph (1)”.
 
 1983—Subsec. (a)(1). Pub. L. 98–181, § 451(d)(1), substituted “Director” for “Secretary”.
 

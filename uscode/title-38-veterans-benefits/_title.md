@@ -2,7 +2,7 @@
 title: 38
 heading: VETERANS’ BENEFITS
 positive_law: false
-sections: 1074
+sections: 1080
 chapters: 47
 ---
 # Title 38. VETERANS’ BENEFITS

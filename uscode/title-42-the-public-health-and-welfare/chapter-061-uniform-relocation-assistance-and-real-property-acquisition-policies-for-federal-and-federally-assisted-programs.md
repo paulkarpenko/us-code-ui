@@ -172,11 +172,11 @@ Section effective on effective date provided in regulations promulgated under [s
 
 <a id="section-4605"></a>
 ## § 4605. Displaced persons not eligible for assistance
-**(a) In general** Except as provided in subsection (c) of this section, a displaced person shall not be eligible to receive relocation payments or any other assistance under this chapter if the displaced person is an alien not lawfully present in the United States.
+**(a) In general** Except as provided in subsection (c), a displaced person shall not be eligible to receive relocation payments or any other assistance under this chapter if the displaced person is an alien not lawfully present in the United States.
 
 **(b) Determinations of eligibility**
 
-(1) **Promulgation of regulations** — Not later than 1 year after November 21, 1997, after providing notice and an opportunity for public comment, the head of the lead agency shall promulgate regulations to carry out subsection (a) of this section.
+(1) **Promulgation of regulations** — Not later than 1 year after November 21, 1997, after providing notice and an opportunity for public comment, the head of the lead agency shall promulgate regulations to carry out subsection (a).
 
 (2) **Contents of regulations** — Regulations promulgated under paragraph (1) shall—
 
@@ -186,9 +186,9 @@ Section effective on effective date provided in regulations promulgated under [s
 
   (C) ensure that each eligibility determination is fair and based on reliable information; and
 
-  (D) prescribe standards for a displacing agency to apply in making determinations relating to exceptional and extremely unusual hardship under subsection (c) of this section.
+  (D) prescribe standards for a displacing agency to apply in making determinations relating to exceptional and extremely unusual hardship under subsection (c).
 
-**(c) Exceptional and extremely unusual hardship** If a displacing agency determines by clear and convincing evidence that a determination of the ineligibility of a displaced person under subsection (a) of this section would result in exceptional and extremely unusual hardship to an individual who is the displaced person’s spouse, parent, or child and who is a citizen of the United States or an alien lawfully admitted for permanent residence in the United States, the displacing agency shall provide relocation payments and other assistance to the displaced person under this chapter if the displaced person would be eligible for the assistance but for subsection (a) of this section.
+**(c) Exceptional and extremely unusual hardship** If a displacing agency determines by clear and convincing evidence that a determination of the ineligibility of a displaced person under subsection (a) would result in exceptional and extremely unusual hardship to an individual who is the displaced person’s spouse, parent, or child and who is a citizen of the United States or an alien lawfully admitted for permanent residence in the United States, the displacing agency shall provide relocation payments and other assistance to the displaced person under this chapter if the displaced person would be eligible for the assistance but for subsection (a).
 
 **(d) Limitation on statutory construction** Nothing in this section affects any right available to a displaced person under any other provision of Federal or State law.
 
@@ -355,7 +355,7 @@ Amendment by Pub. L. 100–17 effective on effective date provided in regulation
 ## § 4624. Replacement housing for tenants and certain others
 **(a)** In addition to amounts otherwise authorized by this subchapter, the head of a displacing agency shall make a payment to or for any displaced person displaced from any dwelling not eligible to receive a payment under [section 4623 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4623) which dwelling was actually and lawfully occupied by such displaced person for not less than 90 days immediately prior to (1) the initiation of negotiations for acquisition of such dwelling, or (2) in any case in which displacement is not a direct result of acquisition, such other event as the head of the lead agency shall prescribe. Such payment shall consist of the amount necessary to enable such person to lease or rent for a period not to exceed 42 months, a comparable replacement dwelling, but not to exceed $7,200, as adjusted by regulation, in accordance with [section 4633(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4633/d&num=0&edition=prelim). At the discretion of the head of the displacing agency, a payment under this subsection may be made in periodic installments. Computation of a payment under this subsection to a low-income displaced person for a comparable replacement dwelling shall take into account such person’s income.
 
-**(b)** Any person eligible for a payment under subsection (a) of this section may elect to apply such payment to a down payment on, and other incidental expenses pursuant to, the purchase of a decent, safe, and sanitary replacement dwelling. Any such person may, at the discretion of the head of the displacing agency, be eligible under this subsection for the maximum payment allowed under subsection (a) of this section.
+**(b)** Any person eligible for a payment under subsection (a) of this section may elect to apply such payment to a down payment on, and other incidental expenses pursuant to, the purchase of a decent, safe, and sanitary replacement dwelling. Any such person may, at the discretion of the head of the displacing agency, be eligible under this subsection for the maximum payment allowed under subsection (a).
 
 ### Statutory Notes
 

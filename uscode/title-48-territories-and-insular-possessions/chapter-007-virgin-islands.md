@@ -165,7 +165,7 @@ Pub. L. 110–40, § 1(b), June 29, 2007, 121 Stat. 232, provided that: “This 
 ### Statutory Notes
 
 #### Codification
-Section, act Oct. 5, 1992, Pub. L. 102–381, title I, 106 Stat. 1392, which authorized Territorial and local governments of Virgin Islands to make purchases through General Services Administration, was from the Department of the Interior and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts. See [section 1469e of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469e). Similar provisions were contained in the following prior appropriation acts:
+Section, act Oct. 5, 1992, Pub. L. 102–381, title I, 106 Stat. 1392, which authorized Territorial and local governments of Virgin Islands to make purchases through General Services Administration, was from the Department of the Interior and Related Agencies Appropriations Act, 1993, and was not repeated in subsequent appropriation acts. See [section 1469e of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469e). Similar provisions were contained in the following prior appropriation acts:
 
 Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1007.
 

@@ -521,7 +521,7 @@ The Secretary shall use not more than 2 percent of the amounts appropriated unde
 ## § 10826. Administration
 **(a) In general** The Secretary shall carry out this subchapter through the Administrator of the Substance Abuse and Mental Health Services Administration.
 
-**(b) Regulations** Not later than 6 months after November 27, 1991, the Secretary shall promulgate final regulations to carry out this subchapter and subchapter IIIr.
+**(b) Regulations** Not later than 6 months after November 27, 1991, the Secretary shall promulgate final regulations to carry out this subchapter and subchapter III.
 
 ### Statutory Notes
 

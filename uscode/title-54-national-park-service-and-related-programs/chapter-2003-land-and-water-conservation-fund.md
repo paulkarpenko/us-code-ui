@@ -384,7 +384,9 @@ Not more than $30,000,000 of the amount authorized to be appropriated from the F
 | 200308 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a. | Pub. L. 88–578, title I, § 9, formerly § 8, as added Pub. L. 90–401, § 4, July 15, 1968, 82 Stat. 355; Pub. L. 91–308, § 3, July 7, 1970, 84 Stat. 410; renumbered § 9, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 93–303, § 3, June 7, 1974, 88 Stat. 194. |
 
 #### Rescission of Contract Authority
-Provisions rescinding contract authority provided for specific fiscal years by [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a (now this section) were contained in the appropriation acts listed in a note under former section 460l–10a of Title 16, Conservation, and in the following appropriation acts:
+Provisions rescinding contract authority provided for specific fiscal years by [54 U.S.C. 200308](./chapter-2003-land-and-water-conservation-fund.md#section-200308) (formerly [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a) were contained in the appropriation acts that were listed in a note under former section 460l–10a of Title 16, Conservation, and in the following appropriation acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 443.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2532.
 

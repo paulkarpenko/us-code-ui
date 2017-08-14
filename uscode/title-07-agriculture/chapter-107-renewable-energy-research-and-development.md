@@ -2032,7 +2032,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) *In general* — A sun grant center or subcenter shall use 75 percent of the funds described in subsection (b) to provide competitive grants to entities that are—
 
-    (i) eligible to receive grants under subsection (b)(7) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i); and
+    (i) eligible to receive grants under subsection (b)(7) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157); and
 
     (ii) located in the region covered by the sun grant center or subcenter.
 

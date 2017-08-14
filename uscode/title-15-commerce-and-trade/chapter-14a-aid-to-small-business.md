@@ -882,7 +882,7 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 ## § 632. Definitions
 **(a) Small business concerns**
 
-(1) **In general** — For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
+(1) **In general** — For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
 
 (2) **Establishment of size standards**
 
@@ -1376,7 +1376,7 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 ### Statutory Notes
 
 #### Amendment of Subsection (q)
-Pub. L. 114–328, div. A, title XVIII, § 1832(a), (e), Dec. 23, 2016, 130 Stat. 2658, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, subsection (q) of this section is amended–
+Pub. L. 114–328, div. A, title XVIII, § 1832(a), (e), Dec. 23, 2016, 130 Stat. 2658, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, subsection (q) of this section is amended—
 
 (1) by amending paragraph (2) to read as follows:
 
@@ -6939,7 +6939,7 @@ Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210,
 #### Amendments
 2016—Subsec. (d)(3)(H). Pub. L. 114–328, § 1832(c), added subpar. (H).
 
-Subsec. (d)(9). Pub. L. 114–328, § 1821(a), inserted par. heading and added subpar. (C).
+Subsec. (d)(9). Pub. L. 114–328, § 1821(a), inserted par. heading, added subpar. (C), and realigned margins.
 
 Subsec. (d)(17). Pub. L. 114–328, § 1822, added par. (17).
 
@@ -9632,7 +9632,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
     (iii) is a solicitation that involves an unnecessary or unjustified bundling of contract requirements.
 
-  (B) *Notice to procurement center representatives* — With respect to proposed procurements described in subparagraph (A), at least 30 days before issuing a solicitation and concurrent with other processing steps required before issuing the solicitation, the contracting agency shall provide a copy of the proposed procurement to the procurement center representative of the contracting agency (as described in subsection 11 So in original. Probably should be “paragraph”. (l)) along with a statement explaining—
+  (B) *Notice to procurement center representatives* — With respect to proposed procurements described in subparagraph (A), at least 30 days before issuing a solicitation and concurrent with other processing steps required before issuing the solicitation, the contracting agency shall provide a copy of the proposed procurement to the procurement center representative of the contracting agency (as described in subsection (l)) along with a statement explaining—
 
     (i) why the proposed procurement cannot be divided into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement;
 
@@ -9786,7 +9786,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
     (ii) A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority.
 
-(3) First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy to small business concerns, small businesses 22 So in original. Probably should be “business”. concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
+(3) First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy to small business concerns, small businesses 11 So in original. Probably should be “business”. concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
 
 **(h) Reporting on goals for procurement contracts awarded to small business concerns**
 
@@ -9908,7 +9908,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
       (IV) through competitions restricted using the authority under [section 637(m)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/m/2&num=0&edition=prelim) and in which the waiver authority under [section 637(m)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/m/3&num=0&edition=prelim) was used;
 
-      (V) through sole source contracts awarded using the authority under subsection 33 So in original. Probably should be “section”. 637(m)(7) of this title;
+      (V) through sole source contracts awarded using the authority under subsection 22 So in original. Probably should be “section”. 637(m)(7) of this title;
 
       (VI) through sole source contracts awarded using the authority under [section 637(m)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/m/8&num=0&edition=prelim);
 
@@ -9936,7 +9936,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
 (2) In carrying out paragraph (1), a contracting officer shall consider a responsive offer timely received from an eligible small business offeror.
 
-(3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title](./chapter-14a-aid-to-small-business.md#section-637), [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim), section 712 44 See References in Text note below. of the Business Opportunity Development Reform Act of 1988 (Public Law 100–656; [15 U.S.C. 644](./chapter-14a-aid-to-small-business.md#section-644) note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
+(3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title](./chapter-14a-aid-to-small-business.md#section-637), [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim), section 712 33 See References in Text note below. of the Business Opportunity Development Reform Act of 1988 (Public Law 100–656; [15 U.S.C. 644](./chapter-14a-aid-to-small-business.md#section-644) note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
 
 **(k) Office of Small and Disadvantaged Business Utilization; Director** There is hereby established in each Federal agency having procurement powers an office to be known as the “Office of Small and Disadvantaged Business Utilization”. The management of each such office shall be vested in an officer or employee of such agency, with experience serving in any combination of the following roles: program manager, deputy program manager, or assistant program manager for Federal acquisition program; chief engineer, systems engineer, assistant engineer, or product support manager for Federal acquisition program; Federal contracting officer; small business technical advisor; contracts administrator for Federal Government contracts; attorney specializing in Federal procurement law; small business liaison officer; officer or employee who managed Federal Government contracts for a small business; or individual whose primary responsibilities were for the functions and duties of section 637, 644, 657a, 657f, or 657q of this title. Such officer or employee—
 
@@ -9950,7 +9950,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
 (5) shall identify proposed solicitations that involve significant bundling of contract requirements, and work with the agency acquisition officials and the Administration to revise the procurement strategies for such proposed solicitations where appropriate to increase the probability of participation by small businesses as prime contractors, or to facilitate small business participation as subcontractors and suppliers, if a solicitation for a bundled contract is to be issued;
 
-(6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation, 55 So in original. The comma probably should be a semicolon.
+(6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,44 So in original. The comma probably should be a semicolon.
 
 (7) shall have supervisory authority over personnel of such agency to the extent that the functions and duties of such personnel relate to functions and duties under sections 637, 644, 657a, 657f, and 657q of this title;
 
@@ -9958,7 +9958,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
   (A) who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity; and
 
-  (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to sections 637, 644, 657a, 657f, and 657q of this title,5
+  (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to sections 637, 644, 657a, 657f, and 657q of this title,4
 
 (9) shall cooperate, and consult on a regular basis, with the Administration with respect to carrying out the functions and duties described in paragraph (4) of this subsection;
 
@@ -10017,7 +10017,7 @@ This subsection shall not apply to the Administration.
 
   (F) receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
 
-  (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 66 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+  (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 55 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
 
   (H) be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified;
 
@@ -10059,7 +10059,7 @@ This subsection shall not apply to the Administration.
 
 (7) **Training.—**
 
-  (A) *Authorization.—* — At such times as the Administrator deems appropriate, the breakout procurement center representative 77 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+  (A) *Authorization.—* — At such times as the Administrator deems appropriate, the breakout procurement center representative 66 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
 
   (B) *Limitation.—* — A procurement center representative may provide training under subparagraph (A) only to the extent that the training does not interfere with the representative carrying out other activities under this subsection.
 
@@ -10085,7 +10085,7 @@ This subsection shall not apply to the Administration.
 
 (1) Each agency subject to the requirements of [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim) shall, when implementing such requirements—
 
-  (A) establish policies and procedures that insure that there will be no reduction in the number of 88 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and [section 637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim) in order to achieve any goal or other program objective; and
+  (A) establish policies and procedures that insure that there will be no reduction in the number of 77 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and [section 637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim) in order to achieve any goal or other program objective; and
 
   (B) assure that such requirements will not alter or change the procurement process used to implement this section or [section 637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim).
 
@@ -10107,7 +10107,7 @@ This subsection shall not apply to the Administration.
 
 (2) **Database**
 
-  (A) *99 So in original. No subpar. (B) has been enacted. In general* — Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
+  (A) *88 So in original. No subpar. (B) has been enacted. In general* — Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
 
     (i) each bundled contract awarded by a Federal agency; and
 
@@ -10257,15 +10257,13 @@ Prior similar provisions were contained in section 214 of act July 30, 1953, ch.
 
 Subsec. (g)(2)(B). Pub. L. 114–328, § 1811(b), inserted at end “Contracts excluded from review by procurement center representatives pursuant to subsection (l)(9)(B) shall not be considered when establishing these goals.”
 
-Subsec. (h)(3). Pub. L. 114–328, § 1802, amended par. (3) generally. Prior to amendment, par. (3) related to access to data collected through the Federal Procurement Data System and and provision of collected data upon request.
+Subsec. (h)(3). Pub. L. 114–328, § 1802, amended par. (3) generally. Prior to amendment, par. (3) related to access to data collected through the Federal Procurement Data System and provision of collected data upon request.
 
 Subsec. (k). Pub. L. 114–328, § 1812(1), (2), substituted “section 637, 644, 657a, 657f, or 657q” for “section 637, 644 or 657q” in introductory provisions and “sections 637, 644, 657a, 657f, and 657q” for “this section and section 637” wherever appearing.
 
 Subsec. (k)(10). Pub. L. 114–328, § 1812(3), substituted “section 637, 644, 657a, or 657f” for “section 637(a)”.
 
-Subsec. (k)(16)(B). Pub. L. 114–328, § 1812(6)(A), struck out “and” at end.
-
-Subsec. (k)(16)(D). Pub. L. 114–328, § 1812(6)(B), added subpar. (D).
+Subsec. (k)(16)(D). Pub. L. 114–328, § 1812(6), added subpar. (D).
 
 Subsec. (k)(18). Pub. L. 114–328, § 1812(4), (5), added par. (18).
 
@@ -10273,9 +10271,7 @@ Subsec. (k)(19). Pub. L. 114–328, § 1813(a), added par. (19).
 
 Subsec. (k)(20). Pub. L. 114–328, § 1821(b), added par. (20).
 
-Subsec. (l)(2)(H). Pub. L. 114–328, § 1813(d)(2), struck out “and” at end.
-
-Subsec. (l)(2)(I), (J). Pub. L. 114–328, § 1813(d)(1), (3), added subpar. (I) and redesignated former subpar. (I) as (J).
+Subsec. (l)(2)(I), (J). Pub. L. 114–328, § 1813(d), added subpar. (I) and redesignated former subpar. (I) as (J).
 
 Subsec. (l)(9). Pub. L. 114–328, § 1811(a), added par. (9).
 
@@ -10632,7 +10628,7 @@ Pub. L. 99–272, title XVIII, § 18003(b), Apr. 7, 1986, 100 Stat. 364, provide
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
-#### Training to be Updated
+#### Training To Be Updated
 Pub. L. 114–328, div. A, title XVIII, § 1814(b), Dec. 23, 2016, 130 Stat. 2654, provided that: “After receipt of information from the Administrator of the Small Business Administration pursuant to section 15(v) of the Small Business Act [[15 U.S.C. 644(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/v&num=0&edition=prelim)], the Defense Acquisition University (established under [section 1746 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1746&num=0&edition=prelim), United States Code) and the Federal Acquisition Institute (established under [section 1201 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1201&num=0&edition=prelim), United States Code) shall periodically update the training provided to the acquisition workforce to incorporate such information.”
 
 #### Scorecard Program for Evaluating Federal Agency Compliance With Small Business Contracting Goals
@@ -11992,7 +11988,9 @@ For definition of “Administrator” and “small business concern” as used i
 
     (i) *In general* — A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
 
-    (ii) *Consultation to reduce duplication* — A State desiring a grant under the program shall— 6(I) before submitting an application under clause (i), consult with applicable trade agencies of the Federal Government on the scope and mission of the activities the State proposes to carry out using the grant, to ensure proper coordination and reduce duplication in services; and
+    (ii) *Consultation to reduce duplication* — A State desiring a grant under the program shall—
+
+      (I) before submitting an application under clause (i), consult with applicable trade agencies of the Federal Government on the scope and mission of the activities the State proposes to carry out using the grant, to ensure proper coordination and reduce duplication in services; and
 
       (II) document the consultation conducted under subclause (I) in the application submitted under clause (i).
 

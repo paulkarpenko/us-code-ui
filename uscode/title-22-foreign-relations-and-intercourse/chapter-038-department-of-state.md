@@ -2880,9 +2880,13 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (8) the arrest or conviction in any country of any individual for participating in, primarily outside the United States, transnational organized crime;
 
-(9) the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime; or
+(9) the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
 
-(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide, as defined under the statute of such tribunal.
+(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide, as defined under the statute of such tribunal;
+
+(11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of [section 1030 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim); or
+
+(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in sections 11 So in original. Probably should be “section”. 2914(a) or 2914(b)(1) of this title.
 
 **(c) Coordination**
 
@@ -2988,6 +2992,8 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651), prior to repeal by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+2017—Subsec. (b)(11), (12). Pub. L. 115–44 added pars. (11) and (12).
+
 2016—Subsec. (b)(4), (5). Pub. L. 114–323, § 704(a)(1), substituted “(9), or (10)” for “or (9)”.
 
 Subsec. (g)(4). Pub. L. 114–323, § 704(a)(2)(A), added par. (4).
@@ -3069,7 +3075,7 @@ Subsec. (g). Pub. L. 99–399, § 502(a)(1), (b), redesignated former subsec. (f
 Subsecs. (h), (i). Pub. L. 99–399, § 502(d), added subsecs. (h) and (i).
 
 #### Effective Date of 2016 Amendment
-Pub. L. 114–323, title VII, § 704(a)(3), Dec. 16, 2016, 130 Stat. 1942, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] take effect on the date of the enactment of this Act [Dec. 16, 2016] and apply with respect to any reward authorized under section 36 of the State Department Basic Authorities Act of 1956 [this section] (as so amended) on or after such date.”
+Pub. L. 114–323, title VII, § 704(a)(3), Dec. 16, 2016, 130 Stat. 1942, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] take effect on the date of the enactment of this Act [Dec. 16, 2016] and apply with respect to any reward authorized under section 36 of the State Department Basic Authorities Act of 1956 [[22 U.S.C. 2708](./chapter-038-department-of-state.md#section-2708)] (as so amended) on or after such date.”
 
 #### Effective Date of 1994 Amendment
 Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
@@ -3944,9 +3950,9 @@ Pub. L. 109–234, title I, § 1602(b)(1), June 15, 2006, 120 Stat. 441, which d
 Subsec. (a)(2). Pub. L. 111–32 substituted “2010” for “2008”.
 
 #### Extension of Authority
-Pub. L. 114–113, div. K, title VII, § 7034(k)(5), Dec. 18, 2015, 129 Stat. 2765, provided that: “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2733/a&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2010’ in paragraph (2).”
+Extensions of the waiver authority of the Secretary of State under former subsec. (a) of this section (see 2016 Amendment note above) were contained in the following acts:
 
-Prior extensions were contained in the following prior acts:
+Pub. L. 114–113, div. K, title VII, § 7034(k)(5), Dec. 18, 2015, 129 Stat. 2765.
 
 Pub. L. 113–235, div. J, title VII, § 7034(l)(5), Dec. 16, 2014, 128 Stat. 2625.
 
@@ -4043,7 +4049,7 @@ For definitions of “Secretary”, “Department”, and “Foreign Service” 
 ## § 2734c. Employee assignment restrictions
 **(a) Appeal of assignment restriction** The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion.
 
-**(b) Certification** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee a report that—
+**(b) Certification** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee 11 So in original. Probably should be “committees”. a report that—
 
 (1) certifies that such process has been fully implemented;
 
@@ -4063,14 +4069,14 @@ For definitions of “Secretary”, “Department”, and “Foreign Service” 
 Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section 414 of Pub. L. 114–323 amended [section 3982 of this title](./chapter-052-foreign-service.md#section-3982).
 
 #### Definitions
-For definitions of “Secretary” and “appropriate congressional committee” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+For definitions of “Secretary” and “appropriate congressional committee[s]” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2734d"></a>
 ## § 2734d. Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities
 **(a) Findings** Congress finds that successful engagement, including robust public diplomacy, with predominantly Muslim countries and communities is critical for achieving United States foreign policy objectives.
 
-**(b) Sense of Congress** It is the sense of Congress that the Department should recruit more employees that have a personal background in, and thorough understating of, the cultures, languages, and history of the Middle East and wider Muslim world.
+**(b) Sense of Congress** It is the sense of Congress that the Department should recruit more employees that have a personal background in, and thorough understating 11 So in original. Probably should be “understanding”. of, the cultures, languages, and history of the Middle East and wider Muslim world.
 
 **(c) Recruitment and retention of certain individuals** The Secretary shall make every effort to recruit and retain individuals that have lived, worked, or studied in predominantly Muslim countries or communities, including individuals who have studied at an Islamic institution of higher learning.
 

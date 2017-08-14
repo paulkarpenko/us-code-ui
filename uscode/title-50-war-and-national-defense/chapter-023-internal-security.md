@@ -61,7 +61,7 @@ Section, acts Sept. 23, 1950, ch. 1024, title I, § 3, 64 Stat. 989; Aug. 24, 19
   (C) any administrative or judicial proceeding in relation to such property,
   if not inconsistent with this subsection.
 
-(4) Notwithstanding [section 524(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c&num=0&edition=prelim), there shall be deposited in the Crime Victims Fund established under [section 10601 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
+(4) Notwithstanding [section 524(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c&num=0&edition=prelim), there shall be deposited in the Crime Victims Fund established under [section 20101 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
 (5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 

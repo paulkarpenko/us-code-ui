@@ -692,9 +692,9 @@ If the court has imposed and ordered execution of a fine and placed the defendan
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
-Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified to [section 14135a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135a&num=0&edition=prelim), The Public Health and Welfare.
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is section 3 of Pub. L. 106–546, which is classified to [section 40702 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40702&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to [section 1228(d)(5) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1228/d/5&num=0&edition=prelim), Aliens and Nationality.
 
@@ -1249,9 +1249,9 @@ the court shall revoke the term of supervised release and require the defendant 
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsecs. (d) and (k), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (d) and (k), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
-Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (d), is classified to [section 14135a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135a&num=0&edition=prelim), The Public Health and Welfare.
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (d), is section 3 of Pub. L. 106–546, which is classified to [section 40702 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40702&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Section 3563(a)(4), referred to in subsec. (d), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, § 203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
 

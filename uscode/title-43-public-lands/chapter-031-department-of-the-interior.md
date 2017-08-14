@@ -2,7 +2,7 @@
 title: 43
 chapter: '31'
 heading: DEPARTMENT OF THE INTERIOR
-section_count: 54
+section_count: 57
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -457,6 +457,27 @@ For fiscal year 2010, and each fiscal year thereafter, the Secretary of the Inte
 
 #### Codification
 Section is from the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010.
+
+
+<a id="section-1457c"></a>
+## § 1457c. Power of Secretary or designated officer
+
+The Secretary of the Interior, or such officer as he may designate, is authorized to enforce and carry into execution, by appropriate regulations, every part of the provisions of title 32 of the Revised Statutes not otherwise specially provided for.
+
+### Statutory Notes
+
+#### References in Text
+Title 32 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 32 of the Revised Statutes, consisting of R.S. §§ 2207 to 2490. For complete classification of R.S. §§ 2207 to 2490 to the Code, see Tables.
+
+#### Codification
+Section was formerly classified to [section 1201 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1201) prior to editorial reclassification and renumbering as this section.
+
+R.S. § 2478 derived from acts Sept. 28, 1850, ch. 84, §§ 1, 4, 9 Stat. 520; Mar. 12, 1860, ch. 5, § 1, 12 Stat. 3; Feb. 19, 1874, ch. 30, 18 Stat. 16.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+
+“Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office, under the directions of the Secretary of the Interior” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-1458"></a>
@@ -1443,3 +1464,30 @@ This Act, referred to in subsecs. (b)(2) and (d)(3), is Pub. L. 109–125, Dec. 
 
 #### Purpose
 Pub. L. 109–125, § 2, Dec. 7, 2005, 119 Stat. 2544, provided that: “The purpose of this Act [enacting this section and provisions set out as a note under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451)] is to authorize the Secretary of the Interior to recruit and use volunteers to assist with, or facilitate, the programs of the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary.”
+
+
+<a id="section-1476"></a>
+## § 1476. Elimination of oaths for written statements; discretion of Secretary of the Interior
+
+Written statement in public land matters within the jurisdiction of the Department of the Interior, heretofore required by law to be made under oath, need no longer be made under oath unless the Secretary of the Interior shall, in his discretion, so require.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 1211 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1211) prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-1476a"></a>
+## § 1476a. Unsworn written statements subject to penalties of presenting false claims
+
+Unsworn written statements made in public land matters within the jurisdiction of the Department of the Interior shall remain subject to [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 1212 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1212) prior to editorial reclassification and renumbering as this section.
+
+“[Section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim)” substituted in text for “section 35(A) of the Criminal Code (35 Stat. 1095, 18 U.S.C. sec. 80), as amended” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+
+#### Exemption of Department of the Interior From Restrictions on Notary Public
+Act June 3, 1948, ch. 392, § 3, 62 Stat. 301, provided that: “That part of section 558 of the Act of March 3, 1901, entitled ‘An Act to establish a code of law for the District of Columbia’ (31 Stat. 1279), as amended December 15, 1944 (58 Stat. 810, D.C. Code, 1951 edition, sec. 1–501 [now sec. 1–1201(a)]), which reads as follows: ‘And provided further, That no notary public shall be authorized to take acknowledgments, administer oaths, certify papers, or perform any official acts in connection with matters in which he is employed as counsel, attorney or agent or in which he may be in any way interested before any of the Departments aforesaid’ shall not apply to matters before the Department of the Interior.”

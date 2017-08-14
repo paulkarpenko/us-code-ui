@@ -338,7 +338,7 @@ Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than bud
 Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
 
 #### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4), and (e)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4) and (e)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Administration of Programs To Begin After First Strategic Plan
 Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.

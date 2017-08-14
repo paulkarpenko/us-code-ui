@@ -115,19 +115,19 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 
 
 <a id="section-212b"></a>
 ## § 212b. Unique passport identifiers for covered sex offenders
-**(a) In general** Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim), the Secretary of State shall take appropriate action under subsection (b).
+**(a) In general** Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under [section 21507 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21507&num=0&edition=prelim), the Secretary of State shall take appropriate action under subsection (b).
 
 **(b) Authority to use unique passport identifiers**
 
 (1) **In general** — Except as provided under paragraph (2), the Secretary of State shall not issue a passport to a covered sex offender unless the passport contains a unique identifier, and may revoke a passport previously issued without such an identifier of a covered sex offender.
 
-(2) **Authority to reissue** — Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim), to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+(2) **Authority to reissue** — Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under [section 21507 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21507&num=0&edition=prelim), to the Secretary of State that the individual is no longer required to register as a covered sex offender.
 
 **(c) Defined terms** In this section—
 
 (1) the term “covered sex offender” means an individual who—
 
-  (A) is a sex offender, as defined in [section 16935b(f) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935b/f&num=0&edition=prelim); and
+  (A) is a sex offender, as defined in [section 21503(f) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21503/f&num=0&edition=prelim); and
 
   (B) is currently required to register under the sex offender registration program of any jurisdiction;
 
@@ -139,7 +139,7 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 
 
 **(e) Disclosure** In furtherance of this section, the Secretary of State may require a passport applicant to disclose that they are a registered sex offender.
 
-**(f) Effective date** This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim) has been successfully implemented.
+**(f) Effective date** This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under [section 21507 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21507&num=0&edition=prelim) has been successfully implemented.
 
 
 <a id="section-213"></a>
@@ -168,7 +168,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 19
 
 **(b)**
 
-(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited as an offsetting collection to the appropriate Department of State appropriation, to remain available until expended for the purposes of meeting such costs.
+(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.
 
 (2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
 
@@ -177,6 +177,8 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 19
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–31 substituted “in the Consular and Border Security Programs account” for “as an offsetting collection to the appropriate Department of State appropriation”.
+
 2007—Subsec. (a). Pub. L. 109–472 substituted “from a widow” for “or from a widow” and inserted “; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes” after “memorial service for such member”.
 
 2006—Pub. L. 109–167 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -207,9 +209,11 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
 #### Extension of Authority
-Pub. L. 114–113, div. K, title VII, § 7034(k)(1), Dec. 18, 2015, 129 Stat. 2764, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2016’ for ‘September 30, 2010’.”
+Pub. L. 115–31, div. J, title VII, § 7034(k)(1), May 5, 2017, 131 Stat. 651, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2017’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 114–113, div. K, title VII, § 7034(k)(1), Dec. 18, 2015, 129 Stat. 2764.
 
 Pub. L. 113–235, div. J, title VII, § 7034(l)(1), Dec. 16, 2014, 128 Stat. 2625.
 
@@ -218,7 +222,7 @@ Pub. L. 113–76, div. K, title VII, § 7034(m)(1), Jan. 17, 2014, 128 Stat. 515
 Pub. L. 112–74, div. I, title VII, § 7034(m)(1), Dec. 23, 2011, 125 Stat. 1216.
 
 #### Deposit of Receipts From Expedited Passport Processing
-Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection and shall be available until expended”.
+Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, as amended by Pub. L. 115–31, div. J, title VII, § 7081(g), May 5, 2017, 131 Stat. 716, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection or in the Consular and Border Security Programs account and shall be available until expended”.
 
 #### Information From United States Passports
 Pub. L. 101–604, title II, § 203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”

@@ -2,7 +2,7 @@
 title: 21
 chapter: '12'
 heading: MEAT INSPECTION
-section_count: 50
+section_count: 51
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -810,6 +810,22 @@ Amendment by Pub. L. 113–79 effective as if enacted as part of section 11016(b
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-626"></a>
+## § 626. Purchase of tags, labels, stamps, and certificates
+
+The Secretary of Agriculture is authorized to expend appropriations for meat inspection for the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 431 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section431&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
+
+#### Authorization of Appropriation
+Authorization of appropriation of sums necessary for the purposes of this section, see note under [section 395 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section395&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-641"></a>

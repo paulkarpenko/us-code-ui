@@ -2,7 +2,7 @@
 title: 10
 chapter: '16'
 heading: SECURITY COOPERATION
-section_count: 42
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -596,10 +596,6 @@ Pub. L. 114–328, div. A, title XII, § 1241(d)(4), Dec. 23, 2016, 130 Stat. 25
 ## § 334. Renumbered § 254]
 
 
-<a id="section-334"></a>
-## § 334. Renumbered § 254]
-
-
 <a id="section-335"></a>
 ## § 335. Renumbered § 255]
 
@@ -649,7 +645,7 @@ Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set o
 
 (2) **Limitations.—**
 
-  (A) *Active duty requirement.—* — Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation
+  (A) *Active duty requirement.—* — Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation 11 So in original. Probably should be followed by a period.
 
   (B) *Incremental expenses.—* — The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
 
@@ -679,7 +675,7 @@ Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set o
 Pub. L. 114–328, div. A, title XII, § 1246(d)(2)(B), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, this section is amended by striking subsection (f) and redesignating subsection (g) as (f). See 2016 Amendment notes below.
 
 #### Codification
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under [section 107 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section107&num=0&edition=prelim), National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2500.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under [section 107 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section107&num=0&edition=prelim), National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521.
 
 #### Amendments
 2016—Subsec. (b). Pub. L. 114–328, § 1246(b), substituted “Limitations” for “Limitation” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
@@ -699,7 +695,7 @@ Subsec. (g). Pub. L. 114–328, § 1246(d)(2)(B)(ii), redesignated subsec. (g) a
 Pub. L. 114–328, § 1246(c)(2), substituted “under title 10 as in effect on December 26, 2013.” for “under title 10, United States Code, as in effect on the date of the enactment of this Act.”
 
 #### Effective Date of 2016 Amendment
-Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of January 1, 2020.
+Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of Jan. 1, 2020.
 
 
 <a id="section-342"></a>
@@ -803,7 +799,7 @@ Subsec. (b)(1)(B). Pub. L. 114–328, § 1241(e)(2)(B)(i), substituted “exchan
 
 Subsec. (b)(3). Pub. L. 114–328, § 1241(e)(2)(B)(ii), struck out “, except as specifically provided by law after October 17, 2006” before period at end.
 
-Subsec. (c). Pub. L. 114–328, § 1241(e)(2)(C), inserted at end: “The regulations shall prioritize within the respective areas of focus of each Regional Center the functional areas for engagement of territorial and maritime security, transnational and asymmetric threats, and defense sector governance.”
+Subsec. (c). Pub. L. 114–328, § 1241(e)(2)(C), inserted at end “The regulations shall prioritize within the respective areas of focus of each Regional Center the functional areas for engagement of territorial and maritime security, transnational and asymmetric threats, and defense sector governance.”
 
 Subsec. (f)(3). Pub. L. 114–328, § 1241(e)(2)(D)(i), designated existing provisions as subpar. (A), substituted “security personnel” for “security civilian government officials”, and added subpar. (B).
 
@@ -1030,7 +1026,7 @@ Subsecs. (e), (f). Pub. L. 114–328, § 1241(g)(2), redesignated subsec. (f) as
 2013—Subsec. (e)(1). Pub. L. 112–239 substituted “Not later than October 31 each year” for “Not later than October 31, 2009, and annually thereafter”.
 
 #### Effective Date
-Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008”.
+Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008.”
 
 
 <a id="section-345"></a>
@@ -1718,9 +1714,9 @@ Section 1206 of the Carl Levin and Howard P. “Buck” McKeon National Defense 
 Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code.
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”.
+2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress.
 
-Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress.
+Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”.
 
 Subsec. (b)(1). Pub. L. 114–328, § 1251(c)(1), inserted “, duration,” after “purpose”.
 

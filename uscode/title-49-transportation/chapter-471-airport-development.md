@@ -2,7 +2,7 @@
 title: 49
 chapter: '471'
 heading: AIRPORT DEVELOPMENT
-section_count: 52
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -1808,7 +1808,7 @@ Pub. L. 107–71, title I, § 143, Nov. 19, 2001, 115 Stat. 644, provided that: 
 
   (B) the application under subsection (b), does not increase the Government’s share of allowable costs of the project.
 
-(2) **Limitation.—** — The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b), except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States.
+(2) The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b), except that at a primary non-hub and non-primary commercial service airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States.
 
 **(d) Special Rule for Privately Owned Reliever Airports.—** If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
 
@@ -1841,6 +1841,8 @@ Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), w
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+2017—Subsec. (c)(2). Pub. L. 115–31 amended par. (2) generally. Prior to amendment, text read as follows: “The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b), except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States.”
+
 2014—Subsec. (c)(2). Pub. L. 113–235 inserted before period at end “, except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States”.
 
 2012—Subsec. (a). Pub. L. 112–95, § 137(1), substituted “otherwise provided in this section” for “provided in subsection (b) or subsection (c) of this section” in introductory provisions.
@@ -4599,6 +4601,35 @@ Pub. L. 112–95, title VIII, § 822, Feb. 14, 2012, 126 Stat. 128, as amended b
 
 #### Effective Date
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
+
+
+<a id="section-47144-1"></a>
+## § 47144.1. Use of funds for repairs for runway safety repairs
+**(a) In General.—** The Secretary of Transportation may make project grants under this subchapter to an airport described in subsection (b) from funds under section 47114 apportioned to that airport or funds available for discretionary grants to that airport under section 47115 to conduct airport development to repair the runway safety area of the airport damaged as a result of a natural disaster in order to maintain compliance with the regulations of the Federal Aviation Administration relating to runway safety areas, without regard to whether construction of the runway safety area damaged was carried out using amounts the airport received under this subchapter.
+
+**(b) Airports Described.—** An airport is described in this subsection if—
+
+(1) the airport is a public-use airport;
+
+(2) the airport is listed in the National Plan of Integrated Airport Systems of the Federal Aviation Administration;
+
+(3) the runway safety area of the airport was damaged as a result of a natural disaster;
+
+(4) the airport was denied funding under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 4121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4121&num=0&edition=prelim) et seq.) 22 See References in Text note below. with respect to the disaster;
+
+(5) the operator of the airport has exhausted all legal remedies, including legal action against any parties (or insurers thereof) whose action or inaction may have contributed to the need for the repair of the runway safety area;
+
+(6) there is still a demonstrated need for the runway safety area to accommodate current or imminent aeronautical demand; and
+
+(7) the cost of repairing or replacing the runway safety area is reasonable in relation to the anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.
+
+### Statutory Notes
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section 119F(a) of Pub. L. 115–31, which directed amendment of “subchapter I of chapter 471” by adding at the end this section, was executed by adding this section at the end of subchapter I of chapter 471 of this title to reflect the probable intent of Congress.
 
 
 <a id="section-47151"></a>

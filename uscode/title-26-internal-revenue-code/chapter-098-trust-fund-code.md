@@ -99,6 +99,8 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 510.
+
 Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2591.
 
 Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2458.
@@ -1784,7 +1786,7 @@ The date of the enactment of the FAST Act, referred to in subsec. (b)(2)(A) to (
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to [section 777g–1(d) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g–1/d&num=0&edition=prelim), Conservation.
 
-The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§ 3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 3951 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3951&num=0&edition=prelim) and Tables.
+The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified principally to chapter 59A (§ 3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 3951 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3951&num=0&edition=prelim) and Tables.
 
 Section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users), referred to in subsec. (c), means section 15 of act Aug. 9, 1950, as in effect on the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Section 15 of act Aug. 9, 1950, was classified to [section 777n of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777n&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 114–94, div. A, title X, § 10001(g)(1), Dec. 4, 2015, 129 Stat. 1621.
 

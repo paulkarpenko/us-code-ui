@@ -835,7 +835,7 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 #### References in Text
 Section 223 of this division, referred to in subsecs. (a)(1), (4), (5) and (c)(1)(A)(vi), means section 223 of title II of div. N of Pub. L. 114–113.
 
-Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 3712 and 3722 of Title 42, The Public Health and Welfare. For complete classification of subtitle D to the Code, see Tables.
+Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. For complete classification of subtitle D to the Code, see Tables.
 
 
 <a id="section-1525"></a>

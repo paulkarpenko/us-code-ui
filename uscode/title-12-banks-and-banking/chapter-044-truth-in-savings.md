@@ -260,7 +260,7 @@ Each depository institution shall include on or with each periodic statement pro
 ### Statutory Notes
 
 #### References in Text
-[Section 4311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4311/b&num=0&edition=prelim), referred to in subsec. (a)(4), was in the original “section 12(b)”, probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress.
+[Section 4311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4311/b&num=0&edition=prelim), referred to in subsec. (a)(4), was in the original “section 12(b)”, probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress. There is no section 12 of Pub. L. 102–242, and section 272(b) of Pub. L. 102–242 relates to regulations prescribed by the National Credit Union Administration Board.
 
 #### Amendments
 2010—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.

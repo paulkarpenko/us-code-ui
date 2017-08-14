@@ -48,7 +48,7 @@ For effective date of amendment by Pub. L. 92–516, see section 4 of Pub. L. 92
 Pub. L. 91–601, § 8, formerly § 9, Dec. 30, 1970, 84 Stat. 1674, as amended by Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231, and renumbered by Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716, provided that: “This Act [see Short Title note set out below] shall take effect on the date of its enactment [Dec. 30, 1970]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
 
 #### Short Title of 2016 Amendment
-Pub. L. 114–116, § 1, Jan. 28, 2016, 130 Stat. 3, provided that: “This Act [enacting [section 1472a of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472a) and provisions set out as a note under 1472a of this title] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
+Pub. L. 114–116, § 1, Jan. 28, 2016, 130 Stat. 3, provided that: “This Act [enacting [section 1472a of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472a) and provisions set out as a note under [section 1472a of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472a)] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
 
 #### Short Title
 Pub. L. 91–601, § 1, Dec. 30, 1970, 84 Stat. 1670, provided that: “This Act [enacting this chapter, [section 135(z)(2)(i) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section135/z/2/i&num=0&edition=prelim), Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amending [section 1261(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/p&num=0&edition=prelim) and [section 353(b)(2) of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/2&num=0&edition=prelim), and enacting provisions set out as a note under this section] may be cited as the ‘Poison Prevention Packaging Act of 1970’.”
@@ -99,7 +99,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 ## § 1472a. Special packaging for liquid nicotine containers
 **(a) Requirement** Notwithstanding [section 1261(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/f/2&num=0&edition=prelim) and [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim), any nicotine provided in a liquid nicotine container sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations, as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations, and any subsequent changes to such sections adopted by the Commission.
 
-**(b) Savings Clause**
+**(b) Savings clause**
 
 (1) **In general** — Nothing in this section shall be construed to limit or otherwise affect the authority of the Secretary of Health and Human Services to regulate, issue guidance, or take action regarding the manufacture, marketing, sale, distribution, importation, or packaging, including child-resistant packaging, of nicotine, liquid nicotine, liquid nicotine containers, electronic cigarettes, electronic nicotine delivery systems or other similar products that contain or dispense liquid nicotine, or any other nicotine-related products, including—
 
@@ -117,7 +117,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 (2) **Liquid nicotine container**
 
-  (A) *In general* — Notwithstanding section 1261(f)(2) of this ttile and [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim), the term “liquid nicotine container” means a package (as defined in section 2 of the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1471](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)))
+  (A) *In general* — Notwithstanding [section 1261(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/f/2&num=0&edition=prelim) and [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim), the term “liquid nicotine container” means a package (as defined in section 2 of the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1471](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)))—
 
     (i) from which nicotine in a solution or other form is accessible through normal and foreseeable use by a consumer; and
 
@@ -132,15 +132,15 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 #### References in Text
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Family Smoking Prevention and Tobacco Control Act, referred to in (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim), Food and Drugs, and Tables.
+The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim), Food and Drugs, and Tables.
 
-The Poison Prevention Packaging Act of 1970, referred to in (b)(2), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) and Tables.
+The Poison Prevention Packaging Act of 1970, referred to in subsec. (b)(2), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) and Tables.
 
 #### Codification
 Section was enacted as part of the Child Nicotine Poisoning Prevention Act of 2015, and not as part of the Poison Prevention Packaging Act of 1970 which comprises this chapter.
 
 #### Effective Date
-Pub. L. 114–116, § 3, Jan. 28, 2016, 130 Stat. 5, provided that: “This Act [see Short Title of 2016 Amendment set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 28, 2016].”
+Pub. L. 114–116, § 3, Jan. 28, 2016, 130 Stat. 5, provided that: “This Act [see Short Title of 2016 Amendment note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 28, 2016].”
 
 
 <a id="section-1473"></a>

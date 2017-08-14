@@ -184,6 +184,27 @@ In this chapter:
 
   (B) the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
 
+### Statutory Notes
+
+#### Delegation of Authority Pursuant to Sections 5, 6(a) and 6(c), and 8(a) of the Global Food Security Act of 2016
+Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, provided:
+
+Memorandum for the Secretary of State [and] the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+I hereby delegate to the Administrator of the United States Agency for International Development the functions and authorities vested in the President by sections 5, 6(c), and 8(a) of the Global Food Security Act of 2016 (the “Act”).
+
+I hereby delegate to the Secretary of State and the Administrator of the United States Agency for International Development the functions and authorities vested in the President by section 6(a) of the Act.
+
+These functions shall be exercised consistent with the Secretary of State’s responsibility for the continuous supervision and general direction of assistance programs under [section 2382 of title 22](./chapter-032-foreign-assistance.md#section-2382), United States Code, and lead role in coordinating U.S. assistance under [section 6593 of title 22](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6593), United States Code.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provisions.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-9305"></a>
 ## § 9305. Assistance to implement the Global Food Security Strategy
@@ -197,6 +218,9 @@ In this chapter:
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of chapter 2 of part I of the Act is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+#### Delegation of Functions
+Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304).
 
 
 <a id="section-9306"></a>
@@ -263,6 +287,11 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 **(c) Public availability of information** The information referred to in subsections (a) and (b) shall be made available on the public website of the United States Agency for International Development in an open, machine readable format, in a timely manner.
 
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (a) of this section delegated to the Administrator of the United States Agency for International Development by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304).
+
 
 <a id="section-9308"></a>
 ## § 9308. Rule of construction
@@ -272,11 +301,11 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 (1) The Food for Peace Act ([7 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) et seq.).
 
-(2) The Food for Progress Act of 1985 ([7 U.S.C. 1736o](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736o&num=0&edition=prelim)).
+(2) The Food for Progress Act of 1985 ([7 U.S.C. 1736](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736&num=0&edition=prelim)o).
 
 (3) Section 416(b) of the Agriculture 11 So in original. Probably should be “Agricultural”. Act of 1949 ([7 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431&num=0&edition=prelim)).22 So in original. Probably should be “1431(b)).”
 
-(4) McGovern-Dole Food for Education Program ([7 U.S.C. 1736o–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736o–1&num=0&edition=prelim)).
+(4) McGovern-Dole Food for Education Program ([7 U.S.C. 1736](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736&num=0&edition=prelim)o–1).
 
 (5) Local and Regional Procurement Program ([7 U.S.C. 1726c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1726c&num=0&edition=prelim)).
 

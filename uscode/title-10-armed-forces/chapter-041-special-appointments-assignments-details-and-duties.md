@@ -198,7 +198,7 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 ### Statutory Notes
 
 #### Codification
-Text of section consists of the text of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended by Pub. L. 113–66, div. A, title X, § 1084(b)(2)(A), Dec. 26, 2013, 127 Stat. 872; Pub. L. 113–291, div. A, title X, § 1046, Dec. 19, 2014, 128 Stat. 3494, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 114–328, div. A, title IX, § 925(c)(3).
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (d) of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended, which was formerly set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 114–328, div. A, title IX, § 952(c)(3), Dec. 23, 2016, 130 Stat. 2375.
 
 #### Prior Provisions
 A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France, prior to repeal by Pub. L. 108–136, div. A, title V, § 503(a), Nov. 24, 2003, 117 Stat. 1456.
@@ -210,7 +210,7 @@ Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to
 
 Subsec. (a)(6). Pub. L. 114–328, § 952(c)(5)(A)(i), substituted “Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman” for “Chiefs of the Services”.
 
-Subsec. (a)(7), (8). Pub. L. 114–328, § 952(c)(5)(A)(ii), (iii), redesignated par. (8) as (7), and struck out former par. (7), which read as follows: “Chief of the National Guard Bureau.”.
+Subsec. (a)(7), (8). Pub. L. 114–328, § 952(c)(5)(A)(ii), (iii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Chief of the National Guard Bureau.”.
 
 Subsec. (b)(1). Pub. L. 114–328, § 952(c)(4)(A), (5)(B), in introductory provisions, substituted “armed forces” for “Armed Forces” and “through (7)” for “through (8)”.
 
@@ -220,9 +220,7 @@ Subsec. (c). Pub. L. 114–328, § 952(c)(4)(B), substituted “section, the ter
 
 “(1) Congressional defense committees.—The term ‘congressional defense committees’ means the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
 
-“(2) Qualified members of the armed forces and qualified civilian employees of the department of defense.—The terms ‘qualified members of the Armed Forces’ and”,
-
-redesignated subpars. (A) to (E) of former par. (2) as pars. (1) to (5), respectively, and realigned margins.
+“(2) Qualified members of the armed forces and qualified civilian employees of the department of defense.—The terms ‘qualified members of the Armed Forces’ and”; redesignated subpars. (A) to (E) of former par. (2) as pars. (1) to (5), respectively, of subsec. (c); and realigned margins.
 
 Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces”.
 

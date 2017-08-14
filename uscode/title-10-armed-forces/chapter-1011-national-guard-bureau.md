@@ -374,7 +374,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ### Statutory Notes
 
 #### References in Text
-The Intergovernmental Personnel Act of 1970, referred to in subsec. subsec. (b)(3), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827, defined “State” for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, § 1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.

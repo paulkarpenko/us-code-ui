@@ -536,7 +536,7 @@ Until the amendments made by subtitle A (§§ 201 to 231) of title II of Pub. L.
 
 (3) to [section 1302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1302/a&num=0&edition=prelim) is deemed to be a reference to section 1202(a) or 1302(a) of this title,
 
-see section 302(c)(3)(A), (d), (e) of Pub. L. 99–554, set out as an Effective Date note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim).
+see section 302(c)(3)(A), (d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim).
 
 
 <a id="section-327"></a>

@@ -2,7 +2,7 @@
 title: 7
 chapter: 35A
 heading: PRICE SUPPORT OF AGRICULTURAL COMMODITIES
-section_count: 101
+section_count: 103
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -1616,6 +1616,35 @@ The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct
 
 #### Codification
 Section was enacted as part of the Food and Agriculture Act of 1977 as added by the Biomass Energy and Alcohol Fuels Act of 1980 which is title II of the Energy and Security Act, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+
+
+<a id="section-1436"></a>
+## § 1436. Reimbursement of appropriations available for classing or grading agriculture commodities without charge
+
+On and after June 29, 1949, appropriations available for classing or grading any agricultural commodity without charge to the producers thereof may be reimbursed from nonadministrative funds of the Commodity Credit Corporation for the cost of classing or grading any such commodity for producers who obtain Commodity Credit Corporation price support.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 440 of this title](./chapter-017-miscellaneous-matters.md#section-440) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Department of Agriculture Appropriation Act, 1950, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of the said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+
+
+<a id="section-1436a"></a>
+## § 1436a. Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes
+
+On and after August 31, 1951, there may be transferred to appropriations available for classing or grading any agricultural commodity without charge to the producers thereof such sums from nonadministrative funds of the Commodity Credit Corporation as may be necessary in addition to other funds available for these purposes, such transfers to be reimbursed from subsequent appropriations therefor.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 414a of this title](./chapter-017-miscellaneous-matters.md#section-414a) prior to editorial reclassification and renumbering as this section.
+
+Section was enacted as part of the Department of Agriculture Appropriation Act, 1952, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 
 <a id="section-1441"></a>
@@ -3740,7 +3769,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(b)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7301/b/1/H&num=0&edition=prelim).
 
 #### Application of 1990 Amendments
-Pub. L. 101–624, title I, § 107, Nov. 28, 1990, 104 Stat. 3380, provided that: “The amendments made by this title [enacting [section 1446e of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1446e), amending sections 450l, 608c, and 1446a of this title and [section 713a–14 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim), Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 ([7 U.S.C. 1446](./chapter-35a-price-support-of-agricultural-commodities.md#section-1446)) as in effect before the date of the enactment of this Act [Nov. 28, 1990].”
+Pub. L. 101–624, title I, § 107, Nov. 28, 1990, 104 Stat. 3380, provided that: “The amendments made by this title [enacting [section 1446e of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1446e), amending sections 608c, 1446a, and 4553 of this title and [section 713a–14 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim), Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 ([7 U.S.C. 1446](./chapter-35a-price-support-of-agricultural-commodities.md#section-1446)) as in effect before the date of the enactment of this Act [Nov. 28, 1990].”
 
 #### Modification of Milk Production Termination Program
 Pub. L. 102–237, title I, § 128, Dec. 13, 1991, 105 Stat. 1846, provided that if, with respect to any natural disaster occurring during period beginning on Oct. 1, 1990, and ending on Feb. 1, 1991, the Secretary of Agriculture determines that natural disaster renders unusable land or milk production facilities of producers on a farm, the Secretary shall allow the producers to transfer the production unit (including dairy animals and equipment) to farm idled under milk production termination program established under subsec. (d)(3) of this section, without penalty, if the producers on the farm agree to comply with all terms and conditions of program contract for remainder of contract period.

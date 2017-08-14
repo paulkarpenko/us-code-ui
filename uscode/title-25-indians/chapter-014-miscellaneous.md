@@ -2,7 +2,7 @@
 title: 25
 chapter: '14'
 heading: MISCELLANEOUS
-section_count: 947
+section_count: 948
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -284,7 +284,7 @@ Pub. L. 93–638, title VI, as added by Pub. L. 106–260, § 5, Aug. 18, 2000, 
 
 ### Statutory Notes
 
-Section, Pub. L. 93–638, title I, § 103, Jan. 4, 1975, 88 Stat. 2206; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1817, which related to contracts by Secretary of Health and Human Services with tribal organizations, was repealed except for the last sentence of subsec. (c), providing that tribal organizations and Indian contractors be deemed part of Public Health Service, which was redesignated subsec. (d) of [section 450f of this title](./chapter-014-miscellaneous.md#section-450f).
+Section, Pub. L. 93–638, title I, § 103, Jan. 4, 1975, 88 Stat. 2206; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246; Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1817, which related to contracts by Secretary of Health and Human Services with tribal organizations, was repealed except for the last sentence of subsec. (c), providing that tribal organizations and Indian contractors be deemed part of Public Health Service, which was redesignated subsec. (d) of former [section 450f of this title](./chapter-014-miscellaneous.md#section-450f).
 
 
 <a id="section-450n"></a>
@@ -827,7 +827,7 @@ Section, act Apr. 11, 1940, ch. 80, 54 Stat. 106, related to reimposition and ex
 Section 463 was editorially reclassified as [section 5103 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5103).
 
 #### Restoration of Vacant and Undisposed-of Ceded Lands in Certain Indian Reservations
-Pub. L. 85–420, May 19, 1958, 72 Stat. 121, which provided that lands classified as vacant and undisposed-of ceded lands (including townsite lots) on the Indian reservations at Klamath River, California, Coeur d’Alene, Idaho, Crow, Montana, Fort Peck, Montana, and Spokane, Washington would be restored to tribal ownership, subject to valid existing rights, was omitted from the Code as being of special and not general application.
+Pub. L. 85–420, May 19, 1958, 72 Stat. 121, which provided that lands classified as vacant and undisposed-of ceded lands (including townsite lots) on the Indian reservations at Klamath River, California, Coeur d’Alene, Idaho, Crow, Montana, Fort Peck, Montana, and Spokane, Washington, would be restored to tribal ownership, subject to valid existing rights, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-463a"></a>
@@ -1497,7 +1497,7 @@ Section 501 was editorially reclassified as [section 5201 of this title](./chapt
 ### Statutory Notes
 
 #### Codification
-Section 502 was editorially reclassified as [section 5201 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5201).
+Section 502 was editorially reclassified as [section 5202 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5202).
 
 
 <a id="section-503"></a>
@@ -1541,6 +1541,7 @@ Section 506 was editorially reclassified as [section 5206 of this title](./chapt
 
 ### Statutory Notes
 
+#### Codification
 Section 507 was editorially reclassified as [section 5207 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5207).
 
 
@@ -2673,7 +2674,7 @@ Section, act Apr. 19, 1950, ch. 92, § 5, 64 Stat. 46; Pub. L. 86–505, § 1, J
 ### Statutory Notes
 
 #### Codification
-Section, act Apr. 19, 1950. ch. 92, § 6, 64 Stat. 46, which related to the adoption of a constitution by the Navajo Tribe, was omitted from the Code as being of special and not general application.
+Section, act Apr. 19, 1950, ch. 92, § 6, 64 Stat. 46, which related to the adoption of a constitution by the Navajo Tribe, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-637"></a>
@@ -2788,10 +2789,10 @@ Section, Pub. L. 92–189, § 7, as added Pub. L. 100–297, title V, § 5402(b)
 Section, Pub. L. 93–531, § 1, Dec. 22, 1974, 88 Stat. 1712, which related to appointment of a mediator to assist in the negotiations for the settlement and partition of interests of the Hopi and Navajo Tribes in certain lands and duties of mediator, was omitted from the Code as being of special and not general application.
 
 #### Short Title of 1988 Amendment
-Pub. L. 100–666, § 1, Nov. 16, 1988, 102 Stat. 3929, provided thatPub. L. 100–666 [see Tables for classification] could be cited as the “Navajo and Hopi Indian Relocation Amendments of 1988”.
+Pub. L. 100–666, § 1, Nov. 16, 1988, 102 Stat. 3929, provided that Pub. L. 100–666 [see Tables for classification] could be cited as the “Navajo and Hopi Indian Relocation Amendments of 1988”.
 
 #### Short Title of 1980 Amendment
-Pub. L. 96–305, § 1, July 8, 1980, 94 Stat. 929, providedthat Pub. L. 96–305 [see Tables for classification] could be cited as the “Navajo and Hopi Indian Relocation Amendments Act of 1980”.
+Pub. L. 96–305, § 1, July 8, 1980, 94 Stat. 929, provided that Pub. L. 96–305 [see Tables for classification] could be cited as the “Navajo and Hopi Indian Relocation Amendments Act of 1980”.
 
 
 <a id="section-640d-1"></a>
@@ -3128,7 +3129,7 @@ Section, Pub. L. 91–264, § 5, May 22, 1970, 84 Stat. 261, which provided for 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 91–264, § 6, May 22, 1970, 84 Stat. 261, which deemed securities issued by the Council to be exempted secrities and provided that they would be exempt from registration requirements, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–264, § 6, May 22, 1970, 84 Stat. 261, which deemed securities issued by the Council to be exempted securities and provided that they would be exempt from registration requirements, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-647"></a>
@@ -3173,7 +3174,7 @@ Section, act May 18, 1928, ch. 624, § 1, 45 Stat. 602, which defined “Indians
 ### Statutory Notes
 
 #### Codification
-Section, May 18, 1928, ch. 624, § 2, 45 Stat. 602; Pub. L. 97–164, title I, § 150, Apr. 2, 1982, 96 Stat. 46; Pub. L. 100–352, § 6(b), June 27, 1988, 102 Stat. 663; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, which related to claims against the United States for appropriated lands, was omitted from the Code as being of special and not general application.
+Section, act May 18, 1928, ch. 624, § 2, 45 Stat. 602; Pub. L. 97–164, title I, § 150, Apr. 2, 1982, 96 Stat. 46; Pub. L. 100–352, § 6(b), June 27, 1988, 102 Stat. 663; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, which related to claims against the United States for appropriated lands, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-653"></a>
@@ -3218,7 +3219,7 @@ Section, act May 18, 1928, ch. 624, § 6, 45 Stat. 603, which provided for judgm
 ### Statutory Notes
 
 #### Codification
-Section, May 18, 1928, ch. 624, § 7, 45 Stat. 603; Apr. 29, 1930, ch. 222, 46 Stat. 259; June 30, 1948, ch. 765, § 1, 62 Stat. 1166; May 24, 1950, ch. 196, § 1, 64 Stat. 189; June 8, 1954, ch. 271, § 1, 68 Stat. 240, which related to revision of the roll of the Indians of California, was omitted from the Code as being of special and not general application.
+Section, act May 18, 1928, ch. 624, § 7, 45 Stat. 603; Apr. 29, 1930, ch. 222, 46 Stat. 259; June 30, 1948, ch. 765, § 1, 62 Stat. 1166; May 24, 1950, ch. 196, § 1, 64 Stat. 189; June 8, 1954, ch. 271, § 1, 68 Stat. 240, which related to revision of the roll of the Indians of California, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-658"></a>
@@ -3475,7 +3476,7 @@ Section, acts Aug. 27, 1954, ch. 1009, § 8, 68 Stat. 869; Aug. 2, 1956, ch. 880
 ### Statutory Notes
 
 #### Codification
-Section, Aug. 27, 1954, ch. 1009, § 9, 68 Stat. 869, which related to the sale or other disposition of certain described lands, was omitted from the Code as being of special and not general application.
+Section, act Aug. 27, 1954, ch. 1009, § 9, 68 Stat. 869, which related to the sale or other disposition of certain described lands, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-677i"></a>
@@ -4012,7 +4013,7 @@ Section, Pub. L. 97–391, § 5, Dec. 29, 1982, 96 Stat. 1961; Pub. L. 100–139
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 97–391, § 6, Dec. 29, 1982, 96 Stat. 1961 which authorized the Secretary of the Interior to make rules necessary to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 97–391, § 6, Dec. 29, 1982, 96 Stat. 1961, which authorized the Secretary of the Interior to make rules necessary to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-712e"></a>
@@ -4252,13 +4253,22 @@ Section, Pub. L. 101–42, § 9, June 28, 1989, 103 Stat. 93, which related to a
 Section, Pub. L. 110–75, § 1, Aug. 13, 2007, 121 Stat. 724, which related to conveyances of land and interests after Jan. 1, 2007, was omitted from the Code as being of special and not general application.
 
 
+<a id="section-721"></a>
+## § 721. Omitted
+
+### Statutory Notes
+
+#### Codification
+Section, act Aug. 23, 1954, ch. 831, § 1, 68 Stat. 768, which authorized the Secretary of the Interior to transfer lands held in trust by the United States for the Alabama and Coushatta Tribes to the State of Texas to be held by the State in trust for the benefit of tribes, was omitted from the Code as being of special and not general application.
+
+
 <a id="section-722"></a>
 ## § 722. Omitted
 
 ### Statutory Notes
 
 #### Codification
-Section, act Aug. 23, 1954, ch. 831, § 2, 68 Stat. 769, which related to proclamation declaring termination of Federal trust upon conveyance of lands to State of Texas, was omitted from the Code as being of special and not general application.
+Section, act Aug. 23, 1954, ch. 831, § 2, 68 Stat. 769, which related to proclamation declaring termination of Federal trust upon conveyance of lands to the State of Texas, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-723"></a>
@@ -4354,7 +4364,7 @@ Section, Pub. L. 100–89, title II, § 203, Aug. 18, 1987, 101 Stat. 670, which
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 100–89, title II, § 204, Aug. 18, 1987, 101 Stat. 670; Pub. L. 103–437, § 10(d), Nov. 2, 1994, 108 Stat. 4589, which related to continuing authority of State of Texas and Tribal Council and effectiveness of current constitution and bylaws, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–89, title II, § 204, Aug. 18, 1987, 101 Stat. 670; Pub. L. 103–437, § 10(d), Nov. 2, 1994, 108 Stat. 4589, which related to continuing authority of the State of Texas and Tribal Council and effectiveness of current constitution and bylaws, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-735"></a>
@@ -4750,7 +4760,7 @@ Section, Pub. L. 90–76, § 1, Aug. 29, 1967, 81 Stat. 177, which provided for 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 90–76, § 2, Aug. 29, 1967, 81 Stat. 177, which related to advances and expenditures from funds desposited pursuant to former sections 786 to 788 of this title, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 90–76, § 2, Aug. 29, 1967, 81 Stat. 177, which related to advances and expenditures from funds deposited pursuant to former sections 786 to 788 of this title, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-788"></a>
@@ -7033,7 +7043,7 @@ Section, Pub. L. 91–259, § 4, May 21, 1970, 84 Stat. 254, which exempted per 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 91–259, § 5, May 21, 1970, 84 Stat. 254, which provided for certain monies withheld from per capita distribution to be invested or placed in trust and for the income thereon to be used for the education of members of the tribe, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–259, § 5, May 21, 1970, 84 Stat. 254, which provided for certain moneys withheld from per capita distribution to be invested or placed in trust and for the income thereon to be used for the education of members of the tribe, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-1201"></a>
@@ -7099,7 +7109,7 @@ Section, Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which related to distrib
 Section, Pub. L. 103–454, title II, § 202, Nov. 2, 1994, 108 Stat. 4792, which set out Congressional findings, was omitted from the Code as being of special and not general application.
 
 #### Short Title
-Pub. L. 103–454, title II, § 201, Nov. 2, 1994, 108 Stat. 4792,provided that title II of Pub. L. 103–454, enacting sections 1212 to 1215 of this title, could be cited as the “Tlingit and Haida Status Clarification Act”.
+Pub. L. 103–454, title II, § 201, Nov. 2, 1994, 108 Stat. 4792, provided that title II of Pub. L. 103–454, enacting sections 1212 to 1215 of this title, could be cited as the “Tlingit and Haida Status Clarification Act”.
 
 
 <a id="section-1213"></a>
@@ -7585,7 +7595,7 @@ Section, Pub. L. 92–461, § 6, Oct. 6, 1972, 86 Stat. 769, which authorized th
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 92–467, § 1, Oct. 6, 1972, 86 Stat. 781, which related to division of judgments funds on the basis of tribal membership rolls after payment of attorney fees and litigation expenses, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–467, § 1, Oct. 6, 1972, 86 Stat. 781, which related to division of judgment funds on the basis of tribal membership rolls after payment of attorney fees and litigation expenses, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-1300b-1"></a>
@@ -7705,7 +7715,7 @@ Section, Pub. L. 92–468, § 1, Oct. 6, 1972, 86 Stat. 782, which related to di
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 92–468, § 2, Oct. 6, 1972, 86 Stat. 782, which provided for the withholding of a portion of the judgment funds for expert witnesses or other programing needs in certain clams, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–468, § 2, Oct. 6, 1972, 86 Stat. 782, which provided for the withholding of a portion of the judgment funds for expert witnesses or other programing needs in certain claims, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-1300c-2"></a>
@@ -8068,7 +8078,7 @@ Section, Pub. L. 100–89, title I, § 105, Aug. 18, 1987, 101 Stat. 667, which 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 100–89, title I, § 106, Aug. 18, 1987, 101 Stat. 668, which repealed the Tiwa Indians Act (Pub. L. 90–287, Apr. 12, 1968, 82 Stat. 93, providing the tribe’s designation and trasferring responsibility for the tribe to the State of Texas), was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–89, title I, § 106, Aug. 18, 1987, 101 Stat. 668, which repealed the Tiwa Indians Act (Pub. L. 90–287, Apr. 12, 1968, 82 Stat. 93, providing the tribe’s designation and transferring responsibility for the tribe to the State of Texas), was omitted from the Code as being of special and not general application.
 
 
 <a id="section-1300g-6"></a>
@@ -8095,7 +8105,7 @@ Section, Pub. L. 100–89, title I, § 108, Aug. 18, 1987, 101 Stat. 669; Pub. L
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 100–420, § 2, Sept. 8, 1988, 102 Stat. 1577, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–420, § 2, Sept. 8, 1988, 102 Stat. 1577, which set out congressional findings, was omitted from the Code as being of special and not general application.
 
 #### Short Title
 Pub. L. 100–420, § 1, Sept. 8, 1988, 102 Stat. 1577, provided that Pub. L. 100–420, enacting this subchapter, could be cited as the “Lac Vieux Desert Band of Lake Superior Chippewa Indians Act”.
@@ -8287,7 +8297,7 @@ Section, Pub. L. 100–580, § 10, Oct. 31, 1988, 102 Stat. 2934, which related 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 103–323, § 1, Sept. 21, 1994, 108 Stat. 2152, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–323, § 1, Sept. 21, 1994, 108 Stat. 2152, which set out congressional findings, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-1300j-1"></a>
@@ -8377,7 +8387,7 @@ Section, Pub. L. 103–323, § 10, formerly § 9, Sept. 21, 1994, 108 Stat. 2155
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 103–324, § 2, Sept. 21, 1994, 108 Stat. 2156, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–324, § 2, Sept. 21, 1994, 108 Stat. 2156, which set out congressional findings, was omitted from the Code as being of special and not general application.
 
 #### Short Title
 Pub. L. 103–324, § 1, Sept. 21, 1994, 108 Stat. 2156, provided that Pub. L. 103–324, enacting this subchapter, could be cited as the “Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act”.
@@ -8602,7 +8612,7 @@ Section, Pub. L. 103–454, title III, § 309, Nov. 2, 1994, 108 Stat. 4796, whi
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 106–568, title XIV, § 1402, Dec. 27, 2000, 114 Stat. 2939, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 106–568, title XIV, § 1402, Dec. 27, 2000, 114 Stat. 2939, which set out congressional findings, was omitted from the Code as being of special and not general application.
 
 #### Short Title
 Pub. L. 106–568, title XIV, § 1401, Dec. 27, 2000, 114 Stat. 2939, provided that title XIV of Pub. L. 106–568, enacting this subchapter, could be cited as the “Graton Rancheria Restoration Act”.

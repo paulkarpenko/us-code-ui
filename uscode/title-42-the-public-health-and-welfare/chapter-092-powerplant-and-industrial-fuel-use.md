@@ -90,7 +90,7 @@ Pub. L. 95–620, title IX, § 902, Nov. 9, 1978, 92 Stat. 3349, provided that: 
 
     (ii) natural gas produced by the user from a well the maximum efficient production rate of which is less than 250 million Btu’s per day;
 
-    (iii) natural gas to the extent the exclusion of such gas is provided for in subsection (b) of this section; or
+    (iii) natural gas to the extent the exclusion of such gas is provided for in subsection (b); or
 
     (iv) synthetic gas, derived from coal or other alternate fuel, the heat content of which is less than 600 Btu’s per cubic foot at 14.73 pounds per square inch (absolute) and 60 degrees Fahrenheit.
 
@@ -269,7 +269,7 @@ Pub. L. 95–620, title IX, § 902, Nov. 9, 1978, 92 Stat. 3349, provided that: 
 
 **(b) Special rules relating to definitions of natural gas and alternate fuel**
 
-(1) Subject to paragraph (2), natural gas which is to be used by a powerplant shall for purposes of this chapter (other than this subsection), be excluded from the definition of “natural gas” under subsection (a)(3)(B)(iii) of this section and shall be included within the definition of “alternate fuel” under subsection (a)(6) of this section if the person proposing to use such natural gas certifies to the Secretary (together with such supporting documents as the Secretary may require) that—
+(1) Subject to paragraph (2), natural gas which is to be used by a powerplant shall for purposes of this chapter (other than this subsection), be excluded from the definition of “natural gas” under subsection (a)(3)(B)(iii) and shall be included within the definition of “alternate fuel” under subsection (a)(6) if the person proposing to use such natural gas certifies to the Secretary (together with such supporting documents as the Secretary may require) that—
 
   (A) such person owns, or is entitled to receive, at the point of manufacture, synthetic gas derived from coal or another alternate fuel;
 
@@ -362,7 +362,7 @@ Capability to use coal or another alternate fuel shall not be interpreted to req
 
 **(d) Self-certification**
 
-(1) In order to meet the requirement of subsection (a) of this section, the owner or operator of any new electric powerplant to be operated as a base load powerplant proposing to use natural gas or petroleum as its primary energy source shall certify to the Secretary prior to construction, or prior to operation as a base load powerplant in the case of a new electric powerplant operated as a peakload powerplant or intermediate load powerplant, that such powerplant has capability to use coal or another alternate fuel, within the meaning of subsection (b) of this section. Such certification shall be effective to establish compliance with the requirement of subsection (a) of this section as of the date it is filed with the Secretary. Within 15 days after receipt of a certification submitted pursuant to this paragraph, the Secretary shall publish in the Federal Register a notice reciting that the certification has been filed.
+(1) In order to meet the requirement of subsection (a), the owner or operator of any new electric powerplant to be operated as a base load powerplant proposing to use natural gas or petroleum as its primary energy source shall certify to the Secretary prior to construction, or prior to operation as a base load powerplant in the case of a new electric powerplant operated as a peakload powerplant or intermediate load powerplant, that such powerplant has capability to use coal or another alternate fuel, within the meaning of subsection (b). Such certification shall be effective to establish compliance with the requirement of subsection (a) as of the date it is filed with the Secretary. Within 15 days after receipt of a certification submitted pursuant to this paragraph, the Secretary shall publish in the Federal Register a notice reciting that the certification has been filed.
 
 (2) The Secretary, within 60 days after the filing of a certification under paragraph (1), may require the owner or operator of such powerplant to provide such supporting documents as may be necessary to verify the certification.
 
@@ -409,9 +409,9 @@ The effectiveness of an exemption under this subsection is conditioned on the pe
 
 (2)
 
-  (A) An exemption under subsection (a)(1) of this section may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
+  (A) An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 
-  (B) An exemption under subsection (b) of this section may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
+  (B) An exemption under subsection (b) may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
 
 (3) If an exemption is granted for any powerplant before the powerplant is placed in service, the period before it is placed in service shall not be taken into account in computing the 5-year and the 10-year limitations of paragraphs (1) and (2).
 
@@ -452,7 +452,7 @@ For effectiveness of exemption for certain electric powerplants and the temporar
 
 (1) with respect to the proposed site of the powerplant, the construction or operation of such a facility using coal or any other alternate fuel is infeasible because of a State or local requirement (other than a building code or a nuisance or zoning law);
 
-(2) there is no reasonable alternative site for such powerplant which meets the criteria set forth in subsection (a)(1)(A) through (D) of this section; and
+(2) there is no reasonable alternative site for such powerplant which meets the criteria set forth in subsection (a)(1)(A) through (D); and
 
 (3) the granting of the exemption would be in the public interest and would be consistent with the purposes of this chapter.
 
@@ -474,7 +474,7 @@ For effectiveness of exemption for certain electric powerplants and the temporar
 
 (1) such exemption is necessary to prevent impairment of reliability of service, and
 
-(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) of this section in the time required to prevent such impairment of service.
+(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
 
 ### Statutory Notes
 
@@ -492,7 +492,7 @@ Subsec. (a)(2). Pub. L. 100–42, § 1(c)(1)(D), struck out “—
 
 after “paragraph (1) shall”.
 
-Subsec. (a)(3). Pub. L. 100–42, § 1(c)(6)(E), struck out par. (3) which read as follows: “Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (h) of this section may not be granted an exemption under this subsection.”
+Subsec. (a)(3). Pub. L. 100–42, § 1(c)(6)(E), struck out par. (3) which read as follows: “Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (h) may not be granted an exemption under this subsection.”
 
 Subsec. (b). Pub. L. 100–42, § 1(c)(6)(A), (B), (F), in introductory provisions substituted “from” for “or installation from one or more of”, in par. (1) struck out “or installation” after “powerplant”, and in par. (2) struck out “in the case of a powerplant,” after “(2)”.
 
@@ -547,7 +547,7 @@ For effectiveness of exemption for certain electric powerplants as prior to 180 
 
 <a id="section-8324"></a>
 ## § 8324. Terms and conditions; compliance plans
-**(a) Terms and conditions generally** Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
+**(a) Terms and conditions generally** Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b)) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
 
 **(b) Compliance plans** A compliance plan meets the requirements of this subsection if it is approved by the Secretary and—
 
@@ -569,7 +569,7 @@ For effectiveness of exemption for certain electric powerplants as prior to 180 
 
 <a id="section-8341"></a>
 ## § 8341. Existing electric powerplants
-**(a) Certification by powerplants of coal capability** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b) of this section—
+**(a) Certification by powerplants of coal capability** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b)—
 
 (1) whether or not such powerplant has or previously had the technical capability to use coal or another alternate fuel as a primary energy source;
 
@@ -581,11 +581,11 @@ For effectiveness of exemption for certain electric powerplants as prior to 180 
 
 (3) whether or not it is financially feasible to use coal or another alternate fuel as a primary energy source in such a powerplant.
 
-**(b) Authority of Secretary to prohibit where coal or alternate fuel capability exists** The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) of this section is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification.
+**(b) Authority of Secretary to prohibit where coal or alternate fuel capability exists** The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification.
 
 **(c) Authority of Secretary to prohibit excessive use in mixtures** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary for purposes of this subsection whether or not it is technically and financially feasible to use a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source in that powerplant. If an affirmative certification under this subsection is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification, the Secretary may prohibit, in accordance with [section 8343(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8343/a&num=0&edition=prelim), the use of petroleum or natural gas, or both, in such powerplant in amounts in excess of the minimum amount necessary to maintain reliability of operation of the unit consistent with maintaining reasonable fuel efficiency of such mixture.
 
-**(d) Amendment of subsection (a) and (c) certifications** The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) of this section in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) of this section based on that certification.
+**(d) Amendment of subsection (a) and (c) certifications** The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) based on that certification.
 
 ### Statutory Notes
 
@@ -611,9 +611,9 @@ Section, Pub. L. 95–620, title III, § 302, Nov. 9, 1978, 92 Stat. 3306, autho
 ## § 8343. Rules relating to case-by-case and category prohibitions
 **(a) Case-by-case prohibitions**
 
-(1) Except to the extent authorized by subsection (b) of this section, the Secretary shall prohibit any powerplant from using natural gas or petroleum under the authority granted him under section 8341(b) or (c) of this title only by means of a final order issued by him which shall be limited to the particular powerplant involved.
+(1) Except to the extent authorized by subsection (b), the Secretary shall prohibit any powerplant from using natural gas or petroleum under the authority granted him under section 8341(b) or (c) of this title only by means of a final order issued by him which shall be limited to the particular powerplant involved.
 
-(2) The Secretary may issue such a final order only with respect to a powerplant which is not, at the time the proposed order is issued, covered by a final rule issued under subsection (b) of this section.
+(2) The Secretary may issue such a final order only with respect to a powerplant which is not, at the time the proposed order is issued, covered by a final rule issued under section (b) 11 So in original. Probably should be “subsection”..
 
 **(b) Prohibitions applicable to categories of facilities**
 
@@ -632,7 +632,7 @@ Subsec. (a)(2). Pub. L. 100–42, § 1(c)(9)(A), struck out “or installation�
 
 Subsec. (a)(3). Pub. L. 100–42, § 1(c)(9)(C), struck out par. (3) which read as follows:
 
-“(A) Subject to subparagraph (B), the Secretary shall not issue a final order under this subsection to any powerplant if it is demonstrated that such powerplant would have been granted an exemption if such prohibition had been established by a final rule pursuant to subsection (b) of this section rather than by order pursuant to this subsection, except that if a temporary exemption would have been granted, such a final order may be issued but may not take effect until such time as the temporary exemption would have terminated.
+“(A) Subject to subparagraph (B), the Secretary shall not issue a final order under this subsection to any powerplant if it is demonstrated that such powerplant would have been granted an exemption if such prohibition had been established by a final rule pursuant to subsection (b) rather than by order pursuant to this subsection, except that if a temporary exemption would have been granted, such a final order may be issued but may not take effect until such time as the temporary exemption would have terminated.
 
 “(B) In any case in which an order is not issued by reason of subparagraph (A) or in which the effective date of such order is delayed under subparagraph (A), the Secretary shall take such steps as may be necessary to assure the installation involved complies with the same requirements (including provisions of [section 8354(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8354/a&num=0&edition=prelim)) as would have been applicable if an exemption had been granted based upon the grounds for which the order is not issued or the effective date of which is delayed.”
 
@@ -688,11 +688,11 @@ The effectiveness of an exemption under this subsection is conditioned on the pe
 
 (2)
 
-  (A) An exemption under subsection (a)(1) of this section may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
+  (A) An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 
-  (B) Subject to paragraph (3), an exemption under subsections (b), (c), and (g) of this section may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
+  (B) Subject to paragraph (3), an exemption under subsections (b), (c), and (g) may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
 
-(3) An exemption under subsections (d), (f), and (g) of this section for the use of natural gas by a powerplant may not extend beyond December 31, 1994.
+(3) An exemption under subsections (d), (f), and (g) for the use of natural gas by a powerplant may not extend beyond December 31, 1994.
 
 (4) In computing the 5-year and 10-year limitations of paragraphs (1) and (2) in the case of any exemption under this section, the period before the prohibition on the use of natural gas and petroleum would first apply (if the exemption had not been granted) shall be disregarded.
 
@@ -722,7 +722,7 @@ For effectiveness of exemption for certain electric powerplants as prior to 180 
 
   (C) the prohibitions of part A could not be satisfied without violating applicable environmental requirements.
 
-(2) Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (g) of this section may not be granted an exemption under this subsection.
+(2) Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (g) may not be granted an exemption under this subsection.
 
 **(b) Permanent exemption due to certain State or local requirements** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
 
@@ -855,7 +855,7 @@ For effectiveness of exemption for certain electric powerplants as prior to 180 
 
 <a id="section-8354"></a>
 ## § 8354. Terms and conditions; compliance plans
-**(a) Terms and conditions generally** Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
+**(a) Terms and conditions generally** Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b)) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
 
 **(b) Compliance plans** A compliance plan meets the requirements of this subsection if it is approved by the Secretary and—
 
@@ -1062,7 +1062,7 @@ Section, Pub. L. 95–620, title V, § 501, Nov. 9, 1978, 92 Stat. 3321, mandate
 
 **(b) Planning grants**
 
-(1) The Secretary of Agriculture may make a grant to any State in which there is an area designated and approved under subsection (a) of this section for the purposes of developing a plan for such area which shall include determinations of—
+(1) The Secretary of Agriculture may make a grant to any State in which there is an area designated and approved under subsection (a) for the purposes of developing a plan for such area which shall include determinations of—
 
   (A) the anticipated level of coal or uranium production activities in such area;
 
@@ -1084,7 +1084,7 @@ Section, Pub. L. 95–620, title V, § 501, Nov. 9, 1978, 92 Stat. 3321, mandate
 
 (1) In the case of any real property—
 
-  (A) within an area for which a plan meeting the requirements of subsection (b)(1) of this section has been approved;
+  (A) within an area for which a plan meeting the requirements of subsection (b)(1) has been approved;
 
   (B) which is for housing or public facilities determined in such plan as necessary due to an increase in employment due to coal or uranium development activities;
 
@@ -1105,7 +1105,7 @@ Section, Pub. L. 95–620, title V, § 501, Nov. 9, 1978, 92 Stat. 3321, mandate
 
 (4)
 
-  (A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b) of this section.
+  (A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b).
 
   (B) In the case of property acquired by the Secretary of Agriculture under paragraph (1) and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
 
@@ -1123,7 +1123,7 @@ Section, Pub. L. 95–620, title V, § 501, Nov. 9, 1978, 92 Stat. 3321, mandate
 
 (1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
 
-(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a) of this section, or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
+(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a), or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 
 (3) The Secretary of Agriculture shall prescribe, by rule, criteria for the allocation of assistance under this section. Such criteria shall give due weight to the magnitude of the employment increase involved, the financial resources of the designated area, and the ratio of the financial burden on the area to the resources available to such area.
 
@@ -1139,7 +1139,7 @@ Section, Pub. L. 95–620, title V, § 501, Nov. 9, 1978, 92 Stat. 3321, mandate
 
 (2) The term “site development” means necessary off-site improvements, such as the construction of sewer and water connections, construction of access roads, and appropriate site restoration, but does not include any portion of the construction of housing or public facilities.
 
-**(f) Reports** Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
+**(f) Reports** Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
 
 (1) projected employment levels for such activity by such person within such area during each of the following 3 calendar years;
 
@@ -1242,7 +1242,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
 
-  (A) the expiration of 3 years after completion of the project or undertaking referred to in subsection (a) of this section, or
+  (A) the expiration of 3 years after completion of the project or undertaking referred to in subsection (a), or
 
   (B) full repayment of interest and principal on a loan made under this section, occurs,
   have access for the purposes of audit, evaluation, examination to any books, documents, papers, and records of such receipts which in the opinion of the Secretary or the Comptroller General may be related or pertinent to such loan.
@@ -1257,7 +1257,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **(g) Deposit of receipts** Amounts received by the Secretary as principal, interest, fees, proceeds from security acquired following default, or other amounts received by the Secretary in connection with loans made under this section shall be paid into the Treasury of the United States as miscellaneous receipts.
 
-**(h) Authorization of appropriation** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) of this section may be exercised only to the extent as may be provided in advance in appropriation Acts.
+**(h) Authorization of appropriation** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) may be exercised only to the extent as may be provided in advance in appropriation Acts.
 
 ### Statutory Notes
 
@@ -1296,7 +1296,7 @@ The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 3
 
 **(e) Transcript** A transcript shall be kept of any public hearing made in accordance with this section.
 
-**(f) Environmental Protection Agency comment** A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374)), or a petition for an exemption (or permit) under this chapter (other than under [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374)), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act [[42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.
+**(f) Environmental Protection Agency comment** A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374)), or a petition for an exemption (or permit) under this chapter (other than under [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374)), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act [[42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d).
 
 **(g) Repealed. Pub. L. 100–42, § 1(c)(16)(E), May 21, 1987, 101 Stat. 313**
 
@@ -1336,7 +1336,7 @@ Subsec. (d)(1). Pub. L. 100–42, § 1(c)(16)(C), struck out “(or permit)” a
 
 Subsec. (f). Pub. L. 100–42, § 1(c)(16)(D), struck out “8372 or” after “(other than under section” in two places.
 
-Subsec. (g). Pub. L. 100–42, § 1(c)(16)(E), struck out subsec. (g) which read as follows: “A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to [section 8371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8371&num=0&edition=prelim) or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.”
+Subsec. (g). Pub. L. 100–42, § 1(c)(16)(E), struck out subsec. (g) which read as follows: “A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to [section 8371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8371&num=0&edition=prelim) or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d).”
 
 
 <a id="section-8412"></a>
@@ -1347,7 +1347,7 @@ Subsec. (g). Pub. L. 100–42, § 1(c)(16)(E), struck out subsec. (g) which read
 
 **(c) Judicial review**
 
-(1) Any person aggrieved by any final rule or order referred to in subsection (a) of this section or in [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374), or by the denial of a petition for an order granting an exemption (or permit) referred to in subsection (b) of this section, may at any time before the 60th day after the date such rule, order, or denial is published under subsection (a) or (b) of this section, file a petition with the United States court of appeals for the circuit wherein such person resides, or has his principal place of business, for judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the written submissions to, and transcript of, the written or oral proceedings on which the rule or order was based as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
+(1) Any person aggrieved by any final rule or order referred to in subsection (a) or in [section 8374 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8374), or by the denial of a petition for an order granting an exemption (or permit) referred to in subsection (b), may at any time before the 60th day after the date such rule, order, or denial is published under subsection (a) or (b), file a petition with the United States court of appeals for the circuit wherein such person resides, or has his principal place of business, for judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the written submissions to, and transcript of, the written or oral proceedings on which the rule or order was based as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
 
 (2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule, order, or denial in accordance with chapter 7 of title 5, and to grant appropriate relief as provided in such chapter. No rule or order (or denial thereof) may be affirmed unless supported by substantial evidence.
 
@@ -1365,7 +1365,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 ## § 8421. Information
 **(a) Authority of Secretary** For purposes of carrying out his responsibilities under this chapter, the Secretary may require, under the authority of this chapter or any other authority administered by him, any person owning, operating or controlling any electric powerplant, or any other person otherwise subject to this chapter to submit such information and reports of any kind or nature directly to the Secretary necessary to implement the provisions of this chapter, and insure compliance with the provisions of this chapter, and any rule or order thereunder. The provisions of [section 796(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section796/d&num=0&edition=prelim) shall apply with respect to information obtained under this section to the same extent and in the same manner as it applies with respect to energy information obtained under [section 796 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section796&num=0&edition=prelim).
 
-**(b) Authority of President and Federal Energy Regulatory Commission** In the case of responsibilities expressly given by this chapter to the President or the Federal Energy Regulatory Commission, subsection (a) of this section shall be applied as if the references to the Secretary were references to the President or the Federal Energy Regulatory Commission, as the case may be.
+**(b) Authority of President and Federal Energy Regulatory Commission** In the case of responsibilities expressly given by this chapter to the President or the Federal Energy Regulatory Commission, subsection (a) shall be applied as if the references to the Secretary were references to the President or the Federal Energy Regulatory Commission, as the case may be.
 
 **(c) Natural gas usage by electric utilities**
 
@@ -1524,13 +1524,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-8435"></a>
 ## § 8435. Citizens suits
-**(a) General rule** Except as otherwise provided in subsection (b) of this section, any aggrieved person may commence a civil action for mandatory or prohibitive injunctive relief, including interim equitable relief, against the Secretary or the head of any Federal agency which has a responsibility under this chapter if there is an alleged failure of the Secretary or such agency head to perform any act or duty under this chapter which is not discretionary. The United States district courts shall have jurisdiction over actions brought under this section, without regard to the amount in controversy or the citizenship of the parties.
+**(a) General rule** Except as otherwise provided in subsection (b), any aggrieved person may commence a civil action for mandatory or prohibitive injunctive relief, including interim equitable relief, against the Secretary or the head of any Federal agency which has a responsibility under this chapter if there is an alleged failure of the Secretary or such agency head to perform any act or duty under this chapter which is not discretionary. The United States district courts shall have jurisdiction over actions brought under this section, without regard to the amount in controversy or the citizenship of the parties.
 
-**(b) Notice to Secretary or agency head** No action may be commenced under subsection (a) of this section before the 60th calendar day after the date on which the plaintiff has given notice of such action to the Secretary or the agency head involved. Notice under this subsection shall be given in such manner as the Secretary shall prescribe by rule.
+**(b) Notice to Secretary or agency head** No action may be commenced under subsection (a) before the 60th calendar day after the date on which the plaintiff has given notice of such action to the Secretary or the agency head involved. Notice under this subsection shall be given in such manner as the Secretary shall prescribe by rule.
 
-**(c) Authority of Secretary to intervene** In any action brought under subsection (a) of this section, the Secretary, if not a party, may intervene as a matter of right.
+**(c) Authority of Secretary to intervene** In any action brought under subsection (a), the Secretary, if not a party, may intervene as a matter of right.
 
-**(d) Costs of litigation** The court, in issuing any final order in any action brought under subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+**(d) Costs of litigation** The court, in issuing any final order in any action brought under subsection (a), may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 
 **(e) Other remedies to remain available** Nothing in this section shall restrict any right which any aggrieved person (or class of aggrieved persons) may have under any statute or common law to seek enforcement of this chapter or any rule thereunder, or to seek any other relief (including relief against the Secretary or the agency head involved).
 
@@ -1550,11 +1550,11 @@ This chapter, referred to in subsecs. (a) and (e), was in the original “this A
 
 **(b) Determination of consideration**
 
-(1) The Commission shall, by rule, establish guidelines for the application on a regional or national basis (as may be appropriate) of the criteria specified in subsection (e)(1) of this section to determine the maximum consideration permitted as just compensation under this section.
+(1) The Commission shall, by rule, establish guidelines for the application on a regional or national basis (as may be appropriate) of the criteria specified in subsection (e)(1) to determine the maximum consideration permitted as just compensation under this section.
 
-(2) The person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon consideration shall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
+(2) The person transferring contractual interests pursuant to subsection (a)(1) and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon consideration shall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
 
-(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
+(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
 
 (4) In the event that the consideration agreed upon under paragraph (2) exceeds the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1), the Commission may approve such agreed-upon consideration if the Commission determines such agreed-upon consideration does not exceed the maximum consideration permitted as just compensation under this section.
 
@@ -1568,24 +1568,24 @@ This chapter, referred to in subsecs. (a) and (e), was in the original “this A
 
 **(c) Restrictions on transfers unenforceable**
 
-(1) Any provision of any contract, which prohibits any transfer authorized by subsection (a)(1) of this section or terminates such contract on the basis of such transfer, shall be unenforceable in any court of the United States and in any court of any State.
+(1) Any provision of any contract, which prohibits any transfer authorized by subsection (a)(1) or terminates such contract on the basis of such transfer, shall be unenforceable in any court of the United States and in any court of any State.
 
-(2) No State may enforce any prohibition on any transfer authorized by subsection (a)(1) of this section.
+(2) No State may enforce any prohibition on any transfer authorized by subsection (a)(1).
 
-**(d) Contractual obligations unaffected** The person acquiring contractual interests transferred pursuant to subsection (a)(1) of this section shall assume the contractual obligations which the person transferring such contractual interests has under such contract. This subsection shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
+**(d) Contractual obligations unaffected** The person acquiring contractual interests transferred pursuant to subsection (a)(1) shall assume the contractual obligations which the person transferring such contractual interests has under such contract. This subsection shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
 
 **(e) Definitions** For purposes of this section—
 
-(1) The term “just compensation”, when used with respect to any transfer of contractual interests authorized by subsection (a)(1) of this section, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
+(1) The term “just compensation”, when used with respect to any transfer of contractual interests authorized by subsection (a)(1), means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
 
-  (A) the reasonable costs (excluding capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred under subsection (a)(1) of this section, in direct association with the use of a fuel, other than natural gas, as a primary energy source by the applicable existing electric powerplant, exceed
+  (A) the reasonable costs (excluding capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred under subsection (a)(1), in direct association with the use of a fuel, other than natural gas, as a primary energy source by the applicable existing electric powerplant, exceed
 
   (B) the price of natural gas under such contract during such period.
   For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energy source shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
 
-(2) The term “just compensation”, when used with respect to subsection (a)(2) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1) of this section, to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1) of this section, and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
+(2) The term “just compensation”, when used with respect to subsection (a)(2), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1), to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1), and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
-(3) The term “contractual interests”, with respect to a contract described in subsection (a)(1) of this section, includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
+(3) The term “contractual interests”, with respect to a contract described in subsection (a)(1), includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
 (4) The term “State” means each of the several States, the District of Columbia, Puerto Rico, any territory or possession of the United States, and any political subdivision of any of the foregoing.
 
@@ -1599,17 +1599,17 @@ This chapter, referred to in subsecs. (a) and (e), was in the original “this A
 
 (1) Consideration paid by any interstate pipeline pursuant to this section shall be deemed just and reasonable for purposes of sections 4, 5, and 7 of the Natural Gas Act [[15 U.S.C. 717c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717c&num=0&edition=prelim), 717d, 717f]. The Commission shall not deny a passthrough by such interstate pipeline of such consideration based upon the amount of such consideration paid pursuant to this section.
 
-(2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.] or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1) of this section.
+(2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.] or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1).
 
-(3) Nothing in this section shall exempt from the jurisdiction of the Commission under the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.] any transportation in interstate commerce of natural gas, any sale in interstate commerce for resale of natural gas, or any person engaged in such transportation or such sale to the extent such transportation, sale or person is subject to the juridiction 11 So in original. Probably should be “jurisdiction”. of the Commission under such Act without regard to the transfer of contractual interests under subsection (a)(1) of this section.
+(3) Nothing in this section shall exempt from the jurisdiction of the Commission under the Natural Gas Act [[15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.] any transportation in interstate commerce of natural gas, any sale in interstate commerce for resale of natural gas, or any person engaged in such transportation or such sale to the extent such transportation, sale or person is subject to the juridiction 11 So in original. Probably should be “jurisdiction”. of the Commission under such Act without regard to the transfer of contractual interests under subsection (a)(1).
 
-(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for the transportation by an interstate pipeline of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1) of this section. The Commission shall not deny such a certificate for the transportation in interstate commerce of natural gas based upon the amount of consideration paid pursuant to this section.
+(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for the transportation by an interstate pipeline of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1). The Commission shall not deny such a certificate for the transportation in interstate commerce of natural gas based upon the amount of consideration paid pursuant to this section.
 
-**(g) Volume limitation** No supplier of natural gas under any contract, with respect to which contractual interests have been transferred under subsection (a)(1) of this section, shall be required to supply natural gas during any relevant period in volume amounts which exceed the lesser of—
+**(g) Volume limitation** No supplier of natural gas under any contract, with respect to which contractual interests have been transferred under subsection (a)(1), shall be required to supply natural gas during any relevant period in volume amounts which exceed the lesser of—
 
 (1) the volume determined by reference to the maximum delivery obligations specified in such contract;
 
-(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests under subsection (a)(1) of this section, if no such transfer had occurred;
+(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests under subsection (a)(1), if no such transfer had occurred;
 
 (3) the volume which would have been delivered, or for which payment would have been made, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
 
@@ -1717,7 +1717,7 @@ Section, Pub. L. 95–620, title VII, § 745, Nov. 9, 1978, 92 Stat. 3343; Pub. 
 
 <a id="section-8456"></a>
 ## § 8456. Socioeconomic impacts of increased coal production and other energy development
-**(a) Committee** There is hereby established an interagency committee composed of the heads of the Departments of Energy, Commerce, Interior, Transportation, Housing and Urban Development, and Health and Human Services, the Environmental Protection Agency, the Appalachian Regional Commission, the Farmers’ Home Administration, the Office of Management and Budget, and such other Federal agencies as the Secretary shall designate. In carrying out its functions the committee shall consult with the National Governors’ Conference and interested persons, organizations, and entities. The chairman of the committee shall be designated by the President. The committee shall terminate 90 days after the submission of its report under subsection (c) of this section.
+**(a) Committee** There is hereby established an interagency committee composed of the heads of the Departments of Energy, Commerce, Interior, Transportation, Housing and Urban Development, and Health and Human Services, the Environmental Protection Agency, the Appalachian Regional Commission, the Farmers’ Home Administration, the Office of Management and Budget, and such other Federal agencies as the Secretary shall designate. In carrying out its functions the committee shall consult with the National Governors’ Conference and interested persons, organizations, and entities. The chairman of the committee shall be designated by the President. The committee shall terminate 90 days after the submission of its report under subsection (c).
 
 **(b) Functions of committee** It is the function of the committee to conduct a study of the socioeconomic impacts of expanded coal production and rapid energy development in general, on States, including local communities, and on the public, including the adequacy of housing and public, recreational, and cultural facilities for coal miners and their families and the effect of any Federal or State laws or regulations on providing such housing and facilities. The committee shall gather data and information on—
 
@@ -1878,7 +1878,7 @@ Committee on Interstate and Foreign Commerce of House of Representatives changed
 
 **(b) Submission and approval of plan** The Secretary shall require each electric utility subject to this section to—
 
-(1) submit, within 1 year after August 13, 1981, and have approved by the Secretary, a conservation plan which meets the requirements of subsection (c) of this section; and
+(1) submit, within 1 year after August 13, 1981, and have approved by the Secretary, a conservation plan which meets the requirements of subsection (c); and
 
 (2) implement such plan during the 5-year period beginning on the date of the initial approval of such plan.
 
@@ -1900,7 +1900,7 @@ Committee on Interstate and Foreign Commerce of House of Representatives changed
 
 **(d) Plan approval**
 
-(1) The Secretary shall, by order, approve or disapprove any conservation plan proposed under this subsection 1 by an electric utility within 120 days after its submission. The Secretary shall approve any such proposed plan unless the Secretary finds that such plan does not meet the requirements of subsection (c) of this section and states in writing the reasons therefor.
+(1) The Secretary shall, by order, approve or disapprove any conservation plan proposed under this subsection 1 by an electric utility within 120 days after its submission. The Secretary shall approve any such proposed plan unless the Secretary finds that such plan does not meet the requirements of subsection (c) and states in writing the reasons therefor.
 
 (2) In the event the Secretary disapproves under paragraph (1) the plan originally submitted, the Secretary shall provide a reasonable period of time for resubmission.
 

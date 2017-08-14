@@ -324,7 +324,7 @@ A prior section 7300, act Aug. 10, 1956, ch. 1041, 70A, Stat. 450, related to pr
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this section, referred to in subsec. (c), is the date of the enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Prior Provisions
 A prior section 7301, act Aug. 10, 1956, ch. 1041, 70A Stat. 450, related to estimates required for bids on construction of naval vessels, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 824(a)(7), Nov. 30, 1993, 107 Stat. 1707.

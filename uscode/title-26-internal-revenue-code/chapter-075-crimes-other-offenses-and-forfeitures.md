@@ -419,6 +419,9 @@ Subsecs. (d), (e). Pub. L. 94–455, § 1202(d), (h)(3), redesignated subsec. (e
 
 1958—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–184 applicable to disclosures made after June 30, 2016, see section 2(c) of Pub. L. 114–184, set out as a note under [section 6103 of this title](./chapter-061-information-and-returns.md#section-6103).
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 effective Aug. 17, 2006, but not applicable to requests made before such date, see section 1224(c) of Pub. L. 109–280, set out as a note under [section 6103 of this title](./chapter-061-information-and-returns.md#section-6103).
 
@@ -1374,6 +1377,9 @@ If any amount as adjusted under the preceding sentence is not a multiple of $1,0
 **(g) Delegation of certification** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
 
 ### Statutory Notes
+
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
 Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of Pub. L. 114–94, which enacted this section and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended sections 6103, 6320, 6331, and 7508 of this title.

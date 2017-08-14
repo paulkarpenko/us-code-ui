@@ -2,7 +2,7 @@
 title: 38
 chapter: '3'
 heading: DEPARTMENT OF VETERANS AFFAIRS
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -291,6 +291,8 @@ Pub. L. 105–368, § 403(a)(3), in first sentence, substituted “an Under Secr
 
 (11) Operations, preparedness, security, and law enforcement functions.
 
+(12) The functions set forth in [section 323(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section323/c&num=0&edition=prelim).
+
 **(c)** Whenever the President nominates an individual for appointment as an Assistant Secretary, the President shall include in the communication to the Senate of the nomination a statement of the particular functions of the Department specified in subsection (b), and any other functions of the Department, the individual will exercise upon taking office.
 
 **(d)**
@@ -311,6 +313,8 @@ Pub. L. 105–368, § 403(a)(3), in first sentence, substituted “an Under Secr
 Provisions similar to those in this section were contained in sections 4(a), (b), (e) and 5 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Amendments
+2017—Subsec. (b)(12). Pub. L. 115–41 added par. (12).
+
 2012—Subsec. (a). Pub. L. 112–166 designated existing provisions as par. (1), struck out at end of par. (1) “Each Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate.”, and added pars. (2) and (3).
 
 2002—Subsec. (a). Pub. L. 107–287, § 5(a), substituted “seven” for “six” in first sentence.
@@ -934,7 +938,7 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
-2016—Subsec. (d)(1). Pub. L. 114–223 substituted “allowance to—” for “allowance to”, inserted subpar. (A) designation before “a veteran”, and added subpar. (B).
+2016—Subsec. (d)(1). Pub. L. 114–223 substituted “allowance to—” for “allowance to”, inserted subpar. (A) designation before “a veteran with a disability”, and added subpar. (B).
 
 Subsec. (d)(4). Pub. L. 114–228 substituted “2017” for “2016”.
 
@@ -957,3 +961,90 @@ Pub. L. 113–37, § 4, Sept. 30, 2013, 127 Stat. 525, provided that: “(a) Eff
 
 #### Findings and Purpose
 Pub. L. 110–389, title VII, § 701, Oct. 10, 2008, 122 Stat. 4180, provided that: “(a) Findings.—Congress makes the following findings:“(1) In 1998, Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 (33 [36] U.S.C. 101 note) [see Short Title of 1998 Amendment note set out under [section 101 of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section101&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations], which amended chapter 2205 of title 36, United States Code, and included a statement that the purpose of the Act was ‘to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes’. “(2) The United States Olympic Committee manages and administers the Paralympic Program for physically disabled athletes. “(3) The Department of Veterans Affairs provides health care to veterans and administers recreational activities for patients including the Golden Age Games, the National Veterans Wheelchair Games, and the Winter Sports Clinic. “(4) In 2005, the United States Olympic Committee entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs. “(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants and reducing the incidence of secondary medical conditions in those participants. “(6) Because of Operation Iraqi Freedom and Operation Enduring Freedom, the number of disabled veterans and disabled members of the Armed Forces has increased substantially and it is therefore desirable to supplement the rehabilitation and recreation programs of the Department of Veterans Affairs through sports for disabled veterans and members of the Armed Forces. “(b) Purpose.—The purposes of this title [enacting this section, [section 521A of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a), and provisions set out as notes under [section 521A of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a)] are as follows:“(1) To promote the lifelong health of disabled veterans and disabled members of the Armed Forces through regular participation in physical activity and sports. “(2) To enhance the recreation activities provided by the Department of Veterans Affairs by promoting disabled sports from the local level through elite levels and by creating partnerships among organizations specializing in supporting, training, and promoting programs for disabled veterans. “(3) To provide training and support to national and local organizations to provide Paralympic sports training to disabled veterans and disabled members of the Armed Forces in their own communities. “(4) To provide support to the United States Paralympics, Inc., to increase the participation of disabled veterans and disabled members of the Armed Forces in sports.”
+
+
+<a id="section-323"></a>
+## § 323. Office of Accountability and Whistleblower Protection
+**(a) Establishment.—** There is established in the Department an office to be known as the “Office of Accountability and Whistleblower Protection” (in this section referred to as the “Office”).
+
+**(b) Head of Office.—**
+
+(1) The head of the Office shall be responsible for the functions of the Office and shall be appointed by the President pursuant to [section 308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section308/a&num=0&edition=prelim).
+
+(2) The head of the Office shall be known as the “Assistant Secretary for Accountability and Whistleblower Protection”.
+
+(3) The Assistant Secretary shall report directly to the Secretary on all matters relating to the Office.
+
+(4) Notwithstanding [section 308(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section308/b&num=0&edition=prelim), the Secretary may only assign to the Assistant Secretary responsibilities relating to the functions of the Office set forth in subsection (c).
+
+**(c) Functions.—**
+
+(1) The functions of the Office are as follows:
+
+  (A) Advising the Secretary on all matters of the Department relating to accountability, including accountability of employees of the Department, retaliation against whistleblowers, and such matters as the Secretary considers similar and affect public trust in the Department.
+
+  (B) Issuing reports and providing recommendations related to the duties described in subparagraph (A).
+
+  (C) Receiving whistleblower disclosures.
+
+  (D) Referring whistleblower disclosures received under subparagraph (C) for investigation to the Office of the Medical Inspector, the Office of Inspector General, or other investigative entity, as appropriate, if the Assistant Secretary has reason to believe the whistleblower disclosure is evidence of a violation of a provision of law, mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to public health or safety.
+
+  (E) Receiving and referring disclosures from the Special Counsel for investigation to the Medical Inspector of the Department, the Inspector General of the Department, or such other person with investigatory authority, as the Assistant Secretary considers appropriate.
+
+  (F) Recording, tracking, reviewing, and confirming implementation of recommendations from audits and investigations carried out by the Inspector General of the Department, the Medical Inspector of the Department, the Special Counsel, and the Comptroller General of the United States, including the imposition of disciplinary actions and other corrective actions contained in such recommendations.
+
+  (G) Analyzing data from the Office and the Office of Inspector General telephone hotlines, other whistleblower disclosures, disaggregated by facility and area of health care if appropriate, and relevant audits and investigations to identify trends and issue reports to the Secretary based on analysis conducted under this subparagraph.
+
+  (H) Receiving, reviewing, and investigating allegations of misconduct, retaliation, or poor performance involving—
+
+    (i) an individual in a senior executive position (as defined in [section 713(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim)) in the Department;
+
+    (ii) an individual employed in a confidential, policy-making, policy-determining, or policy-advocating position in the Department; or
+
+    (iii) a supervisory employee, if the allegation involves retaliation against an employee for making a whistleblower disclosure.
+
+  (I) Making such recommendations to the Secretary for disciplinary action as the Assistant Secretary considers appropriate after substantiating any allegation of misconduct or poor performance pursuant to an investigation carried out as described in subparagraph (F) or (H).
+
+(2) In carrying out the functions of the Office, the Assistant Secretary shall ensure that the Office maintains a toll-free telephone number and Internet website to receive anonymous whistleblower disclosures.
+
+(3) In any case in which the Assistant Secretary receives a whistleblower disclosure from an employee of the Department under paragraph (1)(C), the Assistant Secretary may not disclose the identity of the employee without the consent of the employee, except in accordance with the provisions of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), or as required by any other applicable provision of Federal law.
+
+**(d) Staff and Resources.—** The Secretary shall ensure that the Assistant Secretary has such staff, resources, and access to information as may be necessary to carry out the functions of the Office.
+
+**(e) Relation to Office of General Counsel.—** The Office shall not be established as an element of the Office of the General Counsel and the Assistant Secretary may not report to the General Counsel.
+
+**(f) Reports.—**
+
+(1)
+
+  (A) Not later than June 30 of each calendar year, beginning with June 30, 2017, the Assistant Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Office during the calendar year in which the report is submitted.
+
+  (B) Each report submitted under subparagraph (A) shall include, for the period covered by the report, the following:
+
+    (i) A full and substantive analysis of the activities of the Office, including such statistical information as the Assistant Secretary considers appropriate.
+
+    (ii) Identification of any issues reported to the Secretary under subsection (c)(1)(G), including such data as the Assistant Secretary considers relevant to such issues and any trends the Assistant Secretary may have identified with respect to such issues.
+
+    (iii) Identification of such concerns as the Assistant Secretary may have regarding the size, staffing, and resources of the Office and such recommendations as the Assistant Secretary may have for legislative or administrative action to address such concerns.
+
+    (iv) Such recommendations as the Assistant Secretary may have for legislative or administrative action to improve—
+
+      (I) the process by which concerns are reported to the Office; and
+
+      (II) the protection of whistleblowers within the Department.
+
+    (v) Such other matters as the Assistant Secretary considers appropriate regarding the functions of the Office or other matters relating to the Office.
+
+(2) If the Secretary receives a recommendation for disciplinary action under subsection (c)(1)(I) and does not take or initiate the recommended disciplinary action before the date that is 60 days after the date on which the Secretary received the recommendation, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a detailed justification for not taking or initiating such disciplinary action.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “supervisory employee” means an employee of the Department who is a supervisor as defined in [section 7103(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a&num=0&edition=prelim).
+
+(2) The term “whistleblower” means one who makes a whistleblower disclosure.
+
+(3) The term “whistleblower disclosure” means any disclosure of information by an employee of the Department or individual applying to become an employee of the Department which the employee or individual reasonably believes evidences—
+
+  (A) a violation of a law, rule, or regulation; or
+
+  (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.

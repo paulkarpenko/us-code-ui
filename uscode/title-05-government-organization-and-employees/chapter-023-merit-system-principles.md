@@ -186,7 +186,7 @@ Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435,
 
   (C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
 
-  (D) for 11 So in original. The word “for” probably should not appear. refusing to obey an order that would require the individual to violate a law;
+  (D) refusing to obey an order that would require the individual to violate a law, rule, or regulation;
 
 (10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
@@ -227,7 +227,7 @@ This subsection shall not be construed to authorize the withholding of informati
 
   (D) Section 301(c) of the Foreign Service Act of 1980.
 
-  (E) Sections 106(f),22 See References in Text note below. 7281(e), and 7802(5) 2 of title 38.
+  (E) Sections 106(f),11 See References in Text note below. 7281(e), and 7802(5) 1 of title 38.
 
   (F) [Section 1005(a) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005/a&num=0&edition=prelim).
 
@@ -267,6 +267,8 @@ Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)
 [Section 7802(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802/5&num=0&edition=prelim), referred to in subsec. (e)(1)(E), was redesignated [section 7802(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802/e&num=0&edition=prelim) by Pub. L. 108–170, title III, § 304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+2017—Subsec. (b)(9)(D). Pub. L. 115–40 struck out “for” after “(D)” and inserted “, rule, or regulation” after “a law”.
+
 2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–113 inserted “or under title 38” after “chapter 43 of this title”.
 
 2013—Subsec. (a)(2)(C)(ii). Pub. L. 112–277 added cl. (ii) and struck out former cl. (ii) which read as follows:

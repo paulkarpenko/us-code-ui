@@ -17,7 +17,7 @@ There is hereby established a commission to be known as the Citizens’ Commissi
 1989—Pub. L. 101–194 substituted “Citizens’ Commission on Public Service and Compensation” for “Commission on Executive, Legislative, and Judicial Salaries”.
 
 #### Effective Date
-Chapter effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-352"></a>

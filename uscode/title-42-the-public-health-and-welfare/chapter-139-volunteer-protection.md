@@ -102,7 +102,7 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
   (A) constitutes a crime of violence (as that term is defined in [section 16 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section16&num=0&edition=prelim)) or act of international terrorism (as that term is defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) for which the defendant has been convicted in any court;
 
-  (B) constitutes a hate crime (as that term is used in the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note));
+  (B) constitutes a hate crime (as that term is used in the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note)); 11 See References in Text note below.
 
   (C) involves a sexual offense, as defined by applicable State law, for which the defendant has been convicted in any court;
 
@@ -115,7 +115,7 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 ### Statutory Notes
 
 #### References in Text
-The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
+The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification as [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim), Crime Control and Law Enforcement, and as provisions set out as a note under [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim).
 
 
 <a id="section-14504"></a>
@@ -142,9 +142,9 @@ For purposes of this chapter:
 
 (4) **Nonprofit organization** — The term “nonprofit organization” means—
 
-  (A) any organization which is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note); or
+  (A) any organization which is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note); 11 See References in Text note below. or
 
-  (B) any not-for-profit organization which is organized and conducted for public benefit and operated primarily for charitable, civic, educational, religious, welfare, or health purposes and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note).
+  (B) any not-for-profit organization which is organized and conducted for public benefit and operated primarily for charitable, civic, educational, religious, welfare, or health purposes and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act ([28 U.S.C. 534](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) note).1
 
 (5) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, any other territory or possession of the United States, or any political subdivision of any such State, territory, or possession.
 
@@ -158,4 +158,4 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Hate Crime Statistics Act, referred to in par. (4), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
+The first section of the Hate Crime Statistics Act, referred to in par. (4), is Pub. L. 101–275, § 1, Apr. 23, 1990, 104 Stat. 140, which was set out in a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification as [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim), Crime Control and Law Enforcement.

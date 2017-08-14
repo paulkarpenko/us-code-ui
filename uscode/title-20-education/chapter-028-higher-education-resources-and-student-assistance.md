@@ -882,7 +882,7 @@ A prior section 1011b, Pub. L. 89–329, title I, § 123, as added Pub. L. 102�
 
   (D) a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
 
-**(f) Termination** The Committee shall terminate on September 30, 2016.
+**(f) Termination** The Committee shall terminate on September 30, 2017.
 
 ### Statutory Notes
 
@@ -895,6 +895,8 @@ Provisions similar to this section were contained in [section 1145 of this title
 A prior section 1011c, Pub. L. 89–329, title I, § 124, as added Pub. L. 102–325, title I, § 101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–31 substituted “2017” for “2016”.
+
 2015—Subsec. (f). Pub. L. 114–113 substituted “2016” for “2015”.
 
 2014—Subsec. (f). Pub. L. 113–174 substituted “2015” for “2014”.
@@ -8086,7 +8088,7 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
       (VI) $0 for fiscal year 2016;
 
-      (VII) $1,574,000,000 for fiscal year 2017;
+      (VII) $1,320,000,000 for fiscal year 2017;
 
       (VIII) $1,382,000,000 for fiscal year 2018;
 
@@ -8139,6 +8141,20 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
   (E) *Ratable increases and decreases.—* — The amounts specified in subparagraph (B) shall be ratably increased or decreased to the extent that funds available under subparagraph (A) exceed or are less than (respectively) the amount required to provide the amounts specified in subparagraph (B).
 
   (F) *Availability of funds.—* — The amounts made available by subparagraph (A) for any fiscal year shall be available beginning on October 1 of that fiscal year, and shall remain available through September 30 of the succeeding fiscal year.
+
+(8)
+
+  (A) Effective in the 2017–2018 award year and thereafter, the Secretary shall award an eligible student not more than one and one-half Federal Pell Grants during a single award year to permit such student to work toward completion of an eligible program if, during that single award year, the student—
+
+    (i) has received a Federal Pell Grant for an award year and is enrolled in an eligible program for one or more additional payment periods during the same award year that are not otherwise fully covered by the student’s Federal Pell Grant; and
+
+    (ii) is enrolled on at least a half-time basis while receiving any funds under this section.
+
+  (B) In the case of a student receiving more than one Federal Pell Grant in a single award year under subparagraph (A), the total amount of Federal Pell Grants awarded to such student for the award year may exceed the maximum basic grant level specified in the appropriate appropriations Act for such award year.
+
+  (C) Any period of study covered by a Federal Pell Grant awarded under subparagraph (A) shall be included in determining a student’s duration limit under subsection (c)(5).
+
+  (D) In any case where an eligible student is receiving a Federal Pell Grant for a payment period that spans two award years, the Secretary shall allow the eligible institution in which the student is enrolled to determine the award year to which the additional period shall be assigned, as it determines is most beneficial to students.
 
 **(c) Period of eligibility for grants**
 
@@ -8210,6 +8226,10 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2017—Subsec. (b)(7)(A)(iv)(VII). Pub. L. 115–31, § 310(b), substituted “$1,320,000,000” for “$1,574,000,000”.
+
+Subsec. (b)(8). Pub. L. 115–31, § 310(a), added par. (8).
+
 2015—Subsec. (b)(2)(A)(ii). Pub. L. 114–113 struck out “except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)” after “year”.
 
 2014—Subsec. (b)(2)(A)(ii). Pub. L. 113–235 inserted “except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)” after “year”.
@@ -8502,6 +8522,8 @@ Pub. L. 99–498, title XIII, § 1306, Oct. 17, 1986, 100 Stat. 1582, directed S
 
 #### Maximum Pell Grants
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549.
 
 Pub. L. 114–113, div. H, title III, Dec. 18, 2015, 129 Stat. 2635.
 
@@ -12340,7 +12362,7 @@ A prior section 1073, Pub. L. 89–329, title IV, § 423, Nov. 8, 1965, 79 Stat.
 ## § 1074. Scope and duration of Federal loan insurance program
 **(a) Limitations on amounts of loans covered by Federal insurance** The total principal amount of new loans made and installments paid pursuant to lines of credit (as defined in [section 1085 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1085)) to students covered by Federal loan insurance under this part shall not exceed $2,000,000,000 for the period from July 1, 1976, to September 30, 1976, for each of the succeeding fiscal years ending prior to October 1, 2009, and for the period from October 1, 2009, to June 30, 2010, for loans first disbursed on or before June 30, 2010.
 
-**(b) Apportionment of amounts** The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a)n, Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
+**(b) Apportionment of amounts** The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a), Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
 
 ### Statutory Notes
 
@@ -16057,6 +16079,9 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
+#### Selection of Student Loan Servicer
+Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549, provided in part: “That the Secretary [of Education] shall, no later than September 30, 2017, allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan.”
 
 #### Pending Applicants
 Pub. L. 105–78, title VI, § 609(f), Nov. 13, 1997, 111 Stat. 1523, provided that: “The consolidation loans authorized by the amendments made by this section [amending this section] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
@@ -20483,7 +20508,7 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 
 (3) **Authorization for administrative costs beginning in fiscal years 2007 through 2014** — For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
-(4) **Continuing mandatory funds for account maintenance fees** — For each of the fiscal years 2007 through 2016, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+(4) **Continuing mandatory funds for account maintenance fees** — For each of the fiscal years 2007 through 2017, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 (5) **Account maintenance fees** — Account maintenance fees under paragraph (3) 11 See References in Text note below. shall be paid quarterly and deposited in the Agency Operating Fund established under [section 1072b of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1072b).
 
@@ -20513,6 +20538,8 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. L. 111–152, § 2212(b)(1)(B).
 
 #### Amendments
+2017—Subsec. (a)(4). Pub. L. 115–31 substituted “2017” for “2016”.
+
 2015—Subsec. (a)(4). Pub. L. 114–113 substituted “2016” for “2014”.
 
 2013—Subsec. (a)(2). Pub. L. 113–67 struck out par. (2). Text read as follows: “For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in [section 1087f of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087f).”
@@ -22243,7 +22270,7 @@ As used in this part:
 
     (i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11432(g)(1)(J)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/1/J/ii&num=0&edition=prelim)];
 
-    (ii) the director of a program funded under the Runaway and Homeless Youth Act [[42 U.S.C. 5701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5701&num=0&edition=prelim) et seq.] or a designee of the director;
+    (ii) the director of a program funded under the Runaway and Homeless Youth Act [[34 U.S.C. 11201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11201&num=0&edition=prelim) et seq.] or a designee of the director;
 
     (iii) the director of a program funded under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11371&num=0&edition=prelim) et seq.] (relating to emergency shelter grants) or a designee of the director; or
 
@@ -22360,7 +22387,7 @@ Section 903 of the Department of Defense Authorization Act, 1981, referred to in
 
 Section 156(b) of the “Joint Resolution making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes”, referred to in subsec. (c)(2)(K), is section 156(b) of Pub. L. 97–377, which is set out as a note under [section 402 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402&num=0&edition=prelim), The Public Health and Welfare.
 
-The Runaway and Homeless Youth Act, referred to in subsec. (d)(1)(H)(ii), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Runaway and Homeless Youth Act, referred to in subsec. (d)(1)(H)(ii), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(1)(H)(iii), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title IV of the Act is classified generally to part B (§ 11371 et seq.) of subchapter IV of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
@@ -24006,7 +24033,7 @@ Pub. L. 99–498, title IV, § 403(b)(1), as added by Pub. L. 100–50, § 22(c)
 
   (B) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with [section 1096 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1096), may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with [section 1087–56 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-56), and may transfer funds in accordance with the provisions of [section 1095 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1095);
 
-(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F and meet the requirements of [section 1091 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091) will be assisted, except that if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
+(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F of this subchapter and meet the requirements of [section 1091 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091) will be assisted, except that if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
 (4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student’s need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
@@ -24951,7 +24978,7 @@ Pub. L. 97–301, § 6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98�
 
     (ii) if the State will permit an applicant to file a form described in paragraph (2)(B) or (3)(B).
 
-  (C) *Federal register notice* — Beginning with the forms developed under paragraphs (2)(B) and (3)(B) for the award year 2010–2011, the Secretary shall publish on an annual basis a notice in the Federal Register requiring State agencies to inform the Secretary—
+  (C) *Federal Register notice* — Beginning with the forms developed under paragraphs (2)(B) and (3)(B) for the award year 2010–2011, the Secretary shall publish on an annual basis a notice in the Federal Register requiring State agencies to inform the Secretary—
 
     (i) if the State agency is unable to permit applicants to utilize the simplified forms described in paragraphs (2)(B) and (3)(B); and
 
@@ -26498,7 +26525,7 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
   (A) In this subsection:
 
-    (i) The terms “dating violence”, “domestic violence”, and “stalking” have the meaning given such terms in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).
+    (i) The terms “dating violence”, “domestic violence”, and “stalking” have the meaning given such terms in [section 12291(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim).
 
     (ii) The term “campus” means—
 
@@ -26518,7 +26545,7 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
   (B) In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
 
-(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim). Such statistics shall not identify victims of crimes or persons accused of crimes.
+(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 12291(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim). Such statistics shall not identify victims of crimes or persons accused of crimes.
 
 (8)
 
@@ -26875,7 +26902,7 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 #### References in Text
 [Section 14071 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14071&num=0&edition=prelim), referred to in subsec. (f)(1)(I), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
 
-The Hate Crime Statistics Act, referred to in subsec. (f)(7), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
+The Hate Crime Statistics Act, referred to in subsec. (f)(7), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which enacted [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim), Crime Control and Law Enforcement, and provisions set out as a note under [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim).
 
 Title IV of the Economic Opportunity Act of 1964, referred to in subsec. (f)(8)(A), is title IV of Pub. L. 88–452, which was classified to subchapter IV (§ 2901 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
 
@@ -32782,7 +32809,7 @@ The Secretary shall, in consultation and collaboration with the Secretary of Sta
 
       (I) entrance requirements for admission to institutions of higher education; and
 
-      (II) State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under [section 1070a–1 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a-1), and other financial assistance that is dependent upon a student’s coursework;
+      (II) State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 22 See References in Text note below. of this title, and other financial assistance that is dependent upon a student’s coursework;
 
     (ii) applying to institutions of higher education;
 
@@ -32890,6 +32917,8 @@ The Secretary shall, in consultation and collaboration with the Secretary of Sta
 
 #### References in Text
 The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
+
+[Section 1070a–1 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a-1), referred to in subsec. (f)(1)(F)(i)(II), was omitted from the Code upon the expiration of Secretary’s authority to make grants at the end of award year 2010–2011.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -35184,7 +35213,7 @@ Repeal effective on the first day of the first full program year after July 22, 
 Section, Pub. L. 105–244, title VIII, § 826, Oct. 7, 1998, 112 Stat. 1815; Pub. L. 106–386, div. B, title I, § 1108(a), title V, § 1512(d), Oct. 28, 2000, 114 Stat. 1500, 1533; Pub. L. 109–162, title XI, § 1135(d), Jan. 5, 2006, 119 Stat. 3109; Pub. L. 109–271, §§ 2(d), 8(b), Aug. 12, 2006, 120 Stat. 752, 766, related to grants to combat violent crimes against women on campuses.
 
 #### Effective Date of Repeal
-Repeal effective beginning fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under [section 3793 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3793&num=0&edition=prelim), The Public Health and Welfare.
+Repeal effective beginning fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under [section 10261 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10261&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-1153"></a>

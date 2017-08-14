@@ -68,7 +68,7 @@ Pub. L. 95–557, title VIII, § 801, Oct. 31, 1978, 92 Stat. 2122, provided tha
 
 **(f) Director absences; designated representatives** A director who is necessarily absent from a meeting of the board, or of a committee of the board, may participate in such meeting through a duly designated representative who is serving, pursuant to appointment by the President of the United States, by and with the advice and consent of the Senate, in the same department, agency, corporation, or instrumentality as the absent director, or in the case of the Comptroller of the Currency, through a duly designated Deputy Comptroller.
 
-**(g) Quorum** The presence of a majority of the board members, or their representatives as provided in subsection (f) of this section, shall constitute a quorum.
+**(g) Quorum** The presence of a majority of the board members, or their representatives as provided in subsection (f), shall constitute a quorum.
 
 **(h) Application of other laws** The corporation shall be subject to the provisions of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
 
@@ -87,7 +87,7 @@ Subsec. (a)(6). Pub. L. 100–628 struck out second of the two periods at end.
 
 Pub. L. 100–242, § 520(a)(4), substituted “Chairman” for “Administrator” and inserted “or a member of the Board of the National Credit Union Administration to be designated by the Chairman.” before period.
 
-1982—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted “, or their representatives as provided in subsection (f) of this section,”.
+1982—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted “, or their representatives as provided in subsection (f),”.
 
 #### Transfer of Functions
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1437&num=0&edition=prelim), Banks and Banking.

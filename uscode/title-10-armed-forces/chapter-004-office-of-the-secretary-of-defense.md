@@ -72,11 +72,11 @@ source: >-
 
 ### Statutory Notes
 
-#### Reference in Subsection (a)(3)
+#### Reference in Subsection (b)(3)
 Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
 
-#### Amendment of Subsection (b)(2)
-Pub. L. 114–328, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, subsection (b)(2) of this section is amended as follows:
+#### Amendment of Subsection (b)
+Pub. L. 114–328, div. A, title IX, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, subsection (b)(2) of this section is amended as follows:
 
 (1) by redesignating subparagraphs (B) through (E) as subparagraphs (C) through (F), respectively; and
 
@@ -84,7 +84,7 @@ Pub. L. 114–328, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that, effe
 
 “(A) The Under Secretary of Defense for Research and Engineering.
 
-“(B) The Under Secretary of Defense for Acquisition and Sustainment.”.
+“(B) The Under Secretary of Defense for Acquisition and Sustainment.”
 
 See 2016 Amendment note below.
 
@@ -103,15 +103,15 @@ See 2014 Amendment note below.
 A prior section 131 was renumbered [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Amendments
-2016—Subsec. (b)(2). Pub. L. 114–328, § 901(d), repealed Pub. L. 113–291, § 901(a)(2). See 2014 Amendment note below.
+2016—Subsec. (b)(2). Pub. L. 114–328, § 901(f), added subpars. (A) and (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
-Pub. L. 114–328, § 901(f), added subpars. (A) and (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+Pub. L. 114–328, § 901(d), repealed Pub. L. 113–291, § 901(a)(2). See 2014 Amendment note below.
 
-Subsec. (b)(5). Pub. L. 114–328, § 902(b), which directed the amendment of “section 151(b)(5)” of this title by inserting “, who reports directly to the Secretary and Deputy Secretary without intervening authority” before period at end, was executed by making the insertion in subsec. (b)(5) of this section, to reflect the probable intent of Congress. [Section 151 of this title](./chapter-005-joint-chiefs-of-staff.md#section-151) does not contain a subsec. (b)(5), and section 902 of Pub. L. 114–328 relates to responsibilities and reporting of the Chief Information Officer of the Department of Defense.
+Subsec. (b)(5). Pub. L. 114–328, § 902(b), which directed the amendment of “section 151(b)(5)” of this title by inserting “, who reports directly to the Secretary and Deputy Secretary without intervening authority” before period at end, was executed by making the insertion in subsec. (b)(5) of this section, to reflect the probable intent of Congress. [Section 151 of this title](./chapter-005-joint-chiefs-of-staff.md#section-151) does not contain a subsec. (b)(5), and section 902 of Pub. L. 114–328 relates generally to responsibilities and reporting of the Chief Information Officer of the Department of Defense.
 
 Subsec. (b)(8)(G). Pub. L. 114–328, § 933(a)(3), substituted “Director of Military Family Readiness Policy” for “Director of Family Policy”.
 
-2014—Subsec. (b)(2). Pub. L. 113–291, § 901(a)(2), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively, prior to repeal by Pub. L. 114–328, § 901(d).
+2014—Subsec. (b)(2). Pub. L. 113–291, § 901(a)(2), which directed adding subpar. (A) reading “The Under Secretary of Defense for Business Management and Information.” and redesignating former subpars. (A) to (E) as (B) to (F), respectively, was repealed by Pub. L. 114–328, § 901(d).
 
 Subsec. (b)(5) to (7). Pub. L. 113–291, § 901(j)(1)(A), which directed striking out par. (5) and redesignating pars. (6) to (8) as (5) to (7), respectively, was not executed to reflect the probable intent of Congress and the purported amendment of subsec. (b)(5) by Pub. L. 114–328, § 902(b). See 2016 Amendment note above. Section 901(a)(1) of Pub. L. 113–291, which provided the effective date of Feb. 1, 2017, to which this amendment was tied, was also repealed by Pub. L. 114–328.
 
@@ -172,13 +172,13 @@ Subsec. (b). Pub. L. 111–383, § 901(b)(2), amended subsec. (b) generally. Pri
 “(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.”
 
 #### Change of Name
-Reference to “Deputy Chief Management Officer of the Department of Defense” in subsec. (a)(3) deemed to refer to “Under Secretary of Defense for Business Management and Information” after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, set out as a note under this section. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.
+Reference to “Deputy Chief Management Officer of the Department of Defense” in subsec. (b)(3) deemed to refer to “Under Secretary of Defense for Business Management and Information” after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, set out as a note under this section. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title IX, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(f) is effective on Feb. 1, 2018.
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–291, div. A, title IX, § 901(a)(2), Dec. 19, 2014, 128 Stat. 3463, provided that the amendment made by section 901(a)(2) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 113–291, div. A, title IX, § 901(a)(2), Dec. 19, 2014, 128 Stat. 3463, which provided that the amendment made by section 901(a)(2) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
 
 Pub. L. 113–291, div. A, title IX, § 901(j)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(1)(A) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
 
@@ -200,10 +200,10 @@ Pub. L. 114–328, div. A, title IX, § 913, Dec. 23, 2016, 130 Stat. 2349, prov
 #### References
 Pub. L. 113–291, div. A, title IX, § 901(n), Dec. 19, 2014, 128 Stat. 3469, provided that: “(1) DCMO.—After February 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense in any provision of law or in any rule, regulation, or other record, document, or paper of the United States shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. “(2) ASDEIE.—Any reference to the Assistant Secretary of Defense for Operational Energy Plans and Programs or to the Deputy Under Secretary of Defense for Installations and Environment in any provision of law or in any rule, regulation, or other paper of the United States shall be deemed to refer to the Assistant Secretary of Defense for Energy, Installations, and Environment.”
 
+[Section 901(a)(1) of Pub. L. 113–291 amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, as referred to in subsec. (n)(1) of Pub. L. 113–291, set out above. Section 901(a) of Pub. L. 113–291 was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.]
+
 #### Redesignation of Certain Positions in Office of Secretary of Defense
 Pub. L. 111–383, div. A, title IX, § 901(a), Jan. 7, 2011, 124 Stat. 4317, provided that: “(1) Redesignation.—Positions in the Office of the Secretary of Defense are hereby redesignated as follows:“(A) The Director of Defense Research and Engineering is redesignated as the Assistant Secretary of Defense for Research and Engineering. “(B) The Director of Operational Energy Plans and Programs is redesignated as the Assistant Secretary of Defense for Operational Energy Plans and Programs [now Assistant Secretary of Defense for Energy, Installations, and Environment]. “(C) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs is redesignated as the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. “(2) References.—Any reference in any law, rule, regulation, paper, or other record of the United States to an office of the Department of Defense redesignated by paragraph (1) shall be deemed to be a reference to such office as so redesignated.”
-
-[Section 901(a) of Pub. L. 113–291 amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, as referred to in subsec. (n)(1) of Pub. L. 113–291, set out above. Section 901(a) of Pub. L. 113–291 was repealed by Pub. L. 114–328, effective Dec. 23, 2016.]
 
 #### Inapplicability of Appointment Requirement to Certain Individuals Serving on Effective Date
 Pub. L. 111–383, div. A, title IX, § 901(o), Jan. 7, 2011, 124 Stat. 4327, provided that: “(1) In general.—Notwithstanding this section [see Tables for classification] and the amendments made by this section, the individual serving as specified in paragraph (2) on December 31, 2010, may continue to serve in the applicable position specified in that paragraph after that date without the requirement for appointment by the President, by and with the advice and consent of the Senate. “(2) Covered individuals and positions.—The individuals and positions specified in this paragraph are the following:“(A) In the case of the individual serving as Director of Defense Research and Engineering, the position of Assistant Secretary of Defense for Research and Engineering. “(B) In the case of the individual serving as Director of Operational Energy Plans and Programs, the position of Assistant Secretary of Defense for Operational Energy Plans and Programs. “(C) In the case of the individual serving as Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, the position of Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.”
@@ -241,9 +241,9 @@ Pub. L. 99–433, title I, § 109, Oct. 1, 1986, 100 Stat. 999, directed the Sec
 #### Amendment of Subsections (c) to (e)
 Pub. L. 114–328, div. A, title IX, § 901(c)(4), Dec. 23, 2016, 130 Stat. 2341, provided that, effective on Feb. 1, 2018, this section is amended as follows:
 
-(A) by striking subsection (c); and
+(1) by striking subsection (c); and
 
-(B) by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.
+(2) by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.
 
 See 2016 Amendment note below.
 
@@ -264,7 +264,7 @@ Executive Order No. 12788, referred to in subsec. (e)(2), is set out as a note u
 A prior section 132 was renumbered [section 112 of this title](./chapter-002-department-of-defense.md#section-112).
 
 #### Amendments
-2016—Subsec. (c) to (e). Pub. L. 114–328 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c), which read as follows: “The Deputy Secretary serves as the Chief Management Officer of the Department of Defense.”.
+2016—Subsecs. (c) to (e). Pub. L. 114–328 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “The Deputy Secretary serves as the Chief Management Officer of the Department of Defense.”
 
 2014—Subsec. (b). Pub. L. 113–291 substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is disabled or there is no Secretary of Defense”.
 
@@ -318,12 +318,12 @@ For order of succession during any period when the Secretary has died, resigned,
 #### Assignment of Duties
 Pub. L. 110–181, div. A, title IX, § 904(a)(2), Jan. 28, 2008, 122 Stat. 273, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that: “(A) The Secretary of Defense shall assign duties and authorities relating to the management of the business operations of the Department of Defense. “(B) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the Department of Defense. “(C) The Secretary shall assign such duties and authorities to the Deputy Chief Management Officer as are necessary for that official to assist the Chief Management Officer to effectively and efficiently organize the business operations of the Department of Defense. “(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer.”
 
-[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).]
+[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131), provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.]
 
 #### Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments
 Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that: “(1) The Secretary of a military department shall assign duties and authorities relating to the management of the business operations of such military department. “(2) The Secretary of a military department, in assigning duties and authorities under paragraph (1) shall designate the Under Secretary of such military department to have the primary management responsibility for business operations, to be known in the performance of such duties as the Chief Management Officer. “(3) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the military department concerned. “(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties.”
 
-[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).]
+[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131), provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.]
 
 
 <a id="section-132a"></a>
@@ -339,7 +339,7 @@ Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, as
 #### Amendments
 2016—Pub. L. 114–328, § 901(d), repealed Pub. L. 113–291, § 901(a)(1). See 2014 Amendment note below.
 
-2014—Pub. L. 113–291, § 901(a)(1), amended section generally, substituting provisions relating to Under Secretary of Defense for Business Management and Information for provisions which related to Deputy Chief Management Officer, prior to repeal by Pub. L. 114–328, § 901(d).
+2014—Pub. L. 113–291, § 901(a)(1), which directed the general amendment of this section, substituting provisions relating to Under Secretary of Defense for Business Management and Information for provisions which related to Deputy Chief Management Officer, was repealed by Pub. L. 114–328, § 901(d).
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title IX, § 901(a)(1), Dec. 19, 2014, 128 Stat. 3462, provided that the amendment made by section 901(a)(1) was effective Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
@@ -406,7 +406,7 @@ A prior section 133 was renumbered [section 113 of this title](./chapter-002-dep
 #### Amendments
 2015—Subsec. (b)(5). Pub. L. 114–92 inserted before period at end “, except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority”.
 
-2014—Subsec. (e)(1). Pub. L. 113–291 which directed substitution of “, the Deputy Secretary of Defense, and the Under Secretary of Defense for Business Management and Information” for “and the Deputy Secretary of Defense”, effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
+2014—Subsec. (e)(1). Pub. L. 113–291, which directed substitution of “, the Deputy Secretary of Defense, and the Under Secretary of Defense for Business Management and Information” for “and the Deputy Secretary of Defense”, effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
 
 2011—Subsec. (c)(1). Pub. L. 111–350 substituted “[section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim)” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/c&num=0&edition=prelim))”.
 
@@ -485,7 +485,7 @@ Pub. L. 100–456, div. A, title X, § 1006, Sept. 29, 1988, 102 Stat. 2040, as 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, prior to repeal by Pub. L. 111–383, div. A, title IX, § 901(b)(1), Jan. 7, 2011, 124 Stat. 4317, effective Jan. 1, 2011.
+A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, prior to repeal by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
 
 Another prior section 133a was renumbered [section 117 of this title](./chapter-002-department-of-defense.md#section-117).
 
@@ -888,7 +888,7 @@ In subsection (b)(1), [5 U.S.C. 172(b)](https://uscode.house.gov/view.xhtml?req=
 In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
 
 #### References in Text
-[Section 167(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/j&num=0&edition=prelim), referred to in subsec. (b)(4), was designated [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim) by Pub. L. 114–328, title IX, § 922(c)(2)(A), Dec. 23, 2016, 130 Stat. 2356.
+[Section 167(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/j&num=0&edition=prelim), referred to in subsec. (b)(4), was designated [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim) by Pub. L. 114–328, div. A, title IX, § 922(c)(2)(A), Dec. 23, 2016, 130 Stat. 2356.
 
 #### Codification
 The text of section 138a(b) and (c) of this title, which was transferred to subsec. (b)(7) of this section and amended by Pub. L. 113–291, § 901(h)(1)(C)–(E), was based on Pub. L. 106–65, div. A, title IX, § 911(b)(1), Oct. 5, 1999, 113 Stat. 718, § 133b; renumbered § 138a and amended Pub. L. 111–84, div. A, title IX, § 906(b)(1), (c)(2)(D), Oct. 28, 2009, 123 Stat. 2426, 2427; Pub. L. 111–383, div. A, title IX, § 901(b)(5), Jan. 7, 2011, 124 Stat. 4319.
@@ -1416,7 +1416,7 @@ Pub. L. 111–23, title I, § 101(c), May 22, 2009, 123 Stat. 1709, provided tha
 
   (J) The United States Special Operations Command.
 
-  (K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate
+  (K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate 11 So in original. Probably should be followed by a period.
 
 **(d) Operation.—** The Council shall operate continuously.
 

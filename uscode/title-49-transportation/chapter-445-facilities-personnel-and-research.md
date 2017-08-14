@@ -247,9 +247,11 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Pub. L. 112–95, title V, § 508, Feb. 14, 2012, 126 Stat. 106, provided that: “The Administrator of the Federal Aviation Administration may implement, to the extent practicable, sustainable practices for the incorporation of energy-efficient design, equipment, systems, and other measures in the construction and major renovation of air traffic control facilities of the Administration in order to reduce energy consumption at, improve the environmental performance of, and reduce the cost of maintenance for such facilities.”
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
 Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
@@ -660,9 +662,11 @@ Pub. L. 112–95, title II, § 224, Feb. 14, 2012, 126 Stat. 55, provided that: 
 Pub. L. 112–95, title VI, § 609(b), Feb. 14, 2012, 126 Stat. 116, provided that: “Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator [of the Federal Aviation Administration] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall— “(1) clarify responsibility for oversight and direction of the Academy’s facility training program at the national level; “(2) communicate information concerning that responsibility to facility managers; and “(3) establish standards to identify the number of developmental air traffic controllers that can be accommodated at each facility, based on—“(A) the number of available on-the-job training instructors; “(B) available classroom space; “(C) the number of available simulators; “(D) training requirements; and “(E) the number of recently placed new personnel already in training.”
 
 #### Controller Staffing
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
 Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 

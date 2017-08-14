@@ -12,7 +12,7 @@ source: >-
 
 **(b) Effective date**
 
-(1) 11 So in original. Subsec. (b) enacted without a par. (2). No designation under subsection (a) of this section shall take effect before the expiration of one hundred and twenty calendar days (not including any day in which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain or an adjournment sine die) after receipt by such Committees of such designation.
+(1) 11 So in original. Subsec. (b) enacted without a par. (2). No designation under subsection (a) shall take effect before the expiration of one hundred and twenty calendar days (not including any day in which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain or an adjournment sine die) after receipt by such Committees of such designation.
 
 **(c) Subchapter I provisions applicable** Except as otherwise specifically provided in subsection (a) of this section, any remedial action under subchapter I with respect to any sites designated under this subchapter shall be subject to the provisions of subchapter I (including the authorization of appropriations referred to in [section 7922(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7922/b&num=0&edition=prelim)).
 
@@ -121,13 +121,13 @@ The Atomic Energy Act of 1954, referred to in par. (6)(A)(ii), is act Aug. 1, 19
   (A) is in the vicinity of the Tennessee Valley Authority uranium mill site at Edgemont (but not including such site), and
 
   (B) is determined by the Secretary to be contaminated with residual radioactive materials.
-  In making the designation under this paragraph, the Secretary shall consult with the Administrator, the Commission and the State of South Dakota. The provisions of this subchapter shall apply to the site so designated in the same manner and to the same extent as to the sites designated under subsection (a) of this section except that, in applying such provisions to such site, any reference in this subchapter to November 8, 1978, shall be treated as a reference to January 4, 1983, and in determining the State share under [section 7917 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7917) of the costs of remedial action, there shall be credited to the State, expenditures made by the State prior to January 4, 1983, which the Secretary determines would have been made by the State or the United States in carrying out the requirements of this subchapter.
+  In making the designation under this paragraph, the Secretary shall consult with the Administrator, the Commission and the State of South Dakota. The provisions of this subchapter shall apply to the site so designated in the same manner and to the same extent as to the sites designated under subsection (a) except that, in applying such provisions to such site, any reference in this subchapter to November 8, 1978, shall be treated as a reference to January 4, 1983, and in determining the State share under [section 7917 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7917) of the costs of remedial action, there shall be credited to the State, expenditures made by the State prior to January 4, 1983, which the Secretary determines would have been made by the State or the United States in carrying out the requirements of this subchapter.
 
 **(f) Designation of Moab Site as processing site**
 
 (1) **Designation** — Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the “Moab site”) located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917, is designated as a processing site.
 
-(2) **Applicability** — This subchapter applies to the Moab site in the same manner and to the same extent as to other processing sites designated under subsection (a) of this section, except that—
+(2) **Applicability** — This subchapter applies to the Moab site in the same manner and to the same extent as to other processing sites designated under subsection (a), except that—
 
   (A) sections 7913, 7914(b), 7917(a), 7922(a), and 7925(a) of this title shall not apply; and
 
@@ -192,7 +192,7 @@ This chapter, referred to in subsecs. (b), (d), and (f)(2), was in the original 
 
 (2) Acquisition by the State shall not be required under this subsection if a site located on land controlled by the Secretary or made available by the Secretary of the Interior pursuant to [section 7916(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7916/2&num=0&edition=prelim) is designated by the Secretary, with the concurrence of the Commission, for such disposition and stabilization.
 
-**(c) Boundary limitations** No State shall be required under subsection (a) or (b) of this section to acquire any real property or improvement outside the boundaries of—
+**(c) Boundary limitations** No State shall be required under subsection (a) or (b) to acquire any real property or improvement outside the boundaries of—
 
 (1) that portion of the processing site which is described in [section 7911(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7911/6/A&num=0&edition=prelim), and
 
@@ -202,13 +202,13 @@ This chapter, referred to in subsecs. (b), (d), and (f)(2), was in the original 
 
 **(e) State disposition; terms and conditions; fair market value; offer of sale to prior owner**
 
-(1) The terms and conditions of any cooperative agreement with a State under [section 7913 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7913) shall provide that in the case of any lands or interests therein acquired by the State pursuant to subsection (a) of this section, the State, with the concurrence of the Secretary and the Commission, may—
+(1) The terms and conditions of any cooperative agreement with a State under [section 7913 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7913) shall provide that in the case of any lands or interests therein acquired by the State pursuant to subsection (a), the State, with the concurrence of the Secretary and the Commission, may—
 
   (A) sell such lands and interests,
 
   (B) permanently retain such land and interests in lands (or donate such lands and interests therein to another governmental entity within such State) for permanent use by such State or entity solely for park, recreational, or other public purposes, or
 
-  (C) transfer such lands and interests to the United States as provided in subsection (f) of this section.
+  (C) transfer such lands and interests to the United States as provided in subsection (f).
   No lands may be sold under subparagraph (A) without the consent of the Secretary and the Commission. No site may be sold under subparagraph (A) or retained under subparagraph (B) if such site is used for the disposition of residual radioactive materials.
 
 (2) Before offering for sale any lands and interests therein which comprise a processing site, the State shall offer to sell such lands and interests at their fair market value to the person from whom the State acquired them.
@@ -219,12 +219,12 @@ This chapter, referred to in subsecs. (b), (d), and (f)(2), was in the original 
 
   (A) the residual radioactive materials subject to the agreement, and
 
-  (B) any lands and interests therein which have been acquired by the State, under subsection (a) or (b) of this section, for the disposition of such materials,
+  (B) any lands and interests therein which have been acquired by the State, under subsection (a) or (b), for the disposition of such materials,
   shall be transferred by the State to the Secretary when the Secretary (with the concurrence of the Commission) determines that remedial action is completed in accordance with the requirements imposed pursuant to this subchapter. No payment shall be made in connection with the transfer of such property from funds appropriated for purposes of this chapter other than payments for any administrative and legal costs incurred in carrying out such transfer.
 
-(2) Custody of any property transferred to the United States under this subsection shall be assumed by the Secretary or such Federal agency as the President may designate. Notwithstanding any other provision of law, upon completion of the remedial action program authorized by this subchapter, such property and minerals shall be maintained pursuant to a license issued by the Commission in such manner as will protect the public health, safety, and the environment. The Commission may, pursuant to such license or by rule or order, require the Secretary or other Federal agency having custody of such property and minerals to undertake such monitoring, maintenance, and emergency measures necessary to protect public health and safety and other actions as the Commission deems necessary to comply with the standards of [section 2022(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2022/a&num=0&edition=prelim). The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring and emergency measures under this subsection, but shall take no other action pursuant to such license, rule or order with respect to such property and minerals unless expressly authorized by Congress after November 8, 1978. The United States shall not transfer title to property or interest therein acquired under this subsection to any person or State, except as provided in subsection (h) of this section.
+(2) Custody of any property transferred to the United States under this subsection shall be assumed by the Secretary or such Federal agency as the President may designate. Notwithstanding any other provision of law, upon completion of the remedial action program authorized by this subchapter, such property and minerals shall be maintained pursuant to a license issued by the Commission in such manner as will protect the public health, safety, and the environment. The Commission may, pursuant to such license or by rule or order, require the Secretary or other Federal agency having custody of such property and minerals to undertake such monitoring, maintenance, and emergency measures necessary to protect public health and safety and other actions as the Commission deems necessary to comply with the standards of [section 2022(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2022/a&num=0&edition=prelim). The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring and emergency measures under this subsection, but shall take no other action pursuant to such license, rule or order with respect to such property and minerals unless expressly authorized by Congress after November 8, 1978. The United States shall not transfer title to property or interest therein acquired under this subsection to any person or State, except as provided in subsection (h).
 
-**(g) Reimbursement; fair market value; deposits in Treasury** Each agreement under [section 7913 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7913) which permits any sale described in subsection (e)(1)(A) of this section shall provide for the prompt reimbursement to the Secretary from the proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
+**(g) Reimbursement; fair market value; deposits in Treasury** Each agreement under [section 7913 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7913) which permits any sale described in subsection (e)(1)(A) shall provide for the prompt reimbursement to the Secretary from the proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
 
 (1) that portion of the fair market value of the lands or interests therein which bears the same ratio to such fair market value as the Federal share of the costs of acquisition by the State to such lands or interest therein bears to the total cost of such acquisition, or
 
@@ -253,7 +253,7 @@ This chapter, referred to in subsec. (f)(1), was in the original “this Act”,
 (3) The Secretary, the Commission, and the Administrator and their authorized representatives shall have a permanent right of entry at any time to inspect such processing site in furtherance of the provisions of this subchapter, to carry out such agreement, and to enforce any rules prescribed under this chapter.
 Each agreement under this section shall take effect only upon concurrence of the Commission with the terms and conditions thereof.
 
-**(b) Disposition and stabilization sites for residual radioactive materials; transfer to Secretary of the Interior** When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) of this section to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
+**(b) Disposition and stabilization sites for residual radioactive materials; transfer to Secretary of the Interior** When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
 
 ### Statutory Notes
 
@@ -361,7 +361,7 @@ The Department of Energy Organization Act, referred to in text, is Pub. L. 95–
 
 (5) Nothing in this section shall prevent the Secretary from enforcing any provision of this subchapter or any cooperative agreement or any such rule by injunction or other equitable remedy.
 
-**(b) Atomic energy licensing requirements** Subsection (a) of this section shall not apply to any licensing requirement under the Atomic Energy Act of 1954 [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.]. Such licensing requirements shall be enforced by the Commission as provided in such Act.
+**(b) Atomic energy licensing requirements** Subsection (a) shall not apply to any licensing requirement under the Atomic Energy Act of 1954 [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.]. Such licensing requirements shall be enforced by the Commission as provided in such Act.
 
 ### Statutory Notes
 

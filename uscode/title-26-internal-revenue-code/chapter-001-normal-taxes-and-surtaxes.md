@@ -1399,7 +1399,9 @@ Pub. L. 94–164, § 1A, Dec. 23, 1975, 89 Stat. 970, provided that: “(a) Cong
 Pub. L. 88–272, § 1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act [see Short Title of 1964 Amendment note above] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
 
 #### Inflation Adjusted Items for Certain Years
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7430, and 7702B of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 831, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, and 7702B of this title for certain years were contained in the following:
+
+2017—Revenue Procedure 2016–55.
 
 2016—Revenue Procedure 2015–53, as modified by Revenue Procedure 2016–11.
 
@@ -21709,6 +21711,9 @@ The substantiation requirements of the preceding sentence shall not apply to any
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### References in Text
 Section 302 of the Civil Rights Act of 1991, referred to in subsec. (e)(1), was formerly classified to [section 1202 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1202&num=0&edition=prelim), The Congress, and was transferred to [section 2000e–16b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16b&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -25274,7 +25279,7 @@ Pub. L. 100–203, title X, § 10611(c), Dec. 22, 1987, 101 Stat. 1330–452, pr
 ### Statutory Notes
 
 #### References in Text
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1204 of the Act is classified to [section 3796b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim), The Public Health and Welfare. Section 1204 of the Act, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, means section 1204 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3711&num=0&edition=prelim) and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1204 of the Act is classified to [section 10284 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim), Crime Control and Law Enforcement. Section 1204 of the Act, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, means section 1204 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title.
@@ -25347,7 +25352,7 @@ Subsec. (b)(3). Pub. L. 87–792, § 7(c)(2), added par. (3).
 1958—Subsec. (b)(2)(B). Pub. L. 85–866 substituted “This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee’s death—” for “(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee’s death)”, and added cls. (i), (ii), and (iii).
 
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 3791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3791&num=0&edition=prelim), The Public Health and Welfare.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 10251 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10251&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title VIII, § 863(d), Aug. 17, 2006, 120 Stat. 1024, provided that: “The amendments made by this section [enacting [section 6039I of this title](./chapter-061-information-and-returns.md#section-6039i) and amending this section] shall apply to life insurance contracts issued after the date of the enactment of this Act [Aug. 17, 2006], except for a contract issued after such date pursuant to an exchange described in section 1035 of the Internal Revenue Code of 1986 for a contract issued on or prior to that date. For purposes of the preceding sentence, any material increase in the death benefit or other material change shall cause the contract to be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of such Code), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives.”
@@ -25883,7 +25888,7 @@ Repeal applicable to bonds issued after Aug. 15, 1986, except as otherwise provi
 
 (6) amounts received pursuant to—
 
-  (A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796&num=0&edition=prelim)); or
+  (A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796&num=0&edition=prelim)); 11 See References in Text note below. or
 
   (B) a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
   except that subparagraph (B) shall not apply to any amounts that would have been payable if death of the public safety officer had occurred other than as the direct and proximate result of a personal injury sustained in the line of duty.
@@ -25935,6 +25940,8 @@ This subsection shall cease to apply to any civil action filed on or after the f
 
 #### References in Text
 Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, title I, § 808, Oct. 17, 1980, 94 Stat. 2110, which is classified to [section 4048 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4048&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(6)(A), was classified to [section 3796 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 10281 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
 2015—Subsec. (a)(6). Pub. L. 114–14 added par. (6).
@@ -34064,6 +34071,9 @@ For purposes of this subsection, a bond shall be treated as an arbitrage bond if
 **(i) Regulations** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 ### Statutory Notes
+
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (f)(4)(C)(vi), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
@@ -61079,6 +61089,8 @@ Pub. L. 93–406, title II, § 2006, Sept. 2, 1974, 88 Stat. 992, as amended by 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 401, 402, 404, 408, 408A, 409, 414 to 416, 430, 432, and 457 of this title for certain years were contained in the following:
 
+2017—Internal Revenue Notice 2016–62.
+
 2016—Internal Revenue Notice 2015–75.
 
 2015—Internal Revenue Notice 2014–70.
@@ -61451,7 +61463,7 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
   (B) *Eligible retired public safety officer* — The term “eligible retired public safety officer” means an individual who, by reason of disability or attainment of normal retirement age, is separated from service as a public safety officer with the employer who maintains the eligible retirement plan from which distributions subject to paragraph (1) are made.
 
-  (C) *Public safety officer* — The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+  (C) *Public safety officer* — The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)),1 as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
 
   (D) *Qualified health insurance premiums* — The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents (as defined in section 152), by an accident or health plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
 
@@ -61481,7 +61493,7 @@ Section 415(c)(4) (as in effect before the enactment of the Economic Growth and 
 
 Subsection (d), referred to in subsec. (i), was amended generally by Pub. L. 104–188, title I, § 1401(a), Aug. 20, 1996, 110 Stat. 1787, and as so amended, no longer contains a par. (4).
 
-Section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (l)(4)(C), means section 1204(9)(A) of Pub. L. 90–351 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E)(v)(I), Jan. 2, 2013, 126 Stat. 1967. Section 1204(9)(A) of Pub. L. 90–351 is classified to [section 3796b(9)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim), The Public Health and Welfare.
+Section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (l)(4)(C), means section 1204(9)(A) of Pub. L. 90–351 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E)(v)(I), Jan. 2, 2013, 126 Stat. 1967. Section 1204(9)(A) of Pub. L. 90–351 was classified to [section 3796b(9)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 10284(9)(A) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/9/A&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
 2014—Subsec. (g)(1)(B). Pub. L. 113–295 substituted “is $15,000.” for “shall be the amount determined in accordance with the following table:” and struck out table at end listing applicable dollar amounts for fiscal years 2002 to 2006 and thereafter.
@@ -61954,7 +61966,7 @@ Subsec. (a)(4). Pub. L. 86–437, § 1, added par. (4).
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 3791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3791&num=0&edition=prelim), The Public Health and Welfare.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 10251 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10251&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–458, title I, § 108(f)(2)(C), Dec. 23, 2008, 122 Stat. 5109, provided that: “The amendments made by this paragraph [amending this section] shall apply with respect to plan years beginning after December 31, 2009.”
@@ -81788,7 +81800,7 @@ Provisions, respecting treatment of debt instruments received in exchange for pr
 
   (B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
 
-  (C) For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
+  (C) For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii),1 except that in applying section 831(b)(2)(B)(ii) 1 for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
 
 (16) Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
 
@@ -82449,6 +82461,8 @@ For purposes of this title, any organization which, by reason of the preceding s
 Sections 306A and 306B of the Rural Electrification Act of 1936, referred to in subsec. (c)(12)(B)(iv), are classified to sections 936a and 936b, respectively, of Title 7, Agriculture. Section 311 of the Act was classified to [section 940a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940a&num=0&edition=prelim) prior to repeal by Pub. L. 104–127, title VII, § 780, Apr. 4, 1996, 110 Stat. 1151.
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(12)(H)(vii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+Section 831(b)(2)(B)(ii), referred to in subsec. (c)(15)(C), was redesignated section 831(b)(2)(C)(ii) by Pub. L. 114–113, div. Q, title III, § 333(a)(1)(B), Dec. 18, 2015, 129 Stat. 3106.
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (c)(21)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 1290. Part C of title IV of the Act is classified generally to part C (§ 931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section801&num=0&edition=prelim) and Tables.
 
@@ -96118,6 +96132,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
 2015—Subsec. (b)(2)(A). Pub. L. 114–113, § 333(a)(1)(A), (C), (b)(1), struck out “(including interinsurers and reciprocal underwriters)” after “other than life” in introductory provisions, substituted “$2,200,000” for “$1,200,000” in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted “clause (iii)” for “clause (ii)” and “clauses (i) and (ii)” for “clause (i)”.
 
@@ -99649,7 +99666,7 @@ shall be treated as having met the requirement of subsection (a)(6) for the taxa
 ### Statutory Notes
 
 #### Amendment of Subsection (c)(4)(B)(ii)
-Pub. L. 114–113, div. Q, title III, § 312, Dec. 18, 2015, 129 Stat. 3091, provided that, applicable with respect to taxable years beginning after December 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out “25 percent” and inserting “20 percent”. See 2015 Amendment note below.
+Pub. L. 114–113, div. Q, title III, § 312, Dec. 18, 2015, 129 Stat. 3091, provided that, applicable with respect to taxable years beginning after Dec. 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out “25 percent” and inserting “20 percent”. See 2015 Amendment note below.
 
 #### References in Text
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -106067,7 +106084,7 @@ Pub. L. 112–240, title III, § 321(b), Jan. 2, 2013, 126 Stat. 2332, provided 
 Pub. L. 111–312, title VII, § 749(b), Dec. 17, 2010, 124 Stat. 3320, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2010. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act [Dec. 17, 2010]. “(2) Amounts withheld on or before date of enactment.—In the case of a regulated investment company—“(A) which makes a distribution after December 31, 2009, and before the date of the enactment of this Act [Dec. 17, 2010]; and “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code, such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
 
 #### Effective Date of 2008 Amendment
-Pub. L. 110–343, div. C, title II, § 208(b), Oct. 3, 2008, 122 Stat. 3865, as amended by Pub. L. 113–295, div. A, title II, § 211(a), Dec. 19, 2014, 128 Stat. 4032, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2008. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before October 4, 2008. “(2) Amounts withheld on or before date of enactment.—In the case of a regulated investment company—“(A) which makes a distribution after December 31, 2007, and before October 4, 2008, and “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code, such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.
+Pub. L. 110–343, div. C, title II, § 208(b), Oct. 3, 2008, 122 Stat. 3865, as amended by Pub. L. 113–295, div. A, title II, § 211(a), Dec. 19, 2014, 128 Stat. 4032, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2008. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before October 4, 2008. “(2) Amounts withheld on or before date of enactment.—In the case of a regulated investment company—“(A) which makes a distribution after December 31, 2007, and before October 4, 2008, and “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code, such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–222, title V, § 504(b), May 17, 2006, 120 Stat. 355, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provisions of section 411 of the American Jobs Creation Act of 2004 [Pub. L. 108–357] to which it relates.”
@@ -122295,6 +122312,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2017—Revenue Ruling 2016–30.
+
 2016—Revenue Ruling 2015–24.
 
 2015—Revenue Ruling 2014–30.
@@ -122663,7 +122682,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) *Exceptions* — The term “market discount bond” shall not include—
 
-    (i) *Short-term obligations* — Any obligation with a fixed maturity date not exceeding 6 months from the date of issue.
+    (i) *Short-term obligations* — Any obligation with a fixed maturity date not exceeding 1 year from the date of issue.
 
     (ii) *United States savings bonds* — Any United States savings bond.
 
@@ -122741,13 +122760,13 @@ Subsec. (b)(4). Pub. L. 100–647, § 1018(c)(3), added par. (4).
 
 Subsec. (c). Pub. L. 100–647, § 1018(c)(2), inserted before period at end “, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments”.
 
-1986—Subsec. (a)(1)(B)(i). Pub. L. 99–514, § 1878(a), amended Pub. L. 98–369, § 1001(b), by adding a par. (24) which contained directory language substituting “6 months” for “1 year” in cl. (i). See 1984 Amendment note below.
+1986—Subsec. (a)(1)(B)(i). Pub. L. 99–514, § 1878(a), amended Pub. L. 98–369, § 1001(b), by adding a par. (24), effective as if included in Pub. L. 98–369. See 1984 Amendment note below.
 
 Subsec. (a)(1)(C). Pub. L. 99–514, § 1803(a)(6), added subpar. (C).
 
 Subsec. (a)(4). Pub. L. 99–514, § 1899A(32), substituted “means” for “means of” in introductory provisions.
 
-1984—Subsec. (a)(1)(B)(i). Pub. L. 98–369, § 1001(b)(24), as added by Pub. L. 99–514, § 1878(a), substituted “6 months” for “1 year”.
+1984—Subsec. (a)(1)(B)(i). Pub. L. 98–369, § 1001(b)(24), as added by Pub. L. 99–514, § 1878(a), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 #### Effective Date of 1993 Amendment
 Amendments by Pub. L. 103–66 applicable to obligations purchased (within the meaning of [section 1272(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1272/d/1&num=0&edition=prelim)) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under [section 1276 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1276).

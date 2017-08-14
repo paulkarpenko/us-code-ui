@@ -131,9 +131,9 @@ Section 8229, Pub. L. 95–619, title II, § 228, as added Pub. L. 99–412, tit
 
 (9) the possible uncertainty, during the period of developing the standards, as to what standards might be imposed and any resulting effect on major housing rehabilitation efforts and voluntary efforts for energy conservation.
 
-**(c) Comments and findings by Secretary of Energy** The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation’s security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
+**(c) Comments and findings by Secretary of Energy** The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation’s security which may result from the requirement described in subsection (a) as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
 
-(1) the savings in energy costs resulting from the requirement described in subsection (a) of this section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
+(1) the savings in energy costs resulting from the requirement described in subsection (a) throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
 
 (2) the total cost per barrel of oil equivalent, in obtaining the energy savings likely to result from such requirement, computed for each class of existing residential buildings to which such requirement would apply.
 
@@ -188,7 +188,7 @@ Pub. L. 96–294, title V, § 561, June 30, 1980, 94 Stat. 746, provided that: �
 ## § 8235a. Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs
 **(a) Plan approval** The Secretary may approve any plan developed by a State or local government, for the establishment of a prototype residential energy efficiency program, which is designed to demonstrate the feasibility, economics, and energy conserving potential of such program, if an application for such plan is submitted pursuant to [section 8235b of this title](./chapter-091-national-energy-conservation-policy.md#section-8235b), the application is approved pursuant to [section 8235c of this title](./chapter-091-national-energy-conservation-policy.md#section-8235c), and the plan provides for—
 
-(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility’s service area designated by the contract, which contract includes the provisions described in subsection (b) of this section;
+(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility’s service area designated by the contract, which contract includes the provisions described in subsection (b);
 
 (2) the selection by the public utility in a fair, open, and nondiscriminatory manner of the person or persons to contract with pursuant to paragraph (1);
 
@@ -198,9 +198,9 @@ Pub. L. 96–294, title V, § 561, June 30, 1980, 94 Stat. 746, provided that: �
 
 (5) in the case of a regulated public utility, the approval in writing by the State regulatory authority exercising ratemaking authority over such utility of the contract described in paragraph (1), the manner of selection described in paragraph (2), the payment described in paragraph (3), and the procedure described in paragraph (4); and
 
-(6) the enforcement of the provisions of the contract, entered into pursuant to paragraph (1), which are required to be included pursuant to subsection (b) of this section.
+(6) the enforcement of the provisions of the contract, entered into pursuant to paragraph (1), which are required to be included pursuant to subsection (b).
 
-**(b) Contract requirements** Any contract entered into by a public utility under subsection (a)(1) of this section shall require any person or persons entering into such contract with a public utility to offer to the owner or occupant of each residential building in the portion of the utility’s service area designated in the contract, without charge—
+**(b) Contract requirements** Any contract entered into by a public utility under subsection (a)(1) shall require any person or persons entering into such contract with a public utility to offer to the owner or occupant of each residential building in the portion of the utility’s service area designated in the contract, without charge—
 
 (1) an inspection of such building to determine and inform such owner or occupant of—
 
@@ -216,9 +216,9 @@ Pub. L. 96–294, title V, § 561, June 30, 1980, 94 Stat. 746, provided that: �
 
 (3) a written warranty that at a minimum any defect in materials, manufacture, design, or installation of any energy conservation measures supplied and installed pursuant to paragraph (2), found not later than one year after the date of installation, will be remedied without charge and within a reasonable period of time.
 
-**(c) Provision of financial assistance** The Secretary may provide financial assistance to any State or local government to carry out any plan for the establishment of a prototype residential energy efficiency program if the plan is approved under subsection (a) of this section.
+**(c) Provision of financial assistance** The Secretary may provide financial assistance to any State or local government to carry out any plan for the establishment of a prototype residential energy efficiency program if the plan is approved under subsection (a).
 
-**(d) Limitation** The Secretary may approve under subsection (a) of this section not more than 4 plans for the establishment of prototype residential energy efficiency programs.
+**(d) Limitation** The Secretary may approve under subsection (a) not more than 4 plans for the establishment of prototype residential energy efficiency programs.
 
 
 <a id="section-8235b"></a>
@@ -251,7 +251,7 @@ Each application for the approval of a plan under [section 8235a(a) of this titl
 
 (2) the application has been published, a public hearing on the application has been conducted, after notice to the public, at which representatives of the public utility which is to enter into the contract under the plan, persons engaged in the supply or installation of residential energy conservation measures, and members of the public (including ratepayers of such public utility and other interested individuals) had an opportunity to provide comment on the application, and any amendments to the application, which may be made to take into account the proceedings of the hearing, are made.
 
-**(b) Factors in approving applications** The Secretary shall take into consideration in approving an application under subsection (a) of this section for a plan establishing a prototype residential energy efficiency program—
+**(b) Factors in approving applications** The Secretary shall take into consideration in approving an application under subsection (a) for a plan establishing a prototype residential energy efficiency program—
 
 (1) the potential for energy savings from the demonstration of the program;
 
@@ -266,7 +266,7 @@ Each application for the approval of a plan under [section 8235a(a) of this titl
 ## § 8235d. Rules and regulations
 **(a) Proposed rules and regulations** The Secretary shall issue proposed rules and regulations to carry out this part not later than 120 days after June 30, 1980.
 
-**(b) Final rules and regulations** The Secretary shall issue final rules and regulations to carry out this part not later than 90 days after the issuance of proposed rules and regulations under subsection (a) of this section.
+**(b) Final rules and regulations** The Secretary shall issue final rules and regulations to carry out this part not later than 90 days after the issuance of proposed rules and regulations under subsection (a).
 
 
 <a id="section-8235e"></a>
@@ -363,7 +363,7 @@ The Secretary shall revoke the approval of any plan under [section 8235a(a) of t
 ## § 8236. Voluntary rating guidelines
 **(a) In general** Not later than 18 months after October 24, 1992, the Secretary, in consultation with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, representatives of existing home energy rating programs, and other appropriate persons, shall, by rule, issue voluntary guidelines that may be used by State and local governments, utilities, builders, real estate agents, lenders, agencies in mortgage markets, and others, to enable and encourage the assignment of energy efficiency ratings to residential buildings.
 
-**(b) Contents of guidelines** The voluntary guidelines issued under subsection (a) of this section shall—
+**(b) Contents of guidelines** The voluntary guidelines issued under subsection (a) shall—
 
 (1) encourage uniformity with regard to systems for rating the annual energy efficiency of residential buildings;
 
@@ -464,9 +464,9 @@ The Secretary, in consultation with the Administrator of the General Services Ad
 
 (6) if solar energy equipment for which assistance is to be provided under paragraph (3) is not the minimum life-cycle cost alternative, require the Federal agency involved to submit a report to the Secretary stating the amount by which the life-cycle cost of such equipment exceeds the minimum life-cycle cost.
 
-**(b) Contents of proposals** Proposals under paragraph (1)(A) of subsection (a) of this section shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
+**(b) Contents of proposals** Proposals under paragraph (1)(A) of subsection (a) shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
 
-**(c) Initial submission of proposals** Under the requirements established under subsection (a)(1)(A) of this section, initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) of this section shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1) of this section.
+**(c) Initial submission of proposals** Under the requirements established under subsection (a)(1)(A), initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1).
 
 **(d) Program to disseminate information to Federal procurement and loan officers** In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurement officers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.
 
@@ -556,7 +556,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (1)
 
-  (A) An agency may exclude, from the energy performance requirement for a fiscal year established under subsection (a) of this section and the energy management requirement established under subsection (b) of this section, any Federal building or collection of Federal buildings, if the head of the agency finds that—
+  (A) An agency may exclude, from the energy performance requirement for a fiscal year established under subsection (a) and the energy management requirement established under subsection (b), any Federal building or collection of Federal buildings, if the head of the agency finds that—
 
     (i) compliance with those requirements would be impracticable;
 
@@ -572,7 +572,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
     (ii) the fact that the Federal building or collection of Federal buildings is used in the performance of a national security function.
 
-(2) Each agency shall identify and list, in each report made under [section 8258(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/a&num=0&edition=prelim), the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the standards for exclusion set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse the exclusion. In the case of any such reversal, the agency shall comply with the requirements of subsections (a) and (b)(1) of this section for the building concerned.
+(2) Each agency shall identify and list, in each report made under [section 8258(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/a&num=0&edition=prelim), the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the standards for exclusion set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse the exclusion. In the case of any such reversal, the agency shall comply with the requirements of subsections (a) and (b)(1) for the building concerned.
 
 (3) Not later than 180 days after August 8, 2005, the Secretary shall issue guidelines that establish criteria for exclusions under paragraph (1).
 
@@ -878,9 +878,9 @@ Pub. L. 110–140, § 432, added subsec. (f) relating to use of energy and water
 
 Subsec. (a)(3). Pub. L. 109–58, § 102(b), added par. (3).
 
-Subsec. (c)(1). Pub. L. 109–58, § 102(c), added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
+Subsec. (c)(1). Pub. L. 109–58, § 102(c), added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) and the requirements of subsection (b)(1), any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
 
-Subsec. (c)(2). Pub. L. 109–58, § 102(d), substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1) of this section” for “energy consumption requirements”.
+Subsec. (c)(2). Pub. L. 109–58, § 102(d), substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1)” for “energy consumption requirements”.
 
 Subsec. (c)(3). Pub. L. 109–58, § 102(e), added par. (3).
 
@@ -894,13 +894,13 @@ Subsec. (a). Pub. L. 102–486, § 152(b)(2), (3), in heading substituted “req
 
 Subsecs. (b), (c). Pub. L. 102–486, § 152(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
-Subsec. (d). Pub. L. 102–486, § 152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
+Subsec. (d). Pub. L. 102–486, § 152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a),”.
 
 Subsec. (d)(1). Pub. L. 102–486, § 152(c)(2), added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
 
 Subsec. (d)(2). Pub. L. 102–486, § 152(c)(3), inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to [section 8258b of this title](./chapter-091-national-energy-conservation-policy.md#section-8258b)”.
 
-Subsec. (d)(3) to (5). Pub. L. 102–486, § 152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
+Subsec. (d)(3) to (5). Pub. L. 102–486, § 152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) in the most cost-effective manner practicable; and”.
 
 1988—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 
@@ -924,7 +924,7 @@ Pub. L. 100–615, § 3, Nov. 5, 1988, 102 Stat. 3189, which authorized Secretar
 
 **(b) Use of life cycle cost methods and procedures**
 
-(1) The design of new Federal buildings, and the application of energy conservation measures to existing Federal buildings, shall be made using life cycle cost methods and procedures established under subsection (a) of this section.
+(1) The design of new Federal buildings, and the application of energy conservation measures to existing Federal buildings, shall be made using life cycle cost methods and procedures established under subsection (a).
 
 (2) In leasing buildings for its own use or that of another agency, each agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.
 
@@ -1152,7 +1152,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 ## § 8258a. Demonstration of new technology
 **(a) Demonstration program** Not later than January 1, 1994, the Secretary, in cooperation with the Administrator of General Services, shall establish a demonstration program to install, in federally owned facilities or federally assisted housing, energy conservation measures for which the Secretary has determined that such installation would accelerate commercial viability. In those cases where technologies are determined to be equivalent, priority shall be given to those technologies that have received or are receiving Federal financial assistance.
 
-**(b) Selection criteria** In addition to the determination under subsection (a) of this section, the Secretary shall select, in cooperation with the Administrator of General Services, proposals to be funded under this section on the basis of—
+**(b) Selection criteria** In addition to the determination under subsection (a), the Secretary shall select, in cooperation with the Administrator of General Services, proposals to be funded under this section on the basis of—
 
 (1) cost-effectiveness;
 
@@ -1522,7 +1522,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 **(b) Report to Task Force**
 
-(1) Each department and agency described in subsection (a)(1) of this section shall, not later than 60 days following October 24, 1992, report to the Task Force the following information:
+(1) Each department and agency described in subsection (a)(1) shall, not later than 60 days following October 24, 1992, report to the Task Force the following information:
 
   (A) Those individuals employed by such department or agency on October 24, 1992, who qualify as trained energy managers.
 
@@ -1534,7 +1534,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 **(c) Requirements at Federal facilities**
 
-(1) Not later than one year after October 24, 1992, the departments and agencies described under subsection (a)(1) of this section shall upgrade their energy management capabilities by—
+(1) Not later than one year after October 24, 1992, the departments and agencies described under subsection (a)(1) shall upgrade their energy management capabilities by—
 
   (A) designating facility energy supervisors;
 
@@ -1542,13 +1542,13 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
   (C) increasing the overall number of trained energy managers within such department or agency to a sufficient level to ensure effective implementation of this Act.
 
-(2) Departments and agencies described in subsection (a)(1) of this section may hire trained energy managers to be facility energy supervisors. Trained energy managers, including those who are facility supervisors as well as other trained personnel, shall focus their efforts on improving energy efficiency in the following facilities—
+(2) Departments and agencies described in subsection (a)(1) may hire trained energy managers to be facility energy supervisors. Trained energy managers, including those who are facility supervisors as well as other trained personnel, shall focus their efforts on improving energy efficiency in the following facilities—
 
   (A) department or agency facilities identified as most costly to operate or most energy inefficient; or
 
   (B) other facilities identified by the department or agency head as having significant energy savings potential.
 
-**(d) Annual report to Secretary and Congress** Each department and agency listed in subsection (a)(1) of this section shall report to the Secretary on the status and implementation of the requirements of this section. The Secretary shall include a summary of each such report in the annual report to Congress as required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim).
+**(d) Annual report to Secretary and Congress** Each department and agency listed in subsection (a)(1) shall report to the Secretary on the status and implementation of the requirements of this section. The Secretary shall include a summary of each such report in the annual report to Congress as required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1637,17 +1637,17 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **(c) Guidelines** The Administrator for Federal Procurement Policy, in consultation with the Administrator of General Services, the Secretary of Energy, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall issue guidelines to encourage the acquisition and use by all Federal agencies of products identified pursuant to this section. The Secretary of Defense and the Director of the Defense Logistics Agency shall consider, and place emphasis on, the acquisition of such products as part of the Agency’s ongoing review of military specifications.
 
-**(d) Report to Congress** Not later than December 31 of 1993 and thereafter as part of the report required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim), the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
+**(d) Report to Congress** Not later than December 31 of 1993 and thereafter as part of the report required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim), the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c). The report shall include—
 
-(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
+(1) the types and functions of each product identified under subsection (b), and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
 
-(2) the actions taken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to identify products under subsection (b) of this section, the barriers which inhibit implementation of identification of such products, and recommendations for legislative action, if necessary;
+(2) the actions taken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to identify products under subsection (b), the barriers which inhibit implementation of identification of such products, and recommendations for legislative action, if necessary;
 
-(3) progress on the development and issuance of guidelines under subsection (c) of this section;
+(3) progress on the development and issuance of guidelines under subsection (c);
 
-(4) an indication of whether energy cost savings technologies identified by the Advanced Building Technology Council, under [section 1701j–2(h) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701j–2/h&num=0&edition=prelim), have been used in the identification of products under subsection (b) of this section;
+(4) an indication of whether energy cost savings technologies identified by the Advanced Building Technology Council, under [section 1701j–2(h) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701j–2/h&num=0&edition=prelim), have been used in the identification of products under subsection (b);
 
-(5) an estimate of the potential cost savings to the Federal Government from acquiring products identified under subsection (b) of this section with respect to which energy is a significant component of life cycle cost, based on the quantities of such products that could be utilized throughout the Government; and
+(5) an estimate of the potential cost savings to the Federal Government from acquiring products identified under subsection (b) with respect to which energy is a significant component of life cycle cost, based on the quantities of such products that could be utilized throughout the Government; and
 
 (6) the actual quantities acquired of products described in paragraph (5).
 
@@ -1724,7 +1724,7 @@ Committee on Post Office and Civil Service of House of Representatives abolished
 
 (2) The Postmaster General may exclude from the requirements of such section any facility or collection of facilities, and the associated energy consumption and gross square footage if the Postmaster General finds that compliance with the requirements of such section would be impracticable. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such facility or collection of facilities, the type and amount of energy consumed, or the technical feasibility of making the desired changes. The Postmaster General shall identify and list in the report required under [section 8262i of this title](./chapter-091-national-energy-conservation-policy.md#section-8262i) the facilities designated by it for such exclusion.
 
-**(b) Implementation steps** In carrying 11 So in original. Probably should be followed by the word “out”. subsection (a) of this section, the Postmaster General shall—
+**(b) Implementation steps** In carrying 11 So in original. Probably should be followed by the word “out”. subsection (a), the Postmaster General shall—
 
 (1) not later than 1 year after October 24, 1992, prepare or update, as appropriate, a plan (which may be submitted as part of the first report submitted under [section 8262i of this title](./chapter-091-national-energy-conservation-policy.md#section-8262i))—
 
@@ -1750,7 +1750,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ## § 8262k. Government contract incentives
 **(a) Establishment of criteria** Each agency, in consultation with the Federal Acquisition Regulatory Council, shall establish criteria for the improvement of energy efficiency in Federal facilities operated by Federal Government contractors or subcontractors.
 
-**(b) Purpose of criteria** The criteria established under subsection (a) of this section shall be used to encourage Federal contractors, and their subcontractors, which manage and operate federally-owned facilities, to adopt and utilize energy conservation measures designed to reduce energy costs in Government-owned and contractor-operated facilities and which are ultimately borne by the Federal Government.
+**(b) Purpose of criteria** The criteria established under subsection (a) shall be used to encourage Federal contractors, and their subcontractors, which manage and operate federally-owned facilities, to adopt and utilize energy conservation measures designed to reduce energy costs in Government-owned and contractor-operated facilities and which are ultimately borne by the Federal Government.
 
 ### Statutory Notes
 
@@ -1832,7 +1832,7 @@ For termination, effective May 15, 2000, of the reporting provision in par. (3) 
 ## § 8276. System evaluation and purchase program
 **(a) Program** The Secretary shall establish, within 60 days after November 9, 1978, a photovoltaic systems evaluation and purchase program to provide such systems as are required by the Federal agencies to carry out this part. In acquiring photovoltaic solar electric systems under this part, the Secretary (or other Federal agency acting under delegation from the Secretary) shall insure that such systems reflect to the maximum extent practicable the most advanced and reliable technologies and shall schedule purchases in a manner which will stimulate the early development of a permanent low-cost private photovoltaic production capability in the United States, and to stimulate the private sector market for photovoltaic power systems. The Secretary and other Federal agencies acting under delegation from the Secretary shall, subject to the availability of appropriated funds, procure not more than 30 megawatts of photovoltaic solar electric systems during fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-**(b) Other procurement** Nothing in this part shall preclude any Federal agency from directly procuring a photovoltaic solar electric system (in lieu of obtaining one under the program under subsection (a) of this section), except that any such Federal agency shall consult with the Secretary before procuring such a system.
+**(b) Other procurement** Nothing in this part shall preclude any Federal agency from directly procuring a photovoltaic solar electric system (in lieu of obtaining one under the program under subsection (a)), except that any such Federal agency shall consult with the Secretary before procuring such a system.
 
 ### Statutory Notes
 
@@ -1972,7 +1972,7 @@ Section was enacted as part of the Energy Security Act, and not as part of the N
 ## § 8285b. Grants
 **(a)** The Secretary may make grants to any Governor of a State for the training and certification of individuals to conduct energy audits.
 
-**(b)** Before making a grant under subsection (a) of this section to a Governor, the Secretary must receive from the Governor an application containing—
+**(b)** Before making a grant under subsection (a) to a Governor, the Secretary must receive from the Governor an application containing—
 
 (A) any information which the Secretary deems is necessary to carry out this subchapter; and
 
@@ -1980,7 +1980,7 @@ Section was enacted as part of the Energy Security Act, and not as part of the N
 
 **(c)**
 
-(1) Before making any grant under subsection (a) of this section the Secretary shall establish minimum standards for the training and certification of individuals to conduct energy audits.
+(1) Before making any grant under subsection (a) the Secretary shall establish minimum standards for the training and certification of individuals to conduct energy audits.
 
 (2) The Secretary shall require each Governor receiving any grant under this subchapter to agree to meet the standards established pursuant to paragraph (1) in any training and certification conducted using funds provided under this subchapter.
 
@@ -2065,7 +2065,7 @@ Section, Pub. L. 96–294, title V, § 597, June 30, 1980, 94 Stat. 762, which r
 
   (D) A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years beginning on the date of the delivery order, without funding of cancellation charges before cancellation, if—
 
-    (i) such contract was awarded in a competitive manner pursuant to subsection (b)(2) of this section, using procedures and methods established under this subchapter;
+    (i) such contract was awarded in a competitive manner pursuant to subsection (b)(2), using procedures and methods established under this subchapter;
 
     (ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
 
@@ -2182,7 +2182,7 @@ Subsec. (c). Pub. L. 110–140, § 514, struck out subsec. (c). Text read as fol
 
 2000—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting “$10,000,000” for “$750,000”.
 
-1998—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b) of this section”.
+1998—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b)”.
 
 1996—Subsec. (b)(3). Pub. L. 104–106 struck out at end “Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under [section 759(f) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759/f&num=0&edition=prelim).”
 

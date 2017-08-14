@@ -89,11 +89,11 @@ It is the policy of the United States to further assist the Government of Ukrain
 
     (i) designating a country as a country of significant concern under subparagraph (A)(ii); or
 
-    (ii) terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (h).
+    (ii) terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (i).
 
 **(b) Sanctions related to the energy sector**
 
-(1) **Development of special Russian crude oil projects** — Except as provided in subsection (d), on and after the date that is 45 days after December 18, 2014, the President may impose 3 or more of the sanctions described in subsection (c) with respect to a foreign person if the President determines that the foreign person knowingly makes a significant investment in a special Russian crude oil project.
+(1) **Development of special Russian crude oil projects** — Except as provided in subsection (d), on and after the date that is 30 days after August 2, 2017, the President shall impose, unless the President determines that it is not in the national interest of the United States to do so, 3 or more of the sanctions described in subsection (c) with respect to a foreign person if the President determines that the foreign person knowingly makes a significant investment in a special Russian crude oil project.
 
 (2) **Authorization for extension of licensing limitations on certain equipment** — The President, through the Bureau of Industry and Security of the Department of Commerce or the Office of Foreign Assets Control of the Department of the Treasury, as appropriate, may impose additional licensing requirements for or other restrictions on the export or reexport of items for use in the energy sector of the Russian Federation, including equipment used for tertiary oil recovery.
 
@@ -197,13 +197,27 @@ It is the policy of the United States to further assist the Government of Ukrain
 
 (2) **Form of report** — The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-**(g) Implementation; penalties**
+**(g) Notifications and certifications to Congress**
+
+(1) **Imposition of sanctions** — The President shall notify the appropriate congressional committees in writing not later than 15 days after imposing sanctions with respect to a foreign person under subsection (a) or (b).
+
+(2) **Termination of sanctions with respect to Russian producers, transferors, or brokers of defense articles** — Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the imposition of sanctions under subsection (a)(2) with respect to a foreign person if the President submits to the appropriate congressional committees—
+
+  (A) a notice of and justification for the termination; and
+
+  (B) a notice that—
+
+    (i) the foreign person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+    (ii) the President has received reliable assurances that the foreign person will not knowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
+
+**(h) Implementation; penalties**
 
 (1) **Implementation** — The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) and 1704) to carry out the purposes of this section.
 
 (2) **Penalties** — The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of the International Emergency Economic Powers Act.
 
-**(h) Termination**
+**(i) Termination**
 
 (1) **In general** — Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
 
@@ -212,19 +226,26 @@ It is the policy of the United States to further assist the Government of Ukrain
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section, see subsection (h) of this section.
+For termination of section, see subsection (i) of this section.
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 16 of the Act is now classified to [section 4618 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 16 of the Act is now classified to [section 4618 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2017—Subsec. (a)(3)(B)(ii). Pub. L. 115–44, § 229(a)(3), substituted “subsection (i)” for “subsection (h)”.
+
+Subsec. (b)(1). Pub. L. 115–44, § 225, substituted “on and after the date that is 30 days after August 2, 2017, the President shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “on and after the date that is 45 days after December 18, 2014, the President may impose”.
+
+Subsecs. (g) to (i). Pub. L. 115–44, § 229(a)(1), (2), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 
 <a id="section-8924"></a>
 ## § 8924. Sanctions on Russian and other foreign financial institutions
-**(a) Facilitation of certain defense- and energy-related transactions** The President may impose the sanction described in subsection (c) with respect to a foreign financial institution that the President determines knowingly engages, on or after December 18, 2014, in significant transactions involving activities described in subparagraph (A)(ii) or (B) of [section 8923(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/a/2&num=0&edition=prelim) or paragraph (1) or (3) of [section 8923(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/b&num=0&edition=prelim) for persons with respect to which sanctions are imposed under [section 8923 of this title](./chapter-96a-ukraine-freedom-support.md#section-8923).
+**(a) Facilitation of certain defense- and energy-related transactions** The President shall impose, unless the President determines that it is not in the national interest of the United States to do so, the sanction described in subsection (c) with respect to a foreign financial institution that the President determines knowingly engages, on or after August 2, 2017, in significant transactions involving activities described in subparagraph (A)(ii) or (B) of [section 8923(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/a/2&num=0&edition=prelim) or paragraph (1) or (3) of [section 8923(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/b&num=0&edition=prelim) for persons with respect to which sanctions are imposed under [section 8923 of this title](./chapter-96a-ukraine-freedom-support.md#section-8923).
 
-**(b) Facilitation of financial transactions on behalf of specially designated nationals** The President may impose the sanction described in subsection (c) with respect to a foreign financial institution if the President determines that the foreign financial institution has, on or after the date that is 180 days after December 18, 2014, knowingly facilitated a significant financial transaction on behalf of any Russian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, pursuant to—
+**(b) Facilitation of financial transactions on behalf of specially designated nationals** The President shall impose, unless the President determines that it is not in the national interest of the United States to do so, the sanction described in subsection (c) with respect to a foreign financial institution if the President determines that the foreign financial institution has, on or after the date that is 30 days after August 2, 2017, knowingly facilitated a significant financial transaction on behalf of any Russian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, pursuant to—
 
 (1) this chapter;
 
@@ -240,18 +261,20 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) 
 
 (2) submits to the appropriate congressional committees a report on the determination and the reasons for the determination.
 
-**(e) Implementation; penalties**
+**(e) Notification to Congress on imposition of sanctions** The President shall notify the appropriate congressional committees in writing not later than 15 days after imposing sanctions with respect to a foreign financial institution under subsection (a) or (b).
+
+**(f) Implementation; penalties**
 
 (1) **Implementation** — The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out the purposes of this section.
 
 (2) **Penalties** — The penalties provided for in subsections (b) and (c) of [section 1705 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in [section 1705(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705/a&num=0&edition=prelim).
 
-**(f) Termination** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in [section 8923(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/h&num=0&edition=prelim).
+**(g) Termination** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in [section 8923(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/i&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section, see subsection (f) of this section.
+For termination of section, see subsection (g) of this section.
 
 #### References in Text
 Executive Order No. 13660, referred to in subsec. (b)(2), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
@@ -259,6 +282,15 @@ Executive Order No. 13660, referred to in subsec. (b)(2), is Ex. Ord. No. 13660,
 Executive Order No. 13661, referred to in subsec. (b)(2), is Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
 Executive Order No. 13662, referred to in subsec. (b)(2), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–44, § 226(1), substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after August 2, 2017” for “on or after December 18, 2014”.
+
+Subsec. (b). Pub. L. 115–44, § 226(2), in introductory provisions, substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after the date that is 30 days after August 2, 2017” for “on or after the date that is 180 days after December 18, 2014”.
+
+Subsecs. (e), (f). Pub. L. 115–44, § 229(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 115–44, § 229(b)(1), (3), redesignated subsec. (f) as (g) and substituted “section 8923(i)” for “section 8923(h)”.
 
 
 <a id="section-8925"></a>

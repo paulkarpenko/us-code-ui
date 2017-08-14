@@ -2,7 +2,7 @@
 title: 16
 chapter: 5A
 heading: PROTECTION AND CONSERVATION OF WILDLIFE
-section_count: 30
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -26,7 +26,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
-Functions, appropriations, records, and property of Secretary of the Interior and Fish and Wildlife Service of Department of the Interior which affect or relate to breeding, raising, producing, marketing, or any other phase of production or distribution of domestically raised fur-bearing animals, or the products thereof transferred to Secretary of Agriculture by [section 434 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section434&num=0&edition=prelim), Agriculture.
+Functions, appropriations, records, and property of Secretary of the Interior and Fish and Wildlife Service of Department of the Interior which affect or relate to breeding, raising, producing, marketing, or any other phase of production or distribution of domestically raised fur-bearing animals, or the products thereof transferred to Secretary of Agriculture by section 2 of act Apr. 30, 1946, ch. 242, set out as a note under [section 399 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section399&num=0&edition=prelim), Agriculture.
 
 Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as the Fish and Wildlife Service, and abolished the office of Commissioner and Deputy Commissioner of Fisheries and transferred their functions to the consolidated agency.
 
@@ -316,6 +316,83 @@ Functions, records, property, etc., of War Assets Administration transferred to 
 ### Statutory Notes
 
 Section, act May 25, 1900, ch. 553, § 5, 31 Stat. 188, provided that the dead bodies of game animals or game or song birds be subject to the laws of the State into which they are transported. See [section 3378(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3378/a&num=0&edition=prelim).
+
+
+<a id="section-667f"></a>
+## § 667f. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges
+
+For the purpose of preventing crop damage by migratory waterfowl, the Commodity Credit Corporation shall make available to the Secretary of the Interior such wheat, corn, or other grains, acquired through price support operations and certified by the Commodity Credit Corporation to be available for purposes of sections 667f to 667f–3 of this title or in such condition through spoilage or deterioration as not to be desirable for human consumption, as the Secretary of the Interior shall requisition pursuant to [section 667f–1 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-667f-1). With respect to any grain thus made available, the Commodity Credit Corporation may pay packaging, transporting, handling, and other charges up to the time of delivery to one or more designated locations in each State.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 442 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section442&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667f-1"></a>
+## § 667f–1. Requisition of grain to prevent crop depredation by migratory waterfowl
+
+Upon a finding by the Secretary of the Interior that any area in the United States is threatened with damage to farmers’ crops by migratory waterfowl, whether or not during the open season for such migratory waterfowl, the Secretary of the Interior is authorized and directed to requisition from the Commodity Credit Corporation and to make available to Federal, State, or local governmental bodies or officials, or to private organizations or persons, such grain acquired by the Commodity Credit Corporation through price-support operations in such quantities and subject to such regulations as the Secretary determines will most effectively lure migratory waterfowl away from crop depredations and at the same time not expose such migratory waterfowl to shooting over areas to which the waterfowl have been lured by such feeding programs.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 443 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section443&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667f-2"></a>
+## § 667f–2. Reimbursement of packaging and transporting expenses
+
+With respect to all grain made available pursuant to [section 667f–1 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-667f-1), the Commodity Credit Corporation shall be reimbursed by the Secretary of the Interior for its expenses in packaging and transporting such grain for purposes of sections 667f to 667f–3 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 444 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section444&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667f-3"></a>
+## § 667f–3. Authorization of appropriations for mitigating losses caused by waterfowl depredation
+
+There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in the grain transferred pursuant to sections 667f to 667f–3 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 445 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section445&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667g"></a>
+## § 667g. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting
+
+For the purpose of meeting emergency situations caused by adverse weather conditions or other factors destructive of important wildlife resources, the States are authorized, upon the request of the State fish and game authority or other State agency having similar authority and a finding by the Secretary of the Interior that any area of the United States is threatened with serious damage or loss to resident game birds and other resident wildlife from starvation, to requisition from the Commodity Credit Corporation grain acquired by the Corporation through price support operations. Such grain may thereafter be furnished to the particular State for direct and sole utilization by the appropriate State agencies for purposes of sections 667g to 667g–2 of this title in such quantities as mutually agreed upon by the State and the Commodity Credit Corporation and subject to such regulations as may be considered desirable by the Corporation. The Corporation shall be reimbursed by the particular State in each instance for the expense of the Corporation in packaging and transporting such grain for purposes of sections 667g to 667g–2 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 447 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section447&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667g-1"></a>
+## § 667g–1. Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting
+
+Upon a finding by the Secretary of the Interior that migratory birds are threatened with starvation in any area of the United States, the Secretary is authorized to requisition from the Commodity Credit Corporation grain acquired by that Corporation through price support operations in such quantities as may be mutually agreed upon. The Corporation shall be reimbursed by the Secretary for its expense in packaging and transporting of such grain for purposes of sections 667g to 667g–2 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 448 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section448&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-667g-2"></a>
+## § 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation
+
+There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in grain transferred pursuant to sections 667g to 667g–2 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 449 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section449&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-668"></a>

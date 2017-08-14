@@ -80,7 +80,7 @@ Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided tha
 1990—Subsec. (b). Pub. L. 101–624 inserted “to identify the quantity of farmland actually converted by Federal programs, and” after “of this section,”.
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4203"></a>
@@ -92,7 +92,7 @@ Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97�
 ### Statutory Notes
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4204"></a>
@@ -103,7 +103,7 @@ The Secretary is encouraged to provide technical assistance to any State or unit
 ### Statutory Notes
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4205"></a>
@@ -115,7 +115,7 @@ Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97�
 ### Statutory Notes
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4206"></a>
@@ -126,7 +126,7 @@ The Secretary may carry out the purposes of this chapter, with existing faciliti
 ### Statutory Notes
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4207"></a>
@@ -144,7 +144,7 @@ On January 1, 1987, and at the beginning of each subsequent calendar year.11 So 
 1985—Pub. L. 99–198 substituted “On January 1, 1987, and at the beginning of each subsequent calendar year.” for “Within one year after December 22, 1981,”.
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4208"></a>
@@ -159,7 +159,7 @@ Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97�
 1990—Subsec. (b). Pub. L. 101–624 inserted before period at end “during a national emergency”.
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4209"></a>
@@ -173,4 +173,4 @@ This chapter shall not be deemed to provide a basis for any action, either legal
 1985—Pub. L. 99–198 substituted “by any person” for “by any State, local unit of government, or any person” and inserted proviso.
 
 #### Effective Date
-Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).

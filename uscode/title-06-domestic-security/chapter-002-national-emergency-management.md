@@ -1015,7 +1015,7 @@ Executive Order No. 13347, referred to in text, is set out as a note under [sect
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of section 689b of Pub. L. 109–295 amended [section 5772 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim), The Public Health and Welfare.
+Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of section 689b of Pub. L. 109–295 amended [section 11292 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11292&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-776"></a>

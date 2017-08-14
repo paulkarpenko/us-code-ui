@@ -6321,7 +6321,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 Subsec. (c)(2) to (4). Pub. L. 114–328, § 616(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-2016—Subsec. (i). Pub. L. 114–328, § 614(4), substituted “December 31, 2017” for “December 31, 2016”.
+Subsec. (i). Pub. L. 114–328, § 614(4), substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a). Pub. L. 114–92, § 617(a), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
 
@@ -7033,7 +7033,7 @@ Subsec. (a)(1). Pub. L. 114–328, § 633(a)(1), added par. (1) and struck out f
 
 Subsec. (a)(2). Pub. L. 114–328, § 633(a)(2), substituted “not less than 3 additional years” for “an additional 4 years”.
 
-Subsec. (b). Pub. L. 114–328, § 633(b), substituted heading and introductory provisions for former heading and introductory provisons which read as follows: “Amount.—The amount of continuation pay payable to a full TSP member under subsection (a) shall be the amount that is equal to—”.
+Subsec. (b). Pub. L. 114–328, § 633(b), substituted heading and introductory provisions for former heading and introductory provisions which read as follows: “Amount.—The amount of continuation pay payable to a full TSP member under subsection (a) shall be the amount that is equal to—”.
 
 Subsec. (d). Pub. L. 114–328, § 633(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary concerned shall pay continuation pay under subsection (a) to a full TSP member when the member completes 12 years of service. If the Secretary concerned also provides continuation pay under subsection (c) to the member, that continuation pay shall be provided when the member completes 12 years of service.”
 

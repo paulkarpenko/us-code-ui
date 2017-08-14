@@ -520,7 +520,7 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of t
 
 **(b) Referrals**
 
-(1) In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
+(1) In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
 
 (2) In any case where there is a space available in an appropriately licensed and supervised emergency shelter or half-way house, the Bureau of Indian Affairs and tribal courts are encouraged to refer Indian youth convicted of offenses directly or indirectly related to alcohol and substance abuse to such facilities in lieu of sentencing to incarceration in a secured juvenile facility.
 
@@ -555,7 +555,7 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of t
 ### Statutory Notes
 
 #### References in Text
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -737,7 +737,7 @@ Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary fo
 
 (1) **In general** — The Secretary of the Interior shall construct or renovate and staff new or existing juvenile detention centers.
 
-(2) **Construction and operation** — The Secretary shall ensure that the construction and operation of the centers is consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.].
+(2) **Construction and operation** — The Secretary shall ensure that the construction and operation of the centers is consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.].
 
 (3) **Development of plan**
 
@@ -754,7 +754,7 @@ Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary fo
 ### Statutory Notes
 
 #### References in Text
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–211, § 241(g)(1), designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
@@ -775,12 +775,12 @@ Subsec. (b)(2). Pub. L. 111–211, § 241(g)(2), substituted “for each of fisc
 <a id="section-2454"></a>
 ## § 2454. Model Indian Juvenile Code
 
-The Secretary of the Interior, either directly or by contract, shall provide for the development of a Model Indian Juvenile Code which shall be consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [[42 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) et seq.] and which shall include provisions relating to the disposition of cases involving Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for alcohol or drug related offenses. The development of such model code 11 So in original. Probably should be “Model Code”. shall be accomplished in cooperation with Indian organizations having an expertise or knowledge in the field of law enforcement and judicial procedure and in consultation with Indian tribes. Upon completion of the Model Code, the Secretary shall make copies available to each Indian tribe.
+The Secretary of the Interior, either directly or by contract, shall provide for the development of a Model Indian Juvenile Code which shall be consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim) et seq.] and which shall include provisions relating to the disposition of cases involving Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for alcohol or drug related offenses. The development of such model code 11 So in original. Probably should be “Model Code”. shall be accomplished in cooperation with Indian organizations having an expertise or knowledge in the field of law enforcement and judicial procedure and in consultation with Indian tribes. Upon completion of the Model Code, the Secretary shall make copies available to each Indian tribe.
 
 ### Statutory Notes
 
 #### References in Text
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2455"></a>

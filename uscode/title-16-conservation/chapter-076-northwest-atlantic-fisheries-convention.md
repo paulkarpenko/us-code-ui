@@ -122,7 +122,7 @@ Pub. L. 114–327, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1995, provided t
 ### Statutory Notes
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2), and “the Representative has” for “the Representatives have”.
+2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2)”, and “the Representative has” for “the Representatives have”.
 
 Subsec. (b)(1). Pub. L. 114–327, § 503(2), substituted “VII(10)(b)” for “VII(1)”.
 

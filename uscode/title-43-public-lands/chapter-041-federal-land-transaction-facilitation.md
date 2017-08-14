@@ -129,23 +129,12 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 
 
 <a id="section-2304"></a>
-## § 2304. Disposal of public land
-**(a) In general** The Secretary shall establish a program, using funds made available under [section 2305 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2305), to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under [section 1712 of this title](./chapter-035-federal-land-policy-and-management.md#section-1712).
-
-**(b) Sale of public land**
-
-(1) **In general** — The sale of public land so identified shall be conducted in accordance with sections 1713 and 1719 of this title.
-
-(2) **Exceptions to competitive bidding requirements** — The exceptions to competitive bidding requirements under [section 1713(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1713/f&num=0&edition=prelim) shall apply to this section in cases in which the Secretary determines it to be necessary.
-
-**(c) Report in Public Land Statistics** The Secretary shall provide in the annual publication of Public Land Statistics, a report of activities under this section.
-
-**(d) Termination of authority** The authority provided under this section shall terminate 11 years after July 25, 2000.
+## § 2304. Omitted
 
 ### Statutory Notes
 
-#### Amendments
-2010—Subsec. (d). Pub. L. 111–212 substituted “11 years” for “10 years”.
+#### Codification
+Section, Pub. L. 106–248, title II, § 205, July 25, 2000, 114 Stat. 615; Pub. L. 111–212, title III, § 3007(a), July 29, 2010, 124 Stat. 2339, related to program to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under [section 1712 of this title](./chapter-035-federal-land-policy-and-management.md#section-1712) and terminated the authority under this section 11 years after July 25, 2000.
 
 
 <a id="section-2305"></a>
@@ -168,7 +157,7 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 
   (B) *Inholdings* — Not less than 80 percent of the funds allocated for the purchase of land within each State shall be used to acquire inholdings identified under [section 2303 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2303).
 
-  (C) *Administrative and other expenses* — An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under [section 2304 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2304).
+  (C) *Administrative and other expenses* — An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 1 of this title.
 
   (D) *Same State purchases* — Of the amounts not used under subparagraph (C), not less than 80 percent shall be expended within the State in which the funds were generated. Any remaining funds may be expended in any other State.
 
@@ -198,7 +187,7 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 
 **(e) Chapter 2003 of title 54** Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
 
-**(f) Termination** On termination of activities under [section 2304 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2304)—
+**(f) Termination** On termination of activities under section 2304 1 of this title—
 
 (1) the Federal Land Disposal Account shall be terminated; and
 
@@ -208,6 +197,8 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
+
+[Section 2304 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2304), referred to in subsecs. (c)(2)(C) and (f), related to disposal of public land and was omitted from the Code because authority under such section terminated 11 years after July 25, 2000.
 
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–287, § 5(l)(9)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([16 U.S.C. 460l–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460l–4&num=0&edition=prelim) et seq.)”.

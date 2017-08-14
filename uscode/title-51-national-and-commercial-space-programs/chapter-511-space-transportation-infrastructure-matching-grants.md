@@ -43,7 +43,7 @@ In clause (5), the words “municipality or other” are omitted for consistency
 The text of 15:5804(5) is omitted as unnecessary because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
 #### Amendments
-2010—Pub. L. 111–314, § 4(d)(2), (4)(A), successively renumbered [section 70301 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70301&num=0&edition=prelim) and [section 70301 of this title](./chapter-703-shuttle-pricing-policy-for-commercial-and-foreign-users.md#section-70301) as this section.
+2010—Pub. L. 111–314, § 4(d)(2), (4)(A), successively renumbered [section 70301 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70301&num=0&edition=prelim) and [section 70301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70301&num=0&edition=prelim) as this section.
 
 Par. (1). Pub. L. 111–314, § 4(d)(6)(A), substituted “[section 50501 of this title](./chapter-505-commercial-space-competitiveness.md#section-50501)” for “section 502 of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1993 ([15 U.S.C. 5802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5802&num=0&edition=prelim))”.
 
@@ -69,7 +69,7 @@ Par. (1). Pub. L. 111–314, § 4(d)(6)(A), substituted “[section 50501 of thi
 In subsection (a), the words “of the United States” are substituted for “Nation’s” for consistency.
 
 #### Amendments
-2010—Pub. L. 111–314 successively renumbered [section 70302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70302&num=0&edition=prelim) and [section 70302 of this title](./chapter-703-shuttle-pricing-policy-for-commercial-and-foreign-users.md#section-70302) as this section.
+2010—Pub. L. 111–314 successively renumbered [section 70302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70302&num=0&edition=prelim) and [section 70302 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70302&num=0&edition=prelim) as this section.
 
 
 <a id="section-51103"></a>
@@ -130,7 +130,7 @@ In subsection (a), the words “for one or more projects” are omitted as unnec
 In subsection (c)(5), the words “as proposed” are omitted as surplus.
 
 #### Amendments
-2010—Pub. L. 111–314 successively renumbered [section 70303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70303&num=0&edition=prelim) and [section 70303 of this title](./chapter-703-shuttle-pricing-policy-for-commercial-and-foreign-users.md#section-70303) as this section.
+2010—Pub. L. 111–314 successively renumbered [section 70303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70303&num=0&edition=prelim) and [section 70303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70303&num=0&edition=prelim) as this section.
 
 
 <a id="section-51104"></a>
@@ -182,7 +182,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(4), is
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(5), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2010—Pub. L. 111–314, § 4(d)(2), (4)(D), successively renumbered [section 70304 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70304&num=0&edition=prelim) and [section 70304 of this title](./chapter-703-shuttle-pricing-policy-for-commercial-and-foreign-users.md#section-70304) as this section.
+2010—Pub. L. 111–314, § 4(d)(2), (4)(D), successively renumbered [section 70304 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70304&num=0&edition=prelim) and [section 70304 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70304&num=0&edition=prelim) as this section.
 
 Subsec. (d)(1). Pub. L. 111–314, § 4(d)(6)(B), substituted “[section 303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303&num=0&edition=prelim)” for “[section 303 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section303&num=0&edition=prelim)”.
 
